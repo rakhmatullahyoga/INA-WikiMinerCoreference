@@ -69,6 +69,7 @@ public class SnippetAnnotator {
             + "di Istana Negara. Megawati adalah presiden Indonesia.";
 
         WikipediaConfiguration conf = new WikipediaConfiguration(new File(WikiMinerTest.CONFIG_PATH)) ;
+        System.out.println("cek");
         Wikipedia wikipedia = new Wikipedia(conf, false) ;
 
         SnippetAnnotator annotator = new SnippetAnnotator(wikipedia) ;
