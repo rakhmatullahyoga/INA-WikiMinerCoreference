@@ -18,7 +18,6 @@ import org.wikipedia.miner.annotation.preprocessing.DocumentPreprocessor;
 import org.wikipedia.miner.annotation.preprocessing.PreprocessedDocument;
 import org.wikipedia.miner.annotation.preprocessing.WikiPreprocessor;
 import org.wikipedia.miner.annotation.tagging.DocumentTagger;
-import org.wikipedia.miner.annotation.tagging.WikiTagger;
 import org.wikipedia.miner.annotation.weighting.LinkDetector;
 import org.wikipedia.miner.model.Wikipedia;
 import org.wikipedia.miner.util.WikipediaConfiguration;
@@ -62,12 +61,12 @@ public class CoreferenceTest {
 //            }
 //        }
         
-        System.out.println("\nTopics that are probably good links:") ;
-        for (Topic t:bestTopics)
-            System.out.println(" - " + t.getTitle() + "[" + _df.format(t.getWeight()) + "]" ) ;
+//        System.out.println("\nTopics that are probably good links:") ;
+//        for (Topic t:bestTopics)
+//            System.out.println(" - " + t.getTitle() + "[" + _df.format(t.getWeight()) + "]" ) ;
         
         String newMarkup = _tagger.tag(doc, bestTopics, DocumentTagger.RepeatMode.ALL, _wikipedia) ;
-        System.out.println("\nAugmented markup:\n" + newMarkup + "\n") ;
+        System.out.println("\nAugmented markup (Entity linking + Coreference):\n" + newMarkup + "\n") ;
     }
 
     public static void main(String args[]) throws Exception {

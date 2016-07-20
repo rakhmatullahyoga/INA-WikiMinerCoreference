@@ -17,6 +17,7 @@ import org.wikipedia.miner.annotation.TopicReference;
 import org.wikipedia.miner.annotation.preprocessing.PreprocessedDocument;
 import org.wikipedia.miner.annotation.tagging.DocumentTagger;
 import org.wikipedia.miner.comparison.ArticleComparer;
+import org.wikipedia.miner.model.Article;
 import org.wikipedia.miner.model.Wikipedia;
 import org.wikipedia.miner.util.Position;
 
@@ -25,11 +26,14 @@ import org.wikipedia.miner.util.Position;
  * @author Rakhmatullah Yoga S
  */
 public class CoreferenceTagger {
-    public String getTag(String anchor, Topic topic) {
-//        if (topic.getTitle().compareToIgnoreCase(anchor) == 0)
-//            return "[[" + anchor + "]]" ;
-//        else
-            return "[[" + topic.getTitle() + "|" + anchor + "|" + topic.getId() + "]]" ;
+    
+    private static final double THRESHOLD = 0.6;
+    
+    private String getTag(String anchor, Topic topic, int corefCluster) {
+        if (topic.getTitle().compareToIgnoreCase(anchor) == 0)
+            return "[[" + anchor + "|" + corefCluster + "]]" ;
+        else
+            return "[[" + topic.getTitle() + "|" + anchor + "|" + corefCluster + "]]" ;
     }
     
     public String tag(PreprocessedDocument doc, Collection<Topic> topics, DocumentTagger.RepeatMode repeatMode, Wikipedia wikipedia) throws Exception {
@@ -39,15 +43,33 @@ public class CoreferenceTagger {
         HashMap<Integer,Integer> topicCorefCluster = new HashMap<Integer, Integer>();
         ArticleComparer _comparer = new ArticleComparer(wikipedia);
         ArrayList<Topic> topicList = new ArrayList<>(topics);
+        int nbCluster = 0;
 
         // topic coreference clustering
-        System.out.println("Topic comparing for coreference");
+//        System.out.println("Topic comparing for coreference");
         for(int i=0; i<topicList.size(); i++) {
+            double maxRelatedness = 0.0;
+            int jMax = i;
+//            if(!topicCorefCluster.containsKey(topicList.get(i).getId())) {
+//                nbCluster++;
+//                topicCorefCluster.put(topicList.get(i).getId(), nbCluster);
+//            }
             for(int j=0; j<i; j++) {
                 double relatedness = _comparer.getRelatedness(wikipedia.getArticleByTitle(topicList.get(i).getTitle()), wikipedia.getArticleByTitle(topicList.get(j).getTitle()));
-                System.out.println(topicList.get(j).getTitle()+" - "+topicList.get(i).getTitle()+" = "+relatedness);
+                if(relatedness>maxRelatedness) {
+                    maxRelatedness = relatedness;
+                    jMax = j;
+                }
+//                System.out.println(topicList.get(j).getTitle()+" - "+topicList.get(i).getTitle()+" = "+relatedness);
             }
-            System.out.println("----------------");
+            if((maxRelatedness>THRESHOLD)&&(jMax!=i)) {
+                topicCorefCluster.put(topicList.get(i).getId(), topicCorefCluster.get(topicList.get(jMax).getId()));
+            }
+            else {
+                nbCluster++;
+                topicCorefCluster.put(topicList.get(i).getId(), nbCluster);
+            }
+//            System.out.println("----------------");
         }
 
         for (Topic topic: topics) 
@@ -56,10 +78,10 @@ public class CoreferenceTagger {
         ArrayList<TopicReference> references = resolveCollisions(topics) ;
 
         String originalText = doc.getOriginalText() ;
-        StringBuffer wikifiedText = new StringBuffer() ;
+        StringBuilder wikifiedText = new StringBuilder() ;
         int lastIndex = 0 ;
 
-        HashSet<Integer> doneIds = new HashSet<Integer>() ;
+        HashSet<Integer> doneIds = new HashSet<>() ;
 
         for (TopicReference reference:references) {
             int start = reference.getPosition().getStart() ; 
@@ -74,7 +96,7 @@ public class CoreferenceTagger {
             if (topic != null && (repeatMode == DocumentTagger.RepeatMode.ALL || !doneIds.contains(id))) {
                 doneIds.add(id) ;
                 wikifiedText.append(originalText.substring(lastIndex, start)) ;
-                wikifiedText.append(getTag(originalText.substring(start, end), topic)) ;
+                wikifiedText.append(getTag(originalText.substring(start, end), topic, topicCorefCluster.get(topic.getId()))) ;
 
                 lastIndex = end ;
             }
@@ -84,10 +106,18 @@ public class CoreferenceTagger {
         return wikifiedText.toString() ;
     }
     
+    private ArrayList<Article> getArticleFromTopic(Collection<Topic> topics, Wikipedia wikipedia) {
+        ArrayList<Article> articles = new ArrayList<>();
+        topics.stream().forEach((topic) -> {
+            articles.add(wikipedia.getArticleByTitle(topic.getTitle()));
+        });
+        return articles;
+    }
+    
     private ArrayList<TopicReference> resolveCollisions(Collection<Topic> topics) {
 
         //build up a list of topic references and hashmap of topic weights
-        ArrayList<TopicReference> references = new ArrayList<TopicReference>() ;
+        ArrayList<TopicReference> references = new ArrayList<>() ;
         TIntDoubleHashMap topicWeights = new TIntDoubleHashMap() ;
 
         for(Topic topic: topics) {	
