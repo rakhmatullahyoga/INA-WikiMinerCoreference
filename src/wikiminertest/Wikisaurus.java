@@ -44,9 +44,7 @@ public class Wikisaurus {
     }
     
     protected void displaySense(Label.Sense sense) throws Exception {
-
         System.out.println("==" + sense.getTitle() + "==") ;
-
         displayDefinition(sense) ;
         displayAlternativeLabels(sense) ;
         displayRelatedTopics(sense) ;
@@ -62,12 +60,12 @@ public class Wikisaurus {
                 System.out.println("I have no idea what '" + term + "' is") ;
             } else {
                 Label.Sense[] senses = label.getSenses() ;
-                if (senses.length == 0) {
+                if (senses.length == 1) {
                     displaySense(senses[0]) ;
                 } else {
                     System.out.println("'" + term + "' could mean several things:") ;
                     for (int i=0 ; i<senses.length ; i++) {
-                        System.out.println(" - [" + (i+1) + "] " + senses[i].getTitle()) ;
+                        System.out.println(" - [" + (i+1) + "] " + senses[i].getTitle() + " " + senses[i].getPriorProbability()) ;
                     }
                     Integer senseIndex = getInt("So which do you want?", 1, senses.length) ;
                     if (senseIndex != null)

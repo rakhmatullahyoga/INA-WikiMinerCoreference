@@ -29,8 +29,9 @@ public class WikiMinerTest {
     public static void main(String[] args) {
         try {
             WikipediaConfiguration conf = new WikipediaConfiguration(new File(CONFIG_PATH));
+            conf.setDefaultTextProcessor(new TextFolder()) ;
             Wikipedia wikipedia = new Wikipedia(conf, false);
-            Article article = wikipedia.getArticleByTitle("Bayern Muenchen");
+            Article article = wikipedia.getArticleByTitle("Istana Negara");
             System.out.println(article.getSentenceMarkup(0));
             wikipedia.close();
         } catch (ParserConfigurationException ex) {

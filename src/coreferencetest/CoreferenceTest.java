@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package wikiminertest;
+package coreferencetest;
 
 import java.io.BufferedReader;
 import java.io.File;
@@ -18,60 +18,64 @@ import org.wikipedia.miner.annotation.preprocessing.DocumentPreprocessor;
 import org.wikipedia.miner.annotation.preprocessing.PreprocessedDocument;
 import org.wikipedia.miner.annotation.preprocessing.WikiPreprocessor;
 import org.wikipedia.miner.annotation.tagging.DocumentTagger;
-import org.wikipedia.miner.annotation.tagging.DocumentTagger.RepeatMode;
 import org.wikipedia.miner.annotation.tagging.WikiTagger;
 import org.wikipedia.miner.annotation.weighting.LinkDetector;
 import org.wikipedia.miner.model.Wikipedia;
 import org.wikipedia.miner.util.WikipediaConfiguration;
+import wikiminertest.TextFolder;
+import wikiminertest.WikiMinerTest;
 
 /**
  *
- * @author rakhmatullahyoga
+ * @author Rakhmatullah Yoga S
  */
-public class SnippetAnnotator {
+public class CoreferenceTest {
     DocumentPreprocessor _preprocessor;
     Disambiguator _disambiguator ;
     TopicDetector _topicDetector ;
     LinkDetector _linkDetector ;
-    DocumentTagger _tagger ;
+    CoreferenceTagger _tagger ;
+    Wikipedia _wikipedia;
     DecimalFormat _df = new DecimalFormat("#0%");
 
-    public SnippetAnnotator(Wikipedia wikipedia) throws Exception {
-        _preprocessor = new WikiPreprocessor(wikipedia) ;
-        _disambiguator = new Disambiguator(wikipedia) ;
+    public CoreferenceTest(Wikipedia wikipedia) throws Exception {
+        _wikipedia = wikipedia;
+        _preprocessor = new WikiPreprocessor(_wikipedia) ;
+        _disambiguator = new Disambiguator(_wikipedia) ;
         _disambiguator.loadClassifier(new File("./annotationWorkbench/disambig.model"));
-        _topicDetector = new TopicDetector(wikipedia, _disambiguator) ;
-        _linkDetector = new LinkDetector(wikipedia) ;
+        _topicDetector = new TopicDetector(_wikipedia, _disambiguator) ;
+        _linkDetector = new LinkDetector(_wikipedia) ;
         _linkDetector.loadClassifier(new File("./annotationWorkbench/detect.model"));
-        _tagger = new WikiTagger() ;
+        _tagger = new CoreferenceTagger() ;
     }
 
     public void annotate(String originalMarkup) throws Exception {
         PreprocessedDocument doc = _preprocessor.preprocess(originalMarkup) ;
         
         Collection<Topic> allTopics = _topicDetector.getTopics(doc, null) ;
-        ArrayList<Topic> bestTopics = _linkDetector.getBestTopics(allTopics, 0.35) ;
-        System.out.println("\nAll detected topics:") ;
-        for(Topic t:allTopics) {
-            System.out.println(" - " + t.getTitle() + " (" + t.getAverageLinkProbability() + ")") ;
-            if(t.getAverageLinkProbability() > 0.35 && !bestTopics.contains(t)) {
-                bestTopics.add(t);
-            }
-        }
+        ArrayList<Topic> bestTopics = _linkDetector.getBestTopics(allTopics, 0.5) ;
+//        System.out.println("\nAll detected topics:") ;
+//        for(Topic t:allTopics) {
+//            System.out.println(" - " + t.getTitle() + " (" + t.getAverageLinkProbability() + ")") ;
+//            if(t.getAverageLinkProbability() > 0.35 && !bestTopics.contains(t)) {
+//                bestTopics.add(t);
+//            }
+//        }
         
         System.out.println("\nTopics that are probably good links:") ;
         for (Topic t:bestTopics)
             System.out.println(" - " + t.getTitle() + "[" + _df.format(t.getWeight()) + "]" ) ;
         
-        String newMarkup = _tagger.tag(doc, bestTopics, RepeatMode.ALL) ;
+        String newMarkup = _tagger.tag(doc, bestTopics, DocumentTagger.RepeatMode.ALL, _wikipedia) ;
         System.out.println("\nAugmented markup:\n" + newMarkup + "\n") ;
     }
 
     public static void main(String args[]) throws Exception {
         WikipediaConfiguration conf = new WikipediaConfiguration(new File(WikiMinerTest.CONFIG_PATH)) ;
+        conf.setDefaultTextProcessor(new TextFolder()) ;
         Wikipedia wikipedia = new Wikipedia(conf, false) ;
 
-        SnippetAnnotator annotator = new SnippetAnnotator(wikipedia) ;
+        CoreferenceTest annotator = new CoreferenceTest(wikipedia) ;
 
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in)) ;
         while (true) {
