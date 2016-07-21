@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+  <Entity ClusterId="1">
+    <Mention>Perdana Menteri Inggris</Mention>
+    <Mention>David Cameron</Mention>
+  </Entity>
+  <Entity ClusterId="2">
+    <Mention>Megawati Soekarnoputri</Mention>
+    <Mention>Megawati</Mention>
+    <Mention>presiden Indonesia</Mention>
+  </Entity>
+  <Entity ClusterId="3">
+    <Mention>Istana Negara</Mention>
+  </Entity>
+</CoreferenceChain>
