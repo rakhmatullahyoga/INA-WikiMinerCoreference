@@ -111,7 +111,7 @@ public class Wikisaurus {
     }
     
     public static void main(String args[]) throws Exception {
-        WikipediaConfiguration conf = new WikipediaConfiguration(new File(WikiMinerTest.CONFIG_PATH)) ;
+        WikipediaConfiguration conf = new WikipediaConfiguration(new File(WikiConstants.WIKI_CONFIG_PATH)) ;
 
         Wikisaurus thesaurus = new Wikisaurus(conf) ;
         thesaurus.run() ;

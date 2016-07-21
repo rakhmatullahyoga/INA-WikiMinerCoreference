@@ -149,9 +149,9 @@ public class AnnotationWorkbench {
     
     public static void main(String args[]) throws Exception {
 
-        File dataDir = new File("./annotationWorkbench/") ;
+        File dataDir = new File(WikiConstants.WORKBENCH_PATH) ;
 
-        WikipediaConfiguration conf = new WikipediaConfiguration(new File(WikiMinerTest.CONFIG_PATH)) ;
+        WikipediaConfiguration conf = new WikipediaConfiguration(new File(WikiConstants.WIKI_CONFIG_PATH)) ;
         conf.addDatabaseToCache(DatabaseType.label) ;
         conf.addDatabaseToCache(DatabaseType.pageLinksInNoSentences) ;
 

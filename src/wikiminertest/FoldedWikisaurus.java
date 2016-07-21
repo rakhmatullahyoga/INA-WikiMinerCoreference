@@ -19,7 +19,7 @@ public class FoldedWikisaurus extends Wikisaurus {
     }
     
     public static void main(String args[]) throws Exception {
-        WikipediaConfiguration conf = new WikipediaConfiguration(new File(WikiMinerTest.CONFIG_PATH)) ;
+        WikipediaConfiguration conf = new WikipediaConfiguration(new File(WikiConstants.WIKI_CONFIG_PATH)) ;
         conf.setDefaultTextProcessor(new TextFolder()) ;
 
         FoldedWikisaurus thesaurus = new FoldedWikisaurus(conf) ;

@@ -92,7 +92,7 @@ public class ComparingWikisaurus extends Wikisaurus {
     }
     
     public static void main(String args[]) throws Exception {
-        WikipediaConfiguration conf = new WikipediaConfiguration(new File(WikiMinerTest.CONFIG_PATH)) ;
+        WikipediaConfiguration conf = new WikipediaConfiguration(new File(WikiConstants.WIKI_CONFIG_PATH)) ;
 
         ComparingWikisaurus thesaurus = new ComparingWikisaurus(conf) ;
         thesaurus.run() ;

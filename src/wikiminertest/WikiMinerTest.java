@@ -21,14 +21,12 @@ import org.xml.sax.SAXException;
  */
 public class WikiMinerTest {
     
-    public static final String CONFIG_PATH = "./configs/wikipedia.xml";
-
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
         try {
-            WikipediaConfiguration conf = new WikipediaConfiguration(new File(CONFIG_PATH));
+            WikipediaConfiguration conf = new WikipediaConfiguration(new File(WikiConstants.WIKI_CONFIG_PATH));
             conf.setDefaultTextProcessor(new TextFolder()) ;
             Wikipedia wikipedia = new Wikipedia(conf, false);
             Article article = wikipedia.getArticleByTitle("Istana Negara");

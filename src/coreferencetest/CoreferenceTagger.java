@@ -27,12 +27,10 @@ import org.wikipedia.miner.util.Position;
  */
 public class CoreferenceTagger {
     
-    private static final double THRESHOLD = 0.6;
-    
     private String getTag(String anchor, Topic topic, int corefCluster) {
-        if (topic.getTitle().compareToIgnoreCase(anchor) == 0)
-            return "[[" + anchor + "|" + corefCluster + "]]" ;
-        else
+//        if (topic.getTitle().compareToIgnoreCase(anchor) == 0)
+//            return "[[" + anchor + "|" + corefCluster + "]]" ;
+//        else
             return "[[" + topic.getTitle() + "|" + anchor + "|" + corefCluster + "]]" ;
     }
     
@@ -50,10 +48,6 @@ public class CoreferenceTagger {
         for(int i=0; i<topicList.size(); i++) {
             double maxRelatedness = 0.0;
             int jMax = i;
-//            if(!topicCorefCluster.containsKey(topicList.get(i).getId())) {
-//                nbCluster++;
-//                topicCorefCluster.put(topicList.get(i).getId(), nbCluster);
-//            }
             for(int j=0; j<i; j++) {
                 double relatedness = _comparer.getRelatedness(wikipedia.getArticleByTitle(topicList.get(i).getTitle()), wikipedia.getArticleByTitle(topicList.get(j).getTitle()));
                 if(relatedness>maxRelatedness) {
@@ -62,7 +56,7 @@ public class CoreferenceTagger {
                 }
 //                System.out.println(topicList.get(j).getTitle()+" - "+topicList.get(i).getTitle()+" = "+relatedness);
             }
-            if((maxRelatedness>THRESHOLD)&&(jMax!=i)) {
+            if((maxRelatedness>CoreferenceParameter.COREFERENCE_THRESHOLD)&&(jMax!=i)) {
                 topicCorefCluster.put(topicList.get(i).getId(), topicCorefCluster.get(topicList.get(jMax).getId()));
             }
             else {
@@ -168,4 +162,5 @@ public class CoreferenceTagger {
 
         return references ;
     }
+    
 }

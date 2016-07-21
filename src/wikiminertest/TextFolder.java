@@ -36,7 +36,7 @@ public class TextFolder extends TextProcessor {
     
     public static void main(String args[]) throws Exception {
         TextFolder folder = new TextFolder() ;
-        WikipediaConfiguration conf = new WikipediaConfiguration(new File(WikiMinerTest.CONFIG_PATH)) ;
+        WikipediaConfiguration conf = new WikipediaConfiguration(new File(WikiConstants.WIKI_CONFIG_PATH)) ;
         WEnvironment.prepareTextProcessor(folder, conf, new File("tmp"), true, 3) ;
     }
     

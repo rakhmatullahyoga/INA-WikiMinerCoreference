@@ -39,10 +39,10 @@ public class SnippetAnnotator {
     public SnippetAnnotator(Wikipedia wikipedia) throws Exception {
         _preprocessor = new WikiPreprocessor(wikipedia) ;
         _disambiguator = new Disambiguator(wikipedia) ;
-        _disambiguator.loadClassifier(new File("./annotationWorkbench/disambig.model"));
+        _disambiguator.loadClassifier(new File(WikiConstants.DISAMBIGUATION_PATH));
         _topicDetector = new TopicDetector(wikipedia, _disambiguator) ;
         _linkDetector = new LinkDetector(wikipedia) ;
-        _linkDetector.loadClassifier(new File("./annotationWorkbench/detect.model"));
+        _linkDetector.loadClassifier(new File(WikiConstants.DETECTION_PATH));
         _tagger = new WikiTagger() ;
     }
 
@@ -68,7 +68,7 @@ public class SnippetAnnotator {
     }
 
     public static void main(String args[]) throws Exception {
-        WikipediaConfiguration conf = new WikipediaConfiguration(new File(WikiMinerTest.CONFIG_PATH)) ;
+        WikipediaConfiguration conf = new WikipediaConfiguration(new File(WikiConstants.WIKI_CONFIG_PATH)) ;
         Wikipedia wikipedia = new Wikipedia(conf, false) ;
 
         SnippetAnnotator annotator = new SnippetAnnotator(wikipedia) ;

@@ -22,7 +22,7 @@ import org.wikipedia.miner.annotation.weighting.LinkDetector;
 import org.wikipedia.miner.model.Wikipedia;
 import org.wikipedia.miner.util.WikipediaConfiguration;
 import wikiminertest.TextFolder;
-import wikiminertest.WikiMinerTest;
+import wikiminertest.WikiConstants;
 
 /**
  *
@@ -41,10 +41,10 @@ public class CoreferenceTest {
         _wikipedia = wikipedia;
         _preprocessor = new WikiPreprocessor(_wikipedia) ;
         _disambiguator = new Disambiguator(_wikipedia) ;
-        _disambiguator.loadClassifier(new File("./annotationWorkbench/disambig.model"));
+        _disambiguator.loadClassifier(new File(WikiConstants.DISAMBIGUATION_PATH));
         _topicDetector = new TopicDetector(_wikipedia, _disambiguator) ;
         _linkDetector = new LinkDetector(_wikipedia) ;
-        _linkDetector.loadClassifier(new File("./annotationWorkbench/detect.model"));
+        _linkDetector.loadClassifier(new File(WikiConstants.DETECTION_PATH));
         _tagger = new CoreferenceTagger() ;
     }
 
@@ -52,14 +52,14 @@ public class CoreferenceTest {
         PreprocessedDocument doc = _preprocessor.preprocess(originalMarkup) ;
         
         Collection<Topic> allTopics = _topicDetector.getTopics(doc, null) ;
-        ArrayList<Topic> bestTopics = _linkDetector.getBestTopics(allTopics, 0.5) ;
+        ArrayList<Topic> bestTopics = _linkDetector.getBestTopics(allTopics, CoreferenceParameter.TOPIC_THRESHOLD) ;
 //        System.out.println("\nAll detected topics:") ;
-//        for(Topic t:allTopics) {
+        for(Topic t:allTopics) {
 //            System.out.println(" - " + t.getTitle() + " (" + t.getAverageLinkProbability() + ")") ;
-//            if(t.getAverageLinkProbability() > 0.35 && !bestTopics.contains(t)) {
-//                bestTopics.add(t);
-//            }
-//        }
+            if(t.getAverageLinkProbability() > CoreferenceParameter.TOPIC_THRESHOLD && !bestTopics.contains(t)) {
+                bestTopics.add(t);
+            }
+        }
         
 //        System.out.println("\nTopics that are probably good links:") ;
 //        for (Topic t:bestTopics)
@@ -70,21 +70,21 @@ public class CoreferenceTest {
     }
 
     public static void main(String args[]) throws Exception {
-        WikipediaConfiguration conf = new WikipediaConfiguration(new File(WikiMinerTest.CONFIG_PATH)) ;
+        WikipediaConfiguration conf = new WikipediaConfiguration(new File(WikiConstants.WIKI_CONFIG_PATH)) ;
         conf.setDefaultTextProcessor(new TextFolder()) ;
         Wikipedia wikipedia = new Wikipedia(conf, false) ;
 
         CoreferenceTest annotator = new CoreferenceTest(wikipedia) ;
 
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in)) ;
-        while (true) {
+//        while (true) {
             System.out.println("Enter snippet to annotate (or ENTER to quit):") ;
             String line = reader.readLine();
 
-            if (line.trim().length() == 0)
-                break ;
+//            if (line.trim().length() == 0)
+//                break ;
 
             annotator.annotate(line) ;
-        }
+//        }
     }
 }
