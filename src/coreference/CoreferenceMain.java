@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package coreferencetest;
+package coreference;
 
 import java.io.File;
 import java.io.FileInputStream;
@@ -38,8 +38,8 @@ import org.wikipedia.miner.annotation.tagging.DocumentTagger;
 import org.wikipedia.miner.annotation.weighting.LinkDetector;
 import org.wikipedia.miner.model.Wikipedia;
 import org.wikipedia.miner.util.WikipediaConfiguration;
-import wikiminertest.TextFolder;
-import wikiminertest.WikiConstants;
+import wikiminer.TextFolder;
+import wikiminer.WikiConstants;
 
 /**
  *
@@ -66,8 +66,10 @@ public class CoreferenceMain {
     }
 
     public void annotate(String originalMarkup) throws Exception {
+        // preprocess the input
         PreprocessedDocument doc = _preprocessor.preprocess(originalMarkup) ;
         
+        // detect all topic mentioned in the input
         Collection<Topic> allTopics = _topicDetector.getTopics(doc, null) ;
         ArrayList<Topic> bestTopics = _linkDetector.getBestTopics(allTopics, CoreferenceConstants.TOPIC_THRESHOLD) ;
 //        System.out.println("\nAll detected topics:") ;
@@ -82,6 +84,7 @@ public class CoreferenceMain {
 //        for (Topic t:bestTopics)
 //            System.out.println(" - " + t.getTitle() + "[" + _df.format(t.getWeight()) + "]" ) ;
         
+        // tagging for coreference resolution
         _tagger.tag(doc, bestTopics, DocumentTagger.RepeatMode.ALL, _wikipedia) ;
         String newMarkup = _tagger.getAnnotatedCoref();
         ArrayList<ArrayList<String>> corefChain = _tagger.getMentionCluster();
