@@ -10,7 +10,6 @@ import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.PrintWriter;
 import java.io.UnsupportedEncodingException;
-import java.text.DecimalFormat;
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.Set;
@@ -53,7 +52,6 @@ public class CoreferenceMain {
     LinkDetector _linkDetector ;
     CoreferenceTagger _tagger ;
     Wikipedia _wikipedia;
-    DecimalFormat _df = new DecimalFormat("#0%");
     
     private String newMarkup;
     private ArrayList<Set<String>> corefChain;
