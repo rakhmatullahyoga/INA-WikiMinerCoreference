@@ -136,7 +136,7 @@ public class CoreferenceMain {
             
             Transformer transformer = TransformerFactory.newInstance().newTransformer();
             transformer.setOutputProperty(OutputKeys.INDENT, "yes");
-            transformer.setOutputProperty("{http://xml.apache.org/xslt}indent-amount", "3");
+            transformer.setOutputProperty("{http://xml.apache.org/xslt}indent-amount", "4");
             
             DOMSource source = new DOMSource(doc);
             StreamResult result = new StreamResult(new File(path));
@@ -171,5 +171,19 @@ public class CoreferenceMain {
             annotator.writeAnnotated(CoreferenceConstants.ANNOTATED_PATH+"annotated"+i+".txt");
             annotator.writeCorefChain(CoreferenceConstants.CHAIN_PATH+"chain"+i+".xml");
         }
+        
+        // development mode only 1 document
+//        File file = new File(CoreferenceConstants.RAW_PATH_DEV+"raw.txt");
+//        FileInputStream fis = new FileInputStream(file);
+//        byte[] data = new byte[(int) file.length()];
+//        fis.read(data);
+//        fis.close();
+//        
+//        String input = new String(data, "UTF-8");
+//        System.out.println("Input raw text:\n"+input);
+//        annotator = new CoreferenceMain(wikipedia) ;
+//        annotator.annotate(input);
+//        annotator.writeAnnotated(CoreferenceConstants.ANNOTATED_PATH_DEV+"annotated.txt");
+//        annotator.writeCorefChain(CoreferenceConstants.CHAIN_PATH_DEV+"chain.xml");
     }
 }

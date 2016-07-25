@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <CoreferenceChain>
-   <Entity ClusterId="1">
-      <Mention>Sapi</Mention>
-   </Entity>
-   <Entity ClusterId="2">
-      <Mention>TEMPO.CO</Mention>
-   </Entity>
-   <Entity ClusterId="3">
-      <Mention>Surabaya</Mention>
-   </Entity>
-   <Entity ClusterId="4">
-      <Mention>Komisi Pemilihan Umum</Mention>
-      <Mention>KPU</Mention>
-   </Entity>
-   <Entity ClusterId="5">
-      <Mention>Jawa Timur</Mention>
-   </Entity>
-   <Entity ClusterId="6">
-      <Mention>15 Mei</Mention>
-   </Entity>
-   <Entity ClusterId="7">
-      <Mention>reog</Mention>
-   </Entity>
-   <Entity ClusterId="8">
-      <Mention>kartu tanda penduduk</Mention>
-      <Mention>KTP</Mention>
-   </Entity>
-   <Entity ClusterId="9">
-      <Mention>23 Juni</Mention>
-   </Entity>
+    <Entity ClusterId="1">
+        <Mention>Sapi</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>TEMPO.CO</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>Surabaya</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>Komisi Pemilihan Umum</Mention>
+        <Mention>KPU</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>Jawa Timur</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>15 Mei</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>reog</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>kartu tanda penduduk</Mention>
+        <Mention>KTP</Mention>
+    </Entity>
+    <Entity ClusterId="9">
+        <Mention>23 Juni</Mention>
+    </Entity>
 </CoreferenceChain>

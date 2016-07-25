@@ -18,4 +18,8 @@ public class CoreferenceConstants {
     public static final String RAW_PATH = "./data/testing/raw/";
     public static final String ANNOTATED_PATH = "./data/testing/corefannotated/";
     public static final String CHAIN_PATH = "./data/testing/corefchain/";
+    // path for development
+    public static final String RAW_PATH_DEV = "./data/development/raw/";
+    public static final String ANNOTATED_PATH_DEV = "./data/development/corefannotated/";
+    public static final String CHAIN_PATH_DEV = "./data/development/corefchain/";
 }

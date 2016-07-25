@@ -1,60 +1,60 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <CoreferenceChain>
-   <Entity ClusterId="1">
-      <Mention>Ical</Mention>
-   </Entity>
-   <Entity ClusterId="2">
-      <Mention>Edhie Baskoro Yudhoyono</Mention>
-      <Mention>Ibas</Mention>
-   </Entity>
-   <Entity ClusterId="3">
-      <Mention>Bibit Waluyo</Mention>
-      <Mention>Rustriningsih</Mention>
-   </Entity>
-   <Entity ClusterId="4">
-      <Mention>TEMPO.CO</Mention>
-   </Entity>
-   <Entity ClusterId="5">
-      <Mention>Magelang</Mention>
-   </Entity>
-   <Entity ClusterId="6">
-      <Mention>Partai Golkar</Mention>
-   </Entity>
-   <Entity ClusterId="7">
-      <Mention>Aburizal Bakrie</Mention>
-   </Entity>
-   <Entity ClusterId="8">
-      <Mention>Partai Demokrat</Mention>
-   </Entity>
-   <Entity ClusterId="9">
-      <Mention>gubernur</Mention>
-   </Entity>
-   <Entity ClusterId="10">
-      <Mention>Jateng</Mention>
-      <Mention>Jawa Tengah</Mention>
-   </Entity>
-   <Entity ClusterId="11">
-      <Mention>2018</Mention>
-   </Entity>
-   <Entity ClusterId="12">
-      <Mention>Pemilu</Mention>
-   </Entity>
-   <Entity ClusterId="13">
-      <Mention>26 Mei</Mention>
-   </Entity>
-   <Entity ClusterId="14">
-      <Mention>19 Mei</Mention>
-   </Entity>
-   <Entity ClusterId="15">
-      <Mention>Pilkada</Mention>
-   </Entity>
-   <Entity ClusterId="16">
-      <Mention>Bali</Mention>
-   </Entity>
-   <Entity ClusterId="17">
-      <Mention>korupsi</Mention>
-   </Entity>
-   <Entity ClusterId="18">
-      <Mention>Wonosobo</Mention>
-   </Entity>
+    <Entity ClusterId="1">
+        <Mention>Ical</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>Edhie Baskoro Yudhoyono</Mention>
+        <Mention>Ibas</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>Bibit Waluyo</Mention>
+        <Mention>Rustriningsih</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>TEMPO.CO</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>Magelang</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>Partai Golkar</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>Aburizal Bakrie</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>Partai Demokrat</Mention>
+    </Entity>
+    <Entity ClusterId="9">
+        <Mention>gubernur</Mention>
+    </Entity>
+    <Entity ClusterId="10">
+        <Mention>Jateng</Mention>
+        <Mention>Jawa Tengah</Mention>
+    </Entity>
+    <Entity ClusterId="11">
+        <Mention>2018</Mention>
+    </Entity>
+    <Entity ClusterId="12">
+        <Mention>Pemilu</Mention>
+    </Entity>
+    <Entity ClusterId="13">
+        <Mention>26 Mei</Mention>
+    </Entity>
+    <Entity ClusterId="14">
+        <Mention>19 Mei</Mention>
+    </Entity>
+    <Entity ClusterId="15">
+        <Mention>Pilkada</Mention>
+    </Entity>
+    <Entity ClusterId="16">
+        <Mention>Bali</Mention>
+    </Entity>
+    <Entity ClusterId="17">
+        <Mention>korupsi</Mention>
+    </Entity>
+    <Entity ClusterId="18">
+        <Mention>Wonosobo</Mention>
+    </Entity>
 </CoreferenceChain>

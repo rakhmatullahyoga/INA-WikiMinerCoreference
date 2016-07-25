@@ -1,63 +1,63 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <CoreferenceChain>
-   <Entity ClusterId="1">
-      <Mention>Komisi Pemilihan Umum (KPU</Mention>
-      <Mention>KPU</Mention>
-   </Entity>
-   <Entity ClusterId="2">
-      <Mention>Legislatif</Mention>
-   </Entity>
-   <Entity ClusterId="3">
-      <Mention>Metrotvnews.com</Mention>
-   </Entity>
-   <Entity ClusterId="4">
-      <Mention>DPR</Mention>
-   </Entity>
-   <Entity ClusterId="5">
-      <Mention>Pemilu 2014</Mention>
-   </Entity>
-   <Entity ClusterId="6">
-      <Mention>Jakarta</Mention>
-   </Entity>
-   <Entity ClusterId="7">
-      <Mention>jeli</Mention>
-   </Entity>
-   <Entity ClusterId="8">
-      <Mention>Pemilu</Mention>
-   </Entity>
-   <Entity ClusterId="9">
-      <Mention>PKPI</Mention>
-   </Entity>
-   <Entity ClusterId="10">
-      <Mention>selanjutnya</Mention>
-   </Entity>
-   <Entity ClusterId="11">
-      <Mention>Gerindra</Mention>
-      <Mention>Hanura</Mention>
-      <Mention>PAN</Mention>
-      <Mention>Partai Kebangkitan Bangsa</Mention>
-      <Mention>partai Persatuan Pembangunan (PPP</Mention>
-      <Mention>PDI-P</Mention>
-      <Mention>PKB</Mention>
-   </Entity>
-   <Entity ClusterId="12">
-      <Mention>PBB</Mention>
-   </Entity>
-   <Entity ClusterId="13">
-      <Mention>PKS</Mention>
-   </Entity>
-   <Entity ClusterId="14">
-      <Mention>parpol</Mention>
-      <Mention>partai politik</Mention>
-   </Entity>
-   <Entity ClusterId="15">
-      <Mention>Media Indonesia</Mention>
-   </Entity>
-   <Entity ClusterId="16">
-      <Mention>2014</Mention>
-   </Entity>
-   <Entity ClusterId="17">
-      <Mention>kartu tanda penduduk</Mention>
-      <Mention>KTP</Mention>
-   </Entity>
+    <Entity ClusterId="1">
+        <Mention>Komisi Pemilihan Umum (KPU</Mention>
+        <Mention>KPU</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>Legislatif</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>Metrotvnews.com</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>DPR</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>Pemilu 2014</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>Jakarta</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>jeli</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>Pemilu</Mention>
+    </Entity>
+    <Entity ClusterId="9">
+        <Mention>PKPI</Mention>
+    </Entity>
+    <Entity ClusterId="10">
+        <Mention>selanjutnya</Mention>
+    </Entity>
+    <Entity ClusterId="11">
+        <Mention>Gerindra</Mention>
+        <Mention>Hanura</Mention>
+        <Mention>PAN</Mention>
+        <Mention>Partai Kebangkitan Bangsa</Mention>
+        <Mention>partai Persatuan Pembangunan (PPP</Mention>
+        <Mention>PDI-P</Mention>
+        <Mention>PKB</Mention>
+    </Entity>
+    <Entity ClusterId="12">
+        <Mention>PBB</Mention>
+    </Entity>
+    <Entity ClusterId="13">
+        <Mention>PKS</Mention>
+    </Entity>
+    <Entity ClusterId="14">
+        <Mention>parpol</Mention>
+        <Mention>partai politik</Mention>
+    </Entity>
+    <Entity ClusterId="15">
+        <Mention>Media Indonesia</Mention>
+    </Entity>
+    <Entity ClusterId="16">
+        <Mention>2014</Mention>
+    </Entity>
+    <Entity ClusterId="17">
+        <Mention>kartu tanda penduduk</Mention>
+        <Mention>KTP</Mention>
+    </Entity>
 </CoreferenceChain>

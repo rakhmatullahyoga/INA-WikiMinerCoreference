@@ -1,45 +1,45 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <CoreferenceChain>
-   <Entity ClusterId="1">
-      <Mention>Bupati</Mention>
-   </Entity>
-   <Entity ClusterId="2">
-      <Mention>Kabupaten Musi Rawas</Mention>
-      <Mention>Musi Rawas</Mention>
-   </Entity>
-   <Entity ClusterId="3">
-      <Mention>Metrotvnews.com</Mention>
-   </Entity>
-   <Entity ClusterId="4">
-      <Mention>Sumatra Selatan</Mention>
-   </Entity>
-   <Entity ClusterId="5">
-      <Mention>Ridwan Mukti</Mention>
-   </Entity>
-   <Entity ClusterId="6">
-      <Mention>Kecamatan Rupit</Mention>
-      <Mention>Rupit</Mention>
-   </Entity>
-   <Entity ClusterId="7">
-      <Mention>Zainal Abidin</Mention>
-   </Entity>
-   <Entity ClusterId="8">
-      <Mention>1962</Mention>
-   </Entity>
-   <Entity ClusterId="9">
-      <Mention>desa-desa</Mention>
-      <Mention>pemerintah desa</Mention>
-   </Entity>
-   <Entity ClusterId="10">
-      <Mention>ibu kota</Mention>
-   </Entity>
-   <Entity ClusterId="11">
-      <Mention>Muara Beliti</Mention>
-   </Entity>
-   <Entity ClusterId="12">
-      <Mention>jalan lintas Sumatra</Mention>
-   </Entity>
-   <Entity ClusterId="13">
-      <Mention>Camat</Mention>
-   </Entity>
+    <Entity ClusterId="1">
+        <Mention>Bupati</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>Kabupaten Musi Rawas</Mention>
+        <Mention>Musi Rawas</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>Metrotvnews.com</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>Sumatra Selatan</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>Ridwan Mukti</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>Kecamatan Rupit</Mention>
+        <Mention>Rupit</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>Zainal Abidin</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>1962</Mention>
+    </Entity>
+    <Entity ClusterId="9">
+        <Mention>desa-desa</Mention>
+        <Mention>pemerintah desa</Mention>
+    </Entity>
+    <Entity ClusterId="10">
+        <Mention>ibu kota</Mention>
+    </Entity>
+    <Entity ClusterId="11">
+        <Mention>Muara Beliti</Mention>
+    </Entity>
+    <Entity ClusterId="12">
+        <Mention>jalan lintas Sumatra</Mention>
+    </Entity>
+    <Entity ClusterId="13">
+        <Mention>Camat</Mention>
+    </Entity>
 </CoreferenceChain>

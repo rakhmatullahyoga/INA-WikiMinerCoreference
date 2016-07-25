@@ -1,49 +1,49 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <CoreferenceChain>
-   <Entity ClusterId="1">
-      <Mention>Panglima TNI</Mention>
-   </Entity>
-   <Entity ClusterId="2">
-      <Mention>Kepala Staf TNI Angkatan Darat</Mention>
-      <Mention>KSAD</Mention>
-   </Entity>
-   <Entity ClusterId="3">
-      <Mention>Jakarta</Mention>
-   </Entity>
-   <Entity ClusterId="4">
-      <Mention>ANTARA News</Mention>
-   </Entity>
-   <Entity ClusterId="5">
-      <Mention>TNI</Mention>
-   </Entity>
-   <Entity ClusterId="6">
-      <Mention>Agus Suhartono</Mention>
-   </Entity>
-   <Entity ClusterId="7">
-      <Mention>Jenderal</Mention>
-   </Entity>
-   <Entity ClusterId="8">
-      <Mention>Pramono Edhie Wibowo</Mention>
-   </Entity>
-   <Entity ClusterId="9">
-      <Mention>5 Mei</Mention>
-   </Entity>
-   <Entity ClusterId="10">
-      <Mention>Lanud Halim Perdanakusuma</Mention>
-   </Entity>
-   <Entity ClusterId="11">
-      <Mention>Presiden Susilo Bambang Yudhoyono</Mention>
-   </Entity>
-   <Entity ClusterId="12">
-      <Mention>DPR</Mention>
-   </Entity>
-   <Entity ClusterId="13">
-      <Mention>mau</Mention>
-   </Entity>
-   <Entity ClusterId="14">
-      <Mention>wartawan</Mention>
-   </Entity>
-   <Entity ClusterId="15">
-      <Mention>Pemilu 2014</Mention>
-   </Entity>
+    <Entity ClusterId="1">
+        <Mention>Panglima TNI</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>Kepala Staf TNI Angkatan Darat</Mention>
+        <Mention>KSAD</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>Jakarta</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>ANTARA News</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>TNI</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>Agus Suhartono</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>Jenderal</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>Pramono Edhie Wibowo</Mention>
+    </Entity>
+    <Entity ClusterId="9">
+        <Mention>5 Mei</Mention>
+    </Entity>
+    <Entity ClusterId="10">
+        <Mention>Lanud Halim Perdanakusuma</Mention>
+    </Entity>
+    <Entity ClusterId="11">
+        <Mention>Presiden Susilo Bambang Yudhoyono</Mention>
+    </Entity>
+    <Entity ClusterId="12">
+        <Mention>DPR</Mention>
+    </Entity>
+    <Entity ClusterId="13">
+        <Mention>mau</Mention>
+    </Entity>
+    <Entity ClusterId="14">
+        <Mention>wartawan</Mention>
+    </Entity>
+    <Entity ClusterId="15">
+        <Mention>Pemilu 2014</Mention>
+    </Entity>
 </CoreferenceChain>
