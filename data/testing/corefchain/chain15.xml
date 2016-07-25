@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+   <Entity ClusterId="1">
+      <Mention>JAKARTA</Mention>
+   </Entity>
+   <Entity ClusterId="2">
+      <Mention>Pemilu</Mention>
+   </Entity>
+   <Entity ClusterId="3">
+      <Mention>bangsa</Mention>
+   </Entity>
+   <Entity ClusterId="4">
+      <Mention>Indonesia</Mention>
+   </Entity>
+   <Entity ClusterId="5">
+      <Mention>Partai Gerindra</Mention>
+   </Entity>
+   <Entity ClusterId="6">
+      <Mention>marut</Mention>
+   </Entity>
+   <Entity ClusterId="7">
+      <Mention>2014</Mention>
+   </Entity>
+   <Entity ClusterId="8">
+      <Mention>legislatif</Mention>
+   </Entity>
+   <Entity ClusterId="9">
+      <Mention>presiden</Mention>
+   </Entity>
+   <Entity ClusterId="10">
+      <Mention>tidak kembali</Mention>
+   </Entity>
+   <Entity ClusterId="11">
+      <Mention>KPU</Mention>
+   </Entity>
+   <Entity ClusterId="12">
+      <Mention>masyarakat</Mention>
+   </Entity>
+   <Entity ClusterId="13">
+      <Mention>parpol</Mention>
+      <Mention>partai politik</Mention>
+   </Entity>
+   <Entity ClusterId="14">
+      <Mention>internet</Mention>
+   </Entity>
+   <Entity ClusterId="15">
+      <Mention>komputer</Mention>
+   </Entity>
+   <Entity ClusterId="16">
+      <Mention>pemerintahan</Mention>
+   </Entity>
+   <Entity ClusterId="17">
+      <Mention>e-KTP</Mention>
+      <Mention>kartu tanda penduduk elektronik</Mention>
+      <Mention>KTP</Mention>
+   </Entity>
+   <Entity ClusterId="18">
+      <Mention>Kementerian Dalam Negeri</Mention>
+   </Entity>
+</CoreferenceChain>

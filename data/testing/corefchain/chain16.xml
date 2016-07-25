@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+   <Entity ClusterId="1">
+      <Mention>Mega</Mention>
+      <Mention>Megawati</Mention>
+      <Mention>Megawati Soekarnoputri</Mention>
+   </Entity>
+   <Entity ClusterId="2">
+      <Mention>TEMPO</Mention>
+   </Entity>
+   <Entity ClusterId="3">
+      <Mention>Surakarta</Mention>
+   </Entity>
+   <Entity ClusterId="4">
+      <Mention>Partai Demokrasi Indonesia Perjuangan</Mention>
+      <Mention>PDI Perjuangan</Mention>
+      <Mention>PDIP</Mention>
+   </Entity>
+   <Entity ClusterId="5">
+      <Mention>pemilihan presiden 2014</Mention>
+   </Entity>
+   <Entity ClusterId="6">
+      <Mention>14 April</Mention>
+   </Entity>
+   <Entity ClusterId="7">
+      <Mention>Ganjar Pranowo</Mention>
+      <Mention>Heru Sudjatmoko</Mention>
+   </Entity>
+   <Entity ClusterId="8">
+      <Mention>pemilihan kepala daerah</Mention>
+   </Entity>
+   <Entity ClusterId="9">
+      <Mention>Jawa Tengah</Mention>
+   </Entity>
+   <Entity ClusterId="10">
+      <Mention>2014</Mention>
+   </Entity>
+   <Entity ClusterId="11">
+      <Mention>Indonesia</Mention>
+   </Entity>
+</CoreferenceChain>

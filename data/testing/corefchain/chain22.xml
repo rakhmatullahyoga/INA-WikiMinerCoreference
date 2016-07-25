@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+   <Entity ClusterId="1">
+      <Mention>Partai Demokrasi Indonesia Perjuangan</Mention>
+      <Mention>PDIP</Mention>
+   </Entity>
+   <Entity ClusterId="2">
+      <Mention>TEMPO.CO</Mention>
+   </Entity>
+   <Entity ClusterId="3">
+      <Mention>Semarang</Mention>
+   </Entity>
+   <Entity ClusterId="4">
+      <Mention>and</Mention>
+   </Entity>
+   <Entity ClusterId="5">
+      <Mention>Jateng</Mention>
+      <Mention>Jawa Tengah</Mention>
+   </Entity>
+   <Entity ClusterId="6">
+      <Mention>pemilihan kepala daerah</Mention>
+      <Mention>pilkada</Mention>
+   </Entity>
+   <Entity ClusterId="7">
+      <Mention>Bibit Waluyo</Mention>
+      <Mention>Don Murdono</Mention>
+      <Mention>Ganjar Pranowo</Mention>
+      <Mention>gubernur Jawa Tengah</Mention>
+      <Mention>Hadi Prabowo</Mention>
+      <Mention>Heru Sudjatmoko</Mention>
+      <Mention>Sudijono</Mention>
+   </Entity>
+   <Entity ClusterId="8">
+      <Mention>26 Mei</Mention>
+   </Entity>
+   <Entity ClusterId="9">
+      <Mention>Hasil hitung cepat</Mention>
+   </Entity>
+   <Entity ClusterId="10">
+      <Mention>Pati</Mention>
+   </Entity>
+</CoreferenceChain>

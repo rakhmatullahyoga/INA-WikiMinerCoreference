@@ -13,6 +13,8 @@ import java.util.HashMap;
 import java.util.HashSet;
 import java.util.LinkedHashMap;
 import java.util.Map;
+import java.util.Set;
+import java.util.TreeSet;
 import java.util.stream.Stream;
 import org.wikipedia.miner.annotation.Topic;
 import org.wikipedia.miner.annotation.TopicReference;
@@ -29,9 +31,9 @@ import org.wikipedia.miner.util.Position;
 public class CoreferenceTagger {
     
     private String annotatedCoref;
-    private ArrayList<ArrayList<String>> mentionCluster;
+    private ArrayList<Set<String>> mentionCluster;
 
-    public ArrayList<ArrayList<String>> getMentionCluster() {
+    public ArrayList<Set<String>> getMentionCluster() {
         return mentionCluster;
     }
 
@@ -39,21 +41,8 @@ public class CoreferenceTagger {
         return annotatedCoref;
     }
     
-    public static <K, V extends Comparable<? super V>> Map<K, V> sortByValue( Map<K, V> map ) {
-        Map<K, V> result = new LinkedHashMap<>();
-        Stream<Map.Entry<K, V>> st = map.entrySet().stream();
-
-        st.sorted( Map.Entry.comparingByValue() )
-            .forEachOrdered( e -> result.put(e.getKey(), e.getValue()) );
-
-        return result;
-    }
-    
-    private String getTag(String anchor, Topic topic, int corefCluster) {
-//        if (topic.getTitle().compareToIgnoreCase(anchor) == 0)
-            return "[[" + anchor + "|" + (corefCluster+1) + "]]" ;
-//        else
-//            return "[[" + topic.getTitle() + "|" + anchor + "|" + (corefCluster+1) + "]]" ;
+    private String getTag(String anchor, int corefCluster) {
+        return "[[" + anchor + "|" + (corefCluster+1) + "]]" ;
     }
     
     public void tag(PreprocessedDocument doc, Collection<Topic> topics, DocumentTagger.RepeatMode repeatMode, Wikipedia wikipedia) throws Exception {
@@ -81,7 +70,7 @@ public class CoreferenceTagger {
                     maxRelatedness = relatedness;
                     jMax = j;
                 }
-//                System.out.println(topicList.get(j).getTitle()+" - "+topicList.get(i).getTitle()+" = "+relatedness);
+                System.out.println(topicList.get(j).getTitle()+" - "+topicList.get(i).getTitle()+" = "+relatedness);
             }
             if((maxRelatedness>CoreferenceConstants.COREFERENCE_THRESHOLD)&&(jMax!=i)) {
                 topicCorefCluster.put(topicList.get(i).getId(), topicCorefCluster.get(topicList.get(jMax).getId()));
@@ -90,7 +79,7 @@ public class CoreferenceTagger {
                 nbCluster++;
                 topicCorefCluster.put(topicList.get(i).getId(), nbCluster);
             }
-//            System.out.println("----------------");
+            System.out.println("----------------");
         }
 
         String originalText = doc.getOriginalText() ;
@@ -116,11 +105,11 @@ public class CoreferenceTagger {
                 // convert topic cluster to mention cluster
                 if(!clusterID.contains(topicCorefCluster.get(topic.getId()))) {
                     clusterID.add(topicCorefCluster.get(topic.getId()));
-                    mentionCluster.add(new ArrayList<>());
+                    mentionCluster.add(new TreeSet<>(String.CASE_INSENSITIVE_ORDER));
                 }
                 int cluster = clusterID.indexOf(topicCorefCluster.get(topic.getId()));
                 wikifiedText.append(originalText.substring(lastIndex, start));
-                wikifiedText.append(getTag(originalText.substring(start, end), topic, cluster));
+                wikifiedText.append(getTag(originalText.substring(start, end), cluster));
                 if(!mentionCluster.get(cluster).contains(originalText.substring(start, end)))
                     mentionCluster.get(cluster).add(originalText.substring(start, end));
 

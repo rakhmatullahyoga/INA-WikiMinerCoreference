@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+   <Entity ClusterId="1">
+      <Mention>PKS</Mention>
+      <Mention>PPP</Mention>
+   </Entity>
+   <Entity ClusterId="2">
+      <Mention>JAKARTA</Mention>
+   </Entity>
+   <Entity ClusterId="3">
+      <Mention>parpol</Mention>
+      <Mention>partai</Mention>
+   </Entity>
+   <Entity ClusterId="4">
+      <Mention>2014</Mention>
+   </Entity>
+   <Entity ClusterId="5">
+      <Mention>Komisi Pemilihan Umum (KPU</Mention>
+      <Mention>KPU</Mention>
+   </Entity>
+   <Entity ClusterId="6">
+      <Mention>pemilu</Mention>
+   </Entity>
+   <Entity ClusterId="7">
+      <Mention>PKPI</Mention>
+   </Entity>
+   <Entity ClusterId="8">
+      <Mention>22 Mei</Mention>
+   </Entity>
+   <Entity ClusterId="9">
+      <Mention>2013</Mention>
+   </Entity>
+</CoreferenceChain>

@@ -13,6 +13,7 @@ import java.io.UnsupportedEncodingException;
 import java.text.DecimalFormat;
 import java.util.ArrayList;
 import java.util.Collection;
+import java.util.Set;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import javax.xml.parsers.DocumentBuilder;
@@ -53,6 +54,9 @@ public class CoreferenceMain {
     CoreferenceTagger _tagger ;
     Wikipedia _wikipedia;
     DecimalFormat _df = new DecimalFormat("#0%");
+    
+    private String newMarkup;
+    private ArrayList<Set<String>> corefChain;
 
     public CoreferenceMain(Wikipedia wikipedia) throws Exception {
         _wikipedia = wikipedia;
@@ -64,6 +68,11 @@ public class CoreferenceMain {
         _linkDetector.loadClassifier(new File(WikiConstants.DETECTION_PATH));
         _tagger = new CoreferenceTagger() ;
     }
+    
+    public void init() {
+        newMarkup = null;
+        corefChain = null;
+    }
 
     public void annotate(String originalMarkup) throws Exception {
         // preprocess the input
@@ -72,37 +81,35 @@ public class CoreferenceMain {
         // detect all topic mentioned in the input
         Collection<Topic> allTopics = _topicDetector.getTopics(doc, null) ;
         ArrayList<Topic> bestTopics = _linkDetector.getBestTopics(allTopics, CoreferenceConstants.TOPIC_THRESHOLD) ;
-//        System.out.println("\nAll detected topics:") ;
+        System.out.println("\nAll detected topics:") ;
         for(Topic t:allTopics) {
-//            System.out.println(" - " + t.getTitle() + " (" + t.getAverageLinkProbability() + ")") ;
+            System.out.println(" - " + t.getTitle() + " (" + t.getAverageLinkProbability() + ")") ;
             if(t.getAverageLinkProbability() > CoreferenceConstants.TOPIC_THRESHOLD && !bestTopics.contains(t)) {
                 bestTopics.add(t);
             }
         }
         
-//        System.out.println("\nTopics that are probably good links:") ;
-//        for (Topic t:bestTopics)
-//            System.out.println(" - " + t.getTitle() + "[" + _df.format(t.getWeight()) + "]" ) ;
+        System.out.println("\nTopics that are probably good links:") ;
+        for (Topic t:bestTopics)
+            System.out.println(" - " + t.getTitle() + "[" + t.getWeight() + "]" ) ;
         
         // tagging for coreference resolution
         _tagger.tag(doc, bestTopics, DocumentTagger.RepeatMode.ALL, _wikipedia) ;
-        String newMarkup = _tagger.getAnnotatedCoref();
-        ArrayList<ArrayList<String>> corefChain = _tagger.getMentionCluster();
-        System.out.println("\nAugmented markup (Entity linking + Coreference):\n" + newMarkup + "\n") ;
-        writeAnnotated(newMarkup, CoreferenceConstants.ANNOTATED_PATH+"annotated.txt");
-        writeCorefChain(corefChain, CoreferenceConstants.ANNOTATED_PATH+"annotated.txt");
+        newMarkup = _tagger.getAnnotatedCoref();
+        corefChain = _tagger.getMentionCluster();
+        System.out.println("\nAugmented markup (Entity linking + Coreference):\n" + newMarkup + "\n");
     }
     
-    public void writeAnnotated(String annotated, String path) {
+    public void writeAnnotated(String path) {
         try (PrintWriter writer = new PrintWriter(path, "UTF-8")) {
-            writer.println(annotated);
+            writer.println(newMarkup);
             writer.close();
         } catch (FileNotFoundException | UnsupportedEncodingException ex) {
             Logger.getLogger(CoreferenceMain.class.getName()).log(Level.SEVERE, null, ex);
         }
     }
 
-    public void writeCorefChain(ArrayList<ArrayList<String>> corefChain, String path) {
+    public void writeCorefChain(String path) {
         try {
             DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
             DocumentBuilder dBuilder = dbFactory.newDocumentBuilder();
@@ -129,10 +136,10 @@ public class CoreferenceMain {
             
             Transformer transformer = TransformerFactory.newInstance().newTransformer();
             transformer.setOutputProperty(OutputKeys.INDENT, "yes");
-            transformer.setOutputProperty("{http://xml.apache.org/xslt}indent-amount", "2");
+            transformer.setOutputProperty("{http://xml.apache.org/xslt}indent-amount", "3");
             
             DOMSource source = new DOMSource(doc);
-            StreamResult result = new StreamResult(new File(CoreferenceConstants.CHAIN_PATH+"chain.xml"));
+            StreamResult result = new StreamResult(new File(path));
             transformer.transform(source, result);
         } catch (ParserConfigurationException ex) {
             Logger.getLogger(CoreferenceMain.class.getName()).log(Level.SEVERE, null, ex);
@@ -147,17 +154,22 @@ public class CoreferenceMain {
         WikipediaConfiguration conf = new WikipediaConfiguration(new File(WikiConstants.WIKI_CONFIG_PATH)) ;
         conf.setDefaultTextProcessor(new TextFolder()) ;
         Wikipedia wikipedia = new Wikipedia(conf, false) ;
-
         CoreferenceMain annotator = new CoreferenceMain(wikipedia) ;
-
-        File file = new File("./data/development/raw/raw.txt");
-        FileInputStream fis = new FileInputStream(file);
-        byte[] data = new byte[(int) file.length()];
-        fis.read(data);
-        fis.close();
         
-        String input = new String(data, "UTF-8");
-        System.out.println("Input raw text:\n"+input);
-        annotator.annotate(input);
+        // evaluate on 30 documents
+        for(int i=0; i<30; i++) {
+            File file = new File(CoreferenceConstants.RAW_PATH+"artikel"+i+".txt");
+            FileInputStream fis = new FileInputStream(file);
+            byte[] data = new byte[(int) file.length()];
+            fis.read(data);
+            fis.close();
+            String input = new String(data, "UTF-8");
+            System.out.println("Input raw text:\n"+input);
+
+            annotator.init();
+            annotator.annotate(input);
+            annotator.writeAnnotated(CoreferenceConstants.ANNOTATED_PATH+"annotated"+i+".txt");
+            annotator.writeCorefChain(CoreferenceConstants.CHAIN_PATH+"chain"+i+".xml");
+        }
     }
 }

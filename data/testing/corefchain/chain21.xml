@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+   <Entity ClusterId="1">
+      <Mention>Nusa Dua</Mention>
+   </Entity>
+   <Entity ClusterId="2">
+      <Mention>Bali</Mention>
+   </Entity>
+   <Entity ClusterId="3">
+      <Mention>ANTARA News</Mention>
+   </Entity>
+   <Entity ClusterId="4">
+      <Mention>mantan Menkeu</Mention>
+      <Mention>Menko Perekonomian</Mention>
+      <Mention>Menteri Koordinator Bidang Perekonomian</Mention>
+   </Entity>
+   <Entity ClusterId="5">
+      <Mention>Hatta Rajasa</Mention>
+   </Entity>
+   <Entity ClusterId="6">
+      <Mention>Menteri</Mention>
+   </Entity>
+   <Entity ClusterId="7">
+      <Mention>Presiden Yudhoyono</Mention>
+   </Entity>
+   <Entity ClusterId="8">
+      <Mention>BI</Mention>
+   </Entity>
+   <Entity ClusterId="9">
+      <Mention>Pemerintah</Mention>
+   </Entity>
+   <Entity ClusterId="10">
+      <Mention>MP3</Mention>
+   </Entity>
+   <Entity ClusterId="11">
+      <Mention>Kementerian Koordinator Perekonomian</Mention>
+   </Entity>
+   <Entity ClusterId="12">
+      <Mention>BUMN</Mention>
+   </Entity>
+   <Entity ClusterId="13">
+      <Mention>APBN</Mention>
+   </Entity>
+</CoreferenceChain>
