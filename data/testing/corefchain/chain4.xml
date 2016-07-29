@@ -1,33 +1,34 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <CoreferenceChain>
     <Entity ClusterId="1">
-        <Mention>Pemilihan Kepala Daerah</Mention>
-        <Mention>Pilkada</Mention>
+        <Mention>Hizbullah</Mention>
     </Entity>
     <Entity ClusterId="2">
-        <Mention>Jombang</Mention>
-        <Mention>Kabupaten Jombang</Mention>
+        <Mention>Suriah</Mention>
     </Entity>
     <Entity ClusterId="3">
-        <Mention>ANTARA News</Mention>
+        <Mention>Israel</Mention>
     </Entity>
     <Entity ClusterId="4">
-        <Mention>Komisi Pemilihan Umum</Mention>
-        <Mention>KPU</Mention>
+        <Mention>Beirut</Mention>
     </Entity>
     <Entity ClusterId="5">
-        <Mention>Jawa Timur</Mention>
+        <Mention>gerilyawan</Mention>
     </Entity>
     <Entity ClusterId="6">
-        <Mention>5 Juni</Mention>
+        <Mention>Lebanon</Mention>
     </Entity>
     <Entity ClusterId="7">
-        <Mention>Munir</Mention>
+        <Mention>Amerika Serikat</Mention>
+        <Mention>As</Mention>
     </Entity>
     <Entity ClusterId="8">
-        <Mention>Hubungan Masyarakat</Mention>
+        <Mention>Syiah</Mention>
     </Entity>
     <Entity ClusterId="9">
-        <Mention>kecamatan</Mention>
+        <Mention>desa</Mention>
+    </Entity>
+    <Entity ClusterId="10">
+        <Mention>dan kota</Mention>
     </Entity>
 </CoreferenceChain>

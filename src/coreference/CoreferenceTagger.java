@@ -11,18 +11,17 @@ import java.util.Collection;
 import java.util.Collections;
 import java.util.HashMap;
 import java.util.HashSet;
-import java.util.LinkedHashMap;
-import java.util.Map;
 import java.util.Set;
 import java.util.TreeSet;
-import java.util.stream.Stream;
 import org.wikipedia.miner.annotation.Topic;
 import org.wikipedia.miner.annotation.TopicReference;
 import org.wikipedia.miner.annotation.preprocessing.PreprocessedDocument;
 import org.wikipedia.miner.annotation.tagging.DocumentTagger;
 import org.wikipedia.miner.comparison.ArticleComparer;
+import org.wikipedia.miner.model.Article;
 import org.wikipedia.miner.model.Wikipedia;
 import org.wikipedia.miner.util.Position;
+import wikiminer.TextFolder;
 
 /**
  *
@@ -41,11 +40,11 @@ public class CoreferenceTagger {
         return annotatedCoref;
     }
     
-    private String getTag(String anchor, int corefCluster) {
-        return "[[" + anchor + "|" + (corefCluster+1) + "]]" ;
+    private String getTag(String anchor, Topic topic, int corefCluster) {
+        return "[[" + anchor + "|" + (corefCluster+1)/* + "|" + topic.getTitle() */+ "]]" ;
     }
     
-    public void tag(PreprocessedDocument doc, Collection<Topic> topics, DocumentTagger.RepeatMode repeatMode, Wikipedia wikipedia) throws Exception {
+    public void tag(PreprocessedDocument doc, Collection<Topic> topics, DocumentTagger.RepeatMode repeatMode, Wikipedia wikipedia, boolean exactTopicLink) throws Exception {
         doc.resetRegionTracking() ;
 
         HashMap<Integer,Topic> topicsById = new HashMap<>() ;
@@ -65,21 +64,29 @@ public class CoreferenceTagger {
             double maxRelatedness = 0.0;
             int jMax = i;
             for(int j=0; j<i; j++) {
-                double relatedness = _comparer.getRelatedness(wikipedia.getArticleByTitle(topicList.get(i).getTitle()), wikipedia.getArticleByTitle(topicList.get(j).getTitle()));
+                Article artI = wikipedia.getMostLikelyArticle(topicList.get(i).getTitle(), new TextFolder());
+                if(artI==null)
+                    artI = wikipedia.getArticleByTitle(topicList.get(i).getTitle());
+                Article artJ = wikipedia.getMostLikelyArticle(topicList.get(j).getTitle(), new TextFolder());
+                if(artJ==null)
+                    artJ = wikipedia.getArticleByTitle(topicList.get(j).getTitle());
+                double relatedness = _comparer.getRelatedness(artI, artJ);
                 if(relatedness>maxRelatedness) {
                     maxRelatedness = relatedness;
                     jMax = j;
                 }
-                System.out.println(topicList.get(j).getTitle()+" - "+topicList.get(i).getTitle()+" = "+relatedness);
+//                System.out.println(topicList.get(j).getTitle()+" - "+topicList.get(i).getTitle()+" = "+relatedness);
             }
-            if((maxRelatedness>CoreferenceConstants.COREFERENCE_THRESHOLD)&&(jMax!=i)) {
+            // mark as coreferent
+            if(!exactTopicLink&&((maxRelatedness>CoreferenceConstants.COREFERENCE_THRESHOLD)&&(jMax!=i))) {
                 topicCorefCluster.put(topicList.get(i).getId(), topicCorefCluster.get(topicList.get(jMax).getId()));
             }
+            // create new cluster
             else {
                 nbCluster++;
                 topicCorefCluster.put(topicList.get(i).getId(), nbCluster);
             }
-            System.out.println("----------------");
+//            System.out.println("----------------");
         }
 
         String originalText = doc.getOriginalText() ;
@@ -109,7 +116,7 @@ public class CoreferenceTagger {
                 }
                 int cluster = clusterID.indexOf(topicCorefCluster.get(topic.getId()));
                 wikifiedText.append(originalText.substring(lastIndex, start));
-                wikifiedText.append(getTag(originalText.substring(start, end), cluster));
+                wikifiedText.append(getTag(originalText.substring(start, end), topic, cluster));
                 if(!mentionCluster.get(cluster).contains(originalText.substring(start, end)))
                     mentionCluster.get(cluster).add(originalText.substring(start, end));
 

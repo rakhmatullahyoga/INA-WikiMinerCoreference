@@ -1,0 +1,16 @@
+Komisi Pemilihan Umum [NP]
+Pemilihan umum [NP]
+Universitas Indonesia [NP]
+Kementerian Dalam Negeri Republik Indonesia [NP, PP]
+MetroTV
+Pemilihan umum legislatif Indonesia 2014 [NP, NP, CDP]
+Kartu Tanda Penduduk elektronik [NP]
+Partai politik [NP]
+Daerah Khusus Ibukota Jakarta [NP]
+Media Indonesia [NP]
+.com [NP]
+Badan Pengawas Pemilihan Umum [NP]
+2014
+Indonesia
+Pemilihan umum legislatif Indonesia 2009 [NP, NP, CDP]
+Kartu Tanda Penduduk [NP]

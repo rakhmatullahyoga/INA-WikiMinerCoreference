@@ -1,68 +1,40 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <CoreferenceChain>
     <Entity ClusterId="1">
-        <Mention>Mari Pangestu</Mention>
+        <Mention>Jokowi</Mention>
     </Entity>
     <Entity ClusterId="2">
-        <Mention>Senegal</Mention>
-    </Entity>
-    <Entity ClusterId="3">
+        <Mention>DKI Jakarta</Mention>
         <Mention>Jakarta</Mention>
     </Entity>
+    <Entity ClusterId="3">
+        <Mention>Center for Strategic and International Studies</Mention>
+    </Entity>
     <Entity ClusterId="4">
-        <Mention>ANTARA News</Mention>
-        <Mention>Kantor Berita ANTARA</Mention>
+        <Mention>CSIS</Mention>
     </Entity>
     <Entity ClusterId="5">
-        <Mention>teknokrat</Mention>
+        <Mention>Gubernur</Mention>
     </Entity>
     <Entity ClusterId="6">
-        <Mention>Kabinet Indonesia Bersatu II</Mention>
-    </Entity>
-    <Entity ClusterId="7">
-        <Mention>WTO</Mention>
-    </Entity>
-    <Entity ClusterId="8">
-        <Mention>media massa</Mention>
-    </Entity>
-    <Entity ClusterId="9">
-        <Mention>direktur jenderal</Mention>
-    </Entity>
-    <Entity ClusterId="10">
-        <Mention>Pascal Lamy</Mention>
-    </Entity>
-    <Entity ClusterId="11">
-        <Mention>Prancis</Mention>
-    </Entity>
-    <Entity ClusterId="12">
-        <Mention>Afrika</Mention>
-    </Entity>
-    <Entity ClusterId="13">
-        <Mention>Ghana</Mention>
-    </Entity>
-    <Entity ClusterId="14">
-        <Mention>Kenya</Mention>
-    </Entity>
-    <Entity ClusterId="15">
-        <Mention>Amina</Mention>
-    </Entity>
-    <Entity ClusterId="16">
         <Mention>Indonesia</Mention>
     </Entity>
-    <Entity ClusterId="17">
-        <Mention>Meksiko</Mention>
+    <Entity ClusterId="7">
+        <Mention>Vermonte</Mention>
     </Entity>
-    <Entity ClusterId="18">
-        <Mention>Brazil</Mention>
+    <Entity ClusterId="8">
+        <Mention>Prabowo Subianto</Mention>
     </Entity>
-    <Entity ClusterId="19">
-        <Mention>Selandia Baru</Mention>
+    <Entity ClusterId="9">
+        <Mention>Aburizal Bakrie</Mention>
     </Entity>
-    <Entity ClusterId="20">
-        <Mention>Korea Selatan</Mention>
+    <Entity ClusterId="10">
+        <Mention>Megawati</Mention>
     </Entity>
-    <Entity ClusterId="21">
-        <Mention>negara berkembang</Mention>
-        <Mention>negara-negara berkembang</Mention>
+    <Entity ClusterId="11">
+        <Mention>Jusuf Kalla</Mention>
+    </Entity>
+    <Entity ClusterId="12">
+        <Mention>Kota Solo</Mention>
     </Entity>
 </CoreferenceChain>

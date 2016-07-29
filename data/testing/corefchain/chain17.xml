@@ -1,69 +1,43 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <CoreferenceChain>
     <Entity ClusterId="1">
-        <Mention>Letjen</Mention>
-        <Mention>Letnan Jenderal</Mention>
-        <Mention>Letnan Jenderal TNI</Mention>
+        <Mention>Kabinet Mesir</Mention>
     </Entity>
     <Entity ClusterId="2">
-        <Mention>Moeldoko</Mention>
+        <Mention>Metrotvnews.com</Mention>
     </Entity>
     <Entity ClusterId="3">
-        <Mention>Jakarta</Mention>
+        <Mention>Serang</Mention>
     </Entity>
     <Entity ClusterId="4">
-        <Mention>ANTARA News</Mention>
+        <Mention>Banten</Mention>
+        <Mention>Provinsi Banten</Mention>
     </Entity>
     <Entity ClusterId="5">
-        <Mention>Presiden Susilo Bambang Yudhoyono</Mention>
-        <Mention>Presiden Yudhoyono</Mention>
+        <Mention>Bahasa Indonesia</Mention>
     </Entity>
     <Entity ClusterId="6">
-        <Mention>Kepala Staf TNI Angkatan Darat</Mention>
-        <Mention>KSAD</Mention>
-        <Mention>Wakil Kepala Staf Angkatan Darat</Mention>
+        <Mention>Bahasa Inggris</Mention>
     </Entity>
     <Entity ClusterId="7">
-        <Mention>tentara</Mention>
+        <Mention>Badan Standar Nasional Pendidikan</Mention>
     </Entity>
     <Entity ClusterId="8">
-        <Mention>Indonesia</Mention>
+        <Mention>Kabupaten Tangerang</Mention>
     </Entity>
     <Entity ClusterId="9">
-        <Mention>Jenderal</Mention>
+        <Mention>Kota Tangerang</Mention>
     </Entity>
     <Entity ClusterId="10">
-        <Mention>TNI</Mention>
+        <Mention>Kabupaten Lebak</Mention>
     </Entity>
     <Entity ClusterId="11">
-        <Mention>Pramono Edhie Wibowo</Mention>
-        <Mention>Purnomo Yusgiantoro</Mention>
+        <Mention>Selanjutnya</Mention>
     </Entity>
     <Entity ClusterId="12">
-        <Mention>22 Mei</Mention>
+        <Mention>Kota Serang</Mention>
     </Entity>
     <Entity ClusterId="13">
-        <Mention>Panglima TNI</Mention>
-    </Entity>
-    <Entity ClusterId="14">
-        <Mention>Menteri Pertahanan</Mention>
-    </Entity>
-    <Entity ClusterId="15">
-        <Mention>perwira</Mention>
-    </Entity>
-    <Entity ClusterId="16">
-        <Mention>5 Mei</Mention>
-    </Entity>
-    <Entity ClusterId="17">
-        <Mention>31 Mei</Mention>
-    </Entity>
-    <Entity ClusterId="18">
-        <Mention>Adhi Makayasa</Mention>
-    </Entity>
-    <Entity ClusterId="19">
-        <Mention>Akademi Militer</Mention>
-    </Entity>
-    <Entity ClusterId="20">
-        <Mention>1981</Mention>
+        <Mention>Kota Cilegon</Mention>
     </Entity>
 </CoreferenceChain>

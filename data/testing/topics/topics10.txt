@@ -1,0 +1,13 @@
+Komando Pasukan Khusus [NP]
+Muhammad Jusuf Kalla [NP]
+Kabupaten Sukoharjo [NP]
+Kartasura
+Indonesia
+Republika
+Komandan Jenderal Komando Pasukan Khusus [NP]
+.id [NP]
+Tentara Nasional Indonesia [NP]
+Palang Merah Indonesia [NP]
+Pasukan khusus [NP]
+Kartasura, Sukoharjo [NP]
+Donor darah [NP]

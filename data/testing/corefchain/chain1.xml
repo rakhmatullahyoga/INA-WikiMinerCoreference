@@ -1,57 +1,46 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <CoreferenceChain>
     <Entity ClusterId="1">
-        <Mention>Jokowi</Mention>
+        <Mention>Perdamaian</Mention>
     </Entity>
     <Entity ClusterId="2">
-        <Mention>Ical</Mention>
+        <Mention>Israel</Mention>
     </Entity>
     <Entity ClusterId="3">
-        <Mention>DKI Jakarta</Mention>
-        <Mention>Jakarta</Mention>
+        <Mention>REPUBLIKA.CO.ID</Mention>
     </Entity>
     <Entity ClusterId="4">
-        <Mention>ANTARA News</Mention>
+        <Mention>Mahmoud Abbas</Mention>
+        <Mention>PRESIDEN PALESTINA</Mention>
     </Entity>
     <Entity ClusterId="5">
-        <Mention>Gubernur</Mention>
+        <Mention>Jordania</Mention>
+        <Mention>Yordania</Mention>
+        <Mention>YORDANIA --</Mention>
     </Entity>
     <Entity ClusterId="6">
-        <Mention>Joko Widodo</Mention>
+        <Mention>tepi Laut</Mention>
     </Entity>
     <Entity ClusterId="7">
-        <Mention>Aburizal Bakrie</Mention>
+        <Mention>Forum Ekonomi Dunia</Mention>
     </Entity>
     <Entity ClusterId="8">
-        <Mention>wakil presiden</Mention>
+        <Mention>Timur Tengah</Mention>
     </Entity>
     <Entity ClusterId="9">
-        <Mention>Golkar</Mention>
-        <Mention>Partai Golkar</Mention>
+        <Mention>Afrika Utara</Mention>
     </Entity>
     <Entity ClusterId="10">
-        <Mention>Bambang Soesatyo</Mention>
+        <Mention>Palestina</Mention>
+        <Mention>wilayah Palestina</Mention>
     </Entity>
     <Entity ClusterId="11">
-        <Mention>butuh</Mention>
+        <Mention>Yahudi</Mention>
     </Entity>
     <Entity ClusterId="12">
-        <Mention>Pemilu Presiden 2014</Mention>
+        <Mention>Tepi Barat</Mention>
     </Entity>
     <Entity ClusterId="13">
-        <Mention>DPR</Mention>
-        <Mention>DPR RI</Mention>
-    </Entity>
-    <Entity ClusterId="14">
-        <Mention>MPR</Mention>
-    </Entity>
-    <Entity ClusterId="15">
-        <Mention>DPD RI</Mention>
-    </Entity>
-    <Entity ClusterId="16">
-        <Mention>PDIP</Mention>
-    </Entity>
-    <Entity ClusterId="17">
-        <Mention>mau</Mention>
+        <Mention>Xinhua</Mention>
     </Entity>
 </CoreferenceChain>

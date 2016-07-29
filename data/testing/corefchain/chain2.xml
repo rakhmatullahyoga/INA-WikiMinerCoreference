@@ -19,24 +19,26 @@
     </Entity>
     <Entity ClusterId="6">
         <Mention>Hatta Rajasa</Mention>
+    </Entity>
+    <Entity ClusterId="7">
         <Mention>pemilihan presiden 2014</Mention>
         <Mention>pilpres 2014</Mention>
     </Entity>
-    <Entity ClusterId="7">
+    <Entity ClusterId="8">
         <Mention>Kota Solo</Mention>
         <Mention>Solo</Mention>
         <Mention>Solo, Jawa tengah</Mention>
     </Entity>
-    <Entity ClusterId="8">
+    <Entity ClusterId="9">
         <Mention>Lingkaran Survei Indonesia (LSI</Mention>
     </Entity>
-    <Entity ClusterId="9">
+    <Entity ClusterId="10">
         <Mention>Megawati</Mention>
     </Entity>
-    <Entity ClusterId="10">
+    <Entity ClusterId="11">
         <Mention>Jawa Tengah</Mention>
     </Entity>
-    <Entity ClusterId="11">
+    <Entity ClusterId="12">
         <Mention>2019</Mention>
     </Entity>
 </CoreferenceChain>

@@ -27,15 +27,12 @@
         <Mention>Heru Sudjatmoko</Mention>
     </Entity>
     <Entity ClusterId="8">
-        <Mention>pemilihan kepala daerah</Mention>
-    </Entity>
-    <Entity ClusterId="9">
         <Mention>Jawa Tengah</Mention>
     </Entity>
-    <Entity ClusterId="10">
+    <Entity ClusterId="9">
         <Mention>2014</Mention>
     </Entity>
-    <Entity ClusterId="11">
+    <Entity ClusterId="10">
         <Mention>Indonesia</Mention>
     </Entity>
 </CoreferenceChain>

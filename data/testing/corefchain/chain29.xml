@@ -1,41 +1,31 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <CoreferenceChain>
     <Entity ClusterId="1">
-        <Mention>ICW</Mention>
-        <Mention>Indonesia Corruption Watch</Mention>
+        <Mention>Wiranto</Mention>
     </Entity>
     <Entity ClusterId="2">
-        <Mention>PBB</Mention>
+        <Mention>Pemilu 2014</Mention>
     </Entity>
     <Entity ClusterId="3">
-        <Mention>Susno Duadji</Mention>
-    </Entity>
-    <Entity ClusterId="4">
         <Mention>Metrotvnews.com</Mention>
     </Entity>
-    <Entity ClusterId="5">
+    <Entity ClusterId="4">
         <Mention>Jakarta</Mention>
     </Entity>
+    <Entity ClusterId="5">
+        <Mention>Hanura</Mention>
+        <Mention>Partai Hanura</Mention>
+    </Entity>
     <Entity ClusterId="6">
-        <Mention>korup</Mention>
-        <Mention>korupsi</Mention>
+        <Mention>Hary Tanoesoedibjo</Mention>
     </Entity>
     <Entity ClusterId="7">
-        <Mention>Arowana</Mention>
+        <Mention>DPR</Mention>
     </Entity>
     <Entity ClusterId="8">
-        <Mention>Jawa Barat</Mention>
+        <Mention>KPU</Mention>
     </Entity>
     <Entity ClusterId="9">
-        <Mention>Bandung</Mention>
-    </Entity>
-    <Entity ClusterId="10">
-        <Mention>Partai Bulan Bintang</Mention>
-    </Entity>
-    <Entity ClusterId="11">
-        <Mention>purnawirawan</Mention>
-    </Entity>
-    <Entity ClusterId="12">
-        <Mention>Kejaksaan Agung</Mention>
+        <Mention>partai</Mention>
     </Entity>
 </CoreferenceChain>

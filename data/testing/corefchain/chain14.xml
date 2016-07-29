@@ -1,60 +1,29 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <CoreferenceChain>
     <Entity ClusterId="1">
-        <Mention>JAKARTA</Mention>
+        <Mention>PDI Perjuangan</Mention>
+        <Mention>PDIP</Mention>
     </Entity>
     <Entity ClusterId="2">
-        <Mention>Parlemen Indonesia</Mention>
+        <Mention>Megawati</Mention>
+        <Mention>Megawati Soekarno Putri</Mention>
     </Entity>
     <Entity ClusterId="3">
-        <Mention>partai</Mention>
+        <Mention>Jawa Tengah</Mention>
     </Entity>
     <Entity ClusterId="4">
-        <Mention>daerah pemilihan</Mention>
+        <Mention>Stadion Manahan</Mention>
     </Entity>
     <Entity ClusterId="5">
-        <Mention>partai Demokrat</Mention>
+        <Mention>Pilkada</Mention>
     </Entity>
     <Entity ClusterId="6">
-        <Mention>Menteri Perhubungan</Mention>
+        <Mention>Jawa Barat</Mention>
     </Entity>
     <Entity ClusterId="7">
-        <Mention>Koperasi</Mention>
+        <Mention>Sumatera Utara</Mention>
     </Entity>
     <Entity ClusterId="8">
-        <Mention>Menteri hukum dan HAM</Mention>
-    </Entity>
-    <Entity ClusterId="9">
-        <Mention>Jero Wacik</Mention>
-    </Entity>
-    <Entity ClusterId="10">
-        <Mention>Menteri Pemuda dan Olahraga</Mention>
-        <Mention>Roy Suryo</Mention>
-    </Entity>
-    <Entity ClusterId="11">
-        <Mention>PKS</Mention>
-    </Entity>
-    <Entity ClusterId="12">
-        <Mention>Menteri Pertanian</Mention>
-    </Entity>
-    <Entity ClusterId="13">
-        <Mention>Suswono</Mention>
-    </Entity>
-    <Entity ClusterId="14">
-        <Mention>menteri Komunikasi dan Informatika</Mention>
-        <Mention>Tifatul Sembiring</Mention>
-    </Entity>
-    <Entity ClusterId="15">
-        <Mention>PAN</Mention>
-        <Mention>PKB</Mention>
-    </Entity>
-    <Entity ClusterId="16">
-        <Mention>Menteri Kehutanan</Mention>
-    </Entity>
-    <Entity ClusterId="17">
-        <Mention>Helmy Faishal Zaini</Mention>
-        <Mention>Menakertrans</Mention>
-        <Mention>Menteri PDT</Mention>
-        <Mention>Muhaimin Iskandar</Mention>
+        <Mention>Mahkamah Konstitusi</Mention>
     </Entity>
 </CoreferenceChain>

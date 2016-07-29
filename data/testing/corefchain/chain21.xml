@@ -7,38 +7,31 @@
         <Mention>Bali</Mention>
     </Entity>
     <Entity ClusterId="3">
-        <Mention>ANTARA News</Mention>
-    </Entity>
-    <Entity ClusterId="4">
-        <Mention>mantan Menkeu</Mention>
         <Mention>Menko Perekonomian</Mention>
         <Mention>Menteri Koordinator Bidang Perekonomian</Mention>
     </Entity>
-    <Entity ClusterId="5">
+    <Entity ClusterId="4">
         <Mention>Hatta Rajasa</Mention>
     </Entity>
-    <Entity ClusterId="6">
+    <Entity ClusterId="5">
         <Mention>Menteri</Mention>
     </Entity>
-    <Entity ClusterId="7">
+    <Entity ClusterId="6">
         <Mention>Presiden Yudhoyono</Mention>
     </Entity>
+    <Entity ClusterId="7">
+        <Mention>mantan Menkeu</Mention>
+    </Entity>
     <Entity ClusterId="8">
-        <Mention>BI</Mention>
-    </Entity>
-    <Entity ClusterId="9">
-        <Mention>Pemerintah</Mention>
-    </Entity>
-    <Entity ClusterId="10">
         <Mention>MP3</Mention>
     </Entity>
-    <Entity ClusterId="11">
+    <Entity ClusterId="9">
         <Mention>Kementerian Koordinator Perekonomian</Mention>
     </Entity>
-    <Entity ClusterId="12">
+    <Entity ClusterId="10">
         <Mention>BUMN</Mention>
     </Entity>
-    <Entity ClusterId="13">
+    <Entity ClusterId="11">
         <Mention>APBN</Mention>
     </Entity>
 </CoreferenceChain>

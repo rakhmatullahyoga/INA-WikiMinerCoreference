@@ -5,14 +5,13 @@
     </Entity>
     <Entity ClusterId="2">
         <Mention>Center for Strategic and International Studies</Mention>
-        <Mention>CSIS</Mention>
     </Entity>
     <Entity ClusterId="3">
-        <Mention>parpol</Mention>
-        <Mention>partai</Mention>
+        <Mention>CSIS</Mention>
     </Entity>
     <Entity ClusterId="4">
-        <Mention>provinsi</Mention>
+        <Mention>parpol</Mention>
+        <Mention>partai</Mention>
     </Entity>
     <Entity ClusterId="5">
         <Mention>Air</Mention>
@@ -35,18 +34,9 @@
         <Mention>parlemen</Mention>
     </Entity>
     <Entity ClusterId="11">
-        <Mention>politik</Mention>
-    </Entity>
-    <Entity ClusterId="12">
-        <Mention>sosialisasi</Mention>
-    </Entity>
-    <Entity ClusterId="13">
         <Mention>Vermonte</Mention>
     </Entity>
-    <Entity ClusterId="14">
+    <Entity ClusterId="12">
         <Mention>Jakarta</Mention>
-    </Entity>
-    <Entity ClusterId="15">
-        <Mention>Juli</Mention>
     </Entity>
 </CoreferenceChain>

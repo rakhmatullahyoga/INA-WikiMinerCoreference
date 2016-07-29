@@ -1,0 +1,38 @@
+Maluku Utara [NP]
+Maluku
+Kepulauan Riau [NP]
+Kepulauan Bangka Belitung [NP]
+Kota Manado [NP]
+Kalimantan
+Bengkulu
+Papua Barat [NP]
+Sulawesi Barat [NP]
+Papua
+Sulawesi Tengah [NP]
+Sulawesi Utara [NP]
+Kalimantan Timur [NP]
+Sulawesi Selatan [NP]
+Lampung
+Sulawesi
+Riau
+Kalimantan Selatan [NP]
+Daerah Khusus Ibukota Jakarta [NP]
+Perguruan tinggi [NP]
+Indonesia
+Tempo.co
+Jawa Tengah [NP]
+Maratua, Berau [NP]
+Enggano
+Kementerian Kelautan dan Perikanan Republik Indonesia [NP]
+Pulau Manado Tua [NP]
+Kabupaten Alor [NP]
+Pendapatan per kapita [NP]
+Pulau Miangas [NP]
+Badan usaha milik negara [NP, VP]
+Gangga (Hindu) [NP]
+Nusa Tenggara Barat [NP]
+NTT
+Nusakambangan
+Direktorat Jenderal [NP]
+Pulau Sebatik [NP]
+15 Mei [NP]

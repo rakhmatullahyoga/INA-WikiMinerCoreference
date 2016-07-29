@@ -1,63 +1,85 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <CoreferenceChain>
     <Entity ClusterId="1">
-        <Mention>Komisi Pemilihan Umum (KPU</Mention>
-        <Mention>KPU</Mention>
+        <Mention>kaum Muslim</Mention>
+        <Mention>Muslim</Mention>
+        <Mention>umat Muslim</Mention>
     </Entity>
     <Entity ClusterId="2">
-        <Mention>Legislatif</Mention>
+        <Mention>Kristen</Mention>
     </Entity>
     <Entity ClusterId="3">
-        <Mention>Metrotvnews.com</Mention>
+        <Mention>Palestina</Mention>
     </Entity>
     <Entity ClusterId="4">
-        <Mention>DPR</Mention>
+        <Mention>REPUBLIKA.CO.ID</Mention>
     </Entity>
     <Entity ClusterId="5">
-        <Mention>Pemilu 2014</Mention>
+        <Mention>Kairo</Mention>
+        <Mention>KAIRO --</Mention>
     </Entity>
     <Entity ClusterId="6">
-        <Mention>Jakarta</Mention>
+        <Mention>Mahmoud Abbas</Mention>
     </Entity>
     <Entity ClusterId="7">
-        <Mention>jeli</Mention>
+        <Mention>Kristen Arab</Mention>
     </Entity>
     <Entity ClusterId="8">
-        <Mention>Pemilu</Mention>
+        <Mention>Jerusalem</Mention>
     </Entity>
     <Entity ClusterId="9">
-        <Mention>PKPI</Mention>
+        <Mention>Bethlehem</Mention>
     </Entity>
     <Entity ClusterId="10">
-        <Mention>selanjutnya</Mention>
+        <Mention>Mesir</Mention>
     </Entity>
     <Entity ClusterId="11">
-        <Mention>Gerindra</Mention>
-        <Mention>Hanura</Mention>
-        <Mention>PAN</Mention>
-        <Mention>Partai Kebangkitan Bangsa</Mention>
-        <Mention>partai Persatuan Pembangunan (PPP</Mention>
-        <Mention>PDI-P</Mention>
-        <Mention>PKB</Mention>
+        <Mention>Israel</Mention>
     </Entity>
     <Entity ClusterId="12">
-        <Mention>PBB</Mention>
+        <Mention>Islam</Mention>
     </Entity>
     <Entity ClusterId="13">
-        <Mention>PKS</Mention>
+        <Mention>masjid al-Aqsa</Mention>
     </Entity>
     <Entity ClusterId="14">
-        <Mention>parpol</Mention>
-        <Mention>partai politik</Mention>
+        <Mention>fatwa</Mention>
     </Entity>
     <Entity ClusterId="15">
-        <Mention>Media Indonesia</Mention>
+        <Mention>Nabi Muhammad</Mention>
     </Entity>
     <Entity ClusterId="16">
-        <Mention>2014</Mention>
+        <Mention>masjid</Mention>
     </Entity>
     <Entity ClusterId="17">
-        <Mention>kartu tanda penduduk</Mention>
-        <Mention>KTP</Mention>
+        <Mention>Yusuf al-Qaradawi</Mention>
+    </Entity>
+    <Entity ClusterId="18">
+        <Mention>hukum Islam</Mention>
+    </Entity>
+    <Entity ClusterId="19">
+        <Mention>Hamas</Mention>
+    </Entity>
+    <Entity ClusterId="20">
+        <Mention>Jalur Gaza</Mention>
+    </Entity>
+    <Entity ClusterId="21">
+        <Mention>Otoritas Palestina</Mention>
+    </Entity>
+    <Entity ClusterId="22">
+        <Mention>Arab</Mention>
+    </Entity>
+    <Entity ClusterId="23">
+        <Mention>Liga Arab</Mention>
+        <Mention>negara Arab</Mention>
+    </Entity>
+    <Entity ClusterId="24">
+        <Mention>Libia</Mention>
+    </Entity>
+    <Entity ClusterId="25">
+        <Mention>dolar AS</Mention>
+    </Entity>
+    <Entity ClusterId="26">
+        <Mention>Doha</Mention>
     </Entity>
 </CoreferenceChain>

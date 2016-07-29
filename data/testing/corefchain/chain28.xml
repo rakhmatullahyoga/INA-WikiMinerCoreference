@@ -1,65 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <CoreferenceChain>
     <Entity ClusterId="1">
-        <Mention>Jateng</Mention>
-        <Mention>Jawa Tengah</Mention>
+        <Mention>Jakarta</Mention>
     </Entity>
     <Entity ClusterId="2">
-        <Mention>Bibit Waluyo</Mention>
-        <Mention>Don Murdono</Mention>
-        <Mention>Ganjar Pranowo</Mention>
-        <Mention>gubernur Jawa Tengah</Mention>
-        <Mention>Hadi Prabowo</Mention>
-        <Mention>Heru Sudjatmoko</Mention>
-        <Mention>Sudijono</Mention>
+        <Mention>menteri perdagangan</Mention>
+        <Mention>Menteri Perdagangan Republik Indonesia</Mention>
     </Entity>
     <Entity ClusterId="3">
-        <Mention>TEMPO</Mention>
+        <Mention>Gita Wirjawan</Mention>
     </Entity>
     <Entity ClusterId="4">
-        <Mention>Magelang</Mention>
-    </Entity>
-    <Entity ClusterId="5">
-        <Mention>Komisi Pemberantasan Korupsi</Mention>
-    </Entity>
-    <Entity ClusterId="6">
-        <Mention>KPK</Mention>
-    </Entity>
-    <Entity ClusterId="7">
-        <Mention>22 April</Mention>
-    </Entity>
-    <Entity ClusterId="8">
-        <Mention>2013</Mention>
-    </Entity>
-    <Entity ClusterId="9">
-        <Mention>Mojo</Mention>
-    </Entity>
-    <Entity ClusterId="10">
-        <Mention>pilkada</Mention>
-    </Entity>
-    <Entity ClusterId="11">
-        <Mention>Tembalang</Mention>
-    </Entity>
-    <Entity ClusterId="12">
-        <Mention>bulannya</Mention>
-    </Entity>
-    <Entity ClusterId="13">
-        <Mention>26 Mei</Mention>
-    </Entity>
-    <Entity ClusterId="14">
         <Mention>Partai Demokrat</Mention>
     </Entity>
-    <Entity ClusterId="15">
-        <Mention>Gerindra</Mention>
-        <Mention>Hanura</Mention>
-        <Mention>PAN</Mention>
-        <Mention>PDI Perjuangan</Mention>
-        <Mention>PKB</Mention>
-    </Entity>
-    <Entity ClusterId="16">
-        <Mention>Golkar</Mention>
-    </Entity>
-    <Entity ClusterId="17">
-        <Mention>PKS</Mention>
+    <Entity ClusterId="5">
+        <Mention>mau</Mention>
     </Entity>
 </CoreferenceChain>

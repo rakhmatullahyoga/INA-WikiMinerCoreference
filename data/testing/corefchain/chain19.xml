@@ -1,41 +1,40 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <CoreferenceChain>
     <Entity ClusterId="1">
-        <Mention>Pemilu</Mention>
+        <Mention>Ical</Mention>
     </Entity>
     <Entity ClusterId="2">
-        <Mention>Metrotvnews.com</Mention>
+        <Mention>Wiranto</Mention>
     </Entity>
     <Entity ClusterId="3">
-        <Mention>Jakarta</Mention>
+        <Mention>Metrotvnews.com</Mention>
     </Entity>
     <Entity ClusterId="4">
-        <Mention>Universitas Indonesia</Mention>
+        <Mention>Jakarta</Mention>
     </Entity>
     <Entity ClusterId="5">
-        <Mention>Komisi Pemilihan Umum (KPU</Mention>
-        <Mention>KPU</Mention>
-        <Mention>KPUD</Mention>
+        <Mention>Aburizal Bakrie</Mention>
     </Entity>
     <Entity ClusterId="6">
-        <Mention>parpol</Mention>
+        <Mention>Pemilu 2014</Mention>
     </Entity>
     <Entity ClusterId="7">
-        <Mention>Bawaslu</Mention>
+        <Mention>7 April</Mention>
     </Entity>
     <Entity ClusterId="8">
-        <Mention>Media Indonesia</Mention>
+        <Mention>air</Mention>
     </Entity>
     <Entity ClusterId="9">
-        <Mention>Kemendagri</Mention>
+        <Mention>Golkar</Mention>
+        <Mention>Ketua Umum Partai Golkar</Mention>
     </Entity>
     <Entity ClusterId="10">
-        <Mention>Indonesia</Mention>
+        <Mention>Partai Hanura</Mention>
     </Entity>
     <Entity ClusterId="11">
-        <Mention>E-KTP</Mention>
+        <Mention>koruptif</Mention>
     </Entity>
     <Entity ClusterId="12">
-        <Mention>2014</Mention>
+        <Mention>Indonesia</Mention>
     </Entity>
 </CoreferenceChain>

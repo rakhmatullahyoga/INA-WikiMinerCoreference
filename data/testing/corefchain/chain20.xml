@@ -1,49 +1,42 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <CoreferenceChain>
     <Entity ClusterId="1">
-        <Mention>Panglima TNI</Mention>
+        <Mention>Giulio Andreotti</Mention>
     </Entity>
     <Entity ClusterId="2">
-        <Mention>Kepala Staf TNI Angkatan Darat</Mention>
-        <Mention>KSAD</Mention>
+        <Mention>PM</Mention>
     </Entity>
     <Entity ClusterId="3">
-        <Mention>Jakarta</Mention>
+        <Mention>Italia</Mention>
     </Entity>
     <Entity ClusterId="4">
-        <Mention>ANTARA News</Mention>
+        <Mention>Roma</Mention>
     </Entity>
     <Entity ClusterId="5">
-        <Mention>TNI</Mention>
+        <Mention>perdana menteri Italia</Mention>
     </Entity>
     <Entity ClusterId="6">
-        <Mention>Agus Suhartono</Mention>
+        <Mention>Partai Kristen Demokrat</Mention>
     </Entity>
     <Entity ClusterId="7">
-        <Mention>Jenderal</Mention>
+        <Mention>Perang Dunia II</Mention>
     </Entity>
     <Entity ClusterId="8">
-        <Mention>Pramono Edhie Wibowo</Mention>
+        <Mention>1945</Mention>
     </Entity>
     <Entity ClusterId="9">
-        <Mention>5 Mei</Mention>
+        <Mention>paa</Mention>
     </Entity>
     <Entity ClusterId="10">
-        <Mention>Lanud Halim Perdanakusuma</Mention>
+        <Mention>1990</Mention>
     </Entity>
     <Entity ClusterId="11">
-        <Mention>Presiden Susilo Bambang Yudhoyono</Mention>
+        <Mention>menteri dalam negeri</Mention>
     </Entity>
     <Entity ClusterId="12">
-        <Mention>DPR</Mention>
+        <Mention>menteri keuangan</Mention>
     </Entity>
     <Entity ClusterId="13">
-        <Mention>mau</Mention>
-    </Entity>
-    <Entity ClusterId="14">
-        <Mention>wartawan</Mention>
-    </Entity>
-    <Entity ClusterId="15">
-        <Mention>Pemilu 2014</Mention>
+        <Mention>Reuters</Mention>
     </Entity>
 </CoreferenceChain>

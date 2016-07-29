@@ -72,27 +72,27 @@ public class CoreferenceMain {
         corefChain = null;
     }
 
-    public void annotate(String originalMarkup) throws Exception {
+    public void annotate(String originalMarkup, boolean exactLink) throws Exception {
         // preprocess the input
         PreprocessedDocument doc = _preprocessor.preprocess(originalMarkup) ;
         
         // detect all topic mentioned in the input
         Collection<Topic> allTopics = _topicDetector.getTopics(doc, null) ;
         ArrayList<Topic> bestTopics = _linkDetector.getBestTopics(allTopics, CoreferenceConstants.TOPIC_THRESHOLD) ;
-        System.out.println("\nAll detected topics:") ;
+//        System.out.println("\nAll detected topics:") ;
         for(Topic t:allTopics) {
-            System.out.println(" - " + t.getTitle() + " (" + t.getAverageLinkProbability() + ")") ;
-            if(t.getAverageLinkProbability() > CoreferenceConstants.TOPIC_THRESHOLD && !bestTopics.contains(t)) {
+//            System.out.println(" - " + t.getTitle() + " (" + t.getAverageLinkProbability() + ")") ;
+            if(t.getRelatednessToContext()> CoreferenceConstants.TOPIC_THRESHOLD && !bestTopics.contains(t)) {
                 bestTopics.add(t);
             }
         }
         
-        System.out.println("\nTopics that are probably good links:") ;
-        for (Topic t:bestTopics)
-            System.out.println(" - " + t.getTitle() + "[" + t.getWeight() + "]" ) ;
+//        System.out.println("\nTopics that are probably good links:") ;
+//        for (Topic t:bestTopics)
+//            System.out.println(" - " + t.getTitle() + "[" + t.getWeight() + "]" ) ;
         
         // tagging for coreference resolution
-        _tagger.tag(doc, bestTopics, DocumentTagger.RepeatMode.ALL, _wikipedia) ;
+        _tagger.tag(doc, bestTopics, DocumentTagger.RepeatMode.ALL, _wikipedia, exactLink) ;
         newMarkup = _tagger.getAnnotatedCoref();
         corefChain = _tagger.getMentionCluster();
         System.out.println("\nAugmented markup (Entity linking + Coreference):\n" + newMarkup + "\n");
@@ -106,6 +106,20 @@ public class CoreferenceMain {
             Logger.getLogger(CoreferenceMain.class.getName()).log(Level.SEVERE, null, ex);
         }
     }
+    
+//    public void writeTopics(String path) {
+//        try (PrintWriter writer = new PrintWriter(path, "UTF-8")) {
+//            for(Topic t:bestTopics) {
+//                writer.print(t.getTitle());
+//                if(NLPTools.isPhrase(t.getTitle()))
+//                    writer.print(" "+NLPTools.getPhraseType(t.getTitle()));
+//                writer.println();
+//            }
+//            writer.close();
+//        } catch (FileNotFoundException | UnsupportedEncodingException ex) {
+//            Logger.getLogger(CoreferenceMain.class.getName()).log(Level.SEVERE, null, ex);
+//        }
+//    }
 
     public void writeCorefChain(String path) {
         try {
@@ -165,7 +179,8 @@ public class CoreferenceMain {
             System.out.println("Input raw text:\n"+input);
 
             annotator.init();
-            annotator.annotate(input);
+            annotator.annotate(input,false);
+//            annotator.writeTopics(CoreferenceConstants.TOPICS_PATH+"topics"+i+".txt");
             annotator.writeAnnotated(CoreferenceConstants.ANNOTATED_PATH+"annotated"+i+".txt");
             annotator.writeCorefChain(CoreferenceConstants.CHAIN_PATH+"chain"+i+".xml");
         }
@@ -179,8 +194,7 @@ public class CoreferenceMain {
 //        
 //        String input = new String(data, "UTF-8");
 //        System.out.println("Input raw text:\n"+input);
-//        annotator = new CoreferenceMain(wikipedia) ;
-//        annotator.annotate(input);
+//        annotator.annotate(input,true);
 //        annotator.writeAnnotated(CoreferenceConstants.ANNOTATED_PATH_DEV+"annotated.txt");
 //        annotator.writeCorefChain(CoreferenceConstants.CHAIN_PATH_DEV+"chain.xml");
     }

@@ -1,71 +1,43 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <CoreferenceChain>
     <Entity ClusterId="1">
-        <Mention>M Nasir</Mention>
-        <Mention>M. Nasir</Mention>
+        <Mention>JK</Mention>
+        <Mention>Muhammad Jusuf Kalla</Mention>
     </Entity>
     <Entity ClusterId="2">
-        <Mention>DPR</Mention>
-        <Mention>DPR RI</Mention>
+        <Mention>Metrotvnews.com</Mention>
     </Entity>
     <Entity ClusterId="3">
         <Mention>Jakarta</Mention>
     </Entity>
     <Entity ClusterId="4">
-        <Mention>ANTARA News</Mention>
+        <Mention>Perdana Menteri</Mention>
     </Entity>
     <Entity ClusterId="5">
-        <Mention>Fraksi Demokrat</Mention>
-        <Mention>Partai Demokrat</Mention>
+        <Mention>Kamboja</Mention>
     </Entity>
     <Entity ClusterId="6">
-        <Mention>korupsi</Mention>
+        <Mention>Hun Sen</Mention>
     </Entity>
     <Entity ClusterId="7">
-        <Mention>anggota legislatif</Mention>
+        <Mention>21 Mei</Mention>
     </Entity>
     <Entity ClusterId="8">
-        <Mention>Komisi Pemilihan Umum (KPU</Mention>
-        <Mention>KPU</Mention>
+        <Mention>ASEAN</Mention>
     </Entity>
     <Entity ClusterId="9">
-        <Mention>Ayub Khan</Mention>
+        <Mention>Laut China Selatan</Mention>
     </Entity>
     <Entity ClusterId="10">
-        <Mention>DPRD</Mention>
-        <Mention>DPRD Kabupaten</Mention>
+        <Mention>Filipina</Mention>
     </Entity>
     <Entity ClusterId="11">
-        <Mention>Jawa Timur</Mention>
+        <Mention>Vietnam</Mention>
     </Entity>
     <Entity ClusterId="12">
-        <Mention>Kementerian Pemuda dan Olahraga</Mention>
+        <Mention>Makassar</Mention>
     </Entity>
     <Entity ClusterId="13">
-        <Mention>vaksin</Mention>
-    </Entity>
-    <Entity ClusterId="14">
-        <Mention>flu burung</Mention>
-    </Entity>
-    <Entity ClusterId="15">
-        <Mention>PT Jamsostek</Mention>
-    </Entity>
-    <Entity ClusterId="16">
-        <Mention>Jember</Mention>
-    </Entity>
-    <Entity ClusterId="17">
-        <Mention>partai</Mention>
-    </Entity>
-    <Entity ClusterId="18">
-        <Mention>Majelis Tinggi</Mention>
-    </Entity>
-    <Entity ClusterId="19">
-        <Mention>Jero Wacik</Mention>
-    </Entity>
-    <Entity ClusterId="20">
-        <Mention>WIB</Mention>
-    </Entity>
-    <Entity ClusterId="21">
-        <Mention>Pemilu 2014</Mention>
+        <Mention>Sulawesi Selatan</Mention>
     </Entity>
 </CoreferenceChain>

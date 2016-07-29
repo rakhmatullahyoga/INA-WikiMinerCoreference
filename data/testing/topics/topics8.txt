@@ -1,0 +1,20 @@
+Partai Demokrat [NP]
+Partai Golongan Karya [NP]
+Bibit Waluyo [NP]
+Rustriningsih
+Edhie Baskoro Yudhoyono [NP]
+Bali
+Korupsi
+Pemilihan kepala daerah di Indonesia [NP, PP]
+26 Mei [NP]
+Gubernur
+Aburizal Bakrie [NP]
+Jawa Tengah [NP]
+Pemilihan umum [NP]
+19 Mei [NP]
+Kabupaten Wonosobo [NP]
+Daftar Gubernur Jawa Tengah [NP]
+Kota Magelang [NP]
+Tempo.co
+2018
+Calendar (aplikasi) [NP]

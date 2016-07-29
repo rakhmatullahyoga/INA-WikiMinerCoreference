@@ -1,0 +1,32 @@
+Ganjar Pranowo [NP]
+Heru Sudjatmoko [NP]
+Bibit Waluyo [NP]
+Partai Demokrasi Indonesia Perjuangan [NP]
+Partai Demokrat [NP]
+Don Murdono [NP]
+Partai Kebangkitan Bangsa [NP]
+Partai Golongan Karya [NP]
+Hadi Prabowo [NP]
+Partai Gerakan Indonesia Raya [NP]
+Partai Hati Nurani Rakyat [NP]
+Partai Amanat Nasional [NP]
+Daftar Gubernur Jawa Tengah [NP]
+KPK
+Kota Magelang [NP]
+26 Mei [NP]
+Komisi Pemberantasan Korupsi Republik Indonesia [NP]
+Tempo (majalah) [NP, VP]
+Jawa Tengah [NP]
+2013
+Pemilihan kepala daerah di Indonesia [NP, PP]
+Sudijono Sastroatmodjo [NP]
+Korupsi
+Prabowo Subianto [NP]
+Tembalang, Semarang [NP]
+Hadits
+Mojo, Kediri [NP]
+PKS
+Bulan
+Tempo.co
+Daftar Wakil Gubernur Jawa Tengah [NP]
+22 April [NP]

@@ -1,32 +1,44 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <CoreferenceChain>
     <Entity ClusterId="1">
-        <Mention>Angel Lelga</Mention>
+        <Mention>Mega</Mention>
+        <Mention>Megawati</Mention>
     </Entity>
     <Entity ClusterId="2">
         <Mention>Metrotvnews.com</Mention>
     </Entity>
     <Entity ClusterId="3">
-        <Mention>Jakarta</Mention>
+        <Mention>Gianyar</Mention>
     </Entity>
     <Entity ClusterId="4">
-        <Mention>Partai Persatuan Pembangunan</Mention>
+        <Mention>PDIP</Mention>
     </Entity>
     <Entity ClusterId="5">
-        <Mention>penyanyi</Mention>
+        <Mention>Sukawati Gianyar</Mention>
     </Entity>
     <Entity ClusterId="6">
-        <Mention>Golkar</Mention>
-        <Mention>Partai Golkar</Mention>
+        <Mention>Bali</Mention>
     </Entity>
     <Entity ClusterId="7">
-        <Mention>Priyo Budi Santoso</Mention>
+        <Mention>Maruarar Sirait</Mention>
     </Entity>
     <Entity ClusterId="8">
-        <Mention>DPR</Mention>
+        <Mention>Rieke Diah Pitaloka</Mention>
     </Entity>
     <Entity ClusterId="9">
-        <Mention>parpol</Mention>
-        <Mention>partai politik</Mention>
+        <Mention>dupa</Mention>
+    </Entity>
+    <Entity ClusterId="10">
+        <Mention>Hindu</Mention>
+    </Entity>
+    <Entity ClusterId="11">
+        <Mention>presiden RI</Mention>
+    </Entity>
+    <Entity ClusterId="12">
+        <Mention>teriak</Mention>
+    </Entity>
+    <Entity ClusterId="13">
+        <Mention>presiden pertama</Mention>
+        <Mention>Soekarno</Mention>
     </Entity>
 </CoreferenceChain>

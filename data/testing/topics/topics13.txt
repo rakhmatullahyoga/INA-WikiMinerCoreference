@@ -1,0 +1,25 @@
+Partai Persatuan Pembangunan [NP]
+Partai Kebangkitan Bangsa [NP]
+PPP
+Partai Demokrasi Indonesia Perjuangan [NP]
+Partai Keadilan dan Persatuan Indonesia [NP]
+Pemilihan umum legislatif Indonesia 2014 [NP, NP, CDP]
+Komisi Pemilihan Umum [NP]
+Dewan Perwakilan Rakyat Republik Indonesia [NP]
+Partai Hati Nurani Rakyat [NP]
+Partai Gerakan Indonesia Raya [NP]
+Partai Amanat Nasional [NP]
+Partai politik [NP]
+PKS
+Partai Demokrasi Indonesia [NP]
+Pemilihan umum [NP]
+2014
+MetroTV
+Legislatif
+Perserikatan Bangsa-Bangsa [NP]
+.com [NP]
+Daerah Khusus Ibukota Jakarta [NP]
+Jajahan Jeli [NP]
+Indonesia
+Media Indonesia [NP]
+Kartu Tanda Penduduk [NP]

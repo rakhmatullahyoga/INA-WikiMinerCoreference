@@ -1,60 +1,76 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <CoreferenceChain>
     <Entity ClusterId="1">
-        <Mention>Ical</Mention>
+        <Mention>Korea Utara</Mention>
+        <Mention>Korut</Mention>
     </Entity>
     <Entity ClusterId="2">
-        <Mention>Edhie Baskoro Yudhoyono</Mention>
-        <Mention>Ibas</Mention>
+        <Mention>Seoul</Mention>
     </Entity>
     <Entity ClusterId="3">
-        <Mention>Bibit Waluyo</Mention>
-        <Mention>Rustriningsih</Mention>
+        <Mention>Semenanjung Korea</Mention>
     </Entity>
     <Entity ClusterId="4">
-        <Mention>TEMPO.CO</Mention>
+        <Mention>Pyongyang</Mention>
     </Entity>
     <Entity ClusterId="5">
-        <Mention>Magelang</Mention>
+        <Mention>Kim Il-Sung</Mention>
     </Entity>
     <Entity ClusterId="6">
-        <Mention>Partai Golkar</Mention>
+        <Mention>15 April</Mention>
     </Entity>
     <Entity ClusterId="7">
-        <Mention>Aburizal Bakrie</Mention>
+        <Mention>Scud</Mention>
+        <Mention>Scud --</Mention>
     </Entity>
     <Entity ClusterId="8">
-        <Mention>Partai Demokrat</Mention>
+        <Mention>Hamgyong Selatan</Mention>
     </Entity>
     <Entity ClusterId="9">
-        <Mention>gubernur</Mention>
+        <Mention>16 April</Mention>
     </Entity>
     <Entity ClusterId="10">
-        <Mention>Jateng</Mention>
-        <Mention>Jawa Tengah</Mention>
+        <Mention>Kementerian Pertahanan</Mention>
     </Entity>
     <Entity ClusterId="11">
-        <Mention>2018</Mention>
+        <Mention>Laut Jepang</Mention>
+        <Mention>Laut Timur</Mention>
     </Entity>
     <Entity ClusterId="12">
-        <Mention>Pemilu</Mention>
+        <Mention>PBB</Mention>
     </Entity>
     <Entity ClusterId="13">
-        <Mention>26 Mei</Mention>
+        <Mention>uji coba nuklir</Mention>
     </Entity>
     <Entity ClusterId="14">
-        <Mention>19 Mei</Mention>
+        <Mention>Amerika Serikat</Mention>
+        <Mention>AS</Mention>
     </Entity>
     <Entity ClusterId="15">
-        <Mention>Pilkada</Mention>
+        <Mention>Korsel</Mention>
     </Entity>
     <Entity ClusterId="16">
-        <Mention>Bali</Mention>
+        <Mention>perang nuklir</Mention>
     </Entity>
     <Entity ClusterId="17">
-        <Mention>korupsi</Mention>
+        <Mention>25 April</Mention>
     </Entity>
     <Entity ClusterId="18">
-        <Mention>Wonosobo</Mention>
+        <Mention>2.500</Mention>
+    </Entity>
+    <Entity ClusterId="19">
+        <Mention>Jepang</Mention>
+    </Entity>
+    <Entity ClusterId="20">
+        <Mention>Guam</Mention>
+    </Entity>
+    <Entity ClusterId="21">
+        <Mention>Presiden AS</Mention>
+    </Entity>
+    <Entity ClusterId="22">
+        <Mention>Barack Obama</Mention>
+    </Entity>
+    <Entity ClusterId="23">
+        <Mention>hulu ledak nuklir</Mention>
     </Entity>
 </CoreferenceChain>

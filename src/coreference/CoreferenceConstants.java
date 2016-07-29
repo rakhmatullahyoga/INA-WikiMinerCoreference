@@ -11,13 +11,14 @@ package coreference;
  */
 public class CoreferenceConstants {
     // coreference parameter constants
-    public static final double TOPIC_THRESHOLD = 0.155;
-    public static final double COREFERENCE_THRESHOLD = 0.8;
+    public static final double TOPIC_THRESHOLD = 0.2;
+    public static final double COREFERENCE_THRESHOLD = 0.85;
     
     // path constants
     public static final String RAW_PATH = "./data/testing/raw/";
     public static final String ANNOTATED_PATH = "./data/testing/corefannotated/";
     public static final String CHAIN_PATH = "./data/testing/corefchain/";
+    public static final String TOPICS_PATH = "./data/testing/topics/";
     // path for development
     public static final String RAW_PATH_DEV = "./data/development/raw/";
     public static final String ANNOTATED_PATH_DEV = "./data/development/corefannotated/";
