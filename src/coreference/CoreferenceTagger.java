@@ -117,7 +117,7 @@ public class CoreferenceTagger {
                 int cluster = clusterID.indexOf(topicCorefCluster.get(topic.getId()));
                 wikifiedText.append(originalText.substring(lastIndex, start));
                 wikifiedText.append(getTag(originalText.substring(start, end), topic, cluster));
-                if(!mentionCluster.get(cluster).contains(originalText.substring(start, end)))
+//                if(!mentionCluster.get(cluster).contains(originalText.substring(start, end)))
                     mentionCluster.get(cluster).add(originalText.substring(start, end));
 
                 lastIndex = end ;

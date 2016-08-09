@@ -11,7 +11,7 @@ package coreference;
  */
 public class CoreferenceConstants {
     // coreference parameter constants
-    public static final double TOPIC_THRESHOLD = 0.2;
+    public static final double TOPIC_THRESHOLD = 0.15;
     public static final double COREFERENCE_THRESHOLD = 0.85;
     
     // path constants
@@ -20,7 +20,5 @@ public class CoreferenceConstants {
     public static final String CHAIN_PATH = "./data/testing/corefchain/";
     public static final String TOPICS_PATH = "./data/testing/topics/";
     // path for development
-    public static final String RAW_PATH_DEV = "./data/development/raw/";
-    public static final String ANNOTATED_PATH_DEV = "./data/development/corefannotated/";
-    public static final String CHAIN_PATH_DEV = "./data/development/corefchain/";
+    public static final String PATH_DEV = "./data/development/";
 }

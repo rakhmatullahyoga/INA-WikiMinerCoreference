@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>Perdana Menteri Inggris</Mention>
+        <Mention>PM Inggris</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>David Cameron</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>Jakarta</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>Joko Widodo</Mention>
+        <Mention>Presiden Jokowi</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>Istana Negara</Mention>
+    </Entity>
+</CoreferenceChain>
