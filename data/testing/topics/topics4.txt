@@ -1,9 +1,0 @@
-Komisi Pemilihan Umum [NP]
-Kabupaten Jombang [NP]
-Pemilihan kepala daerah di Indonesia [NP, PP]
-Jawa Timur [NP]
-Munir Said Thalib [NP]
-Hubungan masyarakat [NP]
-5 Juni [NP]
-Kecamatan
-Lembaga Kantor Berita Nasional Antara [NP, IN]

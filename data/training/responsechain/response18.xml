@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>Gerindra</Mention>
+        <Mention>Partai Gerindra</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>Inggris</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>OPM</Mention>
+        <Mention>Organisasi Papua Merdeka</Mention>
+        <Mention>Organisasi Papua Merdeka (OPM</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>REPUBLIKA.CO.ID</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>Jakarta</Mention>
+        <Mention>JAKARTA--</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>Fadli Zon</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>Indonesia</Mention>
+        <Mention>NKRI</Mention>
+        <Mention>RI</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>pemerintah</Mention>
+    </Entity>
+    <Entity ClusterId="9">
+        <Mention>Papua</Mention>
+    </Entity>
+    <Entity ClusterId="10">
+        <Mention>Separatisme</Mention>
+    </Entity>
+    <Entity ClusterId="11">
+        <Mention>Irlandia Utara</Mention>
+    </Entity>
+    <Entity ClusterId="12">
+        <Mention>Skotlandia</Mention>
+    </Entity>
+    <Entity ClusterId="13">
+        <Mention>Argentina</Mention>
+    </Entity>
+    <Entity ClusterId="14">
+        <Mention>dijajah</Mention>
+        <Mention>kolonialisme</Mention>
+    </Entity>
+    <Entity ClusterId="15">
+        <Mention>Irak</Mention>
+    </Entity>
+    <Entity ClusterId="16">
+        <Mention>British Petroleum</Mention>
+    </Entity>
+    <Entity ClusterId="17">
+        <Mention>Kerajaan Inggris</Mention>
+    </Entity>
+</CoreferenceChain>

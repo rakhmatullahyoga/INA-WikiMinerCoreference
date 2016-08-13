@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>Brunei Darussalam</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>Menteri</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>Marty Natalegawa</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>ASEAN</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>Indonesia</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>Asia Tenggara</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>Sultan Hassanal Bolkiah</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>Bandar Seri Begawan</Mention>
+    </Entity>
+    <Entity ClusterId="9">
+        <Mention>dolar AS</Mention>
+        <Mention>dollar AS</Mention>
+    </Entity>
+</CoreferenceChain>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>Giulio Andreotti</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>PM</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>Italia</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>Roma</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>perdana menteri Italia</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>Partai Kristen Demokrat</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>Perang Dunia II</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>1945</Mention>
+    </Entity>
+    <Entity ClusterId="9">
+        <Mention>paa</Mention>
+    </Entity>
+    <Entity ClusterId="10">
+        <Mention>1990</Mention>
+    </Entity>
+    <Entity ClusterId="11">
+        <Mention>menteri dalam negeri</Mention>
+    </Entity>
+    <Entity ClusterId="12">
+        <Mention>menteri keuangan</Mention>
+    </Entity>
+    <Entity ClusterId="13">
+        <Mention>Reuters</Mention>
+    </Entity>
+</CoreferenceChain>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>Jakarta</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>menteri perdagangan</Mention>
+        <Mention>Menteri Perdagangan Republik Indonesia</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>Gita Wirjawan</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>Partai Demokrat</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>mau</Mention>
+    </Entity>
+</CoreferenceChain>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>PBB</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>Metrotvnews.com</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>Kabupaten Sidoarjo</Mention>
+        <Mention>Sidoarjo</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>Partai Bulan Bintang</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>Yusril Ihza Mahendra</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>Polri</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>Susno Duadji</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>Pengadilan Tata Usaha Negara</Mention>
+        <Mention>PTUN</Mention>
+    </Entity>
+    <Entity ClusterId="9">
+        <Mention>Surabaya</Mention>
+    </Entity>
+    <Entity ClusterId="10">
+        <Mention>Kecamatan</Mention>
+    </Entity>
+    <Entity ClusterId="11">
+        <Mention>Waru</Mention>
+    </Entity>
+    <Entity ClusterId="12">
+        <Mention>Jawa Timur</Mention>
+    </Entity>
+    <Entity ClusterId="13">
+        <Mention>Menteri Hukum dan HAM</Mention>
+    </Entity>
+    <Entity ClusterId="14">
+        <Mention>Jawa Barat</Mention>
+    </Entity>
+    <Entity ClusterId="15">
+        <Mention>Jakarta</Mention>
+    </Entity>
+    <Entity ClusterId="16">
+        <Mention>korupsi</Mention>
+    </Entity>
+    <Entity ClusterId="17">
+        <Mention>Arowana</Mention>
+    </Entity>
+</CoreferenceChain>

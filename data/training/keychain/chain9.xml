@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>Jakarta</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>Presiden Susilo Bambang Yudhoyono</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>perang dunia kedua</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>du</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>Kepala Negara</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>TNI</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>Laksamana Agus Suhartono</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>Muhammad Nuh</Mention>
+    </Entity>
+    <Entity ClusterId="9">
+        <Mention>Indonesia</Mention>
+    </Entity>
+    <Entity ClusterId="10">
+        <Mention>Sudi SIlalahi</Mention>
+    </Entity>
+    <Entity ClusterId="11">
+        <Mention>perwira tinggi</Mention>
+    </Entity>
+</CoreferenceChain>

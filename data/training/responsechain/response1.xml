@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>Perdamaian</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>Israel</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>REPUBLIKA.CO.ID</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>Mahmoud Abbas</Mention>
+        <Mention>PRESIDEN PALESTINA</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>Jordania</Mention>
+        <Mention>Yordania</Mention>
+        <Mention>YORDANIA --</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>Forum Ekonomi Dunia</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>Timur Tengah</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>Afrika Utara</Mention>
+    </Entity>
+    <Entity ClusterId="9">
+        <Mention>Palestina</Mention>
+        <Mention>wilayah Palestina</Mention>
+    </Entity>
+    <Entity ClusterId="10">
+        <Mention>Yahudi</Mention>
+    </Entity>
+    <Entity ClusterId="11">
+        <Mention>Tepi Barat</Mention>
+    </Entity>
+    <Entity ClusterId="12">
+        <Mention>Xinhua</Mention>
+    </Entity>
+</CoreferenceChain>

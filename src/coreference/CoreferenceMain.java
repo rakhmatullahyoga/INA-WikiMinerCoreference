@@ -63,6 +63,10 @@ public class CoreferenceMain {
     private ArrayList<Set<String>> responseChain;
     private Collection<Topic> allTopics;
     private ArrayList<Topic> bestTopics;
+    private PreprocessedDocument doc;
+    private double recall;
+    private double precision;
+    private double fMeasure;
 
     public CoreferenceMain(Wikipedia wikipedia) throws Exception {
         _wikipedia = wikipedia;
@@ -77,35 +81,38 @@ public class CoreferenceMain {
     
     public void init() {
         newMarkup = null;
+        keyChain = null;
         responseChain = null;
         allTopics = null;
         bestTopics = null;
+        doc = null;
+        recall = 0.0;
+        precision = 0.0;
+        fMeasure = 0.0;
+    }
+    
+    public void gatherTopics(String originalMarkup, double topicThreshold) {
+        try {
+            // preprocess the input
+            doc = _preprocessor.preprocess(originalMarkup);
+            // detect all topic mentioned in the input
+            allTopics = _topicDetector.getTopics(doc, null);
+            bestTopics = _linkDetector.getBestTopics(allTopics, topicThreshold) ;
+            for(Topic t:allTopics) {
+                if(t.getAverageLinkProbability()> topicThreshold && !bestTopics.contains(t)) {
+                    bestTopics.add(t);
+                }
+            }
+        } catch (Exception ex) {
+            Logger.getLogger(CoreferenceMain.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }
 
-    public void annotate(String originalMarkup, boolean exactLink) throws Exception {
-        // preprocess the input
-        PreprocessedDocument doc = _preprocessor.preprocess(originalMarkup) ;
-        doc.getPreprocessedText();
-        // detect all topic mentioned in the input
-        allTopics = _topicDetector.getTopics(doc, null) ;
-        bestTopics = _linkDetector.getBestTopics(allTopics, CoreferenceConstants.TOPIC_THRESHOLD) ;
-//        System.out.println("\nAll detected topics:") ;
-        for(Topic t:allTopics) {
-//            System.out.println(" - " + t.getTitle() + " (" + t.getAverageLinkProbability() + ")") ;
-            if(t.getRelatednessToContext()> CoreferenceConstants.TOPIC_THRESHOLD && !bestTopics.contains(t)) {
-                bestTopics.add(t);
-            }
-        }
-        
-//        System.out.println("\nTopics that are probably good links:") ;
-//        for (Topic t:bestTopics)
-//            System.out.println(" - " + t.getTitle() + "[" + t.getWeight() + "]" ) ;
-        
+    public void annotate(String originalMarkup, boolean exactLink, double corefThreshold) throws Exception {
         // tagging for coreference resolution
-        _tagger.tag(doc, bestTopics, DocumentTagger.RepeatMode.ALL, _wikipedia, exactLink) ;
+        _tagger.tag(doc, bestTopics, DocumentTagger.RepeatMode.ALL, _wikipedia, exactLink, corefThreshold) ;
         newMarkup = _tagger.getAnnotatedCoref();
         responseChain = _tagger.getMentionCluster();
-        System.out.println("\nAugmented markup (Entity linking + Coreference):\n" + newMarkup + "\n");
     }
     
     public void writeAnnotated(String path) {
@@ -119,29 +126,27 @@ public class CoreferenceMain {
     
     public void writeTopics(String path) {
         try (PrintWriter writer = new PrintWriter(path, "UTF-8")) {
+            writer.println("All detected topics:");
+            for(Topic t:allTopics) {
+                writer.println(t.getTitle() + " (" + t.getWeight()+"/"+t.getAverageLinkProbability()+ " - " + t.getRelatednessToContext()+"/"+t.getRelatednessToOtherTopics() + ")");
+            }
+            writer.println("\nTopics that are probably good links:");
             for(Topic t:bestTopics) {
-                writer.print(t.getTitle());
-                writer.println();
+                writer.println(t.getTitle() + " (" + t.getWeight()+"/"+t.getAverageLinkProbability()+ " - " + t.getRelatednessToContext()+"/"+t.getRelatednessToOtherTopics() + ")");
             }
             writer.close();
-        } catch (FileNotFoundException | UnsupportedEncodingException ex) {
+        } catch (Exception ex) {
             Logger.getLogger(CoreferenceMain.class.getName()).log(Level.SEVERE, null, ex);
         }
     }
     
-    public void showResultAnalysys() {
-        double recall = compute(keyChain,responseChain);
-        double precision = compute(responseChain,keyChain);
-        double fMeasure = 2*precision*recall/(precision+recall);
-        System.out.println("\n*********************");
-        System.out.println("Result score");
-        System.out.println("*********************");
-        System.out.println("Recall: "+recall);
-        System.out.println("Precision: "+precision);
-        System.out.println("F-measure: "+fMeasure);
+    public void calculateScore() {
+        recall = computeMUC(keyChain,responseChain);
+        precision = computeMUC(responseChain,keyChain);
+        fMeasure = 2*precision*recall/(precision+recall);
     }
 
-    private double compute(ArrayList<Set<String>> chain1, ArrayList<Set<String>> chain2) {
+    private double computeMUC(ArrayList<Set<String>> chain1, ArrayList<Set<String>> chain2) {
         int pembilang = 0;
         int penyebut = 0;
         for(int i=0; i<chain1.size(); i++) {
@@ -161,7 +166,6 @@ public class CoreferenceMain {
             }
             pembilang += (Ki - (partition+partLeft));
             penyebut += (Ki-1);
-//            System.out.println(pembilang+"/"+penyebut);
         }
         return (double)pembilang/(double)penyebut;
     }
@@ -171,9 +175,9 @@ public class CoreferenceMain {
             File inputFile = new File(path);
             DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
             DocumentBuilder dBuilder = dbFactory.newDocumentBuilder();
-            Document doc = dBuilder.parse(inputFile);
-            doc.getDocumentElement().normalize();
-            NodeList nList = doc.getElementsByTagName("Entity");
+            Document xmlDoc = dBuilder.parse(inputFile);
+            xmlDoc.getDocumentElement().normalize();
+            NodeList nList = xmlDoc.getElementsByTagName("Entity");
             keyChain = new ArrayList<>();
             for(int i=0; i<nList.getLength(); i++) {
                 Node nNode = nList.item(i);
@@ -196,23 +200,23 @@ public class CoreferenceMain {
         try {
             DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
             DocumentBuilder dBuilder = dbFactory.newDocumentBuilder();
-            Document doc = dBuilder.newDocument();
+            Document xmlDoc = dBuilder.newDocument();
             
             // root element
-            Element rootElement = doc.createElement("CoreferenceChain");
-            doc.appendChild(rootElement);
+            Element rootElement = xmlDoc.createElement("CoreferenceChain");
+            xmlDoc.appendChild(rootElement);
             // entity element
             for(int i=0; i<responseChain.size(); i++) {
-                Element entity = doc.createElement("Entity");
+                Element entity = xmlDoc.createElement("Entity");
                 rootElement.appendChild(entity);
                 // setting attribute to element
-                Attr attr = doc.createAttribute("ClusterId");
+                Attr attr = xmlDoc.createAttribute("ClusterId");
                 attr.setValue(""+(i+1));
                 entity.setAttributeNode(attr);
                 for(String mention : responseChain.get(i)) {
                     // mention element
-                    Element carname = doc.createElement("Mention");
-                    carname.appendChild(doc.createTextNode(mention));
+                    Element carname = xmlDoc.createElement("Mention");
+                    carname.appendChild(xmlDoc.createTextNode(mention));
                     entity.appendChild(carname);
                 }
             }
@@ -221,7 +225,7 @@ public class CoreferenceMain {
             transformer.setOutputProperty(OutputKeys.INDENT, "yes");
             transformer.setOutputProperty("{http://xml.apache.org/xslt}indent-amount", "4");
             
-            DOMSource source = new DOMSource(doc);
+            DOMSource source = new DOMSource(xmlDoc);
             StreamResult result = new StreamResult(new File(path));
             transformer.transform(source, result);
         } catch (ParserConfigurationException ex) {
@@ -230,6 +234,88 @@ public class CoreferenceMain {
             Logger.getLogger(CoreferenceMain.class.getName()).log(Level.SEVERE, null, ex);
         } catch (TransformerException ex) {
             Logger.getLogger(CoreferenceMain.class.getName()).log(Level.SEVERE, null, ex);
+        }
+    }
+    
+    public void trainingParameters(int NbTrain) {
+        try (PrintWriter writer = new PrintWriter(CoreferenceConstants.TRAIN_PATH+"results.csv", "UTF-8")) {
+            writer.println("TopicWeight,CorefThreshold,P,R,F");
+            for(int i=0; i<=100; i++) {
+                double topicWeight = (double)i/(double)100;
+                for(int j=0; j<=100; j++) {
+                    double corefTres = (double)j/(double)100;
+                    double sumPrecision = 0.0;
+                    double sumRecall = 0.0;
+                    double sumFmeasure = 0.0;
+                    for(int k=0; k<NbTrain; k++) {
+                        File file = new File(CoreferenceConstants.TRAIN_RAW+"artikel"+k+".txt");
+                        FileInputStream fis = new FileInputStream(file);
+                        byte[] data = new byte[(int) file.length()];
+                        fis.read(data);
+                        fis.close();
+                        String input = new String(data, "UTF-8");
+                        init();
+                        readKeyChain(CoreferenceConstants.TRAIN_KEY+"key"+k+".xml");
+                        gatherTopics(input, topicWeight);
+                        annotate(input,false,corefTres);
+                        calculateScore();
+                        sumPrecision += precision;
+                        sumRecall += recall;
+                        sumFmeasure += fMeasure;
+                    }
+                    double avgPrecision = sumPrecision/(double)NbTrain;
+                    double avgRecall = sumRecall/(double)NbTrain;
+                    double avgFmeasure = sumFmeasure/(double)NbTrain;
+                    writer.println(topicWeight+","+corefTres+","+avgPrecision+","+avgRecall+","+avgFmeasure);
+                }
+            }
+        } catch (FileNotFoundException ex) {
+            Logger.getLogger(CoreferenceMain.class.getName()).log(Level.SEVERE, null, ex);
+        } catch (UnsupportedEncodingException ex) {
+            Logger.getLogger(CoreferenceMain.class.getName()).log(Level.SEVERE, null, ex);
+        } catch (IOException ex) {
+            Logger.getLogger(CoreferenceMain.class.getName()).log(Level.SEVERE, null, ex);
+        } catch (Exception ex) {
+            Logger.getLogger(CoreferenceMain.class.getName()).log(Level.SEVERE, null, ex);
+        }
+    }
+    
+    public void demo() {
+        FileInputStream fis = null;
+        try {
+            File file = new File(CoreferenceConstants.PATH_DEMO+"raw.txt");
+            fis = new FileInputStream(file);
+            byte[] data = new byte[(int) file.length()];
+            fis.read(data);
+            fis.close();
+            String input = new String(data, "UTF-8");
+            System.out.println("Input raw text:\n"+input);
+            init();
+            readKeyChain(CoreferenceConstants.PATH_DEMO+"key.xml");
+            gatherTopics(input, CoreferenceConstants.TOPIC_THRESHOLD);
+            annotate(input,false,CoreferenceConstants.COREFERENCE_THRESHOLD);
+            calculateScore();
+            writeTopics(CoreferenceConstants.PATH_DEMO+"topics.txt");
+            writeAnnotated(CoreferenceConstants.PATH_DEMO+"annotated.txt");
+            writeCorefChain(CoreferenceConstants.PATH_DEMO+"response.xml");
+            System.out.println("\n*********************");
+            System.out.println("Result score");
+            System.out.println("*********************");
+            System.out.println("Recall: "+recall);
+            System.out.println("Precision: "+precision);
+            System.out.println("F-measure: "+fMeasure);
+        } catch (FileNotFoundException ex) {
+            Logger.getLogger(CoreferenceMain.class.getName()).log(Level.SEVERE, null, ex);
+        } catch (IOException ex) {
+            Logger.getLogger(CoreferenceMain.class.getName()).log(Level.SEVERE, null, ex);
+        } catch (Exception ex) {
+            Logger.getLogger(CoreferenceMain.class.getName()).log(Level.SEVERE, null, ex);
+        } finally {
+            try {
+                fis.close();
+            } catch (IOException ex) {
+                Logger.getLogger(CoreferenceMain.class.getName()).log(Level.SEVERE, null, ex);
+            }
         }
     }
 
@@ -241,7 +327,7 @@ public class CoreferenceMain {
         
         // evaluate on 30 documents
 //        for(int i=0; i<30; i++) {
-//            File file = new File(CoreferenceConstants.RAW_PATH+"artikel"+i+".txt");
+//            File file = new File(CoreferenceConstants.TRAIN_RAW+"artikel"+i+".txt");
 //            FileInputStream fis = new FileInputStream(file);
 //            byte[] data = new byte[(int) file.length()];
 //            fis.read(data);
@@ -250,25 +336,14 @@ public class CoreferenceMain {
 //            System.out.println("Input raw text:\n"+input);
 //
 //            annotator.init();
-//            annotator.annotate(input,false);
-////            annotator.writeTopics(CoreferenceConstants.TOPICS_PATH+"topics"+i+".txt");
-//            annotator.writeAnnotated(CoreferenceConstants.ANNOTATED_PATH+"annotated"+i+".txt");
-//            annotator.writeCorefChain(CoreferenceConstants.CHAIN_PATH+"response"+i+".xml");
+//            annotator.gatherTopics(input, CoreferenceConstants.TOPIC_THRESHOLD);
+//            annotator.annotate(input,false,CoreferenceConstants.COREFERENCE_THRESHOLD);
+//            annotator.writeTopics(CoreferenceConstants.TOPICS_PATH+"topics"+i+".txt");
+//            annotator.writeAnnotated(CoreferenceConstants.TRAIN_ANNOTATED+"annotated"+i+".txt");
+//            annotator.writeCorefChain(CoreferenceConstants.TRAIN_RESPONSE+"response"+i+".xml");
 //        }
         
-        // development mode only 1 document
-        File file = new File(CoreferenceConstants.PATH_DEV+"raw.txt");
-        FileInputStream fis = new FileInputStream(file);
-        byte[] data = new byte[(int) file.length()];
-        fis.read(data);
-        fis.close();
-        
-        String input = new String(data, "UTF-8");
-        System.out.println("Input raw text:\n"+input);
-        annotator.readKeyChain(CoreferenceConstants.PATH_DEV+"key.xml");
-        annotator.annotate(input,false);
-        annotator.writeAnnotated(CoreferenceConstants.PATH_DEV+"annotated.txt");
-        annotator.writeCorefChain(CoreferenceConstants.PATH_DEV+"response.xml");
-        annotator.showResultAnalysys();
+        // demo mode only for 1 document
+        annotator.demo();
     }
 }

@@ -44,7 +44,7 @@ public class CoreferenceTagger {
         return "[[" + anchor + "|" + (corefCluster+1)/* + "|" + topic.getTitle() */+ "]]" ;
     }
     
-    public void tag(PreprocessedDocument doc, Collection<Topic> topics, DocumentTagger.RepeatMode repeatMode, Wikipedia wikipedia, boolean exactTopicLink) throws Exception {
+    public void tag(PreprocessedDocument doc, Collection<Topic> topics, DocumentTagger.RepeatMode repeatMode, Wikipedia wikipedia, boolean exactTopicLink, double corefThreshold) throws Exception {
         doc.resetRegionTracking() ;
 
         HashMap<Integer,Topic> topicsById = new HashMap<>() ;
@@ -78,7 +78,7 @@ public class CoreferenceTagger {
 //                System.out.println(topicList.get(j).getTitle()+" - "+topicList.get(i).getTitle()+" = "+relatedness);
             }
             // mark as coreferent
-            if(!exactTopicLink&&((maxRelatedness>CoreferenceConstants.COREFERENCE_THRESHOLD)&&(jMax!=i))) {
+            if(!exactTopicLink&&((maxRelatedness>corefThreshold)&&(jMax!=i))) {
                 topicCorefCluster.put(topicList.get(i).getId(), topicCorefCluster.get(topicList.get(jMax).getId()));
             }
             // create new cluster

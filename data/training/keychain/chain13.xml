@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>kaum Muslim</Mention>
+        <Mention>Muslim</Mention>
+        <Mention>umat Muslim</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>Kristen</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>Palestina</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>REPUBLIKA.CO.ID</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>Kairo</Mention>
+        <Mention>KAIRO --</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>Mahmoud Abbas</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>Kristen Arab</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>Jerusalem</Mention>
+    </Entity>
+    <Entity ClusterId="9">
+        <Mention>Bethlehem</Mention>
+    </Entity>
+    <Entity ClusterId="10">
+        <Mention>Mesir</Mention>
+    </Entity>
+    <Entity ClusterId="11">
+        <Mention>Israel</Mention>
+    </Entity>
+    <Entity ClusterId="12">
+        <Mention>Islam</Mention>
+    </Entity>
+    <Entity ClusterId="13">
+        <Mention>masjid al-Aqsa</Mention>
+    </Entity>
+    <Entity ClusterId="14">
+        <Mention>fatwa</Mention>
+    </Entity>
+    <Entity ClusterId="15">
+        <Mention>Nabi Muhammad</Mention>
+    </Entity>
+    <Entity ClusterId="16">
+        <Mention>masjid</Mention>
+    </Entity>
+    <Entity ClusterId="17">
+        <Mention>Yusuf al-Qaradawi</Mention>
+    </Entity>
+    <Entity ClusterId="18">
+        <Mention>hukum Islam</Mention>
+    </Entity>
+    <Entity ClusterId="19">
+        <Mention>Hamas</Mention>
+    </Entity>
+    <Entity ClusterId="20">
+        <Mention>Jalur Gaza</Mention>
+    </Entity>
+    <Entity ClusterId="21">
+        <Mention>Otoritas Palestina</Mention>
+    </Entity>
+    <Entity ClusterId="22">
+        <Mention>Arab</Mention>
+    </Entity>
+    <Entity ClusterId="23">
+        <Mention>Liga Arab</Mention>
+        <Mention>negara Arab</Mention>
+    </Entity>
+    <Entity ClusterId="24">
+        <Mention>Libia</Mention>
+    </Entity>
+    <Entity ClusterId="25">
+        <Mention>dolar AS</Mention>
+    </Entity>
+    <Entity ClusterId="26">
+        <Mention>Doha</Mention>
+    </Entity>
+</CoreferenceChain>
