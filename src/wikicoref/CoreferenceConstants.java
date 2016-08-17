@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package coreference;
+package wikicoref;
 
 /**
  *
@@ -20,11 +20,12 @@ public class CoreferenceConstants {
     public static final String TRAIN_RESPONSE = "./data/train/responsechain/";
     public static final String TRAIN_KEY = "./data/train/key/";
     public static final String TRAIN_PATH = "./data/train/";
+    public static final String TRAIN_TOPICS = "./data/train/topics/";
     
-    public static final String TOPICS_PATH = "./data/train/topics/";
     public static final String TEST_RAW = "./data/testing/raw/";
     public static final String TEST_ANNOTATED = "./data/testing/corefannotated/";
     public static final String TEST_RESPONSE = "./data/testing/responsechain/";
-    // path for development
+    
+    // path for demo
     public static final String PATH_DEMO = "./data/demo/";
 }

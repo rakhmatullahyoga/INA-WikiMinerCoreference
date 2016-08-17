@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package coreference;
+package wikicoref;
 
 import gnu.trove.map.hash.TIntDoubleHashMap;
 import java.util.ArrayList;

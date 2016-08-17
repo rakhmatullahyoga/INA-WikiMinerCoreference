@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package coreference;
+package wikicoref;
 
 import java.io.File;
 import java.io.FileInputStream;
@@ -338,7 +338,7 @@ public class CoreferenceMain {
 //            annotator.init();
 //            annotator.gatherTopics(input, CoreferenceConstants.TOPIC_THRESHOLD);
 //            annotator.annotate(input,false,CoreferenceConstants.COREFERENCE_THRESHOLD);
-//            annotator.writeTopics(CoreferenceConstants.TOPICS_PATH+"topics"+i+".txt");
+//            annotator.writeTopics(CoreferenceConstants.TRAIN_TOPICS+"topics"+i+".txt");
 //            annotator.writeAnnotated(CoreferenceConstants.TRAIN_ANNOTATED+"annotated"+i+".txt");
 //            annotator.writeCorefChain(CoreferenceConstants.TRAIN_RESPONSE+"response"+i+".xml");
 //        }
