@@ -11,8 +11,6 @@ import java.util.Collection;
 import java.util.Collections;
 import java.util.HashMap;
 import java.util.HashSet;
-import java.util.Set;
-import java.util.TreeSet;
 import org.wikipedia.miner.annotation.Topic;
 import org.wikipedia.miner.annotation.TopicReference;
 import org.wikipedia.miner.annotation.preprocessing.PreprocessedDocument;
@@ -30,9 +28,9 @@ import wikiminer.TextFolder;
 public class CoreferenceTagger {
     
     private String annotatedCoref;
-    private ArrayList<Set<String>> mentionCluster;
+    private ArrayList<ArrayList<String>> mentionCluster;
 
-    public ArrayList<Set<String>> getMentionCluster() {
+    public ArrayList<ArrayList<String>> getMentionCluster() {
         return mentionCluster;
     }
 
@@ -112,12 +110,12 @@ public class CoreferenceTagger {
                 // convert topic cluster to mention cluster
                 if(!clusterID.contains(topicCorefCluster.get(topic.getId()))) {
                     clusterID.add(topicCorefCluster.get(topic.getId()));
-                    mentionCluster.add(new TreeSet<>(String.CASE_INSENSITIVE_ORDER));
+                    mentionCluster.add(new ArrayList<>());
                 }
                 int cluster = clusterID.indexOf(topicCorefCluster.get(topic.getId()));
                 wikifiedText.append(originalText.substring(lastIndex, start));
                 wikifiedText.append(getTag(originalText.substring(start, end), topic, cluster));
-//                if(!mentionCluster.get(cluster).contains(originalText.substring(start, end)))
+                if(!mentionCluster.get(cluster).contains(originalText.substring(start, end)))
                     mentionCluster.get(cluster).add(originalText.substring(start, end));
 
                 lastIndex = end ;

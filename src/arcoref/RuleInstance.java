@@ -9,8 +9,6 @@ import IndonesianNLP.IndonesianSentenceTokenizer;
 import arcoref.Document.Mention;
 import java.util.ArrayList;
 import java.util.Objects;
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
 
 /**
  *
@@ -22,21 +20,31 @@ public class RuleInstance {
     public static final String LOCATION = "LOCATION";
     public static final String UNKNOWN = "OTHER";
     
-    private boolean isStrMatch;
-    private boolean isMatchNoCasePunc;
-    private boolean isAbbrev;
-    private boolean isFirstPronoun;
-    private boolean isScndPronoun;
-    private boolean isOnOneSentence;
-    private boolean isMatchPartial;
+    private Boolean isStrMatch;
+    private Boolean isMatchNoCasePunc;
+    private Boolean isAbbrev;
+    private Boolean isFirstPronoun;
+    private Boolean isScndPronoun;
+    private Boolean isOnOneSentence;
+    private Boolean isMatchPartial;
     private String firstNameClass;
     private String scndNameClass;
     
     private String mention1;
     private String mention2;
+    
+    private Boolean isCorefLabel;
 
-    public RuleInstance() {
-        
+    public RuleInstance() { // do nothing, only for testing purpose
+        isStrMatch = null;
+        isFirstPronoun = null;
+        isScndPronoun = null;
+        isOnOneSentence = null;
+        firstNameClass = null;
+        scndNameClass = null;
+        isMatchPartial = null;
+        isMatchNoCasePunc = null;
+        isAbbrev = null;
     }
 
     public RuleInstance(Mention m1, Mention m2, boolean oneSentence) {
@@ -49,10 +57,21 @@ public class RuleInstance {
         firstNameClass = m1.NEtype;
         scndNameClass = m2.NEtype;
         isMatchPartial = (mention1.contains(mention2)||mention2.contains(mention1));
-        Pattern p = Pattern.compile("[^a-z0-9 ]", Pattern.CASE_INSENSITIVE);
-        Matcher match1 = p.matcher(mention1);
-        Matcher match2 = p.matcher(mention2);
-        isMatchNoCasePunc = !(match1.find()||match2.find());
+        isMatchNoCasePunc = !(isHavePunctuation(mention1)||isHavePunctuation(mention2));
+        isAbbrev = checkAbbrev(mention1, mention2)||checkAbbrev(mention2, mention1);
+    }
+    
+    public RuleInstance(String[] rulesCsv) {
+        isStrMatch = rulesCsv[0].equals("true");
+        isMatchNoCasePunc = rulesCsv[1].equals("true");
+        isAbbrev = rulesCsv[2].equals("true");
+        isFirstPronoun = rulesCsv[3].equals("true");
+        isScndPronoun = rulesCsv[4].equals("true");
+        isOnOneSentence = rulesCsv[5].equals("true");
+        isMatchPartial = rulesCsv[6].equals("true");
+        firstNameClass = rulesCsv[7];
+        scndNameClass = rulesCsv[8];
+        isCorefLabel = rulesCsv[9].equals("true");
     }
     
     @Override
@@ -60,13 +79,13 @@ public class RuleInstance {
         if(!(other instanceof RuleInstance))
             return false;
         RuleInstance otherInst = (RuleInstance) other;
-        return (this.isAbbrev==otherInst.isAbbrev 
-                && this.isFirstPronoun==otherInst.isFirstPronoun
-                && this.isMatchNoCasePunc==otherInst.isMatchNoCasePunc 
-                && this.isMatchPartial==otherInst.isMatchPartial
-                && this.isScndPronoun==otherInst.isScndPronoun 
-                && this.isStrMatch==otherInst.isStrMatch
-                && this.isOnOneSentence==otherInst.isOnOneSentence 
+        return (Objects.equals(this.isAbbrev, otherInst.isAbbrev) 
+                && Objects.equals(this.isFirstPronoun, otherInst.isFirstPronoun)
+                && Objects.equals(this.isMatchNoCasePunc, otherInst.isMatchNoCasePunc) 
+                && Objects.equals(this.isMatchPartial, otherInst.isMatchPartial)
+                && Objects.equals(this.isScndPronoun, otherInst.isScndPronoun) 
+                && Objects.equals(this.isStrMatch, otherInst.isStrMatch)
+                && Objects.equals(this.isOnOneSentence, otherInst.isOnOneSentence) 
                 && this.firstNameClass.equalsIgnoreCase(otherInst.firstNameClass)
                 && this.scndNameClass.equalsIgnoreCase(otherInst.scndNameClass));
     }
@@ -88,13 +107,19 @@ public class RuleInstance {
 
     @Override
     public String toString() {
-        return "\"[("+mention1+")-("+mention2+")]\","+isStrMatch+","+
-                isMatchNoCasePunc+","+isAbbrev+","+isFirstPronoun+","+
-                isScndPronoun+","+isOnOneSentence+","+isMatchPartial+","+
-                firstNameClass+","+scndNameClass;
+        return isStrMatch+","+ isMatchNoCasePunc+","+isAbbrev+","+
+                isFirstPronoun+","+ isScndPronoun+","+isOnOneSentence+","+
+                isMatchPartial+","+ firstNameClass+","+scndNameClass;
     }
     
-    public boolean checkAbbrev(String abbrev, String trueWords) {
+    private boolean isHavePunctuation(String phrase) {
+        IndonesianSentenceTokenizer token = new IndonesianSentenceTokenizer();
+        ArrayList<String> str = token.tokenizeSentenceWithCompositeWords(phrase);
+        return str.contains(",")||str.contains(".")||str.contains(":")
+                ||str.contains(";")||str.contains("'")||str.contains("\"");
+    }
+    
+    private boolean checkAbbrev(String abbrev, String trueWords) {
         if(abbrev.length()>=trueWords.length())
             return false;
         else {
@@ -111,6 +136,22 @@ public class RuleInstance {
             }
             return abbreviation;
         }
+    }
+
+    public String getMention1() {
+        return mention1;
+    }
+
+    public String getMention2() {
+        return mention2;
+    }
+
+    public boolean isCoref() {
+        return isCorefLabel;
+    }
+
+    public void setLabel(boolean isCorefLabel) {
+        this.isCorefLabel = isCorefLabel;
     }
 
     public void setMention1(String mention1) {

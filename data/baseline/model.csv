@@ -1,0 +1,16 @@
+isStrMatch,isMatchNoCasePunc,isAbbrev,isFirstPronoun,isScndPronoun,isOnOneSentence,isMatchPartial,firstNameClass,scndNameClass,isCoref
+false,true,false,false,false,true,false,PERSON,LOCATION,false
+false,true,false,true,false,true,false,OTHER,PERSON,false
+false,true,false,false,false,false,false,PERSON,LOCATION,false
+false,true,false,false,false,false,false,LOCATION,LOCATION,false
+false,true,false,false,false,false,false,LOCATION,OTHER,false
+false,true,false,true,false,false,false,OTHER,OTHER,false
+false,true,false,false,false,true,false,PERSON,PERSON,true
+false,true,false,false,false,false,false,PERSON,OTHER,false
+false,true,false,false,true,false,false,PERSON,OTHER,true
+false,true,false,false,false,false,true,PERSON,OTHER,true
+false,true,false,false,true,false,false,LOCATION,OTHER,false
+false,true,false,true,false,true,false,OTHER,LOCATION,false
+false,true,false,false,false,false,false,PERSON,PERSON,false
+false,true,false,false,false,true,false,OTHER,OTHER,false
+false,true,false,false,false,false,false,LOCATION,PERSON,false

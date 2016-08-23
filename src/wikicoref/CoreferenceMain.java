@@ -5,6 +5,9 @@
  */
 package wikicoref;
 
+import helper.ChainHelper;
+import helper.CoreferenceConstants;
+import helper.CoreferenceScoring;
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
@@ -13,25 +16,8 @@ import java.io.PrintWriter;
 import java.io.UnsupportedEncodingException;
 import java.util.ArrayList;
 import java.util.Collection;
-import java.util.Set;
-import java.util.TreeSet;
 import java.util.logging.Level;
 import java.util.logging.Logger;
-import javax.xml.parsers.DocumentBuilder;
-import javax.xml.parsers.DocumentBuilderFactory;
-import javax.xml.parsers.ParserConfigurationException;
-import javax.xml.transform.OutputKeys;
-import javax.xml.transform.Transformer;
-import javax.xml.transform.TransformerConfigurationException;
-import javax.xml.transform.TransformerException;
-import javax.xml.transform.TransformerFactory;
-import javax.xml.transform.dom.DOMSource;
-import javax.xml.transform.stream.StreamResult;
-import org.w3c.dom.Attr;
-import org.w3c.dom.Document;
-import org.w3c.dom.Element;
-import org.w3c.dom.Node;
-import org.w3c.dom.NodeList;
 import org.wikipedia.miner.annotation.Disambiguator;
 import org.wikipedia.miner.annotation.Topic;
 import org.wikipedia.miner.annotation.TopicDetector;
@@ -42,7 +28,6 @@ import org.wikipedia.miner.annotation.tagging.DocumentTagger;
 import org.wikipedia.miner.annotation.weighting.LinkDetector;
 import org.wikipedia.miner.model.Wikipedia;
 import org.wikipedia.miner.util.WikipediaConfiguration;
-import org.xml.sax.SAXException;
 import wikiminer.TextFolder;
 import wikiminer.WikiConstants;
 
@@ -59,14 +44,11 @@ public class CoreferenceMain {
     Wikipedia _wikipedia;
     
     private String newMarkup;
-    private ArrayList<Set<String>> keyChain;
-    private ArrayList<Set<String>> responseChain;
+    private ArrayList<ArrayList<String>> keyChain;
+    private ArrayList<ArrayList<String>> responseChain;
     private Collection<Topic> allTopics;
     private ArrayList<Topic> bestTopics;
     private PreprocessedDocument doc;
-    private double recall;
-    private double precision;
-    private double fMeasure;
 
     public CoreferenceMain(Wikipedia wikipedia) throws Exception {
         _wikipedia = wikipedia;
@@ -86,9 +68,6 @@ public class CoreferenceMain {
         allTopics = null;
         bestTopics = null;
         doc = null;
-        recall = 0.0;
-        precision = 0.0;
-        fMeasure = 0.0;
     }
     
     public void gatherTopics(String originalMarkup, double topicThreshold) {
@@ -140,105 +119,8 @@ public class CoreferenceMain {
         }
     }
     
-    public void calculateScore() {
-        recall = computeMUC(keyChain,responseChain);
-        precision = computeMUC(responseChain,keyChain);
-        fMeasure = 2*precision*recall/(precision+recall);
-    }
-
-    private double computeMUC(ArrayList<Set<String>> chain1, ArrayList<Set<String>> chain2) {
-        int pembilang = 0;
-        int penyebut = 0;
-        for(int i=0; i<chain1.size(); i++) {
-            int Ki = chain1.get(i).size();
-            int partLeft = Ki;
-            int partition = 0;
-            for(int j=0; j<chain2.size(); j++) {
-                boolean found = false;
-                for(String str : chain2.get(j)) {
-                    if(chain1.get(i).contains(str)) {
-                        found = true;
-                        partLeft--;
-                    }
-                }
-                if(found)
-                    partition++;
-            }
-            pembilang += (Ki - (partition+partLeft));
-            penyebut += (Ki-1);
-        }
-        return (double)pembilang/(double)penyebut;
-    }
-
-    public void readKeyChain(String path) {
-        try {
-            File inputFile = new File(path);
-            DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
-            DocumentBuilder dBuilder = dbFactory.newDocumentBuilder();
-            Document xmlDoc = dBuilder.parse(inputFile);
-            xmlDoc.getDocumentElement().normalize();
-            NodeList nList = xmlDoc.getElementsByTagName("Entity");
-            keyChain = new ArrayList<>();
-            for(int i=0; i<nList.getLength(); i++) {
-                Node nNode = nList.item(i);
-                keyChain.add(new TreeSet<>(String.CASE_INSENSITIVE_ORDER));
-                if (nNode.getNodeType() == Node.ELEMENT_NODE) {
-                    Element eElement = (Element) nNode;
-                    NodeList childList = eElement.getElementsByTagName("Mention");
-                    for(int j=0; j<childList.getLength(); j++) {
-                        String mention = childList.item(j).getTextContent();
-                        keyChain.get(i).add(mention);
-                    }
-                }
-            }
-        } catch (ParserConfigurationException | SAXException | IOException ex) {
-            Logger.getLogger(CoreferenceMain.class.getName()).log(Level.SEVERE, null, ex);
-        }
-    }
-    
-    public void writeCorefChain(String path) {
-        try {
-            DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
-            DocumentBuilder dBuilder = dbFactory.newDocumentBuilder();
-            Document xmlDoc = dBuilder.newDocument();
-            
-            // root element
-            Element rootElement = xmlDoc.createElement("CoreferenceChain");
-            xmlDoc.appendChild(rootElement);
-            // entity element
-            for(int i=0; i<responseChain.size(); i++) {
-                Element entity = xmlDoc.createElement("Entity");
-                rootElement.appendChild(entity);
-                // setting attribute to element
-                Attr attr = xmlDoc.createAttribute("ClusterId");
-                attr.setValue(""+(i+1));
-                entity.setAttributeNode(attr);
-                for(String mention : responseChain.get(i)) {
-                    // mention element
-                    Element carname = xmlDoc.createElement("Mention");
-                    carname.appendChild(xmlDoc.createTextNode(mention));
-                    entity.appendChild(carname);
-                }
-            }
-            
-            Transformer transformer = TransformerFactory.newInstance().newTransformer();
-            transformer.setOutputProperty(OutputKeys.INDENT, "yes");
-            transformer.setOutputProperty("{http://xml.apache.org/xslt}indent-amount", "4");
-            
-            DOMSource source = new DOMSource(xmlDoc);
-            StreamResult result = new StreamResult(new File(path));
-            transformer.transform(source, result);
-        } catch (ParserConfigurationException ex) {
-            Logger.getLogger(CoreferenceMain.class.getName()).log(Level.SEVERE, null, ex);
-        } catch (TransformerConfigurationException ex) {
-            Logger.getLogger(CoreferenceMain.class.getName()).log(Level.SEVERE, null, ex);
-        } catch (TransformerException ex) {
-            Logger.getLogger(CoreferenceMain.class.getName()).log(Level.SEVERE, null, ex);
-        }
-    }
-    
     public void trainingParameters(int NbTrain) {
-        try (PrintWriter writer = new PrintWriter(CoreferenceConstants.TRAIN_PATH+"results.csv", "UTF-8")) {
+        try (PrintWriter writer = new PrintWriter(CoreferenceConstants.WIKI_TRAINING+"results.csv", "UTF-8")) {
             writer.println("TopicWeight,CorefThreshold,P,R,F");
             for(int i=0; i<=100; i++) {
                 double topicWeight = (double)i/(double)100;
@@ -248,20 +130,21 @@ public class CoreferenceMain {
                     double sumRecall = 0.0;
                     double sumFmeasure = 0.0;
                     for(int k=0; k<NbTrain; k++) {
-                        File file = new File(CoreferenceConstants.TRAIN_RAW+"artikel"+k+".txt");
+                        File file = new File(CoreferenceConstants.RAW_TRAINING+"artikel"+k+".txt");
                         FileInputStream fis = new FileInputStream(file);
                         byte[] data = new byte[(int) file.length()];
                         fis.read(data);
                         fis.close();
                         String input = new String(data, "UTF-8");
                         init();
-                        readKeyChain(CoreferenceConstants.TRAIN_KEY+"key"+k+".xml");
+                        keyChain = ChainHelper.readKeyChain(CoreferenceConstants.KEY_TRAINING+"key"+k+".xml");
                         gatherTopics(input, topicWeight);
                         annotate(input,false,corefTres);
-                        calculateScore();
-                        sumPrecision += precision;
-                        sumRecall += recall;
-                        sumFmeasure += fMeasure;
+                        CoreferenceScoring.init();
+                        CoreferenceScoring.computeMUCScore(keyChain, responseChain);
+                        sumPrecision += CoreferenceScoring.getPrecision();
+                        sumRecall += CoreferenceScoring.getRecall();
+                        sumFmeasure += CoreferenceScoring.getfMeasure();
                     }
                     double avgPrecision = sumPrecision/(double)NbTrain;
                     double avgRecall = sumRecall/(double)NbTrain;
@@ -291,19 +174,20 @@ public class CoreferenceMain {
             String input = new String(data, "UTF-8");
             System.out.println("Input raw text:\n"+input);
             init();
-            readKeyChain(CoreferenceConstants.PATH_DEMO+"key.xml");
+            keyChain = ChainHelper.readKeyChain(CoreferenceConstants.PATH_DEMO+"key.xml");
             gatherTopics(input, CoreferenceConstants.TOPIC_THRESHOLD);
             annotate(input,false,CoreferenceConstants.COREFERENCE_THRESHOLD);
-            calculateScore();
+            CoreferenceScoring.init();
+            CoreferenceScoring.computeMUCScore(keyChain, responseChain);
             writeTopics(CoreferenceConstants.PATH_DEMO+"topics.txt");
             writeAnnotated(CoreferenceConstants.PATH_DEMO+"annotated.txt");
-            writeCorefChain(CoreferenceConstants.PATH_DEMO+"response.xml");
+            ChainHelper.writeCorefChain(responseChain,CoreferenceConstants.PATH_DEMO+"response.xml");
             System.out.println("\n*********************");
             System.out.println("Result score");
             System.out.println("*********************");
-            System.out.println("Recall: "+recall);
-            System.out.println("Precision: "+precision);
-            System.out.println("F-measure: "+fMeasure);
+            System.out.println("Recall: "+CoreferenceScoring.getRecall());
+            System.out.println("Precision: "+CoreferenceScoring.getPrecision());
+            System.out.println("F-measure: "+CoreferenceScoring.getfMeasure());
         } catch (FileNotFoundException ex) {
             Logger.getLogger(CoreferenceMain.class.getName()).log(Level.SEVERE, null, ex);
         } catch (IOException ex) {
@@ -325,9 +209,9 @@ public class CoreferenceMain {
         Wikipedia wikipedia = new Wikipedia(conf, false) ;
         CoreferenceMain annotator = new CoreferenceMain(wikipedia) ;
         
-        // evaluate on 30 documents
+        // buat bikin key
 //        for(int i=0; i<30; i++) {
-//            File file = new File(CoreferenceConstants.TRAIN_RAW+"artikel"+i+".txt");
+//            File file = new File(CoreferenceConstants.RAW_TRAINING+"artikel"+i+".txt");
 //            FileInputStream fis = new FileInputStream(file);
 //            byte[] data = new byte[(int) file.length()];
 //            fis.read(data);

@@ -75,39 +75,45 @@ public class Document {
             }
         }
     }
+
+    public ArrayList<RuleInstance> getRuleList() {
+        return ruleList;
+    }
     
-    public void writeRules(String path) {
-        try (PrintWriter writer = new PrintWriter(path, "UTF-8")) {
-            ruleList = new ArrayList<>();
-            for(int i=0; i<mentionDocumentList.size(); i++) {
-                ArrayList<Mention> mentionSentence = mentionDocumentList.get(i); // mention sentence ke-i
-                for(int j=0; j<mentionSentence.size(); j++) {
-                    Mention mentionJ = mentionSentence.get(j);
-                    for(int k=j+1; k<mentionSentence.size(); k++) {
-                        // cek dgn mention satu kalimat
-                        Mention mentionK = mentionSentence.get(k);
-                        ruleList.add(new RuleInstance(mentionJ, mentionK, true));
-                    }
-                    for(int k=i+1; k<mentionDocumentList.size(); k++) {
-                        ArrayList<Mention> mentionSentenceK = mentionDocumentList.get(k);
-                        for(int l=0; l<mentionSentenceK.size(); l++) {
-                            Mention mentionL = mentionSentenceK.get(l);
-                            ruleList.add(new RuleInstance(mentionJ, mentionL, false));
-                        }
+    public void extractRuleList() {
+        ruleList = new ArrayList<>();
+        for(int i=0; i<mentionDocumentList.size(); i++) {
+            ArrayList<Mention> mentionSentence = mentionDocumentList.get(i); // mention sentence ke-i
+            for(int j=0; j<mentionSentence.size(); j++) {
+                Mention mentionJ = mentionSentence.get(j);
+                for(int k=j+1; k<mentionSentence.size(); k++) {
+                    // cek dgn mention satu kalimat
+                    Mention mentionK = mentionSentence.get(k);
+                    ruleList.add(new RuleInstance(mentionJ, mentionK, true));
+                }
+                for(int k=i+1; k<mentionDocumentList.size(); k++) {
+                    ArrayList<Mention> mentionSentenceK = mentionDocumentList.get(k);
+                    for(int l=0; l<mentionSentenceK.size(); l++) {
+                        Mention mentionL = mentionSentenceK.get(l);
+                        ruleList.add(new RuleInstance(mentionJ, mentionL, false));
                     }
                 }
             }
-            writer.println("\"[(mention1)-(mention2)]\",isStrMatch,"
+        }
+    }
+    
+    public void writeRules(String path) {
+        try (PrintWriter writer = new PrintWriter(path, "UTF-8")) {
+            writer.println("mentions,isStrMatch,"
                     + "isMatchNoCasePunc,isAbbrev,isFirstPronoun,isScndPronoun,"
                     + "isOnOneSentence,isMatchPartial,firstNameClass,"
                     + "scndNameClass");
             for(RuleInstance rule:ruleList) {
-                writer.println(rule);
+                writer.println("\"[("+rule.getMention1()+")-("+rule.getMention2()+")]\","+rule);
             }
         } catch (FileNotFoundException | UnsupportedEncodingException ex) {
             Logger.getLogger(Document.class.getName()).log(Level.SEVERE, null, ex);
         }
-        
     }
     
     public void extractNE(String sentence) {
@@ -122,10 +128,32 @@ public class Document {
         tokenList.addAll(tagger.getToken());
     }
     
-    public String getFirstToken(String sentence) {
+    public String getFirstToken(String phrase) {
         IndonesianSentenceTokenizer token = new IndonesianSentenceTokenizer();
-        ArrayList<String> str = token.tokenizeSentenceWithCompositeWords(sentence);
+        ArrayList<String> str = token.tokenizeSentenceWithCompositeWords(phrase);
         return str.get(0);
+    }
+    
+    public ArrayList<String> splitAppositive(String phrase) {
+        ArrayList<String> mentionList = new ArrayList<>();
+        String[] splitPhrase = phrase.split(", ");
+        for(int i=0; i<splitPhrase.length; i++) {
+            if(splitPhrase[i].charAt(0)==' ')
+                splitPhrase[i] = splitPhrase[i].substring(1);
+            mentionList.add(splitPhrase[i]);
+        }
+        return mentionList;
+    }
+    
+    public ArrayList<String> splitParaenthesis(String phrase) {
+        ArrayList<String> mentionList = new ArrayList<>();
+        String[] split = phrase.split(" \\(");
+        for(int i=0; i<split.length; i++) {
+            if(split[i].contains(")"))
+                split[i] = split[i].substring(0,split[i].indexOf(")"));
+            mentionList.add(split[i]);
+        }
+        return mentionList;
     }
     
     public void extractMentions() {
@@ -161,6 +189,8 @@ public class Document {
             if(node.getChildList() == null){
                 if((node.getType().equals("NP") || node.getType().equals("PRP")) && !hasNPChild(node)){
                     String phrase = node.getPhrase();
+                    if(phrase.charAt(phrase.length()-1)==' ')
+                        phrase = phrase.substring(0, phrase.length()-1);
                     int idxNE = tokenList.indexOf(getFirstToken(phrase));
                     boolean isPronoun = node.getType().equals("PRP");
                     mentionList.add(new Mention(phrase, NEList.get(idxNE), isPronoun));
@@ -169,9 +199,18 @@ public class Document {
             else{
                 if((node.getType().equals("NP") || node.getType().equals("PRP")) && !hasNPChild(node)){
                     String phrase = node.getPhrase();
-                    int idxNE = tokenList.indexOf(getFirstToken(phrase));
-                    boolean isPronoun = node.getType().equals("PRP");
-                    mentionList.add(new Mention(phrase, NEList.get(idxNE), isPronoun));
+                    if(phrase.charAt(phrase.length()-1)==' ')
+                        phrase = phrase.substring(0, phrase.length()-1);
+                    ArrayList<String> splitParaenthesis = splitParaenthesis(phrase);
+                    ArrayList<String> splitAppositive = new ArrayList<>();
+                    for(String str:splitParaenthesis) {
+                        splitAppositive.addAll(splitAppositive(str));
+                    }
+                    for(String str:splitAppositive) {
+                        int idxNE = tokenList.indexOf(getFirstToken(str));
+                        boolean isPronoun = node.getType().equals("PRP");
+                        mentionList.add(new Mention(str, NEList.get(idxNE), isPronoun));
+                    }
                 }else{
                     mentionList.addAll(getMention(node.getChildList()));
                 }
