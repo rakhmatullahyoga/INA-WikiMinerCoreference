@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>Seoul</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>Korea Selatan</Mention>
+        <Mention>Korsel</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>Korea</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>Presiden Korea Selatan</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>Park Geun-hye</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>Pyongyang</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>Korea Utara</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>sanksi</Mention>
+    </Entity>
+    <Entity ClusterId="9">
+        <Mention>Amerika Serikat</Mention>
+        <Mention>AS</Mention>
+    </Entity>
+    <Entity ClusterId="10">
+        <Mention>Xinhua</Mention>
+    </Entity>
+</CoreferenceChain>

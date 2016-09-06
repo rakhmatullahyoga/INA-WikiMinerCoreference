@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>Komnas HAM</Mention>
+        <Mention>Komisi Nasional Hak Asasi Manusia</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>Jokowi</Mention>
+        <Mention>Gubernur DKI Jakarta</Mention>
+        <Mention>Gubernur</Mention>
+        <Mention>Joko Widodo</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>Waduk Pluit</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>Ketua Komnas HAM</Mention>
+        <Mention>Siti Noor Laila</Mention>
+        <Mention>Laila</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>KTP</Mention>
+    </Entity>
+</CoreferenceChain>

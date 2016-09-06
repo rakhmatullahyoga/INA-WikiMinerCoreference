@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>Dieng</Mention>
+        <Mention>dataran tinggi Dieng</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>Desa</Mention>
+        <Mention>desa-desa</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>Kecamatan Batur</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>PVMBG</Mention>
+        <Mention>Pusat Vulkanologi dan Mitigasi Bencana Geologi</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>Kabupaten Banjarnegara</Mention>
+        <Mention>Banjarnegara</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>Sumberejo</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>Kabupaten Batang</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>Kabupaten Wonosobo</Mention>
+    </Entity>
+    <Entity ClusterId="9">
+        <Mention>Desa Pekasiran</Mention>
+    </Entity>
+    <Entity ClusterId="10">
+        <Mention>Petugas Posko Siaga</Mention>
+        <Mention>Andri Sulistyo</Mention>
+    </Entity>
+</CoreferenceChain>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>Indonesia</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>Nigeria</Mention>
+        <Mention>Nigeria`s</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>REPUBLIKA.CO.ID</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>JAKARTA</Mention>
+        <Mention>Jakarta</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>Foreign</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>Marty Natalegawa</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>and</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>sake</Mention>
+    </Entity>
+    <Entity ClusterId="9">
+        <Mention>led</Mention>
+    </Entity>
+    <Entity ClusterId="10">
+        <Mention>Susilo Bambang Yudhoyono</Mention>
+    </Entity>
+    <Entity ClusterId="11">
+        <Mention>cited</Mention>
+    </Entity>
+    <Entity ClusterId="12">
+        <Mention>Foreign Affairs</Mention>
+    </Entity>
+    <Entity ClusterId="13">
+        <Mention>signed in</Mention>
+    </Entity>
+    <Entity ClusterId="14">
+        <Mention>New York</Mention>
+    </Entity>
+    <Entity ClusterId="15">
+        <Mention>1965</Mention>
+    </Entity>
+    <Entity ClusterId="16">
+        <Mention>diplomatic</Mention>
+    </Entity>
+    <Entity ClusterId="17">
+        <Mention>Lagos</Mention>
+        <Mention>Abuja</Mention>
+    </Entity>
+    <Entity ClusterId="18">
+        <Mention>1976</Mention>
+    </Entity>
+</CoreferenceChain>

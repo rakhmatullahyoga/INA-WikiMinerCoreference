@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>BNN</Mention>
+        <Mention>Badan Narkotika</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>Perusahaan Telekomunikasi</Mention>
+        <Mention>telekomunikasi</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>Metrotvnews.com</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>fz</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>Medan</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>Rumah</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>Narkoba</Mention>
+        <Mention>narkoba</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>Jakarta</Mention>
+    </Entity>
+    <Entity ClusterId="9">
+        <Mention>Nasional</Mention>
+    </Entity>
+    <Entity ClusterId="10">
+        <Mention>Direktur</Mention>
+    </Entity>
+    <Entity ClusterId="11">
+        <Mention>Brigjen Pol</Mention>
+    </Entity>
+    <Entity ClusterId="12">
+        <Mention>penjaringan</Mention>
+    </Entity>
+    <Entity ClusterId="13">
+        <Mention>masyarakat</Mention>
+        <Mention>Masyarakat</Mention>
+    </Entity>
+    <Entity ClusterId="14">
+        <Mention>komunitas</Mention>
+    </Entity>
+    <Entity ClusterId="15">
+        <Mention>PT Telekomunikasi Indonesia Tbk</Mention>
+    </Entity>
+    <Entity ClusterId="16">
+        <Mention>PT Indosat Tbk</Mention>
+        <Mention>PT Telkomsel</Mention>
+        <Mention>PT XL Axiata Tbk</Mention>
+    </Entity>
+    <Entity ClusterId="17">
+        <Mention>LKBN Antara</Mention>
+    </Entity>
+</CoreferenceChain>

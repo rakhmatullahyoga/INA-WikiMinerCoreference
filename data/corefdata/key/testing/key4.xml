@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>PT Angkasa Pura II (Persero</Mention>
+        <Mention>Angkasa Pura II</Mention>
+        <Mention>AP II</Mention>
+        <Mention>PT Angkasa Pura II</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>Kabupaten Bintan</Mention>
+        <Mention>Bintan</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>Tanjung Pinang</Mention>
+        <Mention>Tanjungpinang</Mention>
+        <Mention>Kota Tanjungpinang</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>Bandara Raja Haji Fisabilillah</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>Kepulauan Riau</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>ambulan</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>puskesmas</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>Posyandu</Mention>
+    </Entity>
+    <Entity ClusterId="9">
+        <Mention>mangrove</Mention>
+    </Entity>
+    <Entity ClusterId="10">
+        <Mention>usaha kecil dan menengah</Mention>
+    </Entity>
+    <Entity ClusterId="11">
+        <Mention>Direktur Keuangan</Mention>
+        <Mention>Direktur Keuangan Angkasa Pura II</Mention>
+        <Mention>Laurensius Manurung</Mention>
+    </Entity>
+    <Entity ClusterId="12">
+        <Mention>Direktur SDM dan Umum</Mention>
+        <Mention>Hari Cahyono</Mention>
+    </Entity>
+</CoreferenceChain>

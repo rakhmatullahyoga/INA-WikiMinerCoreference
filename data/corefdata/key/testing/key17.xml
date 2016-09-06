@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>UN</Mention>
+        <Mention>Ujian Nasional</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>Menteri Pendidikan dan Kebudayaan</Mention>
+        <Mention>Mendikbud</Mention>
+        <Mention>Muhammad Nuh</Mention>
+        <Mention>Nuh</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>Indonesia</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>provinsi</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>Kemendikbud</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>Sumatera Selatan</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>Bali</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>Jakarta</Mention>
+    </Entity>
+</CoreferenceChain>

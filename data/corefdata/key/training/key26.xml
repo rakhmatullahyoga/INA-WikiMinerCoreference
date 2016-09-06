@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>PD</Mention>
+        <Mention>Partai Demokrat</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>Marzuki Alie</Mention>
+        <Mention>Marzuki</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>ANTARA News</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>Jakarta</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>Pemilihan Umum</Mention>
+    </Entity>
+</CoreferenceChain>

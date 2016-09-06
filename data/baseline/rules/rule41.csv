@@ -1,0 +1,1036 @@
+mentions;isStrMatch;isMatchNoCasePunc;isAbbrev;isFirstPronoun;isScndPronoun;isOnOneSentence;isMatchPartial;firstNameClass;scndNameClass
+"[(Pengawas Ujian Ini)-(Wafat Saat Bertugas,)]";false;false;false;false;false;true;false;PERSON;PERSON
+"[(Pengawas Ujian Ini)-(Seorang pengawas Ujian Nasional)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Pengawas Ujian Ini)-(SMA Negeri 2)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Pengawas Ujian Ini)-(Baebunta)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Pengawas Ujian Ini)-(Luwu Utara)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Pengawas Ujian Ini)-(Sukiran)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Pengawas Ujian Ini)-(dunia)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pengawas Ujian Ini)-(tugasnya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pengawas Ujian Ini)-("Kami)]";false;false;false;false;true;false;false;PERSON;OTHER
+"[(Pengawas Ujian Ini)-(informasi itu,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Pengawas Ujian Ini)-(pagi)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pengawas Ujian Ini)-(pelaksanaan UN,")]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Pengawas Ujian Ini)-(Tim Pemantau Independen)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Pengawas Ujian Ini)-(Universitas Hasanuddin Mulyadi Mau)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Pengawas Ujian Ini)-(dia,)]";false;false;false;false;true;false;false;PERSON;OTHER
+"[(Pengawas Ujian Ini)-(Sukiran)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Pengawas Ujian Ini)-(karyawan Unhas)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pengawas Ujian Ini)-(lokasi pantauan UN SLTA)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pengawas Ujian Ini)-(Luwu Utara)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Pengawas Ujian Ini)-(lokasi)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pengawas Ujian Ini)-(Ahad)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Pengawas Ujian Ini)-(Hal itu)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Pengawas Ujian Ini)-(pelaksanaan UN)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pengawas Ujian Ini)-(Senin)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pengawas Ujian Ini)-(keterlambatan distribusi soal)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pengawas Ujian Ini)-(Kamis)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pengawas Ujian Ini)-(penyebab meninggalnya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pengawas Ujian Ini)-(pihak keluarga)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pengawas Ujian Ini)-(Makassar)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Pengawas Ujian Ini)-(kabar,")]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Pengawas Ujian Ini)-(Hal tersebut)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Pengawas Ujian Ini)-(Koordinator Pengawas)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Pengawas Ujian Ini)-(Kota Palopo SM Noor)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Pengawas Ujian Ini)-(wilayah pantauannya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pengawas Ujian Ini)-(Luwu Utara)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Pengawas Ujian Ini)-(Dia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Pengawas Ujian Ini)-(jenazah pengawas tersebut)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pengawas Ujian Ini)-(Makassar)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Pengawas Ujian Ini)-(rumah duka)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pengawas Ujian Ini)-(penyebab meninggalnya,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Pengawas Ujian Ini)-(rekan-rekannya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pengawas Ujian Ini)-(pelaksanaan UN)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pengawas Ujian Ini)-(SMA Negeri)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Pengawas Ujian Ini)-(2 Baebunta,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Pengawas Ujian Ini)-(penundaan akibat keterlambatan distribusi soal UN)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Wafat Saat Bertugas,)-(Seorang pengawas Ujian Nasional)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Wafat Saat Bertugas,)-(SMA Negeri 2)]";false;false;false;false;false;false;false;PERSON;LOCATION
+"[(Wafat Saat Bertugas,)-(Baebunta)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Wafat Saat Bertugas,)-(Luwu Utara)]";false;false;false;false;false;false;false;PERSON;LOCATION
+"[(Wafat Saat Bertugas,)-(Sukiran)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Wafat Saat Bertugas,)-(dunia)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Wafat Saat Bertugas,)-(tugasnya)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Wafat Saat Bertugas,)-("Kami)]";false;false;false;false;true;false;false;PERSON;OTHER
+"[(Wafat Saat Bertugas,)-(informasi itu,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Wafat Saat Bertugas,)-(pagi)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Wafat Saat Bertugas,)-(pelaksanaan UN,")]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Wafat Saat Bertugas,)-(Tim Pemantau Independen)]";false;false;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Wafat Saat Bertugas,)-(Universitas Hasanuddin Mulyadi Mau)]";false;false;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Wafat Saat Bertugas,)-(dia,)]";false;false;false;false;true;false;false;PERSON;OTHER
+"[(Wafat Saat Bertugas,)-(Sukiran)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Wafat Saat Bertugas,)-(karyawan Unhas)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Wafat Saat Bertugas,)-(lokasi pantauan UN SLTA)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Wafat Saat Bertugas,)-(Luwu Utara)]";false;false;false;false;false;false;false;PERSON;LOCATION
+"[(Wafat Saat Bertugas,)-(lokasi)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Wafat Saat Bertugas,)-(Ahad)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Wafat Saat Bertugas,)-(Hal itu)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Wafat Saat Bertugas,)-(pelaksanaan UN)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Wafat Saat Bertugas,)-(Senin)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Wafat Saat Bertugas,)-(keterlambatan distribusi soal)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Wafat Saat Bertugas,)-(Kamis)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Wafat Saat Bertugas,)-(penyebab meninggalnya)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Wafat Saat Bertugas,)-(pihak keluarga)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Wafat Saat Bertugas,)-(Makassar)]";false;false;false;false;false;false;false;PERSON;LOCATION
+"[(Wafat Saat Bertugas,)-(kabar,")]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Wafat Saat Bertugas,)-(Hal tersebut)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Wafat Saat Bertugas,)-(Koordinator Pengawas)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Wafat Saat Bertugas,)-(Kota Palopo SM Noor)]";false;false;false;false;false;false;false;PERSON;LOCATION
+"[(Wafat Saat Bertugas,)-(wilayah pantauannya)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Wafat Saat Bertugas,)-(Luwu Utara)]";false;false;false;false;false;false;false;PERSON;LOCATION
+"[(Wafat Saat Bertugas,)-(Dia)]";false;false;false;false;true;false;false;PERSON;OTHER
+"[(Wafat Saat Bertugas,)-(jenazah pengawas tersebut)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Wafat Saat Bertugas,)-(Makassar)]";false;false;false;false;false;false;false;PERSON;LOCATION
+"[(Wafat Saat Bertugas,)-(rumah duka)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Wafat Saat Bertugas,)-(penyebab meninggalnya,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Wafat Saat Bertugas,)-(rekan-rekannya)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Wafat Saat Bertugas,)-(pelaksanaan UN)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Wafat Saat Bertugas,)-(SMA Negeri)]";false;false;false;false;false;false;false;PERSON;LOCATION
+"[(Wafat Saat Bertugas,)-(2 Baebunta,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Wafat Saat Bertugas,)-(penundaan akibat keterlambatan distribusi soal UN)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Seorang pengawas Ujian Nasional)-(SMA Negeri 2)]";false;true;false;false;false;true;false;PERSON;LOCATION
+"[(Seorang pengawas Ujian Nasional)-(Baebunta)]";false;true;false;false;false;true;false;PERSON;PERSON
+"[(Seorang pengawas Ujian Nasional)-(Luwu Utara)]";false;true;false;false;false;true;false;PERSON;LOCATION
+"[(Seorang pengawas Ujian Nasional)-(Sukiran)]";false;true;false;false;false;true;false;PERSON;PERSON
+"[(Seorang pengawas Ujian Nasional)-(dunia)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Seorang pengawas Ujian Nasional)-(tugasnya)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Seorang pengawas Ujian Nasional)-("Kami)]";false;false;false;false;true;false;false;PERSON;OTHER
+"[(Seorang pengawas Ujian Nasional)-(informasi itu,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Seorang pengawas Ujian Nasional)-(pagi)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Seorang pengawas Ujian Nasional)-(pelaksanaan UN,")]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Seorang pengawas Ujian Nasional)-(Tim Pemantau Independen)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Seorang pengawas Ujian Nasional)-(Universitas Hasanuddin Mulyadi Mau)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Seorang pengawas Ujian Nasional)-(dia,)]";false;false;false;false;true;false;false;PERSON;OTHER
+"[(Seorang pengawas Ujian Nasional)-(Sukiran)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Seorang pengawas Ujian Nasional)-(karyawan Unhas)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Seorang pengawas Ujian Nasional)-(lokasi pantauan UN SLTA)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Seorang pengawas Ujian Nasional)-(Luwu Utara)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Seorang pengawas Ujian Nasional)-(lokasi)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Seorang pengawas Ujian Nasional)-(Ahad)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Seorang pengawas Ujian Nasional)-(Hal itu)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Seorang pengawas Ujian Nasional)-(pelaksanaan UN)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Seorang pengawas Ujian Nasional)-(Senin)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Seorang pengawas Ujian Nasional)-(keterlambatan distribusi soal)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Seorang pengawas Ujian Nasional)-(Kamis)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Seorang pengawas Ujian Nasional)-(penyebab meninggalnya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Seorang pengawas Ujian Nasional)-(pihak keluarga)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Seorang pengawas Ujian Nasional)-(Makassar)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Seorang pengawas Ujian Nasional)-(kabar,")]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Seorang pengawas Ujian Nasional)-(Hal tersebut)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Seorang pengawas Ujian Nasional)-(Koordinator Pengawas)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Seorang pengawas Ujian Nasional)-(Kota Palopo SM Noor)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Seorang pengawas Ujian Nasional)-(wilayah pantauannya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Seorang pengawas Ujian Nasional)-(Luwu Utara)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Seorang pengawas Ujian Nasional)-(Dia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Seorang pengawas Ujian Nasional)-(jenazah pengawas tersebut)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Seorang pengawas Ujian Nasional)-(Makassar)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Seorang pengawas Ujian Nasional)-(rumah duka)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Seorang pengawas Ujian Nasional)-(penyebab meninggalnya,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Seorang pengawas Ujian Nasional)-(rekan-rekannya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Seorang pengawas Ujian Nasional)-(pelaksanaan UN)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Seorang pengawas Ujian Nasional)-(SMA Negeri)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Seorang pengawas Ujian Nasional)-(2 Baebunta,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Seorang pengawas Ujian Nasional)-(penundaan akibat keterlambatan distribusi soal UN)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(SMA Negeri 2)-(Baebunta)]";false;true;false;false;false;true;false;LOCATION;PERSON
+"[(SMA Negeri 2)-(Luwu Utara)]";false;true;false;false;false;true;false;LOCATION;LOCATION
+"[(SMA Negeri 2)-(Sukiran)]";false;true;false;false;false;true;false;LOCATION;PERSON
+"[(SMA Negeri 2)-(dunia)]";false;true;false;false;false;true;false;LOCATION;OTHER
+"[(SMA Negeri 2)-(tugasnya)]";false;true;false;false;false;true;false;LOCATION;OTHER
+"[(SMA Negeri 2)-("Kami)]";false;false;false;false;true;false;false;LOCATION;OTHER
+"[(SMA Negeri 2)-(informasi itu,)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(SMA Negeri 2)-(pagi)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(SMA Negeri 2)-(pelaksanaan UN,")]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(SMA Negeri 2)-(Tim Pemantau Independen)]";false;true;false;false;false;false;false;LOCATION;ORGANIZATION
+"[(SMA Negeri 2)-(Universitas Hasanuddin Mulyadi Mau)]";false;true;false;false;false;false;false;LOCATION;ORGANIZATION
+"[(SMA Negeri 2)-(dia,)]";false;false;false;false;true;false;false;LOCATION;OTHER
+"[(SMA Negeri 2)-(Sukiran)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(SMA Negeri 2)-(karyawan Unhas)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(SMA Negeri 2)-(lokasi pantauan UN SLTA)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(SMA Negeri 2)-(Luwu Utara)]";false;true;false;false;false;false;false;LOCATION;LOCATION
+"[(SMA Negeri 2)-(lokasi)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(SMA Negeri 2)-(Ahad)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(SMA Negeri 2)-(Hal itu)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(SMA Negeri 2)-(pelaksanaan UN)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(SMA Negeri 2)-(Senin)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(SMA Negeri 2)-(keterlambatan distribusi soal)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(SMA Negeri 2)-(Kamis)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(SMA Negeri 2)-(penyebab meninggalnya)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(SMA Negeri 2)-(pihak keluarga)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(SMA Negeri 2)-(Makassar)]";false;true;false;false;false;false;false;LOCATION;LOCATION
+"[(SMA Negeri 2)-(kabar,")]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(SMA Negeri 2)-(Hal tersebut)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(SMA Negeri 2)-(Koordinator Pengawas)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(SMA Negeri 2)-(Kota Palopo SM Noor)]";false;true;false;false;false;false;false;LOCATION;LOCATION
+"[(SMA Negeri 2)-(wilayah pantauannya)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(SMA Negeri 2)-(Luwu Utara)]";false;true;false;false;false;false;false;LOCATION;LOCATION
+"[(SMA Negeri 2)-(Dia)]";false;true;false;false;true;false;false;LOCATION;OTHER
+"[(SMA Negeri 2)-(jenazah pengawas tersebut)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(SMA Negeri 2)-(Makassar)]";false;true;false;false;false;false;false;LOCATION;LOCATION
+"[(SMA Negeri 2)-(rumah duka)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(SMA Negeri 2)-(penyebab meninggalnya,)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(SMA Negeri 2)-(rekan-rekannya)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(SMA Negeri 2)-(pelaksanaan UN)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(SMA Negeri 2)-(SMA Negeri)]";false;true;false;false;false;false;true;LOCATION;LOCATION
+"[(SMA Negeri 2)-(2 Baebunta,)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(SMA Negeri 2)-(penundaan akibat keterlambatan distribusi soal UN)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Baebunta)-(Luwu Utara)]";false;true;false;false;false;true;false;PERSON;LOCATION
+"[(Baebunta)-(Sukiran)]";false;true;false;false;false;true;false;PERSON;PERSON
+"[(Baebunta)-(dunia)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Baebunta)-(tugasnya)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Baebunta)-("Kami)]";false;false;false;false;true;false;false;PERSON;OTHER
+"[(Baebunta)-(informasi itu,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Baebunta)-(pagi)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Baebunta)-(pelaksanaan UN,")]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Baebunta)-(Tim Pemantau Independen)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Baebunta)-(Universitas Hasanuddin Mulyadi Mau)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Baebunta)-(dia,)]";false;false;false;false;true;false;false;PERSON;OTHER
+"[(Baebunta)-(Sukiran)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Baebunta)-(karyawan Unhas)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Baebunta)-(lokasi pantauan UN SLTA)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Baebunta)-(Luwu Utara)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Baebunta)-(lokasi)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Baebunta)-(Ahad)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Baebunta)-(Hal itu)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Baebunta)-(pelaksanaan UN)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Baebunta)-(Senin)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Baebunta)-(keterlambatan distribusi soal)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Baebunta)-(Kamis)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Baebunta)-(penyebab meninggalnya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Baebunta)-(pihak keluarga)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Baebunta)-(Makassar)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Baebunta)-(kabar,")]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Baebunta)-(Hal tersebut)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Baebunta)-(Koordinator Pengawas)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Baebunta)-(Kota Palopo SM Noor)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Baebunta)-(wilayah pantauannya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Baebunta)-(Luwu Utara)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Baebunta)-(Dia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Baebunta)-(jenazah pengawas tersebut)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Baebunta)-(Makassar)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Baebunta)-(rumah duka)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Baebunta)-(penyebab meninggalnya,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Baebunta)-(rekan-rekannya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Baebunta)-(pelaksanaan UN)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Baebunta)-(SMA Negeri)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Baebunta)-(2 Baebunta,)]";false;false;false;false;false;false;true;PERSON;OTHER
+"[(Baebunta)-(penundaan akibat keterlambatan distribusi soal UN)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Luwu Utara)-(Sukiran)]";false;true;false;false;false;true;false;LOCATION;PERSON
+"[(Luwu Utara)-(dunia)]";false;true;false;false;false;true;false;LOCATION;OTHER
+"[(Luwu Utara)-(tugasnya)]";false;true;false;false;false;true;false;LOCATION;OTHER
+"[(Luwu Utara)-("Kami)]";false;false;false;false;true;false;false;LOCATION;OTHER
+"[(Luwu Utara)-(informasi itu,)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Luwu Utara)-(pagi)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Luwu Utara)-(pelaksanaan UN,")]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Luwu Utara)-(Tim Pemantau Independen)]";false;true;false;false;false;false;false;LOCATION;ORGANIZATION
+"[(Luwu Utara)-(Universitas Hasanuddin Mulyadi Mau)]";false;true;false;false;false;false;false;LOCATION;ORGANIZATION
+"[(Luwu Utara)-(dia,)]";false;false;false;false;true;false;false;LOCATION;OTHER
+"[(Luwu Utara)-(Sukiran)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Luwu Utara)-(karyawan Unhas)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Luwu Utara)-(lokasi pantauan UN SLTA)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Luwu Utara)-(Luwu Utara)]";true;true;false;false;false;false;true;LOCATION;LOCATION
+"[(Luwu Utara)-(lokasi)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Luwu Utara)-(Ahad)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Luwu Utara)-(Hal itu)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Luwu Utara)-(pelaksanaan UN)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Luwu Utara)-(Senin)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Luwu Utara)-(keterlambatan distribusi soal)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Luwu Utara)-(Kamis)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Luwu Utara)-(penyebab meninggalnya)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Luwu Utara)-(pihak keluarga)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Luwu Utara)-(Makassar)]";false;true;false;false;false;false;false;LOCATION;LOCATION
+"[(Luwu Utara)-(kabar,")]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Luwu Utara)-(Hal tersebut)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Luwu Utara)-(Koordinator Pengawas)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Luwu Utara)-(Kota Palopo SM Noor)]";false;true;false;false;false;false;false;LOCATION;LOCATION
+"[(Luwu Utara)-(wilayah pantauannya)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Luwu Utara)-(Luwu Utara)]";true;true;false;false;false;false;true;LOCATION;LOCATION
+"[(Luwu Utara)-(Dia)]";false;true;false;false;true;false;false;LOCATION;OTHER
+"[(Luwu Utara)-(jenazah pengawas tersebut)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Luwu Utara)-(Makassar)]";false;true;false;false;false;false;false;LOCATION;LOCATION
+"[(Luwu Utara)-(rumah duka)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Luwu Utara)-(penyebab meninggalnya,)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Luwu Utara)-(rekan-rekannya)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Luwu Utara)-(pelaksanaan UN)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Luwu Utara)-(SMA Negeri)]";false;true;false;false;false;false;false;LOCATION;LOCATION
+"[(Luwu Utara)-(2 Baebunta,)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Luwu Utara)-(penundaan akibat keterlambatan distribusi soal UN)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Sukiran)-(dunia)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Sukiran)-(tugasnya)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Sukiran)-("Kami)]";false;false;false;false;true;false;false;PERSON;OTHER
+"[(Sukiran)-(informasi itu,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Sukiran)-(pagi)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Sukiran)-(pelaksanaan UN,")]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Sukiran)-(Tim Pemantau Independen)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Sukiran)-(Universitas Hasanuddin Mulyadi Mau)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Sukiran)-(dia,)]";false;false;false;false;true;false;false;PERSON;OTHER
+"[(Sukiran)-(Sukiran)]";true;true;false;false;false;false;true;PERSON;PERSON
+"[(Sukiran)-(karyawan Unhas)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Sukiran)-(lokasi pantauan UN SLTA)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Sukiran)-(Luwu Utara)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Sukiran)-(lokasi)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Sukiran)-(Ahad)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Sukiran)-(Hal itu)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Sukiran)-(pelaksanaan UN)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Sukiran)-(Senin)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Sukiran)-(keterlambatan distribusi soal)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Sukiran)-(Kamis)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Sukiran)-(penyebab meninggalnya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Sukiran)-(pihak keluarga)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Sukiran)-(Makassar)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Sukiran)-(kabar,")]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Sukiran)-(Hal tersebut)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Sukiran)-(Koordinator Pengawas)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Sukiran)-(Kota Palopo SM Noor)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Sukiran)-(wilayah pantauannya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Sukiran)-(Luwu Utara)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Sukiran)-(Dia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Sukiran)-(jenazah pengawas tersebut)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Sukiran)-(Makassar)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Sukiran)-(rumah duka)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Sukiran)-(penyebab meninggalnya,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Sukiran)-(rekan-rekannya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Sukiran)-(pelaksanaan UN)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Sukiran)-(SMA Negeri)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Sukiran)-(2 Baebunta,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Sukiran)-(penundaan akibat keterlambatan distribusi soal UN)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(dunia)-(tugasnya)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(dunia)-("Kami)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(dunia)-(informasi itu,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(dunia)-(pagi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dunia)-(pelaksanaan UN,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(dunia)-(Tim Pemantau Independen)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(dunia)-(Universitas Hasanuddin Mulyadi Mau)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(dunia)-(dia,)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(dunia)-(Sukiran)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(dunia)-(karyawan Unhas)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dunia)-(lokasi pantauan UN SLTA)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dunia)-(Luwu Utara)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(dunia)-(lokasi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dunia)-(Ahad)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(dunia)-(Hal itu)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(dunia)-(pelaksanaan UN)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dunia)-(Senin)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dunia)-(keterlambatan distribusi soal)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dunia)-(Kamis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dunia)-(penyebab meninggalnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dunia)-(pihak keluarga)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dunia)-(Makassar)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(dunia)-(kabar,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(dunia)-(Hal tersebut)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(dunia)-(Koordinator Pengawas)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(dunia)-(Kota Palopo SM Noor)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(dunia)-(wilayah pantauannya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dunia)-(Luwu Utara)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(dunia)-(Dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(dunia)-(jenazah pengawas tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dunia)-(Makassar)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(dunia)-(rumah duka)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dunia)-(penyebab meninggalnya,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(dunia)-(rekan-rekannya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dunia)-(pelaksanaan UN)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dunia)-(SMA Negeri)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(dunia)-(2 Baebunta,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(dunia)-(penundaan akibat keterlambatan distribusi soal UN)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tugasnya)-("Kami)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(tugasnya)-(informasi itu,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(tugasnya)-(pagi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tugasnya)-(pelaksanaan UN,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(tugasnya)-(Tim Pemantau Independen)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(tugasnya)-(Universitas Hasanuddin Mulyadi Mau)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(tugasnya)-(dia,)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(tugasnya)-(Sukiran)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(tugasnya)-(karyawan Unhas)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tugasnya)-(lokasi pantauan UN SLTA)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tugasnya)-(Luwu Utara)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(tugasnya)-(lokasi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tugasnya)-(Ahad)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(tugasnya)-(Hal itu)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(tugasnya)-(pelaksanaan UN)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tugasnya)-(Senin)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tugasnya)-(keterlambatan distribusi soal)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tugasnya)-(Kamis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tugasnya)-(penyebab meninggalnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tugasnya)-(pihak keluarga)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tugasnya)-(Makassar)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(tugasnya)-(kabar,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(tugasnya)-(Hal tersebut)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(tugasnya)-(Koordinator Pengawas)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(tugasnya)-(Kota Palopo SM Noor)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(tugasnya)-(wilayah pantauannya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tugasnya)-(Luwu Utara)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(tugasnya)-(Dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(tugasnya)-(jenazah pengawas tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tugasnya)-(Makassar)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(tugasnya)-(rumah duka)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tugasnya)-(penyebab meninggalnya,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(tugasnya)-(rekan-rekannya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tugasnya)-(pelaksanaan UN)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tugasnya)-(SMA Negeri)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(tugasnya)-(2 Baebunta,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(tugasnya)-(penundaan akibat keterlambatan distribusi soal UN)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[("Kami)-(informasi itu,)]";false;false;false;true;false;true;false;OTHER;OTHER
+"[("Kami)-(pagi)]";false;false;false;true;false;true;false;OTHER;OTHER
+"[("Kami)-(pelaksanaan UN,")]";false;false;false;true;false;true;false;OTHER;OTHER
+"[("Kami)-(Tim Pemantau Independen)]";false;false;false;true;false;true;false;OTHER;ORGANIZATION
+"[("Kami)-(Universitas Hasanuddin Mulyadi Mau)]";false;false;false;true;false;true;false;OTHER;ORGANIZATION
+"[("Kami)-(dia,)]";false;false;false;true;true;false;false;OTHER;OTHER
+"[("Kami)-(Sukiran)]";false;false;false;true;false;false;false;OTHER;PERSON
+"[("Kami)-(karyawan Unhas)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[("Kami)-(lokasi pantauan UN SLTA)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[("Kami)-(Luwu Utara)]";false;false;false;true;false;false;false;OTHER;LOCATION
+"[("Kami)-(lokasi)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[("Kami)-(Ahad)]";false;false;false;true;false;false;false;OTHER;PERSON
+"[("Kami)-(Hal itu)]";false;false;false;true;false;false;false;OTHER;PERSON
+"[("Kami)-(pelaksanaan UN)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[("Kami)-(Senin)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[("Kami)-(keterlambatan distribusi soal)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[("Kami)-(Kamis)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[("Kami)-(penyebab meninggalnya)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[("Kami)-(pihak keluarga)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[("Kami)-(Makassar)]";false;false;false;true;false;false;false;OTHER;LOCATION
+"[("Kami)-(kabar,")]";false;false;false;true;false;false;false;OTHER;OTHER
+"[("Kami)-(Hal tersebut)]";false;false;false;true;false;false;false;OTHER;PERSON
+"[("Kami)-(Koordinator Pengawas)]";false;false;false;true;false;false;false;OTHER;PERSON
+"[("Kami)-(Kota Palopo SM Noor)]";false;false;false;true;false;false;false;OTHER;LOCATION
+"[("Kami)-(wilayah pantauannya)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[("Kami)-(Luwu Utara)]";false;false;false;true;false;false;false;OTHER;LOCATION
+"[("Kami)-(Dia)]";false;false;false;true;true;false;false;OTHER;OTHER
+"[("Kami)-(jenazah pengawas tersebut)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[("Kami)-(Makassar)]";false;false;false;true;false;false;false;OTHER;LOCATION
+"[("Kami)-(rumah duka)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[("Kami)-(penyebab meninggalnya,)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[("Kami)-(rekan-rekannya)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[("Kami)-(pelaksanaan UN)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[("Kami)-(SMA Negeri)]";false;false;false;true;false;false;false;OTHER;LOCATION
+"[("Kami)-(2 Baebunta,)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[("Kami)-(penundaan akibat keterlambatan distribusi soal UN)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(informasi itu,)-(pagi)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(informasi itu,)-(pelaksanaan UN,")]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(informasi itu,)-(Tim Pemantau Independen)]";false;false;false;false;false;true;false;OTHER;ORGANIZATION
+"[(informasi itu,)-(Universitas Hasanuddin Mulyadi Mau)]";false;false;false;false;false;true;false;OTHER;ORGANIZATION
+"[(informasi itu,)-(dia,)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(informasi itu,)-(Sukiran)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(informasi itu,)-(karyawan Unhas)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(informasi itu,)-(lokasi pantauan UN SLTA)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(informasi itu,)-(Luwu Utara)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(informasi itu,)-(lokasi)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(informasi itu,)-(Ahad)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(informasi itu,)-(Hal itu)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(informasi itu,)-(pelaksanaan UN)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(informasi itu,)-(Senin)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(informasi itu,)-(keterlambatan distribusi soal)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(informasi itu,)-(Kamis)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(informasi itu,)-(penyebab meninggalnya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(informasi itu,)-(pihak keluarga)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(informasi itu,)-(Makassar)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(informasi itu,)-(kabar,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(informasi itu,)-(Hal tersebut)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(informasi itu,)-(Koordinator Pengawas)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(informasi itu,)-(Kota Palopo SM Noor)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(informasi itu,)-(wilayah pantauannya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(informasi itu,)-(Luwu Utara)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(informasi itu,)-(Dia)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(informasi itu,)-(jenazah pengawas tersebut)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(informasi itu,)-(Makassar)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(informasi itu,)-(rumah duka)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(informasi itu,)-(penyebab meninggalnya,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(informasi itu,)-(rekan-rekannya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(informasi itu,)-(pelaksanaan UN)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(informasi itu,)-(SMA Negeri)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(informasi itu,)-(2 Baebunta,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(informasi itu,)-(penundaan akibat keterlambatan distribusi soal UN)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pagi)-(pelaksanaan UN,")]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(pagi)-(Tim Pemantau Independen)]";false;true;false;false;false;true;false;OTHER;ORGANIZATION
+"[(pagi)-(Universitas Hasanuddin Mulyadi Mau)]";false;true;false;false;false;true;false;OTHER;ORGANIZATION
+"[(pagi)-(dia,)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(pagi)-(Sukiran)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pagi)-(karyawan Unhas)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pagi)-(lokasi pantauan UN SLTA)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pagi)-(Luwu Utara)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(pagi)-(lokasi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pagi)-(Ahad)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pagi)-(Hal itu)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pagi)-(pelaksanaan UN)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pagi)-(Senin)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pagi)-(keterlambatan distribusi soal)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pagi)-(Kamis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pagi)-(penyebab meninggalnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pagi)-(pihak keluarga)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pagi)-(Makassar)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(pagi)-(kabar,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pagi)-(Hal tersebut)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pagi)-(Koordinator Pengawas)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pagi)-(Kota Palopo SM Noor)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(pagi)-(wilayah pantauannya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pagi)-(Luwu Utara)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(pagi)-(Dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(pagi)-(jenazah pengawas tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pagi)-(Makassar)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(pagi)-(rumah duka)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pagi)-(penyebab meninggalnya,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pagi)-(rekan-rekannya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pagi)-(pelaksanaan UN)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pagi)-(SMA Negeri)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(pagi)-(2 Baebunta,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pagi)-(penundaan akibat keterlambatan distribusi soal UN)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pelaksanaan UN,")-(Tim Pemantau Independen)]";false;false;false;false;false;true;false;OTHER;ORGANIZATION
+"[(pelaksanaan UN,")-(Universitas Hasanuddin Mulyadi Mau)]";false;false;false;false;false;true;false;OTHER;ORGANIZATION
+"[(pelaksanaan UN,")-(dia,)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(pelaksanaan UN,")-(Sukiran)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(pelaksanaan UN,")-(karyawan Unhas)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pelaksanaan UN,")-(lokasi pantauan UN SLTA)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pelaksanaan UN,")-(Luwu Utara)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(pelaksanaan UN,")-(lokasi)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pelaksanaan UN,")-(Ahad)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(pelaksanaan UN,")-(Hal itu)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(pelaksanaan UN,")-(pelaksanaan UN)]";false;false;false;false;false;false;true;OTHER;OTHER
+"[(pelaksanaan UN,")-(Senin)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pelaksanaan UN,")-(keterlambatan distribusi soal)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pelaksanaan UN,")-(Kamis)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pelaksanaan UN,")-(penyebab meninggalnya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pelaksanaan UN,")-(pihak keluarga)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pelaksanaan UN,")-(Makassar)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(pelaksanaan UN,")-(kabar,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pelaksanaan UN,")-(Hal tersebut)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(pelaksanaan UN,")-(Koordinator Pengawas)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(pelaksanaan UN,")-(Kota Palopo SM Noor)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(pelaksanaan UN,")-(wilayah pantauannya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pelaksanaan UN,")-(Luwu Utara)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(pelaksanaan UN,")-(Dia)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(pelaksanaan UN,")-(jenazah pengawas tersebut)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pelaksanaan UN,")-(Makassar)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(pelaksanaan UN,")-(rumah duka)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pelaksanaan UN,")-(penyebab meninggalnya,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pelaksanaan UN,")-(rekan-rekannya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pelaksanaan UN,")-(pelaksanaan UN)]";false;false;false;false;false;false;true;OTHER;OTHER
+"[(pelaksanaan UN,")-(SMA Negeri)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(pelaksanaan UN,")-(2 Baebunta,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pelaksanaan UN,")-(penundaan akibat keterlambatan distribusi soal UN)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Tim Pemantau Independen)-(Universitas Hasanuddin Mulyadi Mau)]";false;true;false;false;false;true;false;ORGANIZATION;ORGANIZATION
+"[(Tim Pemantau Independen)-(dia,)]";false;false;false;false;true;false;false;ORGANIZATION;OTHER
+"[(Tim Pemantau Independen)-(Sukiran)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(Tim Pemantau Independen)-(karyawan Unhas)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Tim Pemantau Independen)-(lokasi pantauan UN SLTA)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Tim Pemantau Independen)-(Luwu Utara)]";false;true;false;false;false;false;false;ORGANIZATION;LOCATION
+"[(Tim Pemantau Independen)-(lokasi)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Tim Pemantau Independen)-(Ahad)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(Tim Pemantau Independen)-(Hal itu)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(Tim Pemantau Independen)-(pelaksanaan UN)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Tim Pemantau Independen)-(Senin)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Tim Pemantau Independen)-(keterlambatan distribusi soal)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Tim Pemantau Independen)-(Kamis)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Tim Pemantau Independen)-(penyebab meninggalnya)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Tim Pemantau Independen)-(pihak keluarga)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Tim Pemantau Independen)-(Makassar)]";false;true;false;false;false;false;false;ORGANIZATION;LOCATION
+"[(Tim Pemantau Independen)-(kabar,")]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Tim Pemantau Independen)-(Hal tersebut)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(Tim Pemantau Independen)-(Koordinator Pengawas)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(Tim Pemantau Independen)-(Kota Palopo SM Noor)]";false;true;false;false;false;false;false;ORGANIZATION;LOCATION
+"[(Tim Pemantau Independen)-(wilayah pantauannya)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Tim Pemantau Independen)-(Luwu Utara)]";false;true;false;false;false;false;false;ORGANIZATION;LOCATION
+"[(Tim Pemantau Independen)-(Dia)]";false;true;false;false;true;false;false;ORGANIZATION;OTHER
+"[(Tim Pemantau Independen)-(jenazah pengawas tersebut)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Tim Pemantau Independen)-(Makassar)]";false;true;false;false;false;false;false;ORGANIZATION;LOCATION
+"[(Tim Pemantau Independen)-(rumah duka)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Tim Pemantau Independen)-(penyebab meninggalnya,)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Tim Pemantau Independen)-(rekan-rekannya)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Tim Pemantau Independen)-(pelaksanaan UN)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Tim Pemantau Independen)-(SMA Negeri)]";false;true;false;false;false;false;false;ORGANIZATION;LOCATION
+"[(Tim Pemantau Independen)-(2 Baebunta,)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Tim Pemantau Independen)-(penundaan akibat keterlambatan distribusi soal UN)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Universitas Hasanuddin Mulyadi Mau)-(dia,)]";false;false;false;false;true;false;false;ORGANIZATION;OTHER
+"[(Universitas Hasanuddin Mulyadi Mau)-(Sukiran)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(Universitas Hasanuddin Mulyadi Mau)-(karyawan Unhas)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Universitas Hasanuddin Mulyadi Mau)-(lokasi pantauan UN SLTA)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Universitas Hasanuddin Mulyadi Mau)-(Luwu Utara)]";false;true;false;false;false;false;false;ORGANIZATION;LOCATION
+"[(Universitas Hasanuddin Mulyadi Mau)-(lokasi)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Universitas Hasanuddin Mulyadi Mau)-(Ahad)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(Universitas Hasanuddin Mulyadi Mau)-(Hal itu)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(Universitas Hasanuddin Mulyadi Mau)-(pelaksanaan UN)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Universitas Hasanuddin Mulyadi Mau)-(Senin)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Universitas Hasanuddin Mulyadi Mau)-(keterlambatan distribusi soal)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Universitas Hasanuddin Mulyadi Mau)-(Kamis)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Universitas Hasanuddin Mulyadi Mau)-(penyebab meninggalnya)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Universitas Hasanuddin Mulyadi Mau)-(pihak keluarga)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Universitas Hasanuddin Mulyadi Mau)-(Makassar)]";false;true;false;false;false;false;false;ORGANIZATION;LOCATION
+"[(Universitas Hasanuddin Mulyadi Mau)-(kabar,")]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Universitas Hasanuddin Mulyadi Mau)-(Hal tersebut)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(Universitas Hasanuddin Mulyadi Mau)-(Koordinator Pengawas)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(Universitas Hasanuddin Mulyadi Mau)-(Kota Palopo SM Noor)]";false;true;false;false;false;false;false;ORGANIZATION;LOCATION
+"[(Universitas Hasanuddin Mulyadi Mau)-(wilayah pantauannya)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Universitas Hasanuddin Mulyadi Mau)-(Luwu Utara)]";false;true;false;false;false;false;false;ORGANIZATION;LOCATION
+"[(Universitas Hasanuddin Mulyadi Mau)-(Dia)]";false;true;false;false;true;false;false;ORGANIZATION;OTHER
+"[(Universitas Hasanuddin Mulyadi Mau)-(jenazah pengawas tersebut)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Universitas Hasanuddin Mulyadi Mau)-(Makassar)]";false;true;false;false;false;false;false;ORGANIZATION;LOCATION
+"[(Universitas Hasanuddin Mulyadi Mau)-(rumah duka)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Universitas Hasanuddin Mulyadi Mau)-(penyebab meninggalnya,)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Universitas Hasanuddin Mulyadi Mau)-(rekan-rekannya)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Universitas Hasanuddin Mulyadi Mau)-(pelaksanaan UN)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Universitas Hasanuddin Mulyadi Mau)-(SMA Negeri)]";false;true;false;false;false;false;false;ORGANIZATION;LOCATION
+"[(Universitas Hasanuddin Mulyadi Mau)-(2 Baebunta,)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Universitas Hasanuddin Mulyadi Mau)-(penundaan akibat keterlambatan distribusi soal UN)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(dia,)-(Sukiran)]";false;false;false;true;false;true;false;OTHER;PERSON
+"[(dia,)-(karyawan Unhas)]";false;false;false;true;false;true;false;OTHER;OTHER
+"[(dia,)-(lokasi pantauan UN SLTA)]";false;false;false;true;false;true;false;OTHER;OTHER
+"[(dia,)-(Luwu Utara)]";false;false;false;true;false;true;false;OTHER;LOCATION
+"[(dia,)-(lokasi)]";false;false;false;true;false;true;false;OTHER;OTHER
+"[(dia,)-(Ahad)]";false;false;false;true;false;true;false;OTHER;PERSON
+"[(dia,)-(Hal itu)]";false;false;false;true;false;false;false;OTHER;PERSON
+"[(dia,)-(pelaksanaan UN)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(dia,)-(Senin)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(dia,)-(keterlambatan distribusi soal)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(dia,)-(Kamis)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(dia,)-(penyebab meninggalnya)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(dia,)-(pihak keluarga)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(dia,)-(Makassar)]";false;false;false;true;false;false;false;OTHER;LOCATION
+"[(dia,)-(kabar,")]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(dia,)-(Hal tersebut)]";false;false;false;true;false;false;false;OTHER;PERSON
+"[(dia,)-(Koordinator Pengawas)]";false;false;false;true;false;false;false;OTHER;PERSON
+"[(dia,)-(Kota Palopo SM Noor)]";false;false;false;true;false;false;false;OTHER;LOCATION
+"[(dia,)-(wilayah pantauannya)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(dia,)-(Luwu Utara)]";false;false;false;true;false;false;false;OTHER;LOCATION
+"[(dia,)-(Dia)]";false;false;false;true;true;false;false;OTHER;OTHER
+"[(dia,)-(jenazah pengawas tersebut)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(dia,)-(Makassar)]";false;false;false;true;false;false;false;OTHER;LOCATION
+"[(dia,)-(rumah duka)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(dia,)-(penyebab meninggalnya,)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(dia,)-(rekan-rekannya)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(dia,)-(pelaksanaan UN)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(dia,)-(SMA Negeri)]";false;false;false;true;false;false;false;OTHER;LOCATION
+"[(dia,)-(2 Baebunta,)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(dia,)-(penundaan akibat keterlambatan distribusi soal UN)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(Sukiran)-(karyawan Unhas)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Sukiran)-(lokasi pantauan UN SLTA)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Sukiran)-(Luwu Utara)]";false;true;false;false;false;true;false;PERSON;LOCATION
+"[(Sukiran)-(lokasi)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Sukiran)-(Ahad)]";false;true;false;false;false;true;false;PERSON;PERSON
+"[(Sukiran)-(Hal itu)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Sukiran)-(pelaksanaan UN)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Sukiran)-(Senin)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Sukiran)-(keterlambatan distribusi soal)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Sukiran)-(Kamis)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Sukiran)-(penyebab meninggalnya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Sukiran)-(pihak keluarga)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Sukiran)-(Makassar)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Sukiran)-(kabar,")]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Sukiran)-(Hal tersebut)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Sukiran)-(Koordinator Pengawas)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Sukiran)-(Kota Palopo SM Noor)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Sukiran)-(wilayah pantauannya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Sukiran)-(Luwu Utara)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Sukiran)-(Dia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Sukiran)-(jenazah pengawas tersebut)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Sukiran)-(Makassar)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Sukiran)-(rumah duka)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Sukiran)-(penyebab meninggalnya,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Sukiran)-(rekan-rekannya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Sukiran)-(pelaksanaan UN)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Sukiran)-(SMA Negeri)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Sukiran)-(2 Baebunta,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Sukiran)-(penundaan akibat keterlambatan distribusi soal UN)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(karyawan Unhas)-(lokasi pantauan UN SLTA)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(karyawan Unhas)-(Luwu Utara)]";false;true;false;false;false;true;false;OTHER;LOCATION
+"[(karyawan Unhas)-(lokasi)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(karyawan Unhas)-(Ahad)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(karyawan Unhas)-(Hal itu)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(karyawan Unhas)-(pelaksanaan UN)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(karyawan Unhas)-(Senin)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(karyawan Unhas)-(keterlambatan distribusi soal)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(karyawan Unhas)-(Kamis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(karyawan Unhas)-(penyebab meninggalnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(karyawan Unhas)-(pihak keluarga)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(karyawan Unhas)-(Makassar)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(karyawan Unhas)-(kabar,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(karyawan Unhas)-(Hal tersebut)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(karyawan Unhas)-(Koordinator Pengawas)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(karyawan Unhas)-(Kota Palopo SM Noor)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(karyawan Unhas)-(wilayah pantauannya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(karyawan Unhas)-(Luwu Utara)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(karyawan Unhas)-(Dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(karyawan Unhas)-(jenazah pengawas tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(karyawan Unhas)-(Makassar)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(karyawan Unhas)-(rumah duka)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(karyawan Unhas)-(penyebab meninggalnya,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(karyawan Unhas)-(rekan-rekannya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(karyawan Unhas)-(pelaksanaan UN)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(karyawan Unhas)-(SMA Negeri)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(karyawan Unhas)-(2 Baebunta,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(karyawan Unhas)-(penundaan akibat keterlambatan distribusi soal UN)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lokasi pantauan UN SLTA)-(Luwu Utara)]";false;true;false;false;false;true;false;OTHER;LOCATION
+"[(lokasi pantauan UN SLTA)-(lokasi)]";false;true;false;false;false;true;true;OTHER;OTHER
+"[(lokasi pantauan UN SLTA)-(Ahad)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(lokasi pantauan UN SLTA)-(Hal itu)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(lokasi pantauan UN SLTA)-(pelaksanaan UN)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lokasi pantauan UN SLTA)-(Senin)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lokasi pantauan UN SLTA)-(keterlambatan distribusi soal)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lokasi pantauan UN SLTA)-(Kamis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lokasi pantauan UN SLTA)-(penyebab meninggalnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lokasi pantauan UN SLTA)-(pihak keluarga)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lokasi pantauan UN SLTA)-(Makassar)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(lokasi pantauan UN SLTA)-(kabar,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(lokasi pantauan UN SLTA)-(Hal tersebut)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(lokasi pantauan UN SLTA)-(Koordinator Pengawas)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(lokasi pantauan UN SLTA)-(Kota Palopo SM Noor)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(lokasi pantauan UN SLTA)-(wilayah pantauannya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lokasi pantauan UN SLTA)-(Luwu Utara)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(lokasi pantauan UN SLTA)-(Dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(lokasi pantauan UN SLTA)-(jenazah pengawas tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lokasi pantauan UN SLTA)-(Makassar)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(lokasi pantauan UN SLTA)-(rumah duka)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lokasi pantauan UN SLTA)-(penyebab meninggalnya,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(lokasi pantauan UN SLTA)-(rekan-rekannya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lokasi pantauan UN SLTA)-(pelaksanaan UN)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lokasi pantauan UN SLTA)-(SMA Negeri)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(lokasi pantauan UN SLTA)-(2 Baebunta,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(lokasi pantauan UN SLTA)-(penundaan akibat keterlambatan distribusi soal UN)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Luwu Utara)-(lokasi)]";false;true;false;false;false;true;false;LOCATION;OTHER
+"[(Luwu Utara)-(Ahad)]";false;true;false;false;false;true;false;LOCATION;PERSON
+"[(Luwu Utara)-(Hal itu)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Luwu Utara)-(pelaksanaan UN)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Luwu Utara)-(Senin)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Luwu Utara)-(keterlambatan distribusi soal)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Luwu Utara)-(Kamis)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Luwu Utara)-(penyebab meninggalnya)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Luwu Utara)-(pihak keluarga)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Luwu Utara)-(Makassar)]";false;true;false;false;false;false;false;LOCATION;LOCATION
+"[(Luwu Utara)-(kabar,")]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Luwu Utara)-(Hal tersebut)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Luwu Utara)-(Koordinator Pengawas)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Luwu Utara)-(Kota Palopo SM Noor)]";false;true;false;false;false;false;false;LOCATION;LOCATION
+"[(Luwu Utara)-(wilayah pantauannya)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Luwu Utara)-(Luwu Utara)]";true;true;false;false;false;false;true;LOCATION;LOCATION
+"[(Luwu Utara)-(Dia)]";false;true;false;false;true;false;false;LOCATION;OTHER
+"[(Luwu Utara)-(jenazah pengawas tersebut)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Luwu Utara)-(Makassar)]";false;true;false;false;false;false;false;LOCATION;LOCATION
+"[(Luwu Utara)-(rumah duka)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Luwu Utara)-(penyebab meninggalnya,)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Luwu Utara)-(rekan-rekannya)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Luwu Utara)-(pelaksanaan UN)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Luwu Utara)-(SMA Negeri)]";false;true;false;false;false;false;false;LOCATION;LOCATION
+"[(Luwu Utara)-(2 Baebunta,)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Luwu Utara)-(penundaan akibat keterlambatan distribusi soal UN)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(lokasi)-(Ahad)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(lokasi)-(Hal itu)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(lokasi)-(pelaksanaan UN)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lokasi)-(Senin)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lokasi)-(keterlambatan distribusi soal)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lokasi)-(Kamis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lokasi)-(penyebab meninggalnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lokasi)-(pihak keluarga)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lokasi)-(Makassar)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(lokasi)-(kabar,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(lokasi)-(Hal tersebut)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(lokasi)-(Koordinator Pengawas)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(lokasi)-(Kota Palopo SM Noor)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(lokasi)-(wilayah pantauannya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lokasi)-(Luwu Utara)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(lokasi)-(Dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(lokasi)-(jenazah pengawas tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lokasi)-(Makassar)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(lokasi)-(rumah duka)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lokasi)-(penyebab meninggalnya,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(lokasi)-(rekan-rekannya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lokasi)-(pelaksanaan UN)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lokasi)-(SMA Negeri)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(lokasi)-(2 Baebunta,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(lokasi)-(penundaan akibat keterlambatan distribusi soal UN)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Ahad)-(Hal itu)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Ahad)-(pelaksanaan UN)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ahad)-(Senin)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ahad)-(keterlambatan distribusi soal)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ahad)-(Kamis)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ahad)-(penyebab meninggalnya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ahad)-(pihak keluarga)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ahad)-(Makassar)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Ahad)-(kabar,")]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Ahad)-(Hal tersebut)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Ahad)-(Koordinator Pengawas)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Ahad)-(Kota Palopo SM Noor)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Ahad)-(wilayah pantauannya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ahad)-(Luwu Utara)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Ahad)-(Dia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Ahad)-(jenazah pengawas tersebut)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ahad)-(Makassar)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Ahad)-(rumah duka)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ahad)-(penyebab meninggalnya,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Ahad)-(rekan-rekannya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ahad)-(pelaksanaan UN)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ahad)-(SMA Negeri)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Ahad)-(2 Baebunta,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Ahad)-(penundaan akibat keterlambatan distribusi soal UN)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hal itu)-(pelaksanaan UN)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Hal itu)-(Senin)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Hal itu)-(keterlambatan distribusi soal)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Hal itu)-(Kamis)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Hal itu)-(penyebab meninggalnya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hal itu)-(pihak keluarga)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hal itu)-(Makassar)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Hal itu)-(kabar,")]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Hal itu)-(Hal tersebut)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Hal itu)-(Koordinator Pengawas)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Hal itu)-(Kota Palopo SM Noor)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Hal itu)-(wilayah pantauannya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hal itu)-(Luwu Utara)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Hal itu)-(Dia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Hal itu)-(jenazah pengawas tersebut)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hal itu)-(Makassar)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Hal itu)-(rumah duka)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hal itu)-(penyebab meninggalnya,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Hal itu)-(rekan-rekannya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hal itu)-(pelaksanaan UN)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hal itu)-(SMA Negeri)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Hal itu)-(2 Baebunta,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Hal itu)-(penundaan akibat keterlambatan distribusi soal UN)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(pelaksanaan UN)-(Senin)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(pelaksanaan UN)-(keterlambatan distribusi soal)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(pelaksanaan UN)-(Kamis)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(pelaksanaan UN)-(penyebab meninggalnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pelaksanaan UN)-(pihak keluarga)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pelaksanaan UN)-(Makassar)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(pelaksanaan UN)-(kabar,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pelaksanaan UN)-(Hal tersebut)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pelaksanaan UN)-(Koordinator Pengawas)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pelaksanaan UN)-(Kota Palopo SM Noor)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(pelaksanaan UN)-(wilayah pantauannya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pelaksanaan UN)-(Luwu Utara)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(pelaksanaan UN)-(Dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(pelaksanaan UN)-(jenazah pengawas tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pelaksanaan UN)-(Makassar)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(pelaksanaan UN)-(rumah duka)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pelaksanaan UN)-(penyebab meninggalnya,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pelaksanaan UN)-(rekan-rekannya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pelaksanaan UN)-(pelaksanaan UN)]";true;true;false;false;false;false;true;OTHER;OTHER
+"[(pelaksanaan UN)-(SMA Negeri)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(pelaksanaan UN)-(2 Baebunta,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pelaksanaan UN)-(penundaan akibat keterlambatan distribusi soal UN)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Senin)-(keterlambatan distribusi soal)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(Senin)-(Kamis)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(Senin)-(penyebab meninggalnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Senin)-(pihak keluarga)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Senin)-(Makassar)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(Senin)-(kabar,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Senin)-(Hal tersebut)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(Senin)-(Koordinator Pengawas)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(Senin)-(Kota Palopo SM Noor)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(Senin)-(wilayah pantauannya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Senin)-(Luwu Utara)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(Senin)-(Dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(Senin)-(jenazah pengawas tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Senin)-(Makassar)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(Senin)-(rumah duka)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Senin)-(penyebab meninggalnya,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Senin)-(rekan-rekannya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Senin)-(pelaksanaan UN)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Senin)-(SMA Negeri)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(Senin)-(2 Baebunta,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Senin)-(penundaan akibat keterlambatan distribusi soal UN)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keterlambatan distribusi soal)-(Kamis)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(keterlambatan distribusi soal)-(penyebab meninggalnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keterlambatan distribusi soal)-(pihak keluarga)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keterlambatan distribusi soal)-(Makassar)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(keterlambatan distribusi soal)-(kabar,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(keterlambatan distribusi soal)-(Hal tersebut)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(keterlambatan distribusi soal)-(Koordinator Pengawas)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(keterlambatan distribusi soal)-(Kota Palopo SM Noor)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(keterlambatan distribusi soal)-(wilayah pantauannya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keterlambatan distribusi soal)-(Luwu Utara)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(keterlambatan distribusi soal)-(Dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(keterlambatan distribusi soal)-(jenazah pengawas tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keterlambatan distribusi soal)-(Makassar)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(keterlambatan distribusi soal)-(rumah duka)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keterlambatan distribusi soal)-(penyebab meninggalnya,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(keterlambatan distribusi soal)-(rekan-rekannya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keterlambatan distribusi soal)-(pelaksanaan UN)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keterlambatan distribusi soal)-(SMA Negeri)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(keterlambatan distribusi soal)-(2 Baebunta,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(keterlambatan distribusi soal)-(penundaan akibat keterlambatan distribusi soal UN)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(Kamis)-(penyebab meninggalnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Kamis)-(pihak keluarga)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Kamis)-(Makassar)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(Kamis)-(kabar,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Kamis)-(Hal tersebut)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(Kamis)-(Koordinator Pengawas)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(Kamis)-(Kota Palopo SM Noor)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(Kamis)-(wilayah pantauannya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Kamis)-(Luwu Utara)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(Kamis)-(Dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(Kamis)-(jenazah pengawas tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Kamis)-(Makassar)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(Kamis)-(rumah duka)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Kamis)-(penyebab meninggalnya,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Kamis)-(rekan-rekannya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Kamis)-(pelaksanaan UN)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Kamis)-(SMA Negeri)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(Kamis)-(2 Baebunta,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Kamis)-(penundaan akibat keterlambatan distribusi soal UN)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(penyebab meninggalnya)-(pihak keluarga)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(penyebab meninggalnya)-(Makassar)]";false;true;false;false;false;true;false;OTHER;LOCATION
+"[(penyebab meninggalnya)-(kabar,")]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(penyebab meninggalnya)-(Hal tersebut)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(penyebab meninggalnya)-(Koordinator Pengawas)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(penyebab meninggalnya)-(Kota Palopo SM Noor)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(penyebab meninggalnya)-(wilayah pantauannya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(penyebab meninggalnya)-(Luwu Utara)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(penyebab meninggalnya)-(Dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(penyebab meninggalnya)-(jenazah pengawas tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(penyebab meninggalnya)-(Makassar)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(penyebab meninggalnya)-(rumah duka)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(penyebab meninggalnya)-(penyebab meninggalnya,)]";false;false;false;false;false;false;true;OTHER;OTHER
+"[(penyebab meninggalnya)-(rekan-rekannya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(penyebab meninggalnya)-(pelaksanaan UN)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(penyebab meninggalnya)-(SMA Negeri)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(penyebab meninggalnya)-(2 Baebunta,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(penyebab meninggalnya)-(penundaan akibat keterlambatan distribusi soal UN)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pihak keluarga)-(Makassar)]";false;true;false;false;false;true;false;OTHER;LOCATION
+"[(pihak keluarga)-(kabar,")]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(pihak keluarga)-(Hal tersebut)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pihak keluarga)-(Koordinator Pengawas)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pihak keluarga)-(Kota Palopo SM Noor)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(pihak keluarga)-(wilayah pantauannya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pihak keluarga)-(Luwu Utara)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(pihak keluarga)-(Dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(pihak keluarga)-(jenazah pengawas tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pihak keluarga)-(Makassar)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(pihak keluarga)-(rumah duka)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pihak keluarga)-(penyebab meninggalnya,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pihak keluarga)-(rekan-rekannya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pihak keluarga)-(pelaksanaan UN)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pihak keluarga)-(SMA Negeri)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(pihak keluarga)-(2 Baebunta,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pihak keluarga)-(penundaan akibat keterlambatan distribusi soal UN)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Makassar)-(kabar,")]";false;false;false;false;false;true;false;LOCATION;OTHER
+"[(Makassar)-(Hal tersebut)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Makassar)-(Koordinator Pengawas)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Makassar)-(Kota Palopo SM Noor)]";false;true;false;false;false;false;false;LOCATION;LOCATION
+"[(Makassar)-(wilayah pantauannya)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Makassar)-(Luwu Utara)]";false;true;false;false;false;false;false;LOCATION;LOCATION
+"[(Makassar)-(Dia)]";false;true;false;false;true;false;false;LOCATION;OTHER
+"[(Makassar)-(jenazah pengawas tersebut)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Makassar)-(Makassar)]";true;true;false;false;false;false;true;LOCATION;LOCATION
+"[(Makassar)-(rumah duka)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Makassar)-(penyebab meninggalnya,)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Makassar)-(rekan-rekannya)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Makassar)-(pelaksanaan UN)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Makassar)-(SMA Negeri)]";false;true;false;false;false;false;false;LOCATION;LOCATION
+"[(Makassar)-(2 Baebunta,)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Makassar)-(penundaan akibat keterlambatan distribusi soal UN)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(kabar,")-(Hal tersebut)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(kabar,")-(Koordinator Pengawas)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(kabar,")-(Kota Palopo SM Noor)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(kabar,")-(wilayah pantauannya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(kabar,")-(Luwu Utara)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(kabar,")-(Dia)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(kabar,")-(jenazah pengawas tersebut)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(kabar,")-(Makassar)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(kabar,")-(rumah duka)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(kabar,")-(penyebab meninggalnya,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(kabar,")-(rekan-rekannya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(kabar,")-(pelaksanaan UN)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(kabar,")-(SMA Negeri)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(kabar,")-(2 Baebunta,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(kabar,")-(penundaan akibat keterlambatan distribusi soal UN)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Hal tersebut)-(Koordinator Pengawas)]";false;true;false;false;false;true;false;PERSON;PERSON
+"[(Hal tersebut)-(Kota Palopo SM Noor)]";false;true;false;false;false;true;false;PERSON;LOCATION
+"[(Hal tersebut)-(wilayah pantauannya)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Hal tersebut)-(Luwu Utara)]";false;true;false;false;false;true;false;PERSON;LOCATION
+"[(Hal tersebut)-(Dia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Hal tersebut)-(jenazah pengawas tersebut)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hal tersebut)-(Makassar)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Hal tersebut)-(rumah duka)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hal tersebut)-(penyebab meninggalnya,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Hal tersebut)-(rekan-rekannya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hal tersebut)-(pelaksanaan UN)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hal tersebut)-(SMA Negeri)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Hal tersebut)-(2 Baebunta,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Hal tersebut)-(penundaan akibat keterlambatan distribusi soal UN)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Koordinator Pengawas)-(Kota Palopo SM Noor)]";false;true;false;false;false;true;false;PERSON;LOCATION
+"[(Koordinator Pengawas)-(wilayah pantauannya)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Koordinator Pengawas)-(Luwu Utara)]";false;true;false;false;false;true;false;PERSON;LOCATION
+"[(Koordinator Pengawas)-(Dia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Koordinator Pengawas)-(jenazah pengawas tersebut)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Koordinator Pengawas)-(Makassar)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Koordinator Pengawas)-(rumah duka)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Koordinator Pengawas)-(penyebab meninggalnya,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Koordinator Pengawas)-(rekan-rekannya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Koordinator Pengawas)-(pelaksanaan UN)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Koordinator Pengawas)-(SMA Negeri)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Koordinator Pengawas)-(2 Baebunta,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Koordinator Pengawas)-(penundaan akibat keterlambatan distribusi soal UN)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kota Palopo SM Noor)-(wilayah pantauannya)]";false;true;false;false;false;true;false;LOCATION;OTHER
+"[(Kota Palopo SM Noor)-(Luwu Utara)]";false;true;false;false;false;true;false;LOCATION;LOCATION
+"[(Kota Palopo SM Noor)-(Dia)]";false;true;false;false;true;false;false;LOCATION;OTHER
+"[(Kota Palopo SM Noor)-(jenazah pengawas tersebut)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Kota Palopo SM Noor)-(Makassar)]";false;true;false;false;false;false;false;LOCATION;LOCATION
+"[(Kota Palopo SM Noor)-(rumah duka)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Kota Palopo SM Noor)-(penyebab meninggalnya,)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Kota Palopo SM Noor)-(rekan-rekannya)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Kota Palopo SM Noor)-(pelaksanaan UN)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Kota Palopo SM Noor)-(SMA Negeri)]";false;true;false;false;false;false;false;LOCATION;LOCATION
+"[(Kota Palopo SM Noor)-(2 Baebunta,)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Kota Palopo SM Noor)-(penundaan akibat keterlambatan distribusi soal UN)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(wilayah pantauannya)-(Luwu Utara)]";false;true;false;false;false;true;false;OTHER;LOCATION
+"[(wilayah pantauannya)-(Dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(wilayah pantauannya)-(jenazah pengawas tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wilayah pantauannya)-(Makassar)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(wilayah pantauannya)-(rumah duka)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wilayah pantauannya)-(penyebab meninggalnya,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(wilayah pantauannya)-(rekan-rekannya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wilayah pantauannya)-(pelaksanaan UN)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wilayah pantauannya)-(SMA Negeri)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(wilayah pantauannya)-(2 Baebunta,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(wilayah pantauannya)-(penundaan akibat keterlambatan distribusi soal UN)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Luwu Utara)-(Dia)]";false;true;false;false;true;false;false;LOCATION;OTHER
+"[(Luwu Utara)-(jenazah pengawas tersebut)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Luwu Utara)-(Makassar)]";false;true;false;false;false;false;false;LOCATION;LOCATION
+"[(Luwu Utara)-(rumah duka)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Luwu Utara)-(penyebab meninggalnya,)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Luwu Utara)-(rekan-rekannya)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Luwu Utara)-(pelaksanaan UN)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Luwu Utara)-(SMA Negeri)]";false;true;false;false;false;false;false;LOCATION;LOCATION
+"[(Luwu Utara)-(2 Baebunta,)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Luwu Utara)-(penundaan akibat keterlambatan distribusi soal UN)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Dia)-(jenazah pengawas tersebut)]";false;true;false;true;false;true;false;OTHER;OTHER
+"[(Dia)-(Makassar)]";false;true;false;true;false;true;false;OTHER;LOCATION
+"[(Dia)-(rumah duka)]";false;true;false;true;false;true;false;OTHER;OTHER
+"[(Dia)-(penyebab meninggalnya,)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(Dia)-(rekan-rekannya)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Dia)-(pelaksanaan UN)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Dia)-(SMA Negeri)]";false;true;false;true;false;false;false;OTHER;LOCATION
+"[(Dia)-(2 Baebunta,)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(Dia)-(penundaan akibat keterlambatan distribusi soal UN)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(jenazah pengawas tersebut)-(Makassar)]";false;true;false;false;false;true;false;OTHER;LOCATION
+"[(jenazah pengawas tersebut)-(rumah duka)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(jenazah pengawas tersebut)-(penyebab meninggalnya,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(jenazah pengawas tersebut)-(rekan-rekannya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(jenazah pengawas tersebut)-(pelaksanaan UN)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(jenazah pengawas tersebut)-(SMA Negeri)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(jenazah pengawas tersebut)-(2 Baebunta,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(jenazah pengawas tersebut)-(penundaan akibat keterlambatan distribusi soal UN)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Makassar)-(rumah duka)]";false;true;false;false;false;true;false;LOCATION;OTHER
+"[(Makassar)-(penyebab meninggalnya,)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Makassar)-(rekan-rekannya)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Makassar)-(pelaksanaan UN)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Makassar)-(SMA Negeri)]";false;true;false;false;false;false;false;LOCATION;LOCATION
+"[(Makassar)-(2 Baebunta,)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Makassar)-(penundaan akibat keterlambatan distribusi soal UN)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(rumah duka)-(penyebab meninggalnya,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(rumah duka)-(rekan-rekannya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(rumah duka)-(pelaksanaan UN)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(rumah duka)-(SMA Negeri)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(rumah duka)-(2 Baebunta,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(rumah duka)-(penundaan akibat keterlambatan distribusi soal UN)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(penyebab meninggalnya,)-(rekan-rekannya)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(penyebab meninggalnya,)-(pelaksanaan UN)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(penyebab meninggalnya,)-(SMA Negeri)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(penyebab meninggalnya,)-(2 Baebunta,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(penyebab meninggalnya,)-(penundaan akibat keterlambatan distribusi soal UN)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(rekan-rekannya)-(pelaksanaan UN)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(rekan-rekannya)-(SMA Negeri)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(rekan-rekannya)-(2 Baebunta,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(rekan-rekannya)-(penundaan akibat keterlambatan distribusi soal UN)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pelaksanaan UN)-(SMA Negeri)]";false;true;false;false;false;true;false;OTHER;LOCATION
+"[(pelaksanaan UN)-(2 Baebunta,)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(pelaksanaan UN)-(penundaan akibat keterlambatan distribusi soal UN)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(SMA Negeri)-(2 Baebunta,)]";false;false;false;false;false;true;false;LOCATION;OTHER
+"[(SMA Negeri)-(penundaan akibat keterlambatan distribusi soal UN)]";false;true;false;false;false;true;false;LOCATION;OTHER
+"[(2 Baebunta,)-(penundaan akibat keterlambatan distribusi soal UN)]";false;false;false;false;false;true;false;OTHER;OTHER

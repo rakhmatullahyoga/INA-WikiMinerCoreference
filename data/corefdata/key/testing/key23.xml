@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>SBY</Mention>
+        <Mention>Presiden Susilo Bambang Yudhoyono</Mention>
+        <Mention>Presiden Yudhoyono</Mention>
+        <Mention>Presiden</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>Mendikbud</Mention>
+        <Mention>Menteri Pendidikan dan Kebudayaan</Mention>
+        <Mention>Mohammad Nuh</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>UN</Mention>
+        <Mention>Ujian Nasional</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>jejaring sosial</Mention>
+        <Mention>twitter</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>Provinsi</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>Indonesia</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>twit</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>Ani</Mention>
+    </Entity>
+</CoreferenceChain>

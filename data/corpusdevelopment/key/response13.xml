@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>Riau</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>Jakarta</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>ANTARA News</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>Menteri Dalam Negeri</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>Gamawan Fauzi</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>Gubernur</Mention>
+        <Mention>gubernur</Mention>
+        <Mention>Wakil Gubernur</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>kebakaran hutan</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>bupati</Mention>
+    </Entity>
+    <Entity ClusterId="9">
+        <Mention>wali kota</Mention>
+    </Entity>
+    <Entity ClusterId="10">
+        <Mention>Istana Kepresidenan, Jakarta</Mention>
+    </Entity>
+    <Entity ClusterId="11">
+        <Mention>Rusli Zainal</Mention>
+    </Entity>
+    <Entity ClusterId="12">
+        <Mention>Korupsi</Mention>
+        <Mention>korupsi</Mention>
+    </Entity>
+    <Entity ClusterId="13">
+        <Mention>polusi</Mention>
+    </Entity>
+    <Entity ClusterId="14">
+        <Mention>provinsi</Mention>
+    </Entity>
+    <Entity ClusterId="15">
+        <Mention>Kalimantan Barat</Mention>
+    </Entity>
+    <Entity ClusterId="16">
+        <Mention>Kalimantan</Mention>
+    </Entity>
+    <Entity ClusterId="17">
+        <Mention>Sumatera</Mention>
+    </Entity>
+    <Entity ClusterId="18">
+        <Mention>Sumatera Selatan</Mention>
+    </Entity>
+    <Entity ClusterId="19">
+        <Mention>Jambi</Mention>
+    </Entity>
+</CoreferenceChain>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>TEMPO.CO</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>Jakarta</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>Eksekutif</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>Indonesia</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>pemerintah</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>moratorium</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>UNDP</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>hukum</Mention>
+    </Entity>
+    <Entity ClusterId="9">
+        <Mention>masyarakat</Mention>
+        <Mention>Masyarakat</Mention>
+    </Entity>
+    <Entity ClusterId="10">
+        <Mention>aktor</Mention>
+    </Entity>
+    <Entity ClusterId="11">
+        <Mention>Sajogyo</Mention>
+    </Entity>
+    <Entity ClusterId="12">
+        <Mention>lingkungan</Mention>
+    </Entity>
+    <Entity ClusterId="13">
+        <Mention>ekologi</Mention>
+        <Mention>Ekologi</Mention>
+    </Entity>
+    <Entity ClusterId="14">
+        <Mention>masalah-masalah sosial</Mention>
+        <Mention>sosial</Mention>
+    </Entity>
+    <Entity ClusterId="15">
+        <Mention>konflik</Mention>
+    </Entity>
+    <Entity ClusterId="16">
+        <Mention>agraris</Mention>
+    </Entity>
+    <Entity ClusterId="17">
+        <Mention>wilayah</Mention>
+    </Entity>
+    <Entity ClusterId="18">
+        <Mention>Mahkamah Konstitusi (MK</Mention>
+    </Entity>
+    <Entity ClusterId="19">
+        <Mention>Nusantara</Mention>
+    </Entity>
+    <Entity ClusterId="20">
+        <Mention>Mei</Mention>
+    </Entity>
+    <Entity ClusterId="21">
+        <Mention>UU</Mention>
+        <Mention>undang-undang</Mention>
+    </Entity>
+    <Entity ClusterId="22">
+        <Mention>1999</Mention>
+    </Entity>
+    <Entity ClusterId="23">
+        <Mention>UUD 1945</Mention>
+    </Entity>
+</CoreferenceChain>

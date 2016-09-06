@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>Partai Demokrat</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>Bawaslu</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>Komisi Pemilihan Umum</Mention>
+        <Mention>KPU</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>Sekretaris Jenderal Partai Demokrat</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>Edhie Baskoro Yudhoyono</Mention>
+        <Mention>Ibas</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>Pemilu</Mention>
+        <Mention>Pemilu 2014</Mention>
+        <Mention>Pemilu mendatang</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>Presiden RI</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>Legislatif</Mention>
+    </Entity>
+</CoreferenceChain>

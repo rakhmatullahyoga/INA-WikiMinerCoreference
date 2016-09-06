@@ -1,0 +1,1954 @@
+mentions;isStrMatch;isMatchNoCasePunc;isAbbrev;isFirstPronoun;isScndPronoun;isOnOneSentence;isMatchPartial;firstNameClass;scndNameClass
+"[(Caleg Perempuan)-(Solo)]";false;true;false;false;false;true;false;PERSON;LOCATION
+"[(Caleg Perempuan)-(21 Tahun Empat)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Caleg Perempuan)-(calon anggota legislatif)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Caleg Perempuan)-((caleg)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Caleg Perempuan)-(Kota Surakarta,)]";false;false;false;false;false;true;false;PERSON;LOCATION
+"[(Caleg Perempuan)-(Jawa Tengah,)]";false;false;false;false;false;true;false;PERSON;LOCATION
+"[(Caleg Perempuan)-(bawah persyaratan umur)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Caleg Perempuan)-(Pasalnya,)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Caleg Perempuan)-(437 berkas caleg)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Caleg Perempuan)-(12 parpol)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Caleg Perempuan)-(empat)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Caleg Perempuan)-(caleg itu)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Caleg Perempuan)-(21 tahun per 22)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Caleg Perempuan)-(April)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Caleg Perempuan)-(caleg perempuan)]";true;true;false;false;false;false;false;PERSON;OTHER
+"[(Caleg Perempuan)-(bawah umur)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Caleg Perempuan)-(tiga parpol,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Caleg Perempuan)-(PDIP)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Caleg Perempuan)-(Hanura)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Caleg Perempuan)-(dan Partai NasDem)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Caleg Perempuan)-(Mereka)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Caleg Perempuan)-(parpol)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Caleg Perempuan)-(Selain itu)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Caleg Perempuan)-(satu caleg)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Caleg Perempuan)-(PNS)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Caleg Perempuan)-(surat pengunduran diri)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Caleg Perempuan)-(Partai Gerindra,)]";false;false;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Caleg Perempuan)-(Ketua KPU Kota Solo)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Caleg Perempuan)-(Didik Wahyudiono)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Caleg Perempuan)-(Media Indonesia)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Caleg Perempuan)-(Kamis)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Caleg Perempuan)-(Dia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Caleg Perempuan)-(verifikasi)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Caleg Perempuan)-(KPU Solo)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Caleg Perempuan)-(April-7 Mei)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Caleg Perempuan)-(dokumen)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Caleg Perempuan)-(ijazah)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Caleg Perempuan)-(surat keterangan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Caleg Perempuan)-(poliklinik padahal)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Caleg Perempuan)-(rumah sakit,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Caleg Perempuan)-(jumlah foto)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Caleg Perempuan)-(parpol masing-masing)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Caleg Perempuan)-(caleg perempuan)]";true;true;false;false;false;false;false;PERSON;OTHER
+"[(Caleg Perempuan)-(21 tahun per 22)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Caleg Perempuan)-(April)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Caleg Perempuan)-(halnya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Caleg Perempuan)-(dia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Caleg Perempuan)-(Ketua KPU Wonogiri Joko Purnomo)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Caleg Perempuan)-(proses verifikasi faktual)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Caleg Perempuan)-(caleg)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Caleg Perempuan)-(berkas)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Caleg Perempuan)-(parpol)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Caleg Perempuan)-(jumlah 384)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Caleg Perempuan)-(caleg,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Caleg Perempuan)-(100 bacaleg)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Caleg Perempuan)-(persyaratan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Caleg Perempuan)-(dokumen)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Caleg Perempuan)-(Kebanyakan)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Caleg Perempuan)-(sisi legalisasi ijazah)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Caleg Perempuan)-(atau surat pengganti ijazah)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Caleg Perempuan)-(Dinas Pendidikan)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Caleg Perempuan)-(Joko)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Solo)-(21 Tahun Empat)]";false;true;false;false;false;true;false;LOCATION;OTHER
+"[(Solo)-(calon anggota legislatif)]";false;true;false;false;false;true;false;LOCATION;OTHER
+"[(Solo)-((caleg)]";false;true;false;false;false;true;false;LOCATION;OTHER
+"[(Solo)-(Kota Surakarta,)]";false;false;false;false;false;true;false;LOCATION;LOCATION
+"[(Solo)-(Jawa Tengah,)]";false;false;false;false;false;true;false;LOCATION;LOCATION
+"[(Solo)-(bawah persyaratan umur)]";false;true;false;false;false;true;false;LOCATION;OTHER
+"[(Solo)-(Pasalnya,)]";false;false;false;false;false;false;false;LOCATION;PERSON
+"[(Solo)-(437 berkas caleg)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Solo)-(12 parpol)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Solo)-(empat)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Solo)-(caleg itu)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Solo)-(21 tahun per 22)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Solo)-(April)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Solo)-(caleg perempuan)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Solo)-(bawah umur)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Solo)-(tiga parpol,)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Solo)-(PDIP)]";false;true;false;false;false;false;false;LOCATION;ORGANIZATION
+"[(Solo)-(Hanura)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Solo)-(dan Partai NasDem)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Solo)-(Mereka)]";false;true;false;false;true;false;false;LOCATION;OTHER
+"[(Solo)-(parpol)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Solo)-(Selain itu)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Solo)-(satu caleg)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Solo)-(PNS)]";false;true;false;false;false;false;false;LOCATION;ORGANIZATION
+"[(Solo)-(surat pengunduran diri)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Solo)-(Partai Gerindra,)]";false;false;false;false;false;false;false;LOCATION;ORGANIZATION
+"[(Solo)-(Ketua KPU Kota Solo)]";false;true;false;false;false;false;true;LOCATION;OTHER
+"[(Solo)-(Didik Wahyudiono)]";false;true;false;false;false;false;false;LOCATION;LOCATION
+"[(Solo)-(Media Indonesia)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Solo)-(Kamis)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Solo)-(Dia)]";false;true;false;false;true;false;false;LOCATION;OTHER
+"[(Solo)-(verifikasi)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Solo)-(KPU Solo)]";false;true;false;false;false;false;true;LOCATION;ORGANIZATION
+"[(Solo)-(April-7 Mei)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Solo)-(dokumen)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Solo)-(ijazah)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Solo)-(surat keterangan)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Solo)-(poliklinik padahal)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Solo)-(rumah sakit,)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Solo)-(jumlah foto)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Solo)-(parpol masing-masing)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Solo)-(caleg perempuan)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Solo)-(21 tahun per 22)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Solo)-(April)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Solo)-(halnya)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Solo)-(dia)]";false;true;false;false;true;false;false;LOCATION;OTHER
+"[(Solo)-(Ketua KPU Wonogiri Joko Purnomo)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Solo)-(proses verifikasi faktual)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Solo)-(caleg)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Solo)-(berkas)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Solo)-(parpol)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Solo)-(jumlah 384)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Solo)-(caleg,)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Solo)-(100 bacaleg)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Solo)-(persyaratan)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Solo)-(dokumen)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Solo)-(Kebanyakan)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Solo)-(sisi legalisasi ijazah)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Solo)-(atau surat pengganti ijazah)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Solo)-(Dinas Pendidikan)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Solo)-(Joko)]";false;true;false;false;false;false;false;LOCATION;ORGANIZATION
+"[(21 Tahun Empat)-(calon anggota legislatif)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(21 Tahun Empat)-((caleg)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(21 Tahun Empat)-(Kota Surakarta,)]";false;false;false;false;false;true;false;OTHER;LOCATION
+"[(21 Tahun Empat)-(Jawa Tengah,)]";false;false;false;false;false;true;false;OTHER;LOCATION
+"[(21 Tahun Empat)-(bawah persyaratan umur)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(21 Tahun Empat)-(Pasalnya,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(21 Tahun Empat)-(437 berkas caleg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(21 Tahun Empat)-(12 parpol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(21 Tahun Empat)-(empat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(21 Tahun Empat)-(caleg itu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(21 Tahun Empat)-(21 tahun per 22)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(21 Tahun Empat)-(April)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(21 Tahun Empat)-(caleg perempuan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(21 Tahun Empat)-(bawah umur)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(21 Tahun Empat)-(tiga parpol,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(21 Tahun Empat)-(PDIP)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(21 Tahun Empat)-(Hanura)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(21 Tahun Empat)-(dan Partai NasDem)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(21 Tahun Empat)-(Mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(21 Tahun Empat)-(parpol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(21 Tahun Empat)-(Selain itu)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(21 Tahun Empat)-(satu caleg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(21 Tahun Empat)-(PNS)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(21 Tahun Empat)-(surat pengunduran diri)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(21 Tahun Empat)-(Partai Gerindra,)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(21 Tahun Empat)-(Ketua KPU Kota Solo)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(21 Tahun Empat)-(Didik Wahyudiono)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(21 Tahun Empat)-(Media Indonesia)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(21 Tahun Empat)-(Kamis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(21 Tahun Empat)-(Dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(21 Tahun Empat)-(verifikasi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(21 Tahun Empat)-(KPU Solo)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(21 Tahun Empat)-(April-7 Mei)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(21 Tahun Empat)-(dokumen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(21 Tahun Empat)-(ijazah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(21 Tahun Empat)-(surat keterangan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(21 Tahun Empat)-(poliklinik padahal)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(21 Tahun Empat)-(rumah sakit,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(21 Tahun Empat)-(jumlah foto)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(21 Tahun Empat)-(parpol masing-masing)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(21 Tahun Empat)-(caleg perempuan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(21 Tahun Empat)-(21 tahun per 22)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(21 Tahun Empat)-(April)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(21 Tahun Empat)-(halnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(21 Tahun Empat)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(21 Tahun Empat)-(Ketua KPU Wonogiri Joko Purnomo)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(21 Tahun Empat)-(proses verifikasi faktual)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(21 Tahun Empat)-(caleg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(21 Tahun Empat)-(berkas)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(21 Tahun Empat)-(parpol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(21 Tahun Empat)-(jumlah 384)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(21 Tahun Empat)-(caleg,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(21 Tahun Empat)-(100 bacaleg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(21 Tahun Empat)-(persyaratan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(21 Tahun Empat)-(dokumen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(21 Tahun Empat)-(Kebanyakan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(21 Tahun Empat)-(sisi legalisasi ijazah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(21 Tahun Empat)-(atau surat pengganti ijazah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(21 Tahun Empat)-(Dinas Pendidikan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(21 Tahun Empat)-(Joko)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(calon anggota legislatif)-((caleg)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(calon anggota legislatif)-(Kota Surakarta,)]";false;false;false;false;false;true;false;OTHER;LOCATION
+"[(calon anggota legislatif)-(Jawa Tengah,)]";false;false;false;false;false;true;false;OTHER;LOCATION
+"[(calon anggota legislatif)-(bawah persyaratan umur)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(calon anggota legislatif)-(Pasalnya,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(calon anggota legislatif)-(437 berkas caleg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(calon anggota legislatif)-(12 parpol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(calon anggota legislatif)-(empat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(calon anggota legislatif)-(caleg itu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(calon anggota legislatif)-(21 tahun per 22)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(calon anggota legislatif)-(April)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(calon anggota legislatif)-(caleg perempuan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(calon anggota legislatif)-(bawah umur)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(calon anggota legislatif)-(tiga parpol,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(calon anggota legislatif)-(PDIP)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(calon anggota legislatif)-(Hanura)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(calon anggota legislatif)-(dan Partai NasDem)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(calon anggota legislatif)-(Mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(calon anggota legislatif)-(parpol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(calon anggota legislatif)-(Selain itu)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(calon anggota legislatif)-(satu caleg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(calon anggota legislatif)-(PNS)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(calon anggota legislatif)-(surat pengunduran diri)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(calon anggota legislatif)-(Partai Gerindra,)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(calon anggota legislatif)-(Ketua KPU Kota Solo)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(calon anggota legislatif)-(Didik Wahyudiono)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(calon anggota legislatif)-(Media Indonesia)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(calon anggota legislatif)-(Kamis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(calon anggota legislatif)-(Dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(calon anggota legislatif)-(verifikasi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(calon anggota legislatif)-(KPU Solo)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(calon anggota legislatif)-(April-7 Mei)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(calon anggota legislatif)-(dokumen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(calon anggota legislatif)-(ijazah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(calon anggota legislatif)-(surat keterangan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(calon anggota legislatif)-(poliklinik padahal)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(calon anggota legislatif)-(rumah sakit,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(calon anggota legislatif)-(jumlah foto)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(calon anggota legislatif)-(parpol masing-masing)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(calon anggota legislatif)-(caleg perempuan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(calon anggota legislatif)-(21 tahun per 22)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(calon anggota legislatif)-(April)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(calon anggota legislatif)-(halnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(calon anggota legislatif)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(calon anggota legislatif)-(Ketua KPU Wonogiri Joko Purnomo)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(calon anggota legislatif)-(proses verifikasi faktual)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(calon anggota legislatif)-(caleg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(calon anggota legislatif)-(berkas)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(calon anggota legislatif)-(parpol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(calon anggota legislatif)-(jumlah 384)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(calon anggota legislatif)-(caleg,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(calon anggota legislatif)-(100 bacaleg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(calon anggota legislatif)-(persyaratan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(calon anggota legislatif)-(dokumen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(calon anggota legislatif)-(Kebanyakan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(calon anggota legislatif)-(sisi legalisasi ijazah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(calon anggota legislatif)-(atau surat pengganti ijazah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(calon anggota legislatif)-(Dinas Pendidikan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(calon anggota legislatif)-(Joko)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[((caleg)-(Kota Surakarta,)]";false;false;false;false;false;true;false;OTHER;LOCATION
+"[((caleg)-(Jawa Tengah,)]";false;false;false;false;false;true;false;OTHER;LOCATION
+"[((caleg)-(bawah persyaratan umur)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[((caleg)-(Pasalnya,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[((caleg)-(437 berkas caleg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[((caleg)-(12 parpol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[((caleg)-(empat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[((caleg)-(caleg itu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[((caleg)-(21 tahun per 22)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[((caleg)-(April)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[((caleg)-(caleg perempuan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[((caleg)-(bawah umur)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[((caleg)-(tiga parpol,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[((caleg)-(PDIP)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[((caleg)-(Hanura)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[((caleg)-(dan Partai NasDem)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[((caleg)-(Mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[((caleg)-(parpol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[((caleg)-(Selain itu)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[((caleg)-(satu caleg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[((caleg)-(PNS)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[((caleg)-(surat pengunduran diri)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[((caleg)-(Partai Gerindra,)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[((caleg)-(Ketua KPU Kota Solo)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[((caleg)-(Didik Wahyudiono)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[((caleg)-(Media Indonesia)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[((caleg)-(Kamis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[((caleg)-(Dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[((caleg)-(verifikasi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[((caleg)-(KPU Solo)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[((caleg)-(April-7 Mei)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[((caleg)-(dokumen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[((caleg)-(ijazah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[((caleg)-(surat keterangan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[((caleg)-(poliklinik padahal)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[((caleg)-(rumah sakit,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[((caleg)-(jumlah foto)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[((caleg)-(parpol masing-masing)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[((caleg)-(caleg perempuan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[((caleg)-(21 tahun per 22)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[((caleg)-(April)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[((caleg)-(halnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[((caleg)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[((caleg)-(Ketua KPU Wonogiri Joko Purnomo)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[((caleg)-(proses verifikasi faktual)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[((caleg)-(caleg)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[((caleg)-(berkas)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[((caleg)-(parpol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[((caleg)-(jumlah 384)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[((caleg)-(caleg,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[((caleg)-(100 bacaleg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[((caleg)-(persyaratan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[((caleg)-(dokumen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[((caleg)-(Kebanyakan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[((caleg)-(sisi legalisasi ijazah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[((caleg)-(atau surat pengganti ijazah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[((caleg)-(Dinas Pendidikan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[((caleg)-(Joko)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(Kota Surakarta,)-(Jawa Tengah,)]";false;false;false;false;false;true;false;LOCATION;LOCATION
+"[(Kota Surakarta,)-(bawah persyaratan umur)]";false;false;false;false;false;true;false;LOCATION;OTHER
+"[(Kota Surakarta,)-(Pasalnya,)]";false;false;false;false;false;false;false;LOCATION;PERSON
+"[(Kota Surakarta,)-(437 berkas caleg)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Kota Surakarta,)-(12 parpol)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Kota Surakarta,)-(empat)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Kota Surakarta,)-(caleg itu)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Kota Surakarta,)-(21 tahun per 22)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Kota Surakarta,)-(April)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Kota Surakarta,)-(caleg perempuan)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Kota Surakarta,)-(bawah umur)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Kota Surakarta,)-(tiga parpol,)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Kota Surakarta,)-(PDIP)]";false;false;false;false;false;false;false;LOCATION;ORGANIZATION
+"[(Kota Surakarta,)-(Hanura)]";false;false;false;false;false;false;false;LOCATION;PERSON
+"[(Kota Surakarta,)-(dan Partai NasDem)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Kota Surakarta,)-(Mereka)]";false;false;false;false;true;false;false;LOCATION;OTHER
+"[(Kota Surakarta,)-(parpol)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Kota Surakarta,)-(Selain itu)]";false;false;false;false;false;false;false;LOCATION;PERSON
+"[(Kota Surakarta,)-(satu caleg)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Kota Surakarta,)-(PNS)]";false;false;false;false;false;false;false;LOCATION;ORGANIZATION
+"[(Kota Surakarta,)-(surat pengunduran diri)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Kota Surakarta,)-(Partai Gerindra,)]";false;false;false;false;false;false;false;LOCATION;ORGANIZATION
+"[(Kota Surakarta,)-(Ketua KPU Kota Solo)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Kota Surakarta,)-(Didik Wahyudiono)]";false;false;false;false;false;false;false;LOCATION;LOCATION
+"[(Kota Surakarta,)-(Media Indonesia)]";false;false;false;false;false;false;false;LOCATION;PERSON
+"[(Kota Surakarta,)-(Kamis)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Kota Surakarta,)-(Dia)]";false;false;false;false;true;false;false;LOCATION;OTHER
+"[(Kota Surakarta,)-(verifikasi)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Kota Surakarta,)-(KPU Solo)]";false;false;false;false;false;false;false;LOCATION;ORGANIZATION
+"[(Kota Surakarta,)-(April-7 Mei)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Kota Surakarta,)-(dokumen)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Kota Surakarta,)-(ijazah)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Kota Surakarta,)-(surat keterangan)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Kota Surakarta,)-(poliklinik padahal)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Kota Surakarta,)-(rumah sakit,)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Kota Surakarta,)-(jumlah foto)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Kota Surakarta,)-(parpol masing-masing)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Kota Surakarta,)-(caleg perempuan)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Kota Surakarta,)-(21 tahun per 22)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Kota Surakarta,)-(April)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Kota Surakarta,)-(halnya)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Kota Surakarta,)-(dia)]";false;false;false;false;true;false;false;LOCATION;OTHER
+"[(Kota Surakarta,)-(Ketua KPU Wonogiri Joko Purnomo)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Kota Surakarta,)-(proses verifikasi faktual)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Kota Surakarta,)-(caleg)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Kota Surakarta,)-(berkas)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Kota Surakarta,)-(parpol)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Kota Surakarta,)-(jumlah 384)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Kota Surakarta,)-(caleg,)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Kota Surakarta,)-(100 bacaleg)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Kota Surakarta,)-(persyaratan)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Kota Surakarta,)-(dokumen)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Kota Surakarta,)-(Kebanyakan)]";false;false;false;false;false;false;false;LOCATION;PERSON
+"[(Kota Surakarta,)-(sisi legalisasi ijazah)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Kota Surakarta,)-(atau surat pengganti ijazah)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Kota Surakarta,)-(Dinas Pendidikan)]";false;false;false;false;false;false;false;LOCATION;PERSON
+"[(Kota Surakarta,)-(Joko)]";false;false;false;false;false;false;false;LOCATION;ORGANIZATION
+"[(Jawa Tengah,)-(bawah persyaratan umur)]";false;false;false;false;false;true;false;LOCATION;OTHER
+"[(Jawa Tengah,)-(Pasalnya,)]";false;false;false;false;false;false;false;LOCATION;PERSON
+"[(Jawa Tengah,)-(437 berkas caleg)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa Tengah,)-(12 parpol)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa Tengah,)-(empat)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa Tengah,)-(caleg itu)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa Tengah,)-(21 tahun per 22)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa Tengah,)-(April)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa Tengah,)-(caleg perempuan)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa Tengah,)-(bawah umur)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa Tengah,)-(tiga parpol,)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa Tengah,)-(PDIP)]";false;false;false;false;false;false;false;LOCATION;ORGANIZATION
+"[(Jawa Tengah,)-(Hanura)]";false;false;false;false;false;false;false;LOCATION;PERSON
+"[(Jawa Tengah,)-(dan Partai NasDem)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa Tengah,)-(Mereka)]";false;false;false;false;true;false;false;LOCATION;OTHER
+"[(Jawa Tengah,)-(parpol)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa Tengah,)-(Selain itu)]";false;false;false;false;false;false;false;LOCATION;PERSON
+"[(Jawa Tengah,)-(satu caleg)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa Tengah,)-(PNS)]";false;false;false;false;false;false;false;LOCATION;ORGANIZATION
+"[(Jawa Tengah,)-(surat pengunduran diri)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa Tengah,)-(Partai Gerindra,)]";false;false;false;false;false;false;false;LOCATION;ORGANIZATION
+"[(Jawa Tengah,)-(Ketua KPU Kota Solo)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa Tengah,)-(Didik Wahyudiono)]";false;false;false;false;false;false;false;LOCATION;LOCATION
+"[(Jawa Tengah,)-(Media Indonesia)]";false;false;false;false;false;false;false;LOCATION;PERSON
+"[(Jawa Tengah,)-(Kamis)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa Tengah,)-(Dia)]";false;false;false;false;true;false;false;LOCATION;OTHER
+"[(Jawa Tengah,)-(verifikasi)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa Tengah,)-(KPU Solo)]";false;false;false;false;false;false;false;LOCATION;ORGANIZATION
+"[(Jawa Tengah,)-(April-7 Mei)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa Tengah,)-(dokumen)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa Tengah,)-(ijazah)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa Tengah,)-(surat keterangan)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa Tengah,)-(poliklinik padahal)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa Tengah,)-(rumah sakit,)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa Tengah,)-(jumlah foto)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa Tengah,)-(parpol masing-masing)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa Tengah,)-(caleg perempuan)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa Tengah,)-(21 tahun per 22)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa Tengah,)-(April)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa Tengah,)-(halnya)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa Tengah,)-(dia)]";false;false;false;false;true;false;false;LOCATION;OTHER
+"[(Jawa Tengah,)-(Ketua KPU Wonogiri Joko Purnomo)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa Tengah,)-(proses verifikasi faktual)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa Tengah,)-(caleg)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa Tengah,)-(berkas)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa Tengah,)-(parpol)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa Tengah,)-(jumlah 384)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa Tengah,)-(caleg,)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa Tengah,)-(100 bacaleg)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa Tengah,)-(persyaratan)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa Tengah,)-(dokumen)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa Tengah,)-(Kebanyakan)]";false;false;false;false;false;false;false;LOCATION;PERSON
+"[(Jawa Tengah,)-(sisi legalisasi ijazah)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa Tengah,)-(atau surat pengganti ijazah)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa Tengah,)-(Dinas Pendidikan)]";false;false;false;false;false;false;false;LOCATION;PERSON
+"[(Jawa Tengah,)-(Joko)]";false;false;false;false;false;false;false;LOCATION;ORGANIZATION
+"[(bawah persyaratan umur)-(Pasalnya,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(bawah persyaratan umur)-(437 berkas caleg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bawah persyaratan umur)-(12 parpol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bawah persyaratan umur)-(empat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bawah persyaratan umur)-(caleg itu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bawah persyaratan umur)-(21 tahun per 22)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bawah persyaratan umur)-(April)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bawah persyaratan umur)-(caleg perempuan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bawah persyaratan umur)-(bawah umur)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bawah persyaratan umur)-(tiga parpol,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(bawah persyaratan umur)-(PDIP)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(bawah persyaratan umur)-(Hanura)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(bawah persyaratan umur)-(dan Partai NasDem)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bawah persyaratan umur)-(Mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(bawah persyaratan umur)-(parpol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bawah persyaratan umur)-(Selain itu)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(bawah persyaratan umur)-(satu caleg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bawah persyaratan umur)-(PNS)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(bawah persyaratan umur)-(surat pengunduran diri)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bawah persyaratan umur)-(Partai Gerindra,)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(bawah persyaratan umur)-(Ketua KPU Kota Solo)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bawah persyaratan umur)-(Didik Wahyudiono)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(bawah persyaratan umur)-(Media Indonesia)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(bawah persyaratan umur)-(Kamis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bawah persyaratan umur)-(Dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(bawah persyaratan umur)-(verifikasi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bawah persyaratan umur)-(KPU Solo)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(bawah persyaratan umur)-(April-7 Mei)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bawah persyaratan umur)-(dokumen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bawah persyaratan umur)-(ijazah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bawah persyaratan umur)-(surat keterangan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bawah persyaratan umur)-(poliklinik padahal)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bawah persyaratan umur)-(rumah sakit,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(bawah persyaratan umur)-(jumlah foto)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bawah persyaratan umur)-(parpol masing-masing)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bawah persyaratan umur)-(caleg perempuan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bawah persyaratan umur)-(21 tahun per 22)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bawah persyaratan umur)-(April)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bawah persyaratan umur)-(halnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bawah persyaratan umur)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(bawah persyaratan umur)-(Ketua KPU Wonogiri Joko Purnomo)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bawah persyaratan umur)-(proses verifikasi faktual)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bawah persyaratan umur)-(caleg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bawah persyaratan umur)-(berkas)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bawah persyaratan umur)-(parpol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bawah persyaratan umur)-(jumlah 384)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bawah persyaratan umur)-(caleg,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(bawah persyaratan umur)-(100 bacaleg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bawah persyaratan umur)-(persyaratan)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(bawah persyaratan umur)-(dokumen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bawah persyaratan umur)-(Kebanyakan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(bawah persyaratan umur)-(sisi legalisasi ijazah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bawah persyaratan umur)-(atau surat pengganti ijazah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bawah persyaratan umur)-(Dinas Pendidikan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(bawah persyaratan umur)-(Joko)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(Pasalnya,)-(437 berkas caleg)]";false;false;false;false;false;true;false;PERSON;OTHER
+"[(Pasalnya,)-(12 parpol)]";false;false;false;false;false;true;false;PERSON;OTHER
+"[(Pasalnya,)-(empat)]";false;false;false;false;false;true;false;PERSON;OTHER
+"[(Pasalnya,)-(caleg itu)]";false;false;false;false;false;true;false;PERSON;OTHER
+"[(Pasalnya,)-(21 tahun per 22)]";false;false;false;false;false;true;false;PERSON;OTHER
+"[(Pasalnya,)-(April)]";false;false;false;false;false;true;false;PERSON;OTHER
+"[(Pasalnya,)-(caleg perempuan)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Pasalnya,)-(bawah umur)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Pasalnya,)-(tiga parpol,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Pasalnya,)-(PDIP)]";false;false;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Pasalnya,)-(Hanura)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Pasalnya,)-(dan Partai NasDem)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Pasalnya,)-(Mereka)]";false;false;false;false;true;false;false;PERSON;OTHER
+"[(Pasalnya,)-(parpol)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Pasalnya,)-(Selain itu)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Pasalnya,)-(satu caleg)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Pasalnya,)-(PNS)]";false;false;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Pasalnya,)-(surat pengunduran diri)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Pasalnya,)-(Partai Gerindra,)]";false;false;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Pasalnya,)-(Ketua KPU Kota Solo)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Pasalnya,)-(Didik Wahyudiono)]";false;false;false;false;false;false;false;PERSON;LOCATION
+"[(Pasalnya,)-(Media Indonesia)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Pasalnya,)-(Kamis)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Pasalnya,)-(Dia)]";false;false;false;false;true;false;false;PERSON;OTHER
+"[(Pasalnya,)-(verifikasi)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Pasalnya,)-(KPU Solo)]";false;false;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Pasalnya,)-(April-7 Mei)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Pasalnya,)-(dokumen)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Pasalnya,)-(ijazah)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Pasalnya,)-(surat keterangan)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Pasalnya,)-(poliklinik padahal)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Pasalnya,)-(rumah sakit,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Pasalnya,)-(jumlah foto)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Pasalnya,)-(parpol masing-masing)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Pasalnya,)-(caleg perempuan)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Pasalnya,)-(21 tahun per 22)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Pasalnya,)-(April)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Pasalnya,)-(halnya)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Pasalnya,)-(dia)]";false;false;false;false;true;false;false;PERSON;OTHER
+"[(Pasalnya,)-(Ketua KPU Wonogiri Joko Purnomo)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Pasalnya,)-(proses verifikasi faktual)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Pasalnya,)-(caleg)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Pasalnya,)-(berkas)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Pasalnya,)-(parpol)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Pasalnya,)-(jumlah 384)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Pasalnya,)-(caleg,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Pasalnya,)-(100 bacaleg)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Pasalnya,)-(persyaratan)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Pasalnya,)-(dokumen)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Pasalnya,)-(Kebanyakan)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Pasalnya,)-(sisi legalisasi ijazah)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Pasalnya,)-(atau surat pengganti ijazah)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Pasalnya,)-(Dinas Pendidikan)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Pasalnya,)-(Joko)]";false;false;false;false;false;false;false;PERSON;ORGANIZATION
+"[(437 berkas caleg)-(12 parpol)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(437 berkas caleg)-(empat)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(437 berkas caleg)-(caleg itu)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(437 berkas caleg)-(21 tahun per 22)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(437 berkas caleg)-(April)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(437 berkas caleg)-(caleg perempuan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(437 berkas caleg)-(bawah umur)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(437 berkas caleg)-(tiga parpol,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(437 berkas caleg)-(PDIP)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(437 berkas caleg)-(Hanura)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(437 berkas caleg)-(dan Partai NasDem)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(437 berkas caleg)-(Mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(437 berkas caleg)-(parpol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(437 berkas caleg)-(Selain itu)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(437 berkas caleg)-(satu caleg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(437 berkas caleg)-(PNS)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(437 berkas caleg)-(surat pengunduran diri)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(437 berkas caleg)-(Partai Gerindra,)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(437 berkas caleg)-(Ketua KPU Kota Solo)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(437 berkas caleg)-(Didik Wahyudiono)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(437 berkas caleg)-(Media Indonesia)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(437 berkas caleg)-(Kamis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(437 berkas caleg)-(Dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(437 berkas caleg)-(verifikasi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(437 berkas caleg)-(KPU Solo)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(437 berkas caleg)-(April-7 Mei)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(437 berkas caleg)-(dokumen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(437 berkas caleg)-(ijazah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(437 berkas caleg)-(surat keterangan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(437 berkas caleg)-(poliklinik padahal)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(437 berkas caleg)-(rumah sakit,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(437 berkas caleg)-(jumlah foto)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(437 berkas caleg)-(parpol masing-masing)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(437 berkas caleg)-(caleg perempuan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(437 berkas caleg)-(21 tahun per 22)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(437 berkas caleg)-(April)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(437 berkas caleg)-(halnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(437 berkas caleg)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(437 berkas caleg)-(Ketua KPU Wonogiri Joko Purnomo)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(437 berkas caleg)-(proses verifikasi faktual)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(437 berkas caleg)-(caleg)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(437 berkas caleg)-(berkas)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(437 berkas caleg)-(parpol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(437 berkas caleg)-(jumlah 384)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(437 berkas caleg)-(caleg,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(437 berkas caleg)-(100 bacaleg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(437 berkas caleg)-(persyaratan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(437 berkas caleg)-(dokumen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(437 berkas caleg)-(Kebanyakan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(437 berkas caleg)-(sisi legalisasi ijazah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(437 berkas caleg)-(atau surat pengganti ijazah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(437 berkas caleg)-(Dinas Pendidikan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(437 berkas caleg)-(Joko)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(12 parpol)-(empat)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(12 parpol)-(caleg itu)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(12 parpol)-(21 tahun per 22)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(12 parpol)-(April)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(12 parpol)-(caleg perempuan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(12 parpol)-(bawah umur)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(12 parpol)-(tiga parpol,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(12 parpol)-(PDIP)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(12 parpol)-(Hanura)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(12 parpol)-(dan Partai NasDem)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(12 parpol)-(Mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(12 parpol)-(parpol)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(12 parpol)-(Selain itu)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(12 parpol)-(satu caleg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(12 parpol)-(PNS)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(12 parpol)-(surat pengunduran diri)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(12 parpol)-(Partai Gerindra,)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(12 parpol)-(Ketua KPU Kota Solo)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(12 parpol)-(Didik Wahyudiono)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(12 parpol)-(Media Indonesia)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(12 parpol)-(Kamis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(12 parpol)-(Dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(12 parpol)-(verifikasi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(12 parpol)-(KPU Solo)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(12 parpol)-(April-7 Mei)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(12 parpol)-(dokumen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(12 parpol)-(ijazah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(12 parpol)-(surat keterangan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(12 parpol)-(poliklinik padahal)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(12 parpol)-(rumah sakit,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(12 parpol)-(jumlah foto)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(12 parpol)-(parpol masing-masing)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(12 parpol)-(caleg perempuan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(12 parpol)-(21 tahun per 22)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(12 parpol)-(April)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(12 parpol)-(halnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(12 parpol)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(12 parpol)-(Ketua KPU Wonogiri Joko Purnomo)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(12 parpol)-(proses verifikasi faktual)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(12 parpol)-(caleg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(12 parpol)-(berkas)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(12 parpol)-(parpol)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(12 parpol)-(jumlah 384)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(12 parpol)-(caleg,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(12 parpol)-(100 bacaleg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(12 parpol)-(persyaratan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(12 parpol)-(dokumen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(12 parpol)-(Kebanyakan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(12 parpol)-(sisi legalisasi ijazah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(12 parpol)-(atau surat pengganti ijazah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(12 parpol)-(Dinas Pendidikan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(12 parpol)-(Joko)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(empat)-(caleg itu)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(empat)-(21 tahun per 22)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(empat)-(April)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(empat)-(caleg perempuan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(empat)-(bawah umur)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(empat)-(tiga parpol,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(empat)-(PDIP)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(empat)-(Hanura)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(empat)-(dan Partai NasDem)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(empat)-(Mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(empat)-(parpol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(empat)-(Selain itu)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(empat)-(satu caleg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(empat)-(PNS)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(empat)-(surat pengunduran diri)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(empat)-(Partai Gerindra,)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(empat)-(Ketua KPU Kota Solo)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(empat)-(Didik Wahyudiono)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(empat)-(Media Indonesia)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(empat)-(Kamis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(empat)-(Dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(empat)-(verifikasi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(empat)-(KPU Solo)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(empat)-(April-7 Mei)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(empat)-(dokumen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(empat)-(ijazah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(empat)-(surat keterangan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(empat)-(poliklinik padahal)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(empat)-(rumah sakit,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(empat)-(jumlah foto)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(empat)-(parpol masing-masing)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(empat)-(caleg perempuan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(empat)-(21 tahun per 22)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(empat)-(April)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(empat)-(halnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(empat)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(empat)-(Ketua KPU Wonogiri Joko Purnomo)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(empat)-(proses verifikasi faktual)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(empat)-(caleg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(empat)-(berkas)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(empat)-(parpol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(empat)-(jumlah 384)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(empat)-(caleg,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(empat)-(100 bacaleg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(empat)-(persyaratan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(empat)-(dokumen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(empat)-(Kebanyakan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(empat)-(sisi legalisasi ijazah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(empat)-(atau surat pengganti ijazah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(empat)-(Dinas Pendidikan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(empat)-(Joko)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(caleg itu)-(21 tahun per 22)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(caleg itu)-(April)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(caleg itu)-(caleg perempuan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(caleg itu)-(bawah umur)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(caleg itu)-(tiga parpol,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(caleg itu)-(PDIP)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(caleg itu)-(Hanura)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(caleg itu)-(dan Partai NasDem)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(caleg itu)-(Mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(caleg itu)-(parpol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(caleg itu)-(Selain itu)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(caleg itu)-(satu caleg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(caleg itu)-(PNS)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(caleg itu)-(surat pengunduran diri)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(caleg itu)-(Partai Gerindra,)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(caleg itu)-(Ketua KPU Kota Solo)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(caleg itu)-(Didik Wahyudiono)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(caleg itu)-(Media Indonesia)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(caleg itu)-(Kamis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(caleg itu)-(Dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(caleg itu)-(verifikasi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(caleg itu)-(KPU Solo)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(caleg itu)-(April-7 Mei)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(caleg itu)-(dokumen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(caleg itu)-(ijazah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(caleg itu)-(surat keterangan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(caleg itu)-(poliklinik padahal)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(caleg itu)-(rumah sakit,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(caleg itu)-(jumlah foto)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(caleg itu)-(parpol masing-masing)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(caleg itu)-(caleg perempuan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(caleg itu)-(21 tahun per 22)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(caleg itu)-(April)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(caleg itu)-(halnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(caleg itu)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(caleg itu)-(Ketua KPU Wonogiri Joko Purnomo)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(caleg itu)-(proses verifikasi faktual)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(caleg itu)-(caleg)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(caleg itu)-(berkas)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(caleg itu)-(parpol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(caleg itu)-(jumlah 384)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(caleg itu)-(caleg,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(caleg itu)-(100 bacaleg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(caleg itu)-(persyaratan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(caleg itu)-(dokumen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(caleg itu)-(Kebanyakan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(caleg itu)-(sisi legalisasi ijazah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(caleg itu)-(atau surat pengganti ijazah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(caleg itu)-(Dinas Pendidikan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(caleg itu)-(Joko)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(21 tahun per 22)-(April)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(21 tahun per 22)-(caleg perempuan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(21 tahun per 22)-(bawah umur)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(21 tahun per 22)-(tiga parpol,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(21 tahun per 22)-(PDIP)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(21 tahun per 22)-(Hanura)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(21 tahun per 22)-(dan Partai NasDem)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(21 tahun per 22)-(Mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(21 tahun per 22)-(parpol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(21 tahun per 22)-(Selain itu)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(21 tahun per 22)-(satu caleg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(21 tahun per 22)-(PNS)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(21 tahun per 22)-(surat pengunduran diri)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(21 tahun per 22)-(Partai Gerindra,)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(21 tahun per 22)-(Ketua KPU Kota Solo)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(21 tahun per 22)-(Didik Wahyudiono)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(21 tahun per 22)-(Media Indonesia)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(21 tahun per 22)-(Kamis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(21 tahun per 22)-(Dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(21 tahun per 22)-(verifikasi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(21 tahun per 22)-(KPU Solo)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(21 tahun per 22)-(April-7 Mei)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(21 tahun per 22)-(dokumen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(21 tahun per 22)-(ijazah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(21 tahun per 22)-(surat keterangan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(21 tahun per 22)-(poliklinik padahal)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(21 tahun per 22)-(rumah sakit,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(21 tahun per 22)-(jumlah foto)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(21 tahun per 22)-(parpol masing-masing)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(21 tahun per 22)-(caleg perempuan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(21 tahun per 22)-(21 tahun per 22)]";true;true;false;false;false;false;true;OTHER;OTHER
+"[(21 tahun per 22)-(April)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(21 tahun per 22)-(halnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(21 tahun per 22)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(21 tahun per 22)-(Ketua KPU Wonogiri Joko Purnomo)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(21 tahun per 22)-(proses verifikasi faktual)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(21 tahun per 22)-(caleg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(21 tahun per 22)-(berkas)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(21 tahun per 22)-(parpol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(21 tahun per 22)-(jumlah 384)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(21 tahun per 22)-(caleg,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(21 tahun per 22)-(100 bacaleg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(21 tahun per 22)-(persyaratan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(21 tahun per 22)-(dokumen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(21 tahun per 22)-(Kebanyakan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(21 tahun per 22)-(sisi legalisasi ijazah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(21 tahun per 22)-(atau surat pengganti ijazah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(21 tahun per 22)-(Dinas Pendidikan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(21 tahun per 22)-(Joko)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(April)-(caleg perempuan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(April)-(bawah umur)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(April)-(tiga parpol,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(April)-(PDIP)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(April)-(Hanura)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(April)-(dan Partai NasDem)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(April)-(Mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(April)-(parpol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(April)-(Selain itu)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(April)-(satu caleg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(April)-(PNS)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(April)-(surat pengunduran diri)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(April)-(Partai Gerindra,)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(April)-(Ketua KPU Kota Solo)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(April)-(Didik Wahyudiono)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(April)-(Media Indonesia)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(April)-(Kamis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(April)-(Dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(April)-(verifikasi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(April)-(KPU Solo)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(April)-(April-7 Mei)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(April)-(dokumen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(April)-(ijazah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(April)-(surat keterangan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(April)-(poliklinik padahal)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(April)-(rumah sakit,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(April)-(jumlah foto)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(April)-(parpol masing-masing)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(April)-(caleg perempuan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(April)-(21 tahun per 22)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(April)-(April)]";true;true;false;false;false;false;true;OTHER;OTHER
+"[(April)-(halnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(April)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(April)-(Ketua KPU Wonogiri Joko Purnomo)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(April)-(proses verifikasi faktual)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(April)-(caleg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(April)-(berkas)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(April)-(parpol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(April)-(jumlah 384)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(April)-(caleg,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(April)-(100 bacaleg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(April)-(persyaratan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(April)-(dokumen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(April)-(Kebanyakan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(April)-(sisi legalisasi ijazah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(April)-(atau surat pengganti ijazah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(April)-(Dinas Pendidikan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(April)-(Joko)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(caleg perempuan)-(bawah umur)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(caleg perempuan)-(tiga parpol,)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(caleg perempuan)-(PDIP)]";false;true;false;false;false;true;false;OTHER;ORGANIZATION
+"[(caleg perempuan)-(Hanura)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(caleg perempuan)-(dan Partai NasDem)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(caleg perempuan)-(Mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(caleg perempuan)-(parpol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(caleg perempuan)-(Selain itu)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(caleg perempuan)-(satu caleg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(caleg perempuan)-(PNS)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(caleg perempuan)-(surat pengunduran diri)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(caleg perempuan)-(Partai Gerindra,)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(caleg perempuan)-(Ketua KPU Kota Solo)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(caleg perempuan)-(Didik Wahyudiono)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(caleg perempuan)-(Media Indonesia)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(caleg perempuan)-(Kamis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(caleg perempuan)-(Dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(caleg perempuan)-(verifikasi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(caleg perempuan)-(KPU Solo)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(caleg perempuan)-(April-7 Mei)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(caleg perempuan)-(dokumen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(caleg perempuan)-(ijazah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(caleg perempuan)-(surat keterangan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(caleg perempuan)-(poliklinik padahal)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(caleg perempuan)-(rumah sakit,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(caleg perempuan)-(jumlah foto)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(caleg perempuan)-(parpol masing-masing)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(caleg perempuan)-(caleg perempuan)]";true;true;false;false;false;false;true;OTHER;OTHER
+"[(caleg perempuan)-(21 tahun per 22)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(caleg perempuan)-(April)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(caleg perempuan)-(halnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(caleg perempuan)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(caleg perempuan)-(Ketua KPU Wonogiri Joko Purnomo)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(caleg perempuan)-(proses verifikasi faktual)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(caleg perempuan)-(caleg)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(caleg perempuan)-(berkas)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(caleg perempuan)-(parpol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(caleg perempuan)-(jumlah 384)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(caleg perempuan)-(caleg,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(caleg perempuan)-(100 bacaleg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(caleg perempuan)-(persyaratan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(caleg perempuan)-(dokumen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(caleg perempuan)-(Kebanyakan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(caleg perempuan)-(sisi legalisasi ijazah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(caleg perempuan)-(atau surat pengganti ijazah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(caleg perempuan)-(Dinas Pendidikan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(caleg perempuan)-(Joko)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(bawah umur)-(tiga parpol,)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(bawah umur)-(PDIP)]";false;true;false;false;false;true;false;OTHER;ORGANIZATION
+"[(bawah umur)-(Hanura)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(bawah umur)-(dan Partai NasDem)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(bawah umur)-(Mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(bawah umur)-(parpol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bawah umur)-(Selain itu)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(bawah umur)-(satu caleg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bawah umur)-(PNS)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(bawah umur)-(surat pengunduran diri)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bawah umur)-(Partai Gerindra,)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(bawah umur)-(Ketua KPU Kota Solo)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bawah umur)-(Didik Wahyudiono)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(bawah umur)-(Media Indonesia)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(bawah umur)-(Kamis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bawah umur)-(Dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(bawah umur)-(verifikasi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bawah umur)-(KPU Solo)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(bawah umur)-(April-7 Mei)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bawah umur)-(dokumen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bawah umur)-(ijazah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bawah umur)-(surat keterangan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bawah umur)-(poliklinik padahal)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bawah umur)-(rumah sakit,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(bawah umur)-(jumlah foto)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bawah umur)-(parpol masing-masing)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bawah umur)-(caleg perempuan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bawah umur)-(21 tahun per 22)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bawah umur)-(April)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bawah umur)-(halnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bawah umur)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(bawah umur)-(Ketua KPU Wonogiri Joko Purnomo)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bawah umur)-(proses verifikasi faktual)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bawah umur)-(caleg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bawah umur)-(berkas)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bawah umur)-(parpol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bawah umur)-(jumlah 384)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bawah umur)-(caleg,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(bawah umur)-(100 bacaleg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bawah umur)-(persyaratan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bawah umur)-(dokumen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bawah umur)-(Kebanyakan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(bawah umur)-(sisi legalisasi ijazah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bawah umur)-(atau surat pengganti ijazah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bawah umur)-(Dinas Pendidikan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(bawah umur)-(Joko)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(tiga parpol,)-(PDIP)]";false;false;false;false;false;true;false;OTHER;ORGANIZATION
+"[(tiga parpol,)-(Hanura)]";false;false;false;false;false;true;false;OTHER;PERSON
+"[(tiga parpol,)-(dan Partai NasDem)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(tiga parpol,)-(Mereka)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(tiga parpol,)-(parpol)]";false;false;false;false;false;false;true;OTHER;OTHER
+"[(tiga parpol,)-(Selain itu)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(tiga parpol,)-(satu caleg)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(tiga parpol,)-(PNS)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(tiga parpol,)-(surat pengunduran diri)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(tiga parpol,)-(Partai Gerindra,)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(tiga parpol,)-(Ketua KPU Kota Solo)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(tiga parpol,)-(Didik Wahyudiono)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(tiga parpol,)-(Media Indonesia)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(tiga parpol,)-(Kamis)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(tiga parpol,)-(Dia)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(tiga parpol,)-(verifikasi)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(tiga parpol,)-(KPU Solo)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(tiga parpol,)-(April-7 Mei)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(tiga parpol,)-(dokumen)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(tiga parpol,)-(ijazah)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(tiga parpol,)-(surat keterangan)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(tiga parpol,)-(poliklinik padahal)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(tiga parpol,)-(rumah sakit,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(tiga parpol,)-(jumlah foto)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(tiga parpol,)-(parpol masing-masing)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(tiga parpol,)-(caleg perempuan)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(tiga parpol,)-(21 tahun per 22)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(tiga parpol,)-(April)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(tiga parpol,)-(halnya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(tiga parpol,)-(dia)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(tiga parpol,)-(Ketua KPU Wonogiri Joko Purnomo)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(tiga parpol,)-(proses verifikasi faktual)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(tiga parpol,)-(caleg)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(tiga parpol,)-(berkas)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(tiga parpol,)-(parpol)]";false;false;false;false;false;false;true;OTHER;OTHER
+"[(tiga parpol,)-(jumlah 384)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(tiga parpol,)-(caleg,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(tiga parpol,)-(100 bacaleg)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(tiga parpol,)-(persyaratan)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(tiga parpol,)-(dokumen)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(tiga parpol,)-(Kebanyakan)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(tiga parpol,)-(sisi legalisasi ijazah)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(tiga parpol,)-(atau surat pengganti ijazah)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(tiga parpol,)-(Dinas Pendidikan)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(tiga parpol,)-(Joko)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(PDIP)-(Hanura)]";false;true;false;false;false;true;false;ORGANIZATION;PERSON
+"[(PDIP)-(dan Partai NasDem)]";false;true;false;false;false;true;false;ORGANIZATION;OTHER
+"[(PDIP)-(Mereka)]";false;true;false;false;true;false;false;ORGANIZATION;OTHER
+"[(PDIP)-(parpol)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP)-(Selain itu)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(PDIP)-(satu caleg)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP)-(PNS)]";false;true;false;false;false;false;false;ORGANIZATION;ORGANIZATION
+"[(PDIP)-(surat pengunduran diri)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP)-(Partai Gerindra,)]";false;false;false;false;false;false;false;ORGANIZATION;ORGANIZATION
+"[(PDIP)-(Ketua KPU Kota Solo)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP)-(Didik Wahyudiono)]";false;true;false;false;false;false;false;ORGANIZATION;LOCATION
+"[(PDIP)-(Media Indonesia)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(PDIP)-(Kamis)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP)-(Dia)]";false;true;false;false;true;false;false;ORGANIZATION;OTHER
+"[(PDIP)-(verifikasi)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP)-(KPU Solo)]";false;true;false;false;false;false;false;ORGANIZATION;ORGANIZATION
+"[(PDIP)-(April-7 Mei)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP)-(dokumen)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP)-(ijazah)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP)-(surat keterangan)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP)-(poliklinik padahal)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP)-(rumah sakit,)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP)-(jumlah foto)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP)-(parpol masing-masing)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP)-(caleg perempuan)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP)-(21 tahun per 22)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP)-(April)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP)-(halnya)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP)-(dia)]";false;true;false;false;true;false;false;ORGANIZATION;OTHER
+"[(PDIP)-(Ketua KPU Wonogiri Joko Purnomo)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP)-(proses verifikasi faktual)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP)-(caleg)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP)-(berkas)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP)-(parpol)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP)-(jumlah 384)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP)-(caleg,)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP)-(100 bacaleg)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP)-(persyaratan)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP)-(dokumen)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP)-(Kebanyakan)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(PDIP)-(sisi legalisasi ijazah)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP)-(atau surat pengganti ijazah)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP)-(Dinas Pendidikan)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(PDIP)-(Joko)]";false;true;false;false;false;false;false;ORGANIZATION;ORGANIZATION
+"[(Hanura)-(dan Partai NasDem)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Hanura)-(Mereka)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Hanura)-(parpol)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hanura)-(Selain itu)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Hanura)-(satu caleg)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hanura)-(PNS)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Hanura)-(surat pengunduran diri)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hanura)-(Partai Gerindra,)]";false;false;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Hanura)-(Ketua KPU Kota Solo)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hanura)-(Didik Wahyudiono)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Hanura)-(Media Indonesia)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Hanura)-(Kamis)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hanura)-(Dia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Hanura)-(verifikasi)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hanura)-(KPU Solo)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Hanura)-(April-7 Mei)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hanura)-(dokumen)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hanura)-(ijazah)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hanura)-(surat keterangan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hanura)-(poliklinik padahal)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hanura)-(rumah sakit,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Hanura)-(jumlah foto)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hanura)-(parpol masing-masing)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hanura)-(caleg perempuan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hanura)-(21 tahun per 22)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hanura)-(April)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hanura)-(halnya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hanura)-(dia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Hanura)-(Ketua KPU Wonogiri Joko Purnomo)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hanura)-(proses verifikasi faktual)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hanura)-(caleg)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hanura)-(berkas)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hanura)-(parpol)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hanura)-(jumlah 384)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hanura)-(caleg,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Hanura)-(100 bacaleg)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hanura)-(persyaratan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hanura)-(dokumen)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hanura)-(Kebanyakan)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Hanura)-(sisi legalisasi ijazah)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hanura)-(atau surat pengganti ijazah)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hanura)-(Dinas Pendidikan)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Hanura)-(Joko)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(dan Partai NasDem)-(Mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(dan Partai NasDem)-(parpol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dan Partai NasDem)-(Selain itu)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(dan Partai NasDem)-(satu caleg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dan Partai NasDem)-(PNS)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(dan Partai NasDem)-(surat pengunduran diri)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dan Partai NasDem)-(Partai Gerindra,)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(dan Partai NasDem)-(Ketua KPU Kota Solo)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dan Partai NasDem)-(Didik Wahyudiono)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(dan Partai NasDem)-(Media Indonesia)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(dan Partai NasDem)-(Kamis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dan Partai NasDem)-(Dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(dan Partai NasDem)-(verifikasi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dan Partai NasDem)-(KPU Solo)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(dan Partai NasDem)-(April-7 Mei)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dan Partai NasDem)-(dokumen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dan Partai NasDem)-(ijazah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dan Partai NasDem)-(surat keterangan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dan Partai NasDem)-(poliklinik padahal)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dan Partai NasDem)-(rumah sakit,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(dan Partai NasDem)-(jumlah foto)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dan Partai NasDem)-(parpol masing-masing)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dan Partai NasDem)-(caleg perempuan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dan Partai NasDem)-(21 tahun per 22)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dan Partai NasDem)-(April)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dan Partai NasDem)-(halnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dan Partai NasDem)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(dan Partai NasDem)-(Ketua KPU Wonogiri Joko Purnomo)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dan Partai NasDem)-(proses verifikasi faktual)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dan Partai NasDem)-(caleg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dan Partai NasDem)-(berkas)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dan Partai NasDem)-(parpol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dan Partai NasDem)-(jumlah 384)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dan Partai NasDem)-(caleg,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(dan Partai NasDem)-(100 bacaleg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dan Partai NasDem)-(persyaratan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dan Partai NasDem)-(dokumen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dan Partai NasDem)-(Kebanyakan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(dan Partai NasDem)-(sisi legalisasi ijazah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dan Partai NasDem)-(atau surat pengganti ijazah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dan Partai NasDem)-(Dinas Pendidikan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(dan Partai NasDem)-(Joko)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(Mereka)-(parpol)]";false;true;false;true;false;true;false;OTHER;OTHER
+"[(Mereka)-(Selain itu)]";false;true;false;true;false;false;false;OTHER;PERSON
+"[(Mereka)-(satu caleg)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(PNS)]";false;true;false;true;false;false;false;OTHER;ORGANIZATION
+"[(Mereka)-(surat pengunduran diri)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(Partai Gerindra,)]";false;false;false;true;false;false;false;OTHER;ORGANIZATION
+"[(Mereka)-(Ketua KPU Kota Solo)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(Didik Wahyudiono)]";false;true;false;true;false;false;false;OTHER;LOCATION
+"[(Mereka)-(Media Indonesia)]";false;true;false;true;false;false;false;OTHER;PERSON
+"[(Mereka)-(Kamis)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(Dia)]";false;true;false;true;true;false;false;OTHER;OTHER
+"[(Mereka)-(verifikasi)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(KPU Solo)]";false;true;false;true;false;false;false;OTHER;ORGANIZATION
+"[(Mereka)-(April-7 Mei)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(dokumen)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(ijazah)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(surat keterangan)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(poliklinik padahal)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(rumah sakit,)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(jumlah foto)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(parpol masing-masing)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(caleg perempuan)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(21 tahun per 22)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(April)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(halnya)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(dia)]";false;true;false;true;true;false;false;OTHER;OTHER
+"[(Mereka)-(Ketua KPU Wonogiri Joko Purnomo)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(proses verifikasi faktual)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(caleg)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(berkas)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(parpol)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(jumlah 384)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(caleg,)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(100 bacaleg)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(persyaratan)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(dokumen)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(Kebanyakan)]";false;true;false;true;false;false;false;OTHER;PERSON
+"[(Mereka)-(sisi legalisasi ijazah)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(atau surat pengganti ijazah)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(Dinas Pendidikan)]";false;true;false;true;false;false;false;OTHER;PERSON
+"[(Mereka)-(Joko)]";false;true;false;true;false;false;false;OTHER;ORGANIZATION
+"[(parpol)-(Selain itu)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(parpol)-(satu caleg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(parpol)-(PNS)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(parpol)-(surat pengunduran diri)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(parpol)-(Partai Gerindra,)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(parpol)-(Ketua KPU Kota Solo)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(parpol)-(Didik Wahyudiono)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(parpol)-(Media Indonesia)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(parpol)-(Kamis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(parpol)-(Dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(parpol)-(verifikasi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(parpol)-(KPU Solo)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(parpol)-(April-7 Mei)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(parpol)-(dokumen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(parpol)-(ijazah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(parpol)-(surat keterangan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(parpol)-(poliklinik padahal)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(parpol)-(rumah sakit,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(parpol)-(jumlah foto)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(parpol)-(parpol masing-masing)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(parpol)-(caleg perempuan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(parpol)-(21 tahun per 22)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(parpol)-(April)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(parpol)-(halnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(parpol)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(parpol)-(Ketua KPU Wonogiri Joko Purnomo)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(parpol)-(proses verifikasi faktual)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(parpol)-(caleg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(parpol)-(berkas)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(parpol)-(parpol)]";true;true;false;false;false;false;true;OTHER;OTHER
+"[(parpol)-(jumlah 384)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(parpol)-(caleg,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(parpol)-(100 bacaleg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(parpol)-(persyaratan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(parpol)-(dokumen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(parpol)-(Kebanyakan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(parpol)-(sisi legalisasi ijazah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(parpol)-(atau surat pengganti ijazah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(parpol)-(Dinas Pendidikan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(parpol)-(Joko)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(Selain itu)-(satu caleg)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Selain itu)-(PNS)]";false;true;false;false;false;true;false;PERSON;ORGANIZATION
+"[(Selain itu)-(surat pengunduran diri)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Selain itu)-(Partai Gerindra,)]";false;false;false;false;false;true;false;PERSON;ORGANIZATION
+"[(Selain itu)-(Ketua KPU Kota Solo)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Selain itu)-(Didik Wahyudiono)]";false;true;false;false;false;true;false;PERSON;LOCATION
+"[(Selain itu)-(Media Indonesia)]";false;true;false;false;false;true;false;PERSON;PERSON
+"[(Selain itu)-(Kamis)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Selain itu)-(Dia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Selain itu)-(verifikasi)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Selain itu)-(KPU Solo)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Selain itu)-(April-7 Mei)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Selain itu)-(dokumen)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Selain itu)-(ijazah)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Selain itu)-(surat keterangan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Selain itu)-(poliklinik padahal)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Selain itu)-(rumah sakit,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Selain itu)-(jumlah foto)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Selain itu)-(parpol masing-masing)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Selain itu)-(caleg perempuan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Selain itu)-(21 tahun per 22)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Selain itu)-(April)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Selain itu)-(halnya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Selain itu)-(dia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Selain itu)-(Ketua KPU Wonogiri Joko Purnomo)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Selain itu)-(proses verifikasi faktual)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Selain itu)-(caleg)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Selain itu)-(berkas)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Selain itu)-(parpol)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Selain itu)-(jumlah 384)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Selain itu)-(caleg,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Selain itu)-(100 bacaleg)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Selain itu)-(persyaratan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Selain itu)-(dokumen)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Selain itu)-(Kebanyakan)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Selain itu)-(sisi legalisasi ijazah)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Selain itu)-(atau surat pengganti ijazah)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Selain itu)-(Dinas Pendidikan)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Selain itu)-(Joko)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(satu caleg)-(PNS)]";false;true;false;false;false;true;false;OTHER;ORGANIZATION
+"[(satu caleg)-(surat pengunduran diri)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(satu caleg)-(Partai Gerindra,)]";false;false;false;false;false;true;false;OTHER;ORGANIZATION
+"[(satu caleg)-(Ketua KPU Kota Solo)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(satu caleg)-(Didik Wahyudiono)]";false;true;false;false;false;true;false;OTHER;LOCATION
+"[(satu caleg)-(Media Indonesia)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(satu caleg)-(Kamis)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(satu caleg)-(Dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(satu caleg)-(verifikasi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(satu caleg)-(KPU Solo)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(satu caleg)-(April-7 Mei)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(satu caleg)-(dokumen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(satu caleg)-(ijazah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(satu caleg)-(surat keterangan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(satu caleg)-(poliklinik padahal)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(satu caleg)-(rumah sakit,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(satu caleg)-(jumlah foto)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(satu caleg)-(parpol masing-masing)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(satu caleg)-(caleg perempuan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(satu caleg)-(21 tahun per 22)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(satu caleg)-(April)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(satu caleg)-(halnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(satu caleg)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(satu caleg)-(Ketua KPU Wonogiri Joko Purnomo)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(satu caleg)-(proses verifikasi faktual)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(satu caleg)-(caleg)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(satu caleg)-(berkas)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(satu caleg)-(parpol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(satu caleg)-(jumlah 384)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(satu caleg)-(caleg,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(satu caleg)-(100 bacaleg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(satu caleg)-(persyaratan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(satu caleg)-(dokumen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(satu caleg)-(Kebanyakan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(satu caleg)-(sisi legalisasi ijazah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(satu caleg)-(atau surat pengganti ijazah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(satu caleg)-(Dinas Pendidikan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(satu caleg)-(Joko)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(PNS)-(surat pengunduran diri)]";false;true;false;false;false;true;false;ORGANIZATION;OTHER
+"[(PNS)-(Partai Gerindra,)]";false;false;false;false;false;true;false;ORGANIZATION;ORGANIZATION
+"[(PNS)-(Ketua KPU Kota Solo)]";false;true;false;false;false;true;false;ORGANIZATION;OTHER
+"[(PNS)-(Didik Wahyudiono)]";false;true;false;false;false;true;false;ORGANIZATION;LOCATION
+"[(PNS)-(Media Indonesia)]";false;true;false;false;false;true;false;ORGANIZATION;PERSON
+"[(PNS)-(Kamis)]";false;true;false;false;false;true;false;ORGANIZATION;OTHER
+"[(PNS)-(Dia)]";false;true;false;false;true;false;false;ORGANIZATION;OTHER
+"[(PNS)-(verifikasi)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PNS)-(KPU Solo)]";false;true;false;false;false;false;false;ORGANIZATION;ORGANIZATION
+"[(PNS)-(April-7 Mei)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PNS)-(dokumen)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PNS)-(ijazah)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PNS)-(surat keterangan)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PNS)-(poliklinik padahal)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PNS)-(rumah sakit,)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PNS)-(jumlah foto)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PNS)-(parpol masing-masing)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PNS)-(caleg perempuan)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PNS)-(21 tahun per 22)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PNS)-(April)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PNS)-(halnya)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PNS)-(dia)]";false;true;false;false;true;false;false;ORGANIZATION;OTHER
+"[(PNS)-(Ketua KPU Wonogiri Joko Purnomo)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PNS)-(proses verifikasi faktual)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PNS)-(caleg)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PNS)-(berkas)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PNS)-(parpol)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PNS)-(jumlah 384)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PNS)-(caleg,)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PNS)-(100 bacaleg)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PNS)-(persyaratan)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PNS)-(dokumen)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PNS)-(Kebanyakan)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(PNS)-(sisi legalisasi ijazah)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PNS)-(atau surat pengganti ijazah)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PNS)-(Dinas Pendidikan)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(PNS)-(Joko)]";false;true;false;false;false;false;false;ORGANIZATION;ORGANIZATION
+"[(surat pengunduran diri)-(Partai Gerindra,)]";false;false;false;false;false;true;false;OTHER;ORGANIZATION
+"[(surat pengunduran diri)-(Ketua KPU Kota Solo)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(surat pengunduran diri)-(Didik Wahyudiono)]";false;true;false;false;false;true;false;OTHER;LOCATION
+"[(surat pengunduran diri)-(Media Indonesia)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(surat pengunduran diri)-(Kamis)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(surat pengunduran diri)-(Dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(surat pengunduran diri)-(verifikasi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(surat pengunduran diri)-(KPU Solo)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(surat pengunduran diri)-(April-7 Mei)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(surat pengunduran diri)-(dokumen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(surat pengunduran diri)-(ijazah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(surat pengunduran diri)-(surat keterangan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(surat pengunduran diri)-(poliklinik padahal)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(surat pengunduran diri)-(rumah sakit,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(surat pengunduran diri)-(jumlah foto)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(surat pengunduran diri)-(parpol masing-masing)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(surat pengunduran diri)-(caleg perempuan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(surat pengunduran diri)-(21 tahun per 22)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(surat pengunduran diri)-(April)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(surat pengunduran diri)-(halnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(surat pengunduran diri)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(surat pengunduran diri)-(Ketua KPU Wonogiri Joko Purnomo)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(surat pengunduran diri)-(proses verifikasi faktual)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(surat pengunduran diri)-(caleg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(surat pengunduran diri)-(berkas)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(surat pengunduran diri)-(parpol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(surat pengunduran diri)-(jumlah 384)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(surat pengunduran diri)-(caleg,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(surat pengunduran diri)-(100 bacaleg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(surat pengunduran diri)-(persyaratan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(surat pengunduran diri)-(dokumen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(surat pengunduran diri)-(Kebanyakan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(surat pengunduran diri)-(sisi legalisasi ijazah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(surat pengunduran diri)-(atau surat pengganti ijazah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(surat pengunduran diri)-(Dinas Pendidikan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(surat pengunduran diri)-(Joko)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(Partai Gerindra,)-(Ketua KPU Kota Solo)]";false;false;false;false;false;true;false;ORGANIZATION;OTHER
+"[(Partai Gerindra,)-(Didik Wahyudiono)]";false;false;false;false;false;true;false;ORGANIZATION;LOCATION
+"[(Partai Gerindra,)-(Media Indonesia)]";false;false;false;false;false;true;false;ORGANIZATION;PERSON
+"[(Partai Gerindra,)-(Kamis)]";false;false;false;false;false;true;false;ORGANIZATION;OTHER
+"[(Partai Gerindra,)-(Dia)]";false;false;false;false;true;false;false;ORGANIZATION;OTHER
+"[(Partai Gerindra,)-(verifikasi)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Partai Gerindra,)-(KPU Solo)]";false;false;false;false;false;false;false;ORGANIZATION;ORGANIZATION
+"[(Partai Gerindra,)-(April-7 Mei)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Partai Gerindra,)-(dokumen)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Partai Gerindra,)-(ijazah)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Partai Gerindra,)-(surat keterangan)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Partai Gerindra,)-(poliklinik padahal)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Partai Gerindra,)-(rumah sakit,)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Partai Gerindra,)-(jumlah foto)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Partai Gerindra,)-(parpol masing-masing)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Partai Gerindra,)-(caleg perempuan)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Partai Gerindra,)-(21 tahun per 22)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Partai Gerindra,)-(April)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Partai Gerindra,)-(halnya)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Partai Gerindra,)-(dia)]";false;false;false;false;true;false;false;ORGANIZATION;OTHER
+"[(Partai Gerindra,)-(Ketua KPU Wonogiri Joko Purnomo)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Partai Gerindra,)-(proses verifikasi faktual)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Partai Gerindra,)-(caleg)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Partai Gerindra,)-(berkas)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Partai Gerindra,)-(parpol)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Partai Gerindra,)-(jumlah 384)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Partai Gerindra,)-(caleg,)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Partai Gerindra,)-(100 bacaleg)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Partai Gerindra,)-(persyaratan)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Partai Gerindra,)-(dokumen)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Partai Gerindra,)-(Kebanyakan)]";false;false;false;false;false;false;false;ORGANIZATION;PERSON
+"[(Partai Gerindra,)-(sisi legalisasi ijazah)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Partai Gerindra,)-(atau surat pengganti ijazah)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Partai Gerindra,)-(Dinas Pendidikan)]";false;false;false;false;false;false;false;ORGANIZATION;PERSON
+"[(Partai Gerindra,)-(Joko)]";false;false;false;false;false;false;false;ORGANIZATION;ORGANIZATION
+"[(Ketua KPU Kota Solo)-(Didik Wahyudiono)]";false;true;false;false;false;true;false;OTHER;LOCATION
+"[(Ketua KPU Kota Solo)-(Media Indonesia)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(Ketua KPU Kota Solo)-(Kamis)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(Ketua KPU Kota Solo)-(Dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(Ketua KPU Kota Solo)-(verifikasi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Ketua KPU Kota Solo)-(KPU Solo)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(Ketua KPU Kota Solo)-(April-7 Mei)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Ketua KPU Kota Solo)-(dokumen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Ketua KPU Kota Solo)-(ijazah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Ketua KPU Kota Solo)-(surat keterangan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Ketua KPU Kota Solo)-(poliklinik padahal)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Ketua KPU Kota Solo)-(rumah sakit,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Ketua KPU Kota Solo)-(jumlah foto)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Ketua KPU Kota Solo)-(parpol masing-masing)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Ketua KPU Kota Solo)-(caleg perempuan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Ketua KPU Kota Solo)-(21 tahun per 22)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Ketua KPU Kota Solo)-(April)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Ketua KPU Kota Solo)-(halnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Ketua KPU Kota Solo)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(Ketua KPU Kota Solo)-(Ketua KPU Wonogiri Joko Purnomo)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Ketua KPU Kota Solo)-(proses verifikasi faktual)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Ketua KPU Kota Solo)-(caleg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Ketua KPU Kota Solo)-(berkas)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Ketua KPU Kota Solo)-(parpol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Ketua KPU Kota Solo)-(jumlah 384)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Ketua KPU Kota Solo)-(caleg,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Ketua KPU Kota Solo)-(100 bacaleg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Ketua KPU Kota Solo)-(persyaratan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Ketua KPU Kota Solo)-(dokumen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Ketua KPU Kota Solo)-(Kebanyakan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(Ketua KPU Kota Solo)-(sisi legalisasi ijazah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Ketua KPU Kota Solo)-(atau surat pengganti ijazah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Ketua KPU Kota Solo)-(Dinas Pendidikan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(Ketua KPU Kota Solo)-(Joko)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(Didik Wahyudiono)-(Media Indonesia)]";false;true;false;false;false;true;false;LOCATION;PERSON
+"[(Didik Wahyudiono)-(Kamis)]";false;true;false;false;false;true;false;LOCATION;OTHER
+"[(Didik Wahyudiono)-(Dia)]";false;true;false;false;true;false;false;LOCATION;OTHER
+"[(Didik Wahyudiono)-(verifikasi)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Didik Wahyudiono)-(KPU Solo)]";false;true;false;false;false;false;false;LOCATION;ORGANIZATION
+"[(Didik Wahyudiono)-(April-7 Mei)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Didik Wahyudiono)-(dokumen)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Didik Wahyudiono)-(ijazah)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Didik Wahyudiono)-(surat keterangan)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Didik Wahyudiono)-(poliklinik padahal)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Didik Wahyudiono)-(rumah sakit,)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Didik Wahyudiono)-(jumlah foto)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Didik Wahyudiono)-(parpol masing-masing)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Didik Wahyudiono)-(caleg perempuan)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Didik Wahyudiono)-(21 tahun per 22)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Didik Wahyudiono)-(April)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Didik Wahyudiono)-(halnya)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Didik Wahyudiono)-(dia)]";false;true;false;false;true;false;false;LOCATION;OTHER
+"[(Didik Wahyudiono)-(Ketua KPU Wonogiri Joko Purnomo)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Didik Wahyudiono)-(proses verifikasi faktual)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Didik Wahyudiono)-(caleg)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Didik Wahyudiono)-(berkas)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Didik Wahyudiono)-(parpol)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Didik Wahyudiono)-(jumlah 384)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Didik Wahyudiono)-(caleg,)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Didik Wahyudiono)-(100 bacaleg)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Didik Wahyudiono)-(persyaratan)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Didik Wahyudiono)-(dokumen)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Didik Wahyudiono)-(Kebanyakan)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Didik Wahyudiono)-(sisi legalisasi ijazah)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Didik Wahyudiono)-(atau surat pengganti ijazah)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Didik Wahyudiono)-(Dinas Pendidikan)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Didik Wahyudiono)-(Joko)]";false;true;false;false;false;false;false;LOCATION;ORGANIZATION
+"[(Media Indonesia)-(Kamis)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Media Indonesia)-(Dia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Media Indonesia)-(verifikasi)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Media Indonesia)-(KPU Solo)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Media Indonesia)-(April-7 Mei)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Media Indonesia)-(dokumen)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Media Indonesia)-(ijazah)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Media Indonesia)-(surat keterangan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Media Indonesia)-(poliklinik padahal)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Media Indonesia)-(rumah sakit,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Media Indonesia)-(jumlah foto)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Media Indonesia)-(parpol masing-masing)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Media Indonesia)-(caleg perempuan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Media Indonesia)-(21 tahun per 22)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Media Indonesia)-(April)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Media Indonesia)-(halnya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Media Indonesia)-(dia)]";false;true;false;false;true;false;true;PERSON;OTHER
+"[(Media Indonesia)-(Ketua KPU Wonogiri Joko Purnomo)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Media Indonesia)-(proses verifikasi faktual)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Media Indonesia)-(caleg)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Media Indonesia)-(berkas)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Media Indonesia)-(parpol)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Media Indonesia)-(jumlah 384)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Media Indonesia)-(caleg,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Media Indonesia)-(100 bacaleg)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Media Indonesia)-(persyaratan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Media Indonesia)-(dokumen)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Media Indonesia)-(Kebanyakan)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Media Indonesia)-(sisi legalisasi ijazah)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Media Indonesia)-(atau surat pengganti ijazah)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Media Indonesia)-(Dinas Pendidikan)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Media Indonesia)-(Joko)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Kamis)-(Dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(Kamis)-(verifikasi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Kamis)-(KPU Solo)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(Kamis)-(April-7 Mei)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Kamis)-(dokumen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Kamis)-(ijazah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Kamis)-(surat keterangan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Kamis)-(poliklinik padahal)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Kamis)-(rumah sakit,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Kamis)-(jumlah foto)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Kamis)-(parpol masing-masing)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Kamis)-(caleg perempuan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Kamis)-(21 tahun per 22)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Kamis)-(April)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Kamis)-(halnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Kamis)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(Kamis)-(Ketua KPU Wonogiri Joko Purnomo)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Kamis)-(proses verifikasi faktual)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Kamis)-(caleg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Kamis)-(berkas)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Kamis)-(parpol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Kamis)-(jumlah 384)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Kamis)-(caleg,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Kamis)-(100 bacaleg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Kamis)-(persyaratan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Kamis)-(dokumen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Kamis)-(Kebanyakan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(Kamis)-(sisi legalisasi ijazah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Kamis)-(atau surat pengganti ijazah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Kamis)-(Dinas Pendidikan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(Kamis)-(Joko)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(Dia)-(verifikasi)]";false;true;false;true;false;true;false;OTHER;OTHER
+"[(Dia)-(KPU Solo)]";false;true;false;true;false;true;false;OTHER;ORGANIZATION
+"[(Dia)-(April-7 Mei)]";false;true;false;true;false;true;false;OTHER;OTHER
+"[(Dia)-(dokumen)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Dia)-(ijazah)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Dia)-(surat keterangan)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Dia)-(poliklinik padahal)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Dia)-(rumah sakit,)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(Dia)-(jumlah foto)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Dia)-(parpol masing-masing)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Dia)-(caleg perempuan)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Dia)-(21 tahun per 22)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Dia)-(April)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Dia)-(halnya)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Dia)-(dia)]";true;true;false;true;true;false;false;OTHER;OTHER
+"[(Dia)-(Ketua KPU Wonogiri Joko Purnomo)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Dia)-(proses verifikasi faktual)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Dia)-(caleg)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Dia)-(berkas)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Dia)-(parpol)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Dia)-(jumlah 384)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Dia)-(caleg,)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(Dia)-(100 bacaleg)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Dia)-(persyaratan)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Dia)-(dokumen)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Dia)-(Kebanyakan)]";false;true;false;true;false;false;false;OTHER;PERSON
+"[(Dia)-(sisi legalisasi ijazah)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Dia)-(atau surat pengganti ijazah)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Dia)-(Dinas Pendidikan)]";false;true;false;true;false;false;false;OTHER;PERSON
+"[(Dia)-(Joko)]";false;true;false;true;false;false;false;OTHER;ORGANIZATION
+"[(verifikasi)-(KPU Solo)]";false;true;false;false;false;true;false;OTHER;ORGANIZATION
+"[(verifikasi)-(April-7 Mei)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(verifikasi)-(dokumen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(verifikasi)-(ijazah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(verifikasi)-(surat keterangan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(verifikasi)-(poliklinik padahal)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(verifikasi)-(rumah sakit,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(verifikasi)-(jumlah foto)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(verifikasi)-(parpol masing-masing)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(verifikasi)-(caleg perempuan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(verifikasi)-(21 tahun per 22)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(verifikasi)-(April)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(verifikasi)-(halnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(verifikasi)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(verifikasi)-(Ketua KPU Wonogiri Joko Purnomo)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(verifikasi)-(proses verifikasi faktual)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(verifikasi)-(caleg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(verifikasi)-(berkas)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(verifikasi)-(parpol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(verifikasi)-(jumlah 384)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(verifikasi)-(caleg,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(verifikasi)-(100 bacaleg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(verifikasi)-(persyaratan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(verifikasi)-(dokumen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(verifikasi)-(Kebanyakan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(verifikasi)-(sisi legalisasi ijazah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(verifikasi)-(atau surat pengganti ijazah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(verifikasi)-(Dinas Pendidikan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(verifikasi)-(Joko)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(KPU Solo)-(April-7 Mei)]";false;true;false;false;false;true;false;ORGANIZATION;OTHER
+"[(KPU Solo)-(dokumen)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(KPU Solo)-(ijazah)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(KPU Solo)-(surat keterangan)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(KPU Solo)-(poliklinik padahal)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(KPU Solo)-(rumah sakit,)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(KPU Solo)-(jumlah foto)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(KPU Solo)-(parpol masing-masing)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(KPU Solo)-(caleg perempuan)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(KPU Solo)-(21 tahun per 22)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(KPU Solo)-(April)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(KPU Solo)-(halnya)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(KPU Solo)-(dia)]";false;true;false;false;true;false;false;ORGANIZATION;OTHER
+"[(KPU Solo)-(Ketua KPU Wonogiri Joko Purnomo)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(KPU Solo)-(proses verifikasi faktual)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(KPU Solo)-(caleg)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(KPU Solo)-(berkas)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(KPU Solo)-(parpol)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(KPU Solo)-(jumlah 384)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(KPU Solo)-(caleg,)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(KPU Solo)-(100 bacaleg)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(KPU Solo)-(persyaratan)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(KPU Solo)-(dokumen)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(KPU Solo)-(Kebanyakan)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(KPU Solo)-(sisi legalisasi ijazah)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(KPU Solo)-(atau surat pengganti ijazah)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(KPU Solo)-(Dinas Pendidikan)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(KPU Solo)-(Joko)]";false;true;false;false;false;false;false;ORGANIZATION;ORGANIZATION
+"[(April-7 Mei)-(dokumen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(April-7 Mei)-(ijazah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(April-7 Mei)-(surat keterangan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(April-7 Mei)-(poliklinik padahal)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(April-7 Mei)-(rumah sakit,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(April-7 Mei)-(jumlah foto)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(April-7 Mei)-(parpol masing-masing)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(April-7 Mei)-(caleg perempuan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(April-7 Mei)-(21 tahun per 22)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(April-7 Mei)-(April)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(April-7 Mei)-(halnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(April-7 Mei)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(April-7 Mei)-(Ketua KPU Wonogiri Joko Purnomo)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(April-7 Mei)-(proses verifikasi faktual)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(April-7 Mei)-(caleg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(April-7 Mei)-(berkas)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(April-7 Mei)-(parpol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(April-7 Mei)-(jumlah 384)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(April-7 Mei)-(caleg,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(April-7 Mei)-(100 bacaleg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(April-7 Mei)-(persyaratan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(April-7 Mei)-(dokumen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(April-7 Mei)-(Kebanyakan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(April-7 Mei)-(sisi legalisasi ijazah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(April-7 Mei)-(atau surat pengganti ijazah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(April-7 Mei)-(Dinas Pendidikan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(April-7 Mei)-(Joko)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(dokumen)-(ijazah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dokumen)-(surat keterangan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dokumen)-(poliklinik padahal)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dokumen)-(rumah sakit,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(dokumen)-(jumlah foto)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dokumen)-(parpol masing-masing)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dokumen)-(caleg perempuan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dokumen)-(21 tahun per 22)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dokumen)-(April)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dokumen)-(halnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dokumen)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(dokumen)-(Ketua KPU Wonogiri Joko Purnomo)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dokumen)-(proses verifikasi faktual)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dokumen)-(caleg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dokumen)-(berkas)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dokumen)-(parpol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dokumen)-(jumlah 384)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dokumen)-(caleg,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(dokumen)-(100 bacaleg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dokumen)-(persyaratan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dokumen)-(dokumen)]";true;true;false;false;false;false;true;OTHER;OTHER
+"[(dokumen)-(Kebanyakan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(dokumen)-(sisi legalisasi ijazah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dokumen)-(atau surat pengganti ijazah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dokumen)-(Dinas Pendidikan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(dokumen)-(Joko)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(ijazah)-(surat keterangan)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(ijazah)-(poliklinik padahal)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(ijazah)-(rumah sakit,)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(ijazah)-(jumlah foto)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(ijazah)-(parpol masing-masing)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(ijazah)-(caleg perempuan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(ijazah)-(21 tahun per 22)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(ijazah)-(April)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(ijazah)-(halnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(ijazah)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(ijazah)-(Ketua KPU Wonogiri Joko Purnomo)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(ijazah)-(proses verifikasi faktual)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(ijazah)-(caleg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(ijazah)-(berkas)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(ijazah)-(parpol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(ijazah)-(jumlah 384)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(ijazah)-(caleg,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(ijazah)-(100 bacaleg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(ijazah)-(persyaratan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(ijazah)-(dokumen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(ijazah)-(Kebanyakan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(ijazah)-(sisi legalisasi ijazah)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(ijazah)-(atau surat pengganti ijazah)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(ijazah)-(Dinas Pendidikan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(ijazah)-(Joko)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(surat keterangan)-(poliklinik padahal)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(surat keterangan)-(rumah sakit,)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(surat keterangan)-(jumlah foto)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(surat keterangan)-(parpol masing-masing)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(surat keterangan)-(caleg perempuan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(surat keterangan)-(21 tahun per 22)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(surat keterangan)-(April)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(surat keterangan)-(halnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(surat keterangan)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(surat keterangan)-(Ketua KPU Wonogiri Joko Purnomo)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(surat keterangan)-(proses verifikasi faktual)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(surat keterangan)-(caleg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(surat keterangan)-(berkas)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(surat keterangan)-(parpol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(surat keterangan)-(jumlah 384)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(surat keterangan)-(caleg,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(surat keterangan)-(100 bacaleg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(surat keterangan)-(persyaratan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(surat keterangan)-(dokumen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(surat keterangan)-(Kebanyakan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(surat keterangan)-(sisi legalisasi ijazah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(surat keterangan)-(atau surat pengganti ijazah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(surat keterangan)-(Dinas Pendidikan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(surat keterangan)-(Joko)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(poliklinik padahal)-(rumah sakit,)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(poliklinik padahal)-(jumlah foto)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(poliklinik padahal)-(parpol masing-masing)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(poliklinik padahal)-(caleg perempuan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(poliklinik padahal)-(21 tahun per 22)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(poliklinik padahal)-(April)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(poliklinik padahal)-(halnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(poliklinik padahal)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(poliklinik padahal)-(Ketua KPU Wonogiri Joko Purnomo)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(poliklinik padahal)-(proses verifikasi faktual)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(poliklinik padahal)-(caleg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(poliklinik padahal)-(berkas)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(poliklinik padahal)-(parpol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(poliklinik padahal)-(jumlah 384)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(poliklinik padahal)-(caleg,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(poliklinik padahal)-(100 bacaleg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(poliklinik padahal)-(persyaratan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(poliklinik padahal)-(dokumen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(poliklinik padahal)-(Kebanyakan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(poliklinik padahal)-(sisi legalisasi ijazah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(poliklinik padahal)-(atau surat pengganti ijazah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(poliklinik padahal)-(Dinas Pendidikan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(poliklinik padahal)-(Joko)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(rumah sakit,)-(jumlah foto)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(rumah sakit,)-(parpol masing-masing)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(rumah sakit,)-(caleg perempuan)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(rumah sakit,)-(21 tahun per 22)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(rumah sakit,)-(April)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(rumah sakit,)-(halnya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(rumah sakit,)-(dia)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(rumah sakit,)-(Ketua KPU Wonogiri Joko Purnomo)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(rumah sakit,)-(proses verifikasi faktual)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(rumah sakit,)-(caleg)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(rumah sakit,)-(berkas)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(rumah sakit,)-(parpol)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(rumah sakit,)-(jumlah 384)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(rumah sakit,)-(caleg,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(rumah sakit,)-(100 bacaleg)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(rumah sakit,)-(persyaratan)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(rumah sakit,)-(dokumen)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(rumah sakit,)-(Kebanyakan)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(rumah sakit,)-(sisi legalisasi ijazah)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(rumah sakit,)-(atau surat pengganti ijazah)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(rumah sakit,)-(Dinas Pendidikan)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(rumah sakit,)-(Joko)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(jumlah foto)-(parpol masing-masing)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(jumlah foto)-(caleg perempuan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(jumlah foto)-(21 tahun per 22)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(jumlah foto)-(April)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(jumlah foto)-(halnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(jumlah foto)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(jumlah foto)-(Ketua KPU Wonogiri Joko Purnomo)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(jumlah foto)-(proses verifikasi faktual)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(jumlah foto)-(caleg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(jumlah foto)-(berkas)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(jumlah foto)-(parpol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(jumlah foto)-(jumlah 384)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(jumlah foto)-(caleg,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(jumlah foto)-(100 bacaleg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(jumlah foto)-(persyaratan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(jumlah foto)-(dokumen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(jumlah foto)-(Kebanyakan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(jumlah foto)-(sisi legalisasi ijazah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(jumlah foto)-(atau surat pengganti ijazah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(jumlah foto)-(Dinas Pendidikan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(jumlah foto)-(Joko)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(parpol masing-masing)-(caleg perempuan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(parpol masing-masing)-(21 tahun per 22)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(parpol masing-masing)-(April)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(parpol masing-masing)-(halnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(parpol masing-masing)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(parpol masing-masing)-(Ketua KPU Wonogiri Joko Purnomo)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(parpol masing-masing)-(proses verifikasi faktual)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(parpol masing-masing)-(caleg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(parpol masing-masing)-(berkas)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(parpol masing-masing)-(parpol)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(parpol masing-masing)-(jumlah 384)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(parpol masing-masing)-(caleg,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(parpol masing-masing)-(100 bacaleg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(parpol masing-masing)-(persyaratan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(parpol masing-masing)-(dokumen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(parpol masing-masing)-(Kebanyakan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(parpol masing-masing)-(sisi legalisasi ijazah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(parpol masing-masing)-(atau surat pengganti ijazah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(parpol masing-masing)-(Dinas Pendidikan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(parpol masing-masing)-(Joko)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(caleg perempuan)-(21 tahun per 22)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(caleg perempuan)-(April)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(caleg perempuan)-(halnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(caleg perempuan)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(caleg perempuan)-(Ketua KPU Wonogiri Joko Purnomo)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(caleg perempuan)-(proses verifikasi faktual)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(caleg perempuan)-(caleg)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(caleg perempuan)-(berkas)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(caleg perempuan)-(parpol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(caleg perempuan)-(jumlah 384)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(caleg perempuan)-(caleg,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(caleg perempuan)-(100 bacaleg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(caleg perempuan)-(persyaratan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(caleg perempuan)-(dokumen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(caleg perempuan)-(Kebanyakan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(caleg perempuan)-(sisi legalisasi ijazah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(caleg perempuan)-(atau surat pengganti ijazah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(caleg perempuan)-(Dinas Pendidikan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(caleg perempuan)-(Joko)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(21 tahun per 22)-(April)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(21 tahun per 22)-(halnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(21 tahun per 22)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(21 tahun per 22)-(Ketua KPU Wonogiri Joko Purnomo)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(21 tahun per 22)-(proses verifikasi faktual)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(21 tahun per 22)-(caleg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(21 tahun per 22)-(berkas)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(21 tahun per 22)-(parpol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(21 tahun per 22)-(jumlah 384)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(21 tahun per 22)-(caleg,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(21 tahun per 22)-(100 bacaleg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(21 tahun per 22)-(persyaratan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(21 tahun per 22)-(dokumen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(21 tahun per 22)-(Kebanyakan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(21 tahun per 22)-(sisi legalisasi ijazah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(21 tahun per 22)-(atau surat pengganti ijazah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(21 tahun per 22)-(Dinas Pendidikan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(21 tahun per 22)-(Joko)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(April)-(halnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(April)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(April)-(Ketua KPU Wonogiri Joko Purnomo)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(April)-(proses verifikasi faktual)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(April)-(caleg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(April)-(berkas)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(April)-(parpol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(April)-(jumlah 384)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(April)-(caleg,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(April)-(100 bacaleg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(April)-(persyaratan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(April)-(dokumen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(April)-(Kebanyakan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(April)-(sisi legalisasi ijazah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(April)-(atau surat pengganti ijazah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(April)-(Dinas Pendidikan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(April)-(Joko)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(halnya)-(dia)]";false;true;false;false;true;true;false;OTHER;OTHER
+"[(halnya)-(Ketua KPU Wonogiri Joko Purnomo)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(halnya)-(proses verifikasi faktual)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(halnya)-(caleg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(halnya)-(berkas)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(halnya)-(parpol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(halnya)-(jumlah 384)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(halnya)-(caleg,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(halnya)-(100 bacaleg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(halnya)-(persyaratan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(halnya)-(dokumen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(halnya)-(Kebanyakan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(halnya)-(sisi legalisasi ijazah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(halnya)-(atau surat pengganti ijazah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(halnya)-(Dinas Pendidikan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(halnya)-(Joko)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(dia)-(Ketua KPU Wonogiri Joko Purnomo)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(dia)-(proses verifikasi faktual)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(dia)-(caleg)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(dia)-(berkas)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(dia)-(parpol)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(dia)-(jumlah 384)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(dia)-(caleg,)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(dia)-(100 bacaleg)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(dia)-(persyaratan)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(dia)-(dokumen)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(dia)-(Kebanyakan)]";false;true;false;true;false;false;false;OTHER;PERSON
+"[(dia)-(sisi legalisasi ijazah)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(dia)-(atau surat pengganti ijazah)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(dia)-(Dinas Pendidikan)]";false;true;false;true;false;false;false;OTHER;PERSON
+"[(dia)-(Joko)]";false;true;false;true;false;false;false;OTHER;ORGANIZATION
+"[(Ketua KPU Wonogiri Joko Purnomo)-(proses verifikasi faktual)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(Ketua KPU Wonogiri Joko Purnomo)-(caleg)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(Ketua KPU Wonogiri Joko Purnomo)-(berkas)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(Ketua KPU Wonogiri Joko Purnomo)-(parpol)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(Ketua KPU Wonogiri Joko Purnomo)-(jumlah 384)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Ketua KPU Wonogiri Joko Purnomo)-(caleg,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Ketua KPU Wonogiri Joko Purnomo)-(100 bacaleg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Ketua KPU Wonogiri Joko Purnomo)-(persyaratan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Ketua KPU Wonogiri Joko Purnomo)-(dokumen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Ketua KPU Wonogiri Joko Purnomo)-(Kebanyakan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(Ketua KPU Wonogiri Joko Purnomo)-(sisi legalisasi ijazah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Ketua KPU Wonogiri Joko Purnomo)-(atau surat pengganti ijazah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Ketua KPU Wonogiri Joko Purnomo)-(Dinas Pendidikan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(Ketua KPU Wonogiri Joko Purnomo)-(Joko)]";false;true;false;false;false;false;true;OTHER;ORGANIZATION
+"[(proses verifikasi faktual)-(caleg)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(proses verifikasi faktual)-(berkas)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(proses verifikasi faktual)-(parpol)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(proses verifikasi faktual)-(jumlah 384)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(proses verifikasi faktual)-(caleg,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(proses verifikasi faktual)-(100 bacaleg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(proses verifikasi faktual)-(persyaratan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(proses verifikasi faktual)-(dokumen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(proses verifikasi faktual)-(Kebanyakan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(proses verifikasi faktual)-(sisi legalisasi ijazah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(proses verifikasi faktual)-(atau surat pengganti ijazah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(proses verifikasi faktual)-(Dinas Pendidikan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(proses verifikasi faktual)-(Joko)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(caleg)-(berkas)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(caleg)-(parpol)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(caleg)-(jumlah 384)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(caleg)-(caleg,)]";false;false;false;false;false;false;true;OTHER;OTHER
+"[(caleg)-(100 bacaleg)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(caleg)-(persyaratan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(caleg)-(dokumen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(caleg)-(Kebanyakan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(caleg)-(sisi legalisasi ijazah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(caleg)-(atau surat pengganti ijazah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(caleg)-(Dinas Pendidikan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(caleg)-(Joko)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(berkas)-(parpol)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(berkas)-(jumlah 384)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(berkas)-(caleg,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(berkas)-(100 bacaleg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(berkas)-(persyaratan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(berkas)-(dokumen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(berkas)-(Kebanyakan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(berkas)-(sisi legalisasi ijazah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(berkas)-(atau surat pengganti ijazah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(berkas)-(Dinas Pendidikan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(berkas)-(Joko)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(parpol)-(jumlah 384)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(parpol)-(caleg,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(parpol)-(100 bacaleg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(parpol)-(persyaratan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(parpol)-(dokumen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(parpol)-(Kebanyakan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(parpol)-(sisi legalisasi ijazah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(parpol)-(atau surat pengganti ijazah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(parpol)-(Dinas Pendidikan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(parpol)-(Joko)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(jumlah 384)-(caleg,)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(jumlah 384)-(100 bacaleg)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(jumlah 384)-(persyaratan)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(jumlah 384)-(dokumen)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(jumlah 384)-(Kebanyakan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(jumlah 384)-(sisi legalisasi ijazah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(jumlah 384)-(atau surat pengganti ijazah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(jumlah 384)-(Dinas Pendidikan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(jumlah 384)-(Joko)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(caleg,)-(100 bacaleg)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(caleg,)-(persyaratan)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(caleg,)-(dokumen)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(caleg,)-(Kebanyakan)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(caleg,)-(sisi legalisasi ijazah)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(caleg,)-(atau surat pengganti ijazah)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(caleg,)-(Dinas Pendidikan)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(caleg,)-(Joko)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(100 bacaleg)-(persyaratan)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(100 bacaleg)-(dokumen)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(100 bacaleg)-(Kebanyakan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(100 bacaleg)-(sisi legalisasi ijazah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(100 bacaleg)-(atau surat pengganti ijazah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(100 bacaleg)-(Dinas Pendidikan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(100 bacaleg)-(Joko)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(persyaratan)-(dokumen)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(persyaratan)-(Kebanyakan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(persyaratan)-(sisi legalisasi ijazah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persyaratan)-(atau surat pengganti ijazah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persyaratan)-(Dinas Pendidikan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(persyaratan)-(Joko)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(dokumen)-(Kebanyakan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(dokumen)-(sisi legalisasi ijazah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dokumen)-(atau surat pengganti ijazah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dokumen)-(Dinas Pendidikan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(dokumen)-(Joko)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(Kebanyakan)-(sisi legalisasi ijazah)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Kebanyakan)-(atau surat pengganti ijazah)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Kebanyakan)-(Dinas Pendidikan)]";false;true;false;false;false;true;false;PERSON;PERSON
+"[(Kebanyakan)-(Joko)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(sisi legalisasi ijazah)-(atau surat pengganti ijazah)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(sisi legalisasi ijazah)-(Dinas Pendidikan)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(sisi legalisasi ijazah)-(Joko)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(atau surat pengganti ijazah)-(Dinas Pendidikan)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(atau surat pengganti ijazah)-(Joko)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(Dinas Pendidikan)-(Joko)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>REPUBLIKA.CO.ID</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>LONDON --</Mention>
+        <Mention>London</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>pemain sayap</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>Manchester City</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>Coronation Street</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>Natal</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>Manchester</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>Inggris</Mention>
+    </Entity>
+</CoreferenceChain>

@@ -1,0 +1,145 @@
+All detected topics:
+Gubernur (0.09789904961752931/0.0995698582125219 - 0.39189363066997085/0.2738130986690521)
+Daftar Gubernur Daerah Khusus Ibukota Jakarta (0.33365006909257394/0.21031746031746032 - 0.39029215216561153/0.3498617112636566)
+Laut Bering (0.0035596750162436622/0.01694915254237288 - 0.03390927474148085/0.005607415921986103)
+Jalan (0.011155130967632034/0.015031776733904394 - 0.2982437682772346/0.1655934453010559)
+Timur (0.006684675016243663/0.011552426009461988 - 0.2817751320140972/0.1400948464870453)
+Selatan (0.006684675016243663/0.012512431482295257 - 0.25764556804594924/0.1657891720533371)
+Malam (0.0035596750162436622/0.014849132810643859 - 0.19800188718366377/0.09510857611894608)
+Komisi Pemberantasan Korupsi Republik Indonesia (0.2114938313036423/0.31871794871794873 - 0.34330533645240097/0.2808774411678314)
+Kecamatan (0.0035596750162436622/0.46124725755337914 - 0.039423497852389834/0.09855270385742188)
+Balaikota (0.0035596750162436622/0.16071428571428573 - 0.16805200519917757/0.2101782262325287)
+Guntur, Demak (0.0035596750162436622/0.14130434782608695 - 0.028640966583509272/0.09948088973760605)
+Daerah Khusus Ibukota Jakarta (0.7346422073499143/0.28552547301422293 - 0.38817282173196044/0.4498773217201233)
+Tanah (0.008716106577388133/0.027019483056997712 - 0.2608440950887296/0.1497516632080078)
+Lahan (0.0035596750162436622/0.00810445745159838 - 0.123019737982824/0.02597864530980587)
+KPK (0.1949404600643793/0.2894736842105263 - 0.35428222888663174/0.254319429397583)
+Joko Widodo (0.6440449266130663/0.7654320987654321 - 0.3997035416541847/0.3815062642097473)
+Pria (0.0035596750162436622/0.03263086335825969 - 0.18800342993276373/0.07290667295455933)
+Bangunan (0.006684675016243663/0.009974259974259974 - 0.21315190563123065/0.10400515049695969)
+Rumah susun (0.0035596750162436622/0.12857142857142856 - 0.13518624896730153/0.11151211708784103)
+Hari (0.006684675016243663/0.008590881545645742 - 0.25951710588734545/0.10258378088474274)
+Rumah (0.011155130967632033/0.014401790492872086 - 0.29548800801425584/0.14874586462974548)
+Kata (0.0035596750162436622/0.013140775435857403 - 0.10334501672306258/0.01497700810432434)
+Pinus (0.0035596750162436622/0.26666666666666666 - 0.16069263627392705/0.10641951858997345)
+50 (angka) (0.0035596750162436622/0.005463715326421967 - 0.0717968621937296/0.03647741302847862)
+Widodo (0.0035596750162436622/0.009983361064891847 - 0.03147538887191037/0.06497755646705627)
+Kota Administrasi Jakarta Timur (0.30239696890112844/0.6599015990159902 - 0.3006720944637167/0.34037670493125916)
+Kota Administrasi Jakarta Selatan (0.6521974896795651/0.40963855421686746 - 0.39077551848029407/0.381253182888031)
+Selesai, Langkat (0.0035596750162436622/0.04693140794223827 - 0.0/0.009724871255457401)
+Jokowi (0.0035596750162436622/0.32867132867132864 - 0.23168822481089657/0.24004356563091278)
+Kelurahan (0.0035596750162436622/0.5424560865229731 - 0.10352823871998788/0.1472093015909195)
+Setiabudi, Jakarta Selatan (0.0035596750162436622/0.1686698032506416 - 0.1388418253232917/0.23177802562713623)
+Kartu keluarga (0.0035596750162436622/0.0066518847006651885 - 0.038240016246798667/0.07588107138872147)
+Korupsi (0.1940515395747752/0.18458117123795403 - 0.4015252450915408/0.28684476017951965)
+Komisi (0.0035596750162436622/0.005627857896588111 - 0.04088025624099071/0.04117869585752487)
+Senin (0.020083702396203464/0.1434948979591837 - 0.29544923406667684/0.18925045430660248)
+
+Topics that are probably good links:
+Daerah Khusus Ibukota Jakarta (0.7346422073499143/0.28552547301422293 - 0.38817282173196044/0.4498773217201233)
+Kota Administrasi Jakarta Selatan (0.6521974896795651/0.40963855421686746 - 0.39077551848029407/0.381253182888031)
+Joko Widodo (0.6440449266130663/0.7654320987654321 - 0.3997035416541847/0.3815062642097473)
+Daftar Gubernur Daerah Khusus Ibukota Jakarta (0.33365006909257394/0.21031746031746032 - 0.39029215216561153/0.3498617112636566)
+Kota Administrasi Jakarta Timur (0.30239696890112844/0.6599015990159902 - 0.3006720944637167/0.34037670493125916)
+Komisi Pemberantasan Korupsi Republik Indonesia (0.2114938313036423/0.31871794871794873 - 0.34330533645240097/0.2808774411678314)
+KPK (0.1949404600643793/0.2894736842105263 - 0.35428222888663174/0.254319429397583)
+Korupsi (0.1940515395747752/0.18458117123795403 - 0.4015252450915408/0.28684476017951965)
+Kecamatan (0.0035596750162436622/0.46124725755337914 - 0.039423497852389834/0.09855270385742188)
+Balaikota (0.0035596750162436622/0.16071428571428573 - 0.16805200519917757/0.2101782262325287)
+Pinus (0.0035596750162436622/0.26666666666666666 - 0.16069263627392705/0.10641951858997345)
+Jokowi (0.0035596750162436622/0.32867132867132864 - 0.23168822481089657/0.24004356563091278)
+Kelurahan (0.0035596750162436622/0.5424560865229731 - 0.10352823871998788/0.1472093015909195)
+Setiabudi, Jakarta Selatan (0.0035596750162436622/0.1686698032506416 - 0.1388418253232917/0.23177802562713623)
+
+Coreference log:
+Daerah Khusus Ibukota Jakarta - Kota Administrasi Jakarta Selatan = 0.47050556032568436
+Daerah Khusus Ibukota Jakarta - Joko Widodo = 0.41043227444545005
+Kota Administrasi Jakarta Selatan - Joko Widodo = 0.4611275652377368
+Daerah Khusus Ibukota Jakarta - Daftar Gubernur Daerah Khusus Ibukota Jakarta = 0.4184099675207865
+Kota Administrasi Jakarta Selatan - Daftar Gubernur Daerah Khusus Ibukota Jakarta = 0.4350753945572077
+Joko Widodo - Daftar Gubernur Daerah Khusus Ibukota Jakarta = 0.7042860230643471
+Daerah Khusus Ibukota Jakarta - Kota Administrasi Jakarta Timur = 0.6503752720203082
+Kota Administrasi Jakarta Selatan - Kota Administrasi Jakarta Timur = 0.5534065697645612
+Joko Widodo - Kota Administrasi Jakarta Timur = 0.3421923366399531
+Daftar Gubernur Daerah Khusus Ibukota Jakarta - Kota Administrasi Jakarta Timur = 0.29745434277908556
+Daerah Khusus Ibukota Jakarta - Komisi Pemberantasan Korupsi Republik Indonesia = 0.29654235936943407
+Kota Administrasi Jakarta Selatan - Komisi Pemberantasan Korupsi Republik Indonesia = 0.33345882592052245
+Joko Widodo - Komisi Pemberantasan Korupsi Republik Indonesia = 0.5860376535438139
+Daftar Gubernur Daerah Khusus Ibukota Jakarta - Komisi Pemberantasan Korupsi Republik Indonesia = 0.5209668109127961
+Kota Administrasi Jakarta Timur - Komisi Pemberantasan Korupsi Republik Indonesia = 0.22701834497537088
+Daerah Khusus Ibukota Jakarta - KPK = 0.31132766159500247
+Kota Administrasi Jakarta Selatan - KPK = 0.431422730966704
+Joko Widodo - KPK = 0.5268631938576945
+Daftar Gubernur Daerah Khusus Ibukota Jakarta - KPK = 0.6509292426027296
+Kota Administrasi Jakarta Timur - KPK = 0.20924803871202602
+Komisi Pemberantasan Korupsi Republik Indonesia - KPK = 0.6694839507383671
+Daerah Khusus Ibukota Jakarta - Korupsi = 0.30684184804367987
+Kota Administrasi Jakarta Selatan - Korupsi = 0.4461603715126353
+Joko Widodo - Korupsi = 0.4276216764880123
+Daftar Gubernur Daerah Khusus Ibukota Jakarta - Korupsi = 0.5297859603847022
+Kota Administrasi Jakarta Timur - Korupsi = 0.19347520637484694
+Komisi Pemberantasan Korupsi Republik Indonesia - Korupsi = 0.587908228827308
+KPK - Korupsi = 0.6320638608619116
+Daerah Khusus Ibukota Jakarta - Kecamatan = 0.0
+Kota Administrasi Jakarta Selatan - Kecamatan = 0.0
+Joko Widodo - Kecamatan = 0.0
+Daftar Gubernur Daerah Khusus Ibukota Jakarta - Kecamatan = 0.0
+Kota Administrasi Jakarta Timur - Kecamatan = 0.0
+Komisi Pemberantasan Korupsi Republik Indonesia - Kecamatan = 0.0
+KPK - Kecamatan = 0.0
+Korupsi - Kecamatan = 0.0
+Daerah Khusus Ibukota Jakarta - Balaikota = 0.24702760053146555
+Kota Administrasi Jakarta Selatan - Balaikota = 0.4258831136957656
+Joko Widodo - Balaikota = 0.4780631364787161
+Daftar Gubernur Daerah Khusus Ibukota Jakarta - Balaikota = 0.0
+Kota Administrasi Jakarta Timur - Balaikota = 0.3445630063828782
+Komisi Pemberantasan Korupsi Republik Indonesia - Balaikota = 0.0
+KPK - Balaikota = 0.0
+Korupsi - Balaikota = 0.0
+Kecamatan - Balaikota = 0.02891890565216082
+Daerah Khusus Ibukota Jakarta - Pinus = 0.13969785800514545
+Kota Administrasi Jakarta Selatan - Pinus = 0.0
+Joko Widodo - Pinus = 0.0
+Daftar Gubernur Daerah Khusus Ibukota Jakarta - Pinus = 0.0
+Kota Administrasi Jakarta Timur - Pinus = 0.0
+Komisi Pemberantasan Korupsi Republik Indonesia - Pinus = 0.0
+KPK - Pinus = 0.0
+Korupsi - Pinus = 0.32884902190617316
+Kecamatan - Pinus = 0.0
+Balaikota - Pinus = 0.0
+Daerah Khusus Ibukota Jakarta - Jokowi = 0.31428251775671245
+Kota Administrasi Jakarta Selatan - Jokowi = 0.4202571907581967
+Joko Widodo - Jokowi = 0.651172474412935
+Daftar Gubernur Daerah Khusus Ibukota Jakarta - Jokowi = 0.5967361093181557
+Kota Administrasi Jakarta Timur - Jokowi = 0.0
+Komisi Pemberantasan Korupsi Republik Indonesia - Jokowi = 0.0
+KPK - Jokowi = 0.0
+Korupsi - Jokowi = 0.4074234310915028
+Kecamatan - Jokowi = 0.0
+Balaikota - Jokowi = 0.0
+Pinus - Jokowi = 0.0
+Daerah Khusus Ibukota Jakarta - Kelurahan = 0.0660078976741284
+Kota Administrasi Jakarta Selatan - Kelurahan = 0.26663101968812775
+Joko Widodo - Kelurahan = 0.0
+Daftar Gubernur Daerah Khusus Ibukota Jakarta - Kelurahan = 0.0
+Kota Administrasi Jakarta Timur - Kelurahan = 0.12858437013597224
+Komisi Pemberantasan Korupsi Republik Indonesia - Kelurahan = 0.04906344417709174
+KPK - Kelurahan = 0.0
+Korupsi - Kelurahan = 0.0
+Kecamatan - Kelurahan = 0.5006295483097347
+Balaikota - Kelurahan = 0.23553465258870387
+Pinus - Kelurahan = 0.06322415518558533
+Jokowi - Kelurahan = 0.055822242945126055
+Daerah Khusus Ibukota Jakarta - Setiabudi, Jakarta Selatan = 0.273702721651924
+Kota Administrasi Jakarta Selatan - Setiabudi, Jakarta Selatan = 0.6863366584656669
+Joko Widodo - Setiabudi, Jakarta Selatan = 0.3917261111949555
+Daftar Gubernur Daerah Khusus Ibukota Jakarta - Setiabudi, Jakarta Selatan = 0.0
+Kota Administrasi Jakarta Timur - Setiabudi, Jakarta Selatan = 0.31175747296444845
+Komisi Pemberantasan Korupsi Republik Indonesia - Setiabudi, Jakarta Selatan = 0.0
+KPK - Setiabudi, Jakarta Selatan = 0.0
+Korupsi - Setiabudi, Jakarta Selatan = 0.0
+Kecamatan - Setiabudi, Jakarta Selatan = 0.12986960896354827
+Balaikota - Setiabudi, Jakarta Selatan = 0.6523909883140413
+Pinus - Setiabudi, Jakarta Selatan = 0.0
+Jokowi - Setiabudi, Jakarta Selatan = 0.0
+Kelurahan - Setiabudi, Jakarta Selatan = 0.2846511231879071

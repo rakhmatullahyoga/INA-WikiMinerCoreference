@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>Gubernur DKI Jakarta</Mention>
+        <Mention>Joko Widodo</Mention>
+        <Mention>Jokowi</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>Center for Strategic and International Studies</Mention>
+        <Mention>CSIS</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>calon presiden</Mention>
+        <Mention>Capres</Mention>
+        <Mention>kandidat Capres</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>Indonesia</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>Jakarta</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>Prabowo Subianto</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>Aburizal Bakrie</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>Megawati</Mention>
+    </Entity>
+    <Entity ClusterId="9">
+        <Mention>Jusuf Kalla</Mention>
+    </Entity>
+    <Entity ClusterId="10">
+        <Mention>Gubernur</Mention>
+    </Entity>
+    <Entity ClusterId="11">
+        <Mention>peneliti CSIS</Mention>
+        <Mention>Philip Jurius Vermonte</Mention>
+    </Entity>
+    <Entity ClusterId="12">
+        <Mention>pengamat politik</Mention>
+        <Mention>peneliti senior CSIS</Mention>
+        <Mention>Joseph Kristiadi</Mention>
+        <Mention>Kristiadi</Mention>
+    </Entity>
+</CoreferenceChain>

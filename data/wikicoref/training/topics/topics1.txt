@@ -1,64 +1,323 @@
 All detected topics:
-Kamis (0.0035596750162436622/0.03736920777279522 - 0.14678782529246437/0.1371256560087204)
-Kematian (0.0035596750162436622/0.008260128490887636 - 0.2322253826320922/0.1627059280872345)
-Tepi Barat (0.8499739146601772/0.8222222222222222 - 0.512080993108988/0.5389683842658997)
-Sabtu (0.10075964591084115/0.1276595744680851 - 0.39598537670768513/0.3509904146194458)
-Forum (0.0035596750162436622/0.019938650306748466 - 0.13669758266376902/0.04541283845901489)
-Bahasa Arab (0.18248040850330946/0.19476051865572902 - 0.3686185105972744/0.39220213890075684)
-Timur (0.006684675016243663/0.011552426009461988 - 0.2696552716547905/0.20935316383838654)
-Jalan (0.011155130967632034/0.015031776733904394 - 0.27102926178915415/0.15459394454956055)
-Yordania (0.829219832645968/0.6005915663868946 - 0.5331930714491586/0.5945135354995728)
-Afrika (0.41152037394111024/0.23380582228318852 - 0.42186866697579944/0.359787255525589)
-Utara (0.006684675016243663/0.010850125193752235 - 0.2201940735526151/0.1618601381778717)
-Keamanan (0.0035596750162436622/0.016053647632595 - 0.210220691680586/0.12438846379518509)
-Daftar Presiden Otoritas Nasional Palestina (0.7357769087032426/0.2608695652173913 - 0.4444446606671541/0.44662079215049744)
-Mahmoud Abbas (0.8497988163056958/0.8913043478260869 - 0.5312360577487346/0.5321300029754639)
-.id (0.0035596750162436622/0.5 - 0.061386259621013496/0.14001597464084625)
-Kenosis (0.0035596750162436622/0.009174311926605505 - 0.124397717226026/0.10229962319135666)
-Pembangunan (0.012175302358535131/0.005508749189889825 - 0.3385405343527444/0.2400001734495163)
-Tepi Laut (Tanjungpinang) (0.0035596750162436622/0.25 - 0.016824323948505752/0.02069430612027645)
-Gagasan (0.0035596750162436622/0.013448607108549471 - 0.07148872068014654/0.03156614676117897)
-IDE (0.0035596750162436622/0.022988505747126436 - 0.09627228813780209/0.021341320127248764)
-Presiden (0.07613912497788046/0.1267155616876044 - 0.41663717122036553/0.34762337803840637)
-Advanced Technology Attachment (0.0035596750162436622/0.05063291139240506 - 0.0/0.0)
-Adil (0.0035596750162436622/0.008308157099697885 - 0.049025009106925824/0.004921985790133476)
-Laut (0.016817151873555383/0.02270084197795041 - 0.2913837414949684/0.1754465103149414)
-Ekonomi (0.19554306172941083/0.0887110954809214 - 0.424916475196753/0.3369652032852173)
-Jordan (disambiguasi) (0.0034790948389672714/0.054333764553686936 - 0.2716341366141911/0.31101280450820923)
-Wilayah (0.008716106577388133/0.006205398696866274 - 0.2619229727623641/0.14961493015289307)
-Kata (0.0035596750162436622/0.013140775435857403 - 0.11364664159807246/0.030612628906965256)
-Pemerintah (0.0598009634931274/0.03416681444700597 - 0.36697450957186467/0.2531992495059967)
-Xinhua (0.0035596750162436622/0.27906976744186046 - 0.016117027599903872/0.019070053473114967)
-Pembela Tanah Air (0.0035596750162436622/0.09479824987846379 - 0.0779911267258962/0.05186310410499573)
-Palestina (0.8599342604813536/0.4358094564320245 - 0.5788924359537674/0.6181516647338867)
-Penjara (0.02406733013308492/0.005434782608695652 - 0.3737926376585676/0.3289979100227356)
-Republika (0.0035596750162436622/0.3676190476190476 - 0.07384449619389638/0.1046232357621193)
-Laut Mati (0.02860631959543865/0.11811722912966252 - 0.30228365260704315/0.3520260155200958)
-Afrika Utara (0.37412547592999806/0.5251908396946565 - 0.41175521206165233/0.3661577105522156)
-Israel (0.8115824935406625/0.4308801591248136 - 0.4991563074547997/0.5590587258338928)
-Abbas (0.0035596750162436622/0.11435523114355231 - 0.1559687550067515/0.13145801424980164)
-Sungai (0.016817151873555383/0.054241127611376797 - 0.2929288961721156/0.19220393896102905)
-Dunia (0.07971723143571112/0.011306205387380816 - 0.38531468342278047/0.2698931097984314)
-Ekonomi dunia (0.0035596750162436622/0.10714285714285714 - 0.1437048642343274/0.14251095056533813)
-Timur Tengah (0.7995766885408102/0.5128361858190709 - 0.5246897409342437/0.4863576292991638)
-Mata angin (0.006684675016243663/0.013083325954130878 - 0.27861240917072333/0.19934548437595367)
-Yahudi (0.6776775400292686/0.4528301886792453 - 0.4537147261285345/0.4476728141307831)
-Damai (0.3864023921783647/0.03394039735099338 - 0.4520252723499709/0.3852185010910034)
-Forum Ekonomi Dunia (0.17126864005575101/0.5652173913043478 - 0.2688147675059346/0.3287864625453949)
+Kerja sama (0.0035596750162436622/0.005865102639296188 - 0.034341656158581785/0.020929653197526932)
+Gubernur (0.19268246543609896/0.0995698582125219 - 0.47616176813148586/0.2593376040458679)
+Daftar Gubernur Daerah Khusus Ibukota Jakarta (0.33122059206314264/0.21031746031746032 - 0.519780415167275/0.33207201957702637)
+Wakil Presiden Indonesia (0.23908773485131266/0.13666666666666666 - 0.5915768551877918/0.36905401945114136)
+Seminari Alkitab Asia Tenggara (0.0035596750162436622/0.13043478260869565 - 0.11688901530948892/0.0954052209854126)
+Pemilihan umum Presiden Indonesia 2004 (0.16510859404404574/0.038461538461538464 - 0.48730251281790443/0.22442315518856049)
+Aburizal Bakrie (0.48623868302551154/0.746031746031746 - 0.4391437951854286/0.35565483570098877)
+Bendahara, Aceh Tamiang (0.0035596750162436622/0.06746626686656672 - 0.0/0.0)
+Manusia (0.0035596750162436622/0.005615914638097501 - 0.12145086314616958/0.050518590956926346)
+Negeri (0.006684675016243663/0.009904912836767036 - 0.22870964146870712/0.10597296059131622)
+Dewan Perwakilan Daerah Republik Indonesia (0.7976195975143635/0.1710124078403165 - 0.6083434437957054/0.40179935097694397)
+Daerah Khusus Ibukota Jakarta (0.4449266132994998/0.28552547301422293 - 0.4373566824001879/0.2794099748134613)
+Joko Widodo (0.9380570579330796/0.7654320987654321 - 0.6078866429919134/0.42216360569000244)
+Bambang, Mamasa (0.0035596750162436622/0.014796547472256472 - 0.0/0.0)
+Pemilihan umum (0.1882071543935035/0.1069494584837545 - 0.5418519990523565/0.3196061849594116)
+Bangunan (0.0035596750162436622/0.009974259974259974 - 0.07416146163508572/0.03785964101552963)
+Komisi Dewan Perwakilan Rakyat Republik Indonesia (0.020083702396203464/0.0958904109589041 - 0.3284491133165167/0.2237320989370346)
+Presiden (0.07613912497788046/0.1267155616876044 - 0.4794213946052769/0.3180494010448456)
+Evaluasi (0.0035596750162436622/0.03699284009546539 - 0.03943865471392218/0.11405225098133087)
+Dewan Perwakilan Rakyat Republik Indonesia (0.8805981655776963/0.30783905789224075 - 0.615179341454532/0.3859483599662781)
+2014 (0.22707075848304342/0.16234769177964647 - 0.49231258822058355/0.31695467233657837)
+Kerja (0.0035596750162436622/0.00622637313764732 - 0.09626915648939251/0.07393630594015121)
+Tenaga kerja (0.0035596750162436622/0.0069953364423717525 - 0.13593633626347906/0.07584414631128311)
+1 (0.0035596750162436622/0.005019455252918288 - 0.32556477335383166/0.15358194708824158)
+Kata (0.0035596750162436622/0.013140775435857403 - 0.01242284341258611/0.009434005245566368)
+Butuh, Purworejo (0.0035596750162436622/0.22790697674418606 - 0.0/0.012447593733668327)
+Kompleks Parlemen Republik Indonesia (0.4099599673831632/0.2175032175032175 - 0.4502044101289987/0.32315653562545776)
+Pemilihan umum Presiden Indonesia 2014 (0.6857792748128182/0.15625 - 0.5737357085391626/0.3730970025062561)
+Calendar (aplikasi) (0.10355967501624366/0.5 - 0.0/0.21846798062324524)
+Widodo (0.0035596750162436622/0.009983361064891847 - 0.0454363895712799/0.020903099328279495)
+Jokowi (0.37412742291948503/0.3286713286713287 - 0.4068958423342578/0.3563297688961029)
+Partai Demokrasi Indonesia Perjuangan (0.8529474379269687/0.35648148148148145 - 0.6165594601494973/0.41277486085891724)
+Ma U, Nias (0.0035596750162436622/1.0 - 0.0/0.05461699515581131)
+Bakrie & Brothers (0.2111299270653788/0.00904977375565611 - 0.43355493763225367/0.22717177867889404)
+Partai Golongan Karya (0.910561839696602/0.40344583925814137 - 0.6396039280055796/0.4245178699493408)
+Partai politik (0.18283398058761413/0.009756632317474237 - 0.4841728102998696/0.257521390914917)
+Bambang Soesatyo (0.2891442157450715/1.0 - 0.31996129385438987/0.24427372217178345)
+Republik Indonesia Serikat (0.07621970515515687/0.04295403165033911 - 0.45701373864053585/0.19864970445632935)
+Komisi (0.0035596750162436622/0.005627857896588111 - 0.10146905804098366/0.081938736140728)
+Lapindo Brantas Inc. (0.006684675016243663/0.058823529411764705 - 0.2466772653997426/0.15659880638122559)
+Majelis Permusyawaratan Rakyat Republik Indonesia (0.41367567033488833/0.29285714285714287 - 0.6186836134311295/0.3443104922771454)
+Senin (0.0035596750162436622/0.1434948979591837 - 0.20085756152582626/0.09119226783514023)
 
 Topics that are probably good links:
-Palestina (0.8599342604813536/0.4358094564320245 - 0.5788924359537674/0.6181516647338867)
-Tepi Barat (0.8499739146601772/0.8222222222222222 - 0.512080993108988/0.5389683842658997)
-Mahmoud Abbas (0.8497988163056958/0.8913043478260869 - 0.5312360577487346/0.5321300029754639)
-Yordania (0.829219832645968/0.6005915663868946 - 0.5331930714491586/0.5945135354995728)
-Israel (0.8115824935406625/0.4308801591248136 - 0.4991563074547997/0.5590587258338928)
-Timur Tengah (0.7995766885408102/0.5128361858190709 - 0.5246897409342437/0.4863576292991638)
-Daftar Presiden Otoritas Nasional Palestina (0.7357769087032426/0.2608695652173913 - 0.4444446606671541/0.44662079215049744)
-Yahudi (0.6776775400292686/0.4528301886792453 - 0.4537147261285345/0.4476728141307831)
-Afrika (0.41152037394111024/0.23380582228318852 - 0.42186866697579944/0.359787255525589)
-Damai (0.3864023921783647/0.03394039735099338 - 0.4520252723499709/0.3852185010910034)
-Afrika Utara (0.37412547592999806/0.5251908396946565 - 0.41175521206165233/0.3661577105522156)
-.id (0.0035596750162436622/0.5 - 0.061386259621013496/0.14001597464084625)
-Xinhua (0.0035596750162436622/0.27906976744186046 - 0.016117027599903872/0.019070053473114967)
-Republika (0.0035596750162436622/0.3676190476190476 - 0.07384449619389638/0.1046232357621193)
-Forum Ekonomi Dunia (0.17126864005575101/0.5652173913043478 - 0.2688147675059346/0.3287864625453949)
+Joko Widodo (0.9380570579330796/0.7654320987654321 - 0.6078866429919134/0.42216360569000244)
+Partai Golongan Karya (0.910561839696602/0.40344583925814137 - 0.6396039280055796/0.4245178699493408)
+Dewan Perwakilan Rakyat Republik Indonesia (0.8805981655776963/0.30783905789224075 - 0.615179341454532/0.3859483599662781)
+Partai Demokrasi Indonesia Perjuangan (0.8529474379269687/0.35648148148148145 - 0.6165594601494973/0.41277486085891724)
+Dewan Perwakilan Daerah Republik Indonesia (0.7976195975143635/0.1710124078403165 - 0.6083434437957054/0.40179935097694397)
+Pemilihan umum Presiden Indonesia 2014 (0.6857792748128182/0.15625 - 0.5737357085391626/0.3730970025062561)
+Aburizal Bakrie (0.48623868302551154/0.746031746031746 - 0.4391437951854286/0.35565483570098877)
+Daerah Khusus Ibukota Jakarta (0.4449266132994998/0.28552547301422293 - 0.4373566824001879/0.2794099748134613)
+Majelis Permusyawaratan Rakyat Republik Indonesia (0.41367567033488833/0.29285714285714287 - 0.6186836134311295/0.3443104922771454)
+Kompleks Parlemen Republik Indonesia (0.4099599673831632/0.2175032175032175 - 0.4502044101289987/0.32315653562545776)
+Jokowi (0.37412742291948503/0.3286713286713287 - 0.4068958423342578/0.3563297688961029)
+Daftar Gubernur Daerah Khusus Ibukota Jakarta (0.33122059206314264/0.21031746031746032 - 0.519780415167275/0.33207201957702637)
+Bambang Soesatyo (0.2891442157450715/1.0 - 0.31996129385438987/0.24427372217178345)
+Wakil Presiden Indonesia (0.23908773485131266/0.13666666666666666 - 0.5915768551877918/0.36905401945114136)
+2014 (0.22707075848304342/0.16234769177964647 - 0.49231258822058355/0.31695467233657837)
+Bakrie & Brothers (0.2111299270653788/0.00904977375565611 - 0.43355493763225367/0.22717177867889404)
+Gubernur (0.19268246543609896/0.0995698582125219 - 0.47616176813148586/0.2593376040458679)
+Pemilihan umum (0.1882071543935035/0.1069494584837545 - 0.5418519990523565/0.3196061849594116)
+Partai politik (0.18283398058761413/0.009756632317474237 - 0.4841728102998696/0.257521390914917)
+Pemilihan umum Presiden Indonesia 2004 (0.16510859404404574/0.038461538461538464 - 0.48730251281790443/0.22442315518856049)
+Butuh, Purworejo (0.0035596750162436622/0.22790697674418606 - 0.0/0.012447593733668327)
+Calendar (aplikasi) (0.10355967501624366/0.5 - 0.0/0.21846798062324524)
+Ma U, Nias (0.0035596750162436622/1.0 - 0.0/0.05461699515581131)
+
+Coreference log:
+Joko Widodo - Partai Golongan Karya = 0.610347707496312
+Joko Widodo - Dewan Perwakilan Rakyat Republik Indonesia = 0.5198453066837861
+Partai Golongan Karya - Dewan Perwakilan Rakyat Republik Indonesia = 0.7471677939530084
+Joko Widodo - Partai Demokrasi Indonesia Perjuangan = 0.7010171773793046
+Partai Golongan Karya - Partai Demokrasi Indonesia Perjuangan = 0.7954343053275332
+Dewan Perwakilan Rakyat Republik Indonesia - Partai Demokrasi Indonesia Perjuangan = 0.7002534466954232
+Joko Widodo - Dewan Perwakilan Daerah Republik Indonesia = 0.5634016604766261
+Partai Golongan Karya - Dewan Perwakilan Daerah Republik Indonesia = 0.6500661086408981
+Dewan Perwakilan Rakyat Republik Indonesia - Dewan Perwakilan Daerah Republik Indonesia = 0.6902825647722942
+Partai Demokrasi Indonesia Perjuangan - Dewan Perwakilan Daerah Republik Indonesia = 0.6607020212570719
+Joko Widodo - Pemilihan umum Presiden Indonesia 2014 = 0.7521209052082256
+Partai Golongan Karya - Pemilihan umum Presiden Indonesia 2014 = 0.5758340914900791
+Dewan Perwakilan Rakyat Republik Indonesia - Pemilihan umum Presiden Indonesia 2014 = 0.5093135278497919
+Partai Demokrasi Indonesia Perjuangan - Pemilihan umum Presiden Indonesia 2014 = 0.6449834493661676
+Dewan Perwakilan Daerah Republik Indonesia - Pemilihan umum Presiden Indonesia 2014 = 0.6299172395137287
+Joko Widodo - Aburizal Bakrie = 0.3825264541051834
+Partai Golongan Karya - Aburizal Bakrie = 0.6268715177039066
+Dewan Perwakilan Rakyat Republik Indonesia - Aburizal Bakrie = 0.4975903950233521
+Partai Demokrasi Indonesia Perjuangan - Aburizal Bakrie = 0.46591083535110456
+Dewan Perwakilan Daerah Republik Indonesia - Aburizal Bakrie = 0.4306186858412323
+Pemilihan umum Presiden Indonesia 2014 - Aburizal Bakrie = 0.5746525226996291
+Joko Widodo - Daerah Khusus Ibukota Jakarta = 0.41043227444545005
+Partai Golongan Karya - Daerah Khusus Ibukota Jakarta = 0.3954249306213635
+Dewan Perwakilan Rakyat Republik Indonesia - Daerah Khusus Ibukota Jakarta = 0.4403671330782206
+Partai Demokrasi Indonesia Perjuangan - Daerah Khusus Ibukota Jakarta = 0.3648642073305659
+Dewan Perwakilan Daerah Republik Indonesia - Daerah Khusus Ibukota Jakarta = 0.381547455046913
+Pemilihan umum Presiden Indonesia 2014 - Daerah Khusus Ibukota Jakarta = 0.3410456423062552
+Aburizal Bakrie - Daerah Khusus Ibukota Jakarta = 0.2874286894200775
+Joko Widodo - Majelis Permusyawaratan Rakyat Republik Indonesia = 0.6250988835121178
+Partai Golongan Karya - Majelis Permusyawaratan Rakyat Republik Indonesia = 0.7310443668211476
+Dewan Perwakilan Rakyat Republik Indonesia - Majelis Permusyawaratan Rakyat Republik Indonesia = 0.740587444850872
+Partai Demokrasi Indonesia Perjuangan - Majelis Permusyawaratan Rakyat Republik Indonesia = 0.641090674956365
+Dewan Perwakilan Daerah Republik Indonesia - Majelis Permusyawaratan Rakyat Republik Indonesia = 0.7756899421796711
+Pemilihan umum Presiden Indonesia 2014 - Majelis Permusyawaratan Rakyat Republik Indonesia = 0.5832018630238522
+Aburizal Bakrie - Majelis Permusyawaratan Rakyat Republik Indonesia = 0.5620191706830051
+Daerah Khusus Ibukota Jakarta - Majelis Permusyawaratan Rakyat Republik Indonesia = 0.3976729992622361
+Joko Widodo - Kompleks Parlemen Republik Indonesia = 0.5365812496187201
+Partai Golongan Karya - Kompleks Parlemen Republik Indonesia = 0.5077653100220423
+Dewan Perwakilan Rakyat Republik Indonesia - Kompleks Parlemen Republik Indonesia = 0.5195120122807321
+Partai Demokrasi Indonesia Perjuangan - Kompleks Parlemen Republik Indonesia = 0.45884056266759377
+Dewan Perwakilan Daerah Republik Indonesia - Kompleks Parlemen Republik Indonesia = 0.5815311994825453
+Pemilihan umum Presiden Indonesia 2014 - Kompleks Parlemen Republik Indonesia = 0.6037233102764038
+Aburizal Bakrie - Kompleks Parlemen Republik Indonesia = 0.0
+Daerah Khusus Ibukota Jakarta - Kompleks Parlemen Republik Indonesia = 0.36881310034613857
+Majelis Permusyawaratan Rakyat Republik Indonesia - Kompleks Parlemen Republik Indonesia = 0.5906362502125608
+Joko Widodo - Jokowi = 0.651172474412935
+Partai Golongan Karya - Jokowi = 0.345470988374871
+Dewan Perwakilan Rakyat Republik Indonesia - Jokowi = 0.2711480804276889
+Partai Demokrasi Indonesia Perjuangan - Jokowi = 0.4428298453287819
+Dewan Perwakilan Daerah Republik Indonesia - Jokowi = 0.5259418276913693
+Pemilihan umum Presiden Indonesia 2014 - Jokowi = 0.6658646317846451
+Aburizal Bakrie - Jokowi = 0.5897072684601865
+Daerah Khusus Ibukota Jakarta - Jokowi = 0.31428251775671245
+Majelis Permusyawaratan Rakyat Republik Indonesia - Jokowi = 0.0
+Kompleks Parlemen Republik Indonesia - Jokowi = 0.6381002296736236
+Joko Widodo - Daftar Gubernur Daerah Khusus Ibukota Jakarta = 0.7042860230643471
+Partai Golongan Karya - Daftar Gubernur Daerah Khusus Ibukota Jakarta = 0.5305512624353725
+Dewan Perwakilan Rakyat Republik Indonesia - Daftar Gubernur Daerah Khusus Ibukota Jakarta = 0.48178852107239223
+Partai Demokrasi Indonesia Perjuangan - Daftar Gubernur Daerah Khusus Ibukota Jakarta = 0.5567867765502095
+Dewan Perwakilan Daerah Republik Indonesia - Daftar Gubernur Daerah Khusus Ibukota Jakarta = 0.6013478171964783
+Pemilihan umum Presiden Indonesia 2014 - Daftar Gubernur Daerah Khusus Ibukota Jakarta = 0.720339047357488
+Aburizal Bakrie - Daftar Gubernur Daerah Khusus Ibukota Jakarta = 0.0
+Daerah Khusus Ibukota Jakarta - Daftar Gubernur Daerah Khusus Ibukota Jakarta = 0.4184099675207865
+Majelis Permusyawaratan Rakyat Republik Indonesia - Daftar Gubernur Daerah Khusus Ibukota Jakarta = 0.5027741421336
+Kompleks Parlemen Republik Indonesia - Daftar Gubernur Daerah Khusus Ibukota Jakarta = 0.5365812496187201
+Jokowi - Daftar Gubernur Daerah Khusus Ibukota Jakarta = 0.5967361093181557
+Joko Widodo - Bambang Soesatyo = 0.5962235283292455
+Partai Golongan Karya - Bambang Soesatyo = 0.5711162179136631
+Dewan Perwakilan Rakyat Republik Indonesia - Bambang Soesatyo = 0.4822757441086315
+Partai Demokrasi Indonesia Perjuangan - Bambang Soesatyo = 0.5284881156888197
+Dewan Perwakilan Daerah Republik Indonesia - Bambang Soesatyo = 0.5363130237043165
+Pemilihan umum Presiden Indonesia 2014 - Bambang Soesatyo = 0.0
+Aburizal Bakrie - Bambang Soesatyo = 0.652784885648305
+Daerah Khusus Ibukota Jakarta - Bambang Soesatyo = 0.0
+Majelis Permusyawaratan Rakyat Republik Indonesia - Bambang Soesatyo = 0.5606884236778441
+Kompleks Parlemen Republik Indonesia - Bambang Soesatyo = 0.0
+Jokowi - Bambang Soesatyo = 0.0
+Daftar Gubernur Daerah Khusus Ibukota Jakarta - Bambang Soesatyo = 0.0
+Joko Widodo - Wakil Presiden Indonesia = 0.663569908557239
+Partai Golongan Karya - Wakil Presiden Indonesia = 0.6119652834699063
+Dewan Perwakilan Rakyat Republik Indonesia - Wakil Presiden Indonesia = 0.5921167262899101
+Partai Demokrasi Indonesia Perjuangan - Wakil Presiden Indonesia = 0.533439353013297
+Dewan Perwakilan Daerah Republik Indonesia - Wakil Presiden Indonesia = 0.6772075117707999
+Pemilihan umum Presiden Indonesia 2014 - Wakil Presiden Indonesia = 0.6568538223369751
+Aburizal Bakrie - Wakil Presiden Indonesia = 0.6358465372887872
+Daerah Khusus Ibukota Jakarta - Wakil Presiden Indonesia = 0.39299364120106106
+Majelis Permusyawaratan Rakyat Republik Indonesia - Wakil Presiden Indonesia = 0.7110675681610292
+Kompleks Parlemen Republik Indonesia - Wakil Presiden Indonesia = 0.6067677419309716
+Jokowi - Wakil Presiden Indonesia = 0.5519250172827197
+Daftar Gubernur Daerah Khusus Ibukota Jakarta - Wakil Presiden Indonesia = 0.5478765060487762
+Bambang Soesatyo - Wakil Presiden Indonesia = 0.0
+Joko Widodo - 2014 = 0.5654642056507813
+Partai Golongan Karya - 2014 = 0.526912034670994
+Dewan Perwakilan Rakyat Republik Indonesia - 2014 = 0.6463074631976553
+Partai Demokrasi Indonesia Perjuangan - 2014 = 0.5802148153494683
+Dewan Perwakilan Daerah Republik Indonesia - 2014 = 0.46602404863686275
+Pemilihan umum Presiden Indonesia 2014 - 2014 = 0.4816570647930718
+Aburizal Bakrie - 2014 = 0.32690611199673736
+Daerah Khusus Ibukota Jakarta - 2014 = 0.41275447460176684
+Majelis Permusyawaratan Rakyat Republik Indonesia - 2014 = 0.425030633707996
+Kompleks Parlemen Republik Indonesia - 2014 = 0.37088516321202714
+Jokowi - 2014 = 0.4600739131890249
+Daftar Gubernur Daerah Khusus Ibukota Jakarta - 2014 = 0.4257515666048505
+Bambang Soesatyo - 2014 = 0.0
+Wakil Presiden Indonesia - 2014 = 0.45212301049243886
+Joko Widodo - Bakrie & Brothers = 0.49893860018894765
+Partai Golongan Karya - Bakrie & Brothers = 0.553584931988244
+Dewan Perwakilan Rakyat Republik Indonesia - Bakrie & Brothers = 0.4404075593684046
+Partai Demokrasi Indonesia Perjuangan - Bakrie & Brothers = 0.39234185226460705
+Dewan Perwakilan Daerah Republik Indonesia - Bakrie & Brothers = 0.5851117944395388
+Pemilihan umum Presiden Indonesia 2014 - Bakrie & Brothers = 0.6071140202051818
+Aburizal Bakrie - Bakrie & Brothers = 0.8303810112506107
+Daerah Khusus Ibukota Jakarta - Bakrie & Brothers = 0.3288739854689089
+Majelis Permusyawaratan Rakyat Republik Indonesia - Bakrie & Brothers = 0.5941389385282783
+Kompleks Parlemen Republik Indonesia - Bakrie & Brothers = 0.0
+Jokowi - Bakrie & Brothers = 0.0
+Daftar Gubernur Daerah Khusus Ibukota Jakarta - Bakrie & Brothers = 0.6532834083137242
+Bambang Soesatyo - Bakrie & Brothers = 0.0
+Wakil Presiden Indonesia - Bakrie & Brothers = 0.4973954493501619
+2014 - Bakrie & Brothers = 0.3051390361780789
+Joko Widodo - Gubernur = 0.4527754998371222
+Partai Golongan Karya - Gubernur = 0.5394492990036335
+Dewan Perwakilan Rakyat Republik Indonesia - Gubernur = 0.4857499420932694
+Partai Demokrasi Indonesia Perjuangan - Gubernur = 0.46693667320965393
+Dewan Perwakilan Daerah Republik Indonesia - Gubernur = 0.531002167961074
+Pemilihan umum Presiden Indonesia 2014 - Gubernur = 0.43703905273571164
+Aburizal Bakrie - Gubernur = 0.0
+Daerah Khusus Ibukota Jakarta - Gubernur = 0.37895291560501876
+Majelis Permusyawaratan Rakyat Republik Indonesia - Gubernur = 0.4810597858749771
+Kompleks Parlemen Republik Indonesia - Gubernur = 0.0
+Jokowi - Gubernur = 0.33989037016335266
+Daftar Gubernur Daerah Khusus Ibukota Jakarta - Gubernur = 0.494411822622874
+Bambang Soesatyo - Gubernur = 0.0
+Wakil Presiden Indonesia - Gubernur = 0.3976739354218618
+2014 - Gubernur = 0.33891963467349306
+Bakrie & Brothers - Gubernur = 0.4354741020832742
+Joko Widodo - Pemilihan umum = 0.5030900468382531
+Partai Golongan Karya - Pemilihan umum = 0.5903666680782864
+Dewan Perwakilan Rakyat Republik Indonesia - Pemilihan umum = 0.5602743741277127
+Partai Demokrasi Indonesia Perjuangan - Pemilihan umum = 0.6584345277464166
+Dewan Perwakilan Daerah Republik Indonesia - Pemilihan umum = 0.5648784750501121
+Pemilihan umum Presiden Indonesia 2014 - Pemilihan umum = 0.4660013660829675
+Aburizal Bakrie - Pemilihan umum = 0.34307067671330127
+Daerah Khusus Ibukota Jakarta - Pemilihan umum = 0.32439141539087313
+Majelis Permusyawaratan Rakyat Republik Indonesia - Pemilihan umum = 0.559288824616238
+Kompleks Parlemen Republik Indonesia - Pemilihan umum = 0.45773651791705305
+Jokowi - Pemilihan umum = 0.4416931363628347
+Daftar Gubernur Daerah Khusus Ibukota Jakarta - Pemilihan umum = 0.3765260729996842
+Bambang Soesatyo - Pemilihan umum = 0.0
+Wakil Presiden Indonesia - Pemilihan umum = 0.5321030959607451
+2014 - Pemilihan umum = 0.5100769549286637
+Bakrie & Brothers - Pemilihan umum = 0.0
+Gubernur - Pemilihan umum = 0.5075223464409383
+Joko Widodo - Partai politik = 0.3975459454135887
+Partai Golongan Karya - Partai politik = 0.596513285512766
+Dewan Perwakilan Rakyat Republik Indonesia - Partai politik = 0.5995838485069399
+Partai Demokrasi Indonesia Perjuangan - Partai politik = 0.5424221799365547
+Dewan Perwakilan Daerah Republik Indonesia - Partai politik = 0.4140997466016325
+Pemilihan umum Presiden Indonesia 2014 - Partai politik = 0.49908864964059163
+Aburizal Bakrie - Partai politik = 0.46063518463179187
+Daerah Khusus Ibukota Jakarta - Partai politik = 0.2719550809787693
+Majelis Permusyawaratan Rakyat Republik Indonesia - Partai politik = 0.45390960145546977
+Kompleks Parlemen Republik Indonesia - Partai politik = 0.32929456108987687
+Jokowi - Partai politik = 0.0
+Daftar Gubernur Daerah Khusus Ibukota Jakarta - Partai politik = 0.39382305185353417
+Bambang Soesatyo - Partai politik = 0.4156147643342011
+Wakil Presiden Indonesia - Partai politik = 0.4487236500101528
+2014 - Partai politik = 0.2568457966187202
+Bakrie & Brothers - Partai politik = 0.0
+Gubernur - Partai politik = 0.4997685816640366
+Pemilihan umum - Partai politik = 0.6517640160520672
+Joko Widodo - Pemilihan umum Presiden Indonesia 2004 = 0.6198198324217988
+Partai Golongan Karya - Pemilihan umum Presiden Indonesia 2004 = 0.5745174099021121
+Dewan Perwakilan Rakyat Republik Indonesia - Pemilihan umum Presiden Indonesia 2004 = 0.5348256332394148
+Partai Demokrasi Indonesia Perjuangan - Pemilihan umum Presiden Indonesia 2004 = 0.5674770214608187
+Dewan Perwakilan Daerah Republik Indonesia - Pemilihan umum Presiden Indonesia 2004 = 0.5765643487653702
+Pemilihan umum Presiden Indonesia 2014 - Pemilihan umum Presiden Indonesia 2004 = 0.7442088316588602
+Aburizal Bakrie - Pemilihan umum Presiden Indonesia 2004 = 0.0
+Daerah Khusus Ibukota Jakarta - Pemilihan umum Presiden Indonesia 2004 = 0.3360641625723787
+Majelis Permusyawaratan Rakyat Republik Indonesia - Pemilihan umum Presiden Indonesia 2004 = 0.6858498107537534
+Kompleks Parlemen Republik Indonesia - Pemilihan umum Presiden Indonesia 2004 = 0.0
+Jokowi - Pemilihan umum Presiden Indonesia 2004 = 0.0
+Daftar Gubernur Daerah Khusus Ibukota Jakarta - Pemilihan umum Presiden Indonesia 2004 = 0.0
+Bambang Soesatyo - Pemilihan umum Presiden Indonesia 2004 = 0.0
+Wakil Presiden Indonesia - Pemilihan umum Presiden Indonesia 2004 = 0.7171599641538846
+2014 - Pemilihan umum Presiden Indonesia 2004 = 0.2908236464905244
+Bakrie & Brothers - Pemilihan umum Presiden Indonesia 2004 = 0.0
+Gubernur - Pemilihan umum Presiden Indonesia 2004 = 0.3512493641470579
+Pemilihan umum - Pemilihan umum Presiden Indonesia 2004 = 0.5238948207407144
+Partai politik - Pemilihan umum Presiden Indonesia 2004 = 0.4363934246070673
+Joko Widodo - Butuh, Purworejo = 0.0
+Partai Golongan Karya - Butuh, Purworejo = 0.0
+Dewan Perwakilan Rakyat Republik Indonesia - Butuh, Purworejo = 0.0
+Partai Demokrasi Indonesia Perjuangan - Butuh, Purworejo = 0.0
+Dewan Perwakilan Daerah Republik Indonesia - Butuh, Purworejo = 0.0
+Pemilihan umum Presiden Indonesia 2014 - Butuh, Purworejo = 0.0
+Aburizal Bakrie - Butuh, Purworejo = 0.0
+Daerah Khusus Ibukota Jakarta - Butuh, Purworejo = 0.0
+Majelis Permusyawaratan Rakyat Republik Indonesia - Butuh, Purworejo = 0.0
+Kompleks Parlemen Republik Indonesia - Butuh, Purworejo = 0.0
+Jokowi - Butuh, Purworejo = 0.0
+Daftar Gubernur Daerah Khusus Ibukota Jakarta - Butuh, Purworejo = 0.0
+Bambang Soesatyo - Butuh, Purworejo = 0.0
+Wakil Presiden Indonesia - Butuh, Purworejo = 0.0
+2014 - Butuh, Purworejo = 0.0
+Bakrie & Brothers - Butuh, Purworejo = 0.0
+Gubernur - Butuh, Purworejo = 0.0
+Pemilihan umum - Butuh, Purworejo = 0.0
+Partai politik - Butuh, Purworejo = 0.0
+Pemilihan umum Presiden Indonesia 2004 - Butuh, Purworejo = 0.0
+Joko Widodo - Calendar (aplikasi) = 0.0
+Partai Golongan Karya - Calendar (aplikasi) = 0.0
+Dewan Perwakilan Rakyat Republik Indonesia - Calendar (aplikasi) = 0.0
+Partai Demokrasi Indonesia Perjuangan - Calendar (aplikasi) = 0.0
+Dewan Perwakilan Daerah Republik Indonesia - Calendar (aplikasi) = 0.0
+Pemilihan umum Presiden Indonesia 2014 - Calendar (aplikasi) = 0.0
+Aburizal Bakrie - Calendar (aplikasi) = 0.0
+Daerah Khusus Ibukota Jakarta - Calendar (aplikasi) = 0.0
+Majelis Permusyawaratan Rakyat Republik Indonesia - Calendar (aplikasi) = 0.0
+Kompleks Parlemen Republik Indonesia - Calendar (aplikasi) = 0.0
+Jokowi - Calendar (aplikasi) = 0.0
+Daftar Gubernur Daerah Khusus Ibukota Jakarta - Calendar (aplikasi) = 0.0
+Bambang Soesatyo - Calendar (aplikasi) = 0.0
+Wakil Presiden Indonesia - Calendar (aplikasi) = 0.0
+2014 - Calendar (aplikasi) = 0.0
+Bakrie & Brothers - Calendar (aplikasi) = 0.0
+Gubernur - Calendar (aplikasi) = 0.0
+Pemilihan umum - Calendar (aplikasi) = 0.0
+Partai politik - Calendar (aplikasi) = 0.0
+Pemilihan umum Presiden Indonesia 2004 - Calendar (aplikasi) = 0.0
+Butuh, Purworejo - Calendar (aplikasi) = 0.0
+Joko Widodo - Ma U, Nias = 0.0
+Partai Golongan Karya - Ma U, Nias = 0.0
+Dewan Perwakilan Rakyat Republik Indonesia - Ma U, Nias = 0.0
+Partai Demokrasi Indonesia Perjuangan - Ma U, Nias = 0.0
+Dewan Perwakilan Daerah Republik Indonesia - Ma U, Nias = 0.0
+Pemilihan umum Presiden Indonesia 2014 - Ma U, Nias = 0.0
+Aburizal Bakrie - Ma U, Nias = 0.0
+Daerah Khusus Ibukota Jakarta - Ma U, Nias = 0.0
+Majelis Permusyawaratan Rakyat Republik Indonesia - Ma U, Nias = 0.0
+Kompleks Parlemen Republik Indonesia - Ma U, Nias = 0.0
+Jokowi - Ma U, Nias = 0.0
+Daftar Gubernur Daerah Khusus Ibukota Jakarta - Ma U, Nias = 0.0
+Bambang Soesatyo - Ma U, Nias = 0.0
+Wakil Presiden Indonesia - Ma U, Nias = 0.0
+2014 - Ma U, Nias = 0.0
+Bakrie & Brothers - Ma U, Nias = 0.0
+Gubernur - Ma U, Nias = 0.0
+Pemilihan umum - Ma U, Nias = 0.0
+Partai politik - Ma U, Nias = 0.0
+Pemilihan umum Presiden Indonesia 2004 - Ma U, Nias = 0.0
+Butuh, Purworejo - Ma U, Nias = 0.0
+Calendar (aplikasi) - Ma U, Nias = 0.0

@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>Hasil Survei Jokowi Capres</Mention>
+        <Mention>Jokowi</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>Teratas?</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>Peneliti Centre for</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>Strategic and International</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>Studies</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>CSIS</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>usia pemilih</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>faktor penentu Gubernur DKI Jakarta</Mention>
+    </Entity>
+    <Entity ClusterId="9">
+        <Mention>Joko Widodo</Mention>
+    </Entity>
+    <Entity ClusterId="10">
+        <Mention>sejumlah survei calon presiden</Mention>
+    </Entity>
+    <Entity ClusterId="11">
+        <Mention>Saat ini</Mention>
+    </Entity>
+    <Entity ClusterId="12">
+        <Mention>persen pemilih Indonesia</Mention>
+    </Entity>
+    <Entity ClusterId="13">
+        <Mention>kategori muda</Mention>
+    </Entity>
+    <Entity ClusterId="14">
+        <Mention>sekitar 40-an tahun</Mention>
+    </Entity>
+    <Entity ClusterId="15">
+        <Mention>pemimpin</Mention>
+    </Entity>
+    <Entity ClusterId="16">
+        <Mention>kategori fresh,"</Mention>
+    </Entity>
+    <Entity ClusterId="17">
+        <Mention>Philips</Mention>
+    </Entity>
+    <Entity ClusterId="18">
+        <Mention>Tempo,</Mention>
+    </Entity>
+    <Entity ClusterId="19">
+        <Mention>pekan lalu</Mention>
+    </Entity>
+    <Entity ClusterId="20">
+        <Mention>Selain itu,</Mention>
+    </Entity>
+    <Entity ClusterId="21">
+        <Mention>pemilih muda</Mention>
+    </Entity>
+    <Entity ClusterId="22">
+        <Mention>reformis</Mention>
+    </Entity>
+    <Entity ClusterId="23">
+        <Mention>survei CSIS</Mention>
+    </Entity>
+    <Entity ClusterId="24">
+        <Mention>31 provinsi</Mention>
+    </Entity>
+    <Entity ClusterId="25">
+        <Mention>Papua dan Papua Barat</Mention>
+    </Entity>
+    <Entity ClusterId="26">
+        <Mention>9-16 April 2013</Mention>
+    </Entity>
+    <Entity ClusterId="27">
+        <Mention>28,6 responden</Mention>
+    </Entity>
+    <Entity ClusterId="28">
+        <Mention>presiden 2014</Mention>
+    </Entity>
+    <Entity ClusterId="29">
+        <Mention>Ketua Dewan Pembina Partai Gerindra Prabowo Subianto</Mention>
+    </Entity>
+    <Entity ClusterId="30">
+        <Mention>persen</Mention>
+    </Entity>
+    <Entity ClusterId="31">
+        <Mention>Ketua Umum</Mention>
+    </Entity>
+    <Entity ClusterId="32">
+        <Mention>Partai Golkar Aburizal</Mention>
+    </Entity>
+    <Entity ClusterId="33">
+        <Mention>Bakrie 7</Mention>
+    </Entity>
+    <Entity ClusterId="34">
+        <Mention>PDIP Megawati Soekarnoputri</Mention>
+    </Entity>
+    <Entity ClusterId="35">
+        <Mention>5,4 persen</Mention>
+    </Entity>
+    <Entity ClusterId="36">
+        <Mention>mantan Wakil Presiden Jusuf Kalla 3,7</Mention>
+    </Entity>
+    <Entity ClusterId="37">
+        <Mention>mantan Ketua Mahkamah Konstitusi Mahfud MD</Mention>
+    </Entity>
+    <Entity ClusterId="38">
+        <Mention>dan Hatta Rajasa</Mention>
+    </Entity>
+    <Entity ClusterId="39">
+        <Mention>2,2 persen</Mention>
+    </Entity>
+    <Entity ClusterId="40">
+        <Mention>Survei ini</Mention>
+    </Entity>
+    <Entity ClusterId="41">
+        <Mention>sampel</Mention>
+    </Entity>
+    <Entity ClusterId="42">
+        <Mention>1635 responden</Mention>
+    </Entity>
+    <Entity ClusterId="43">
+        <Mention>wawancara</Mention>
+    </Entity>
+    <Entity ClusterId="44">
+        <Mention>muka</Mention>
+    </Entity>
+    <Entity ClusterId="45">
+        <Mention>persepsi</Mention>
+    </Entity>
+    <Entity ClusterId="46">
+        <Mention>seorang pemimpin</Mention>
+    </Entity>
+    <Entity ClusterId="47">
+        <Mention>inspirasional</Mention>
+    </Entity>
+    <Entity ClusterId="48">
+        <Mention>benak para</Mention>
+    </Entity>
+    <Entity ClusterId="49">
+        <Mention>Kriteria-kriteria</Mention>
+    </Entity>
+    <Entity ClusterId="50">
+        <Mention>gaya komunikasi Jokowi</Mention>
+    </Entity>
+    <Entity ClusterId="51">
+        <Mention>antitesa</Mention>
+    </Entity>
+    <Entity ClusterId="52">
+        <Mention>pejabat publik</Mention>
+    </Entity>
+</CoreferenceChain>

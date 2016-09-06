@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>UN</Mention>
+        <Mention>Ujian Nasional</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>fotokopi</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>ANTARA News</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>SMA</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>MA</Mention>
+        <Mention>Madrasah Aliyah  (MA</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>SMK</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>Kota Mataram</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>Provinsi Nusa Tenggara Barat</Mention>
+        <Mention>NTB</Mention>
+    </Entity>
+    <Entity ClusterId="9">
+        <Mention>komputer</Mention>
+    </Entity>
+    <Entity ClusterId="10">
+        <Mention>Mataram</Mention>
+    </Entity>
+    <Entity ClusterId="11">
+        <Mention>Wita</Mention>
+        <Mention>WITA</Mention>
+    </Entity>
+    <Entity ClusterId="12">
+        <Mention>Lombok</Mention>
+    </Entity>
+    <Entity ClusterId="13">
+        <Mention>Badan Standar Nasional Pendidikan</Mention>
+    </Entity>
+    <Entity ClusterId="14">
+        <Mention>10 April</Mention>
+    </Entity>
+    <Entity ClusterId="15">
+        <Mention>Jakarta</Mention>
+    </Entity>
+</CoreferenceChain>

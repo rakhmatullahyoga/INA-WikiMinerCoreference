@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>presiden Iran</Mention>
+        <Mention>presiden  Iran</Mention>
+        <Mention>Ahmadinejad</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>Dubai</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>ANTARA News</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>Ulama</Mention>
+        <Mention>ulama</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>pemerintah</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>Iran</Mention>
+        <Mention>Republik Islam Iran</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>Sabtu</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>Menteri Dalam Negeri</Mention>
+    </Entity>
+    <Entity ClusterId="9">
+        <Mention>Wali Kota</Mention>
+        <Mention>Walikota</Mention>
+    </Entity>
+    <Entity ClusterId="10">
+        <Mention>Teheran</Mention>
+    </Entity>
+    <Entity ClusterId="11">
+        <Mention>Parlemen</Mention>
+    </Entity>
+    <Entity ClusterId="12">
+        <Mention>Qom</Mention>
+    </Entity>
+    <Entity ClusterId="13">
+        <Mention>wartawan</Mention>
+    </Entity>
+    <Entity ClusterId="14">
+        <Mention>pemilu</Mention>
+    </Entity>
+    <Entity ClusterId="15">
+        <Mention>ekonomi</Mention>
+    </Entity>
+    <Entity ClusterId="16">
+        <Mention>Islam</Mention>
+    </Entity>
+    <Entity ClusterId="17">
+        <Mention>bangsa</Mention>
+        <Mention>Nasional</Mention>
+    </Entity>
+    <Entity ClusterId="18">
+        <Mention>Dewan Keamanan</Mention>
+    </Entity>
+    <Entity ClusterId="19">
+        <Mention>menteri luar negeri</Mention>
+    </Entity>
+    <Entity ClusterId="20">
+        <Mention>Ali Akbar</Mention>
+    </Entity>
+    <Entity ClusterId="21">
+        <Mention>telekomunikasi</Mention>
+    </Entity>
+    <Entity ClusterId="22">
+        <Mention>Adel</Mention>
+    </Entity>
+    <Entity ClusterId="23">
+        <Mention>wakil presiden</Mention>
+    </Entity>
+    <Entity ClusterId="24">
+        <Mention>Reuters</Mention>
+    </Entity>
+</CoreferenceChain>

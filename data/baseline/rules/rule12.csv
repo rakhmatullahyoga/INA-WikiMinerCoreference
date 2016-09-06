@@ -1,0 +1,1892 @@
+mentions;isStrMatch;isMatchNoCasePunc;isAbbrev;isFirstPronoun;isScndPronoun;isOnOneSentence;isMatchPartial;firstNameClass;scndNameClass
+"[(PDIP)-(keistimewaan)]";false;true;false;false;false;true;false;ORGANIZATION;OTHER
+"[(PDIP)-(Guruh Partai Demokrasi Indonesia Perjuangan)]";false;true;false;false;false;true;false;ORGANIZATION;PERSON
+"[(PDIP)-((PDI Perjuangan)]";false;true;false;false;false;true;false;ORGANIZATION;OTHER
+"[(PDIP)-(keistimewaan)]";false;true;false;false;false;true;false;ORGANIZATION;OTHER
+"[(PDIP)-(trah Bung Karno)]";false;true;false;false;false;true;false;ORGANIZATION;OTHER
+"[(PDIP)-(pencalegan DPR RI)]";false;true;false;false;false;true;false;ORGANIZATION;OTHER
+"[(PDIP)-(Hal itu)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(PDIP)-(Ketua DPP PDI Perjuangan)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(PDIP)-(Bambang Wuriyanto)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(PDIP)-(Gedung)]";false;true;false;false;false;false;false;ORGANIZATION;LOCATION
+"[(PDIP)-(RI)]";false;true;false;false;false;false;false;ORGANIZATION;ORGANIZATION
+"[(PDIP)-(Jakarta)]";false;true;false;false;false;false;false;ORGANIZATION;LOCATION
+"[(PDIP)-(Rabu)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP)-(masuknya nama Guruh Soekarnoputra)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP)-(caleg)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP)-(daerah pemilihan Jawa Timur I)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP)-(nomor)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP)-(PDI Perjuangan)]";false;true;false;false;false;false;false;ORGANIZATION;ORGANIZATION
+"[(PDIP)-(republik khusus,)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP)-(masa loyalis)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP)-(massa loyalis Bung Karno)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP)-(DPP PDI Perjuangan)]";false;true;false;false;false;false;false;ORGANIZATION;ORGANIZATION
+"[(PDIP)-(penghormatan khusus)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP)-(Bung Karno dan keluarganya)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(PDIP)-(hak-hak khusus,)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP)-(trah Sukarno,)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP)-(keistimewaan,")]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP)-(Bambang)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(PDIP)-(Ia)]";false;true;false;false;true;false;false;ORGANIZATION;OTHER
+"[(PDIP)-(adanya)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP)-(penilaian)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP)-(Guruh)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(PDIP)-(jarang)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP)-(DPR RI)]";false;true;false;false;false;false;false;ORGANIZATION;ORGANIZATION
+"[(PDIP)-(Bambang)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(PDIP)-(semua orang silahkan)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP)-(Guruh)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(PDIP)-(masyarakat umum)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP)-(silahkan)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP)-(Guruh)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(PDIP)-(PDI Perjuangan dan pertanggungjawabannya)]";false;true;false;false;false;false;false;ORGANIZATION;ORGANIZATION
+"[(PDIP)-(massa PDIP)]";false;true;false;false;false;false;true;ORGANIZATION;OTHER
+"[(PDIP)-(Guruh,)]";false;false;false;false;false;false;false;ORGANIZATION;PERSON
+"[(PDIP)-(partai lain,")]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP)-(tegas Bambang)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP)-(adanya)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP)-(artis-artis)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP)-(caleg,)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP)-(PDIP,)]";false;false;false;false;false;false;true;ORGANIZATION;ORGANIZATION
+"[(PDIP)-(diprioritaskan)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP)-("PDIP)]";false;false;false;false;false;false;true;ORGANIZATION;OTHER
+"[(PDIP)-(keistimewaan)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP)-(artis)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP)-(tetap)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP)-(jalankan serangkaian tes)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP)-(artis)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP)-(caleg)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP)-(hebat-hebat amat)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP)-(Popularitas artis)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(PDIP)-(jaminan,")]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP)-(Bambang)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(keistimewaan)-(Guruh Partai Demokrasi Indonesia Perjuangan)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(keistimewaan)-((PDI Perjuangan)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(keistimewaan)-(keistimewaan)]";true;true;false;false;false;true;true;OTHER;OTHER
+"[(keistimewaan)-(trah Bung Karno)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(keistimewaan)-(pencalegan DPR RI)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(keistimewaan)-(Hal itu)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(keistimewaan)-(Ketua DPP PDI Perjuangan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(keistimewaan)-(Bambang Wuriyanto)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(keistimewaan)-(Gedung)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(keistimewaan)-(RI)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(keistimewaan)-(Jakarta)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(keistimewaan)-(Rabu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keistimewaan)-(masuknya nama Guruh Soekarnoputra)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keistimewaan)-(caleg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keistimewaan)-(daerah pemilihan Jawa Timur I)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keistimewaan)-(nomor)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keistimewaan)-(PDI Perjuangan)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(keistimewaan)-(republik khusus,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(keistimewaan)-(masa loyalis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keistimewaan)-(massa loyalis Bung Karno)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keistimewaan)-(DPP PDI Perjuangan)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(keistimewaan)-(penghormatan khusus)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keistimewaan)-(Bung Karno dan keluarganya)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(keistimewaan)-(hak-hak khusus,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(keistimewaan)-(trah Sukarno,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(keistimewaan)-(keistimewaan,")]";false;false;false;false;false;false;true;OTHER;OTHER
+"[(keistimewaan)-(Bambang)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(keistimewaan)-(Ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(keistimewaan)-(adanya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keistimewaan)-(penilaian)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keistimewaan)-(Guruh)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(keistimewaan)-(jarang)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keistimewaan)-(DPR RI)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(keistimewaan)-(Bambang)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(keistimewaan)-(semua orang silahkan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keistimewaan)-(Guruh)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(keistimewaan)-(masyarakat umum)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keistimewaan)-(silahkan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keistimewaan)-(Guruh)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(keistimewaan)-(PDI Perjuangan dan pertanggungjawabannya)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(keistimewaan)-(massa PDIP)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keistimewaan)-(Guruh,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(keistimewaan)-(partai lain,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(keistimewaan)-(tegas Bambang)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keistimewaan)-(adanya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keistimewaan)-(artis-artis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keistimewaan)-(caleg,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(keistimewaan)-(PDIP,)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(keistimewaan)-(diprioritaskan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keistimewaan)-("PDIP)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(keistimewaan)-(keistimewaan)]";true;true;false;false;false;false;true;OTHER;OTHER
+"[(keistimewaan)-(artis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keistimewaan)-(tetap)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keistimewaan)-(jalankan serangkaian tes)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keistimewaan)-(artis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keistimewaan)-(caleg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keistimewaan)-(hebat-hebat amat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keistimewaan)-(Popularitas artis)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(keistimewaan)-(jaminan,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(keistimewaan)-(Bambang)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(Guruh Partai Demokrasi Indonesia Perjuangan)-((PDI Perjuangan)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Guruh Partai Demokrasi Indonesia Perjuangan)-(keistimewaan)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Guruh Partai Demokrasi Indonesia Perjuangan)-(trah Bung Karno)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Guruh Partai Demokrasi Indonesia Perjuangan)-(pencalegan DPR RI)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Guruh Partai Demokrasi Indonesia Perjuangan)-(Hal itu)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Guruh Partai Demokrasi Indonesia Perjuangan)-(Ketua DPP PDI Perjuangan)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Guruh Partai Demokrasi Indonesia Perjuangan)-(Bambang Wuriyanto)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Guruh Partai Demokrasi Indonesia Perjuangan)-(Gedung)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Guruh Partai Demokrasi Indonesia Perjuangan)-(RI)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Guruh Partai Demokrasi Indonesia Perjuangan)-(Jakarta)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Guruh Partai Demokrasi Indonesia Perjuangan)-(Rabu)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Guruh Partai Demokrasi Indonesia Perjuangan)-(masuknya nama Guruh Soekarnoputra)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Guruh Partai Demokrasi Indonesia Perjuangan)-(caleg)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Guruh Partai Demokrasi Indonesia Perjuangan)-(daerah pemilihan Jawa Timur I)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Guruh Partai Demokrasi Indonesia Perjuangan)-(nomor)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Guruh Partai Demokrasi Indonesia Perjuangan)-(PDI Perjuangan)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Guruh Partai Demokrasi Indonesia Perjuangan)-(republik khusus,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Guruh Partai Demokrasi Indonesia Perjuangan)-(masa loyalis)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Guruh Partai Demokrasi Indonesia Perjuangan)-(massa loyalis Bung Karno)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Guruh Partai Demokrasi Indonesia Perjuangan)-(DPP PDI Perjuangan)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Guruh Partai Demokrasi Indonesia Perjuangan)-(penghormatan khusus)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Guruh Partai Demokrasi Indonesia Perjuangan)-(Bung Karno dan keluarganya)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Guruh Partai Demokrasi Indonesia Perjuangan)-(hak-hak khusus,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Guruh Partai Demokrasi Indonesia Perjuangan)-(trah Sukarno,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Guruh Partai Demokrasi Indonesia Perjuangan)-(keistimewaan,")]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Guruh Partai Demokrasi Indonesia Perjuangan)-(Bambang)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Guruh Partai Demokrasi Indonesia Perjuangan)-(Ia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Guruh Partai Demokrasi Indonesia Perjuangan)-(adanya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Guruh Partai Demokrasi Indonesia Perjuangan)-(penilaian)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Guruh Partai Demokrasi Indonesia Perjuangan)-(Guruh)]";false;true;false;false;false;false;true;PERSON;PERSON
+"[(Guruh Partai Demokrasi Indonesia Perjuangan)-(jarang)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Guruh Partai Demokrasi Indonesia Perjuangan)-(DPR RI)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Guruh Partai Demokrasi Indonesia Perjuangan)-(Bambang)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Guruh Partai Demokrasi Indonesia Perjuangan)-(semua orang silahkan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Guruh Partai Demokrasi Indonesia Perjuangan)-(Guruh)]";false;true;false;false;false;false;true;PERSON;PERSON
+"[(Guruh Partai Demokrasi Indonesia Perjuangan)-(masyarakat umum)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Guruh Partai Demokrasi Indonesia Perjuangan)-(silahkan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Guruh Partai Demokrasi Indonesia Perjuangan)-(Guruh)]";false;true;false;false;false;false;true;PERSON;PERSON
+"[(Guruh Partai Demokrasi Indonesia Perjuangan)-(PDI Perjuangan dan pertanggungjawabannya)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Guruh Partai Demokrasi Indonesia Perjuangan)-(massa PDIP)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Guruh Partai Demokrasi Indonesia Perjuangan)-(Guruh,)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Guruh Partai Demokrasi Indonesia Perjuangan)-(partai lain,")]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Guruh Partai Demokrasi Indonesia Perjuangan)-(tegas Bambang)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Guruh Partai Demokrasi Indonesia Perjuangan)-(adanya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Guruh Partai Demokrasi Indonesia Perjuangan)-(artis-artis)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Guruh Partai Demokrasi Indonesia Perjuangan)-(caleg,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Guruh Partai Demokrasi Indonesia Perjuangan)-(PDIP,)]";false;false;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Guruh Partai Demokrasi Indonesia Perjuangan)-(diprioritaskan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Guruh Partai Demokrasi Indonesia Perjuangan)-("PDIP)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Guruh Partai Demokrasi Indonesia Perjuangan)-(keistimewaan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Guruh Partai Demokrasi Indonesia Perjuangan)-(artis)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Guruh Partai Demokrasi Indonesia Perjuangan)-(tetap)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Guruh Partai Demokrasi Indonesia Perjuangan)-(jalankan serangkaian tes)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Guruh Partai Demokrasi Indonesia Perjuangan)-(artis)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Guruh Partai Demokrasi Indonesia Perjuangan)-(caleg)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Guruh Partai Demokrasi Indonesia Perjuangan)-(hebat-hebat amat)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Guruh Partai Demokrasi Indonesia Perjuangan)-(Popularitas artis)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Guruh Partai Demokrasi Indonesia Perjuangan)-(jaminan,")]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Guruh Partai Demokrasi Indonesia Perjuangan)-(Bambang)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[((PDI Perjuangan)-(keistimewaan)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[((PDI Perjuangan)-(trah Bung Karno)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[((PDI Perjuangan)-(pencalegan DPR RI)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[((PDI Perjuangan)-(Hal itu)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[((PDI Perjuangan)-(Ketua DPP PDI Perjuangan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[((PDI Perjuangan)-(Bambang Wuriyanto)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[((PDI Perjuangan)-(Gedung)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[((PDI Perjuangan)-(RI)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[((PDI Perjuangan)-(Jakarta)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[((PDI Perjuangan)-(Rabu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[((PDI Perjuangan)-(masuknya nama Guruh Soekarnoputra)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[((PDI Perjuangan)-(caleg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[((PDI Perjuangan)-(daerah pemilihan Jawa Timur I)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[((PDI Perjuangan)-(nomor)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[((PDI Perjuangan)-(PDI Perjuangan)]";false;true;false;false;false;false;true;OTHER;ORGANIZATION
+"[((PDI Perjuangan)-(republik khusus,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[((PDI Perjuangan)-(masa loyalis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[((PDI Perjuangan)-(massa loyalis Bung Karno)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[((PDI Perjuangan)-(DPP PDI Perjuangan)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[((PDI Perjuangan)-(penghormatan khusus)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[((PDI Perjuangan)-(Bung Karno dan keluarganya)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[((PDI Perjuangan)-(hak-hak khusus,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[((PDI Perjuangan)-(trah Sukarno,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[((PDI Perjuangan)-(keistimewaan,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[((PDI Perjuangan)-(Bambang)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[((PDI Perjuangan)-(Ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[((PDI Perjuangan)-(adanya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[((PDI Perjuangan)-(penilaian)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[((PDI Perjuangan)-(Guruh)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[((PDI Perjuangan)-(jarang)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[((PDI Perjuangan)-(DPR RI)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[((PDI Perjuangan)-(Bambang)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[((PDI Perjuangan)-(semua orang silahkan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[((PDI Perjuangan)-(Guruh)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[((PDI Perjuangan)-(masyarakat umum)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[((PDI Perjuangan)-(silahkan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[((PDI Perjuangan)-(Guruh)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[((PDI Perjuangan)-(PDI Perjuangan dan pertanggungjawabannya)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[((PDI Perjuangan)-(massa PDIP)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[((PDI Perjuangan)-(Guruh,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[((PDI Perjuangan)-(partai lain,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[((PDI Perjuangan)-(tegas Bambang)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[((PDI Perjuangan)-(adanya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[((PDI Perjuangan)-(artis-artis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[((PDI Perjuangan)-(caleg,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[((PDI Perjuangan)-(PDIP,)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[((PDI Perjuangan)-(diprioritaskan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[((PDI Perjuangan)-("PDIP)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[((PDI Perjuangan)-(keistimewaan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[((PDI Perjuangan)-(artis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[((PDI Perjuangan)-(tetap)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[((PDI Perjuangan)-(jalankan serangkaian tes)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[((PDI Perjuangan)-(artis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[((PDI Perjuangan)-(caleg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[((PDI Perjuangan)-(hebat-hebat amat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[((PDI Perjuangan)-(Popularitas artis)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[((PDI Perjuangan)-(jaminan,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[((PDI Perjuangan)-(Bambang)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(keistimewaan)-(trah Bung Karno)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(keistimewaan)-(pencalegan DPR RI)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(keistimewaan)-(Hal itu)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(keistimewaan)-(Ketua DPP PDI Perjuangan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(keistimewaan)-(Bambang Wuriyanto)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(keistimewaan)-(Gedung)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(keistimewaan)-(RI)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(keistimewaan)-(Jakarta)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(keistimewaan)-(Rabu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keistimewaan)-(masuknya nama Guruh Soekarnoputra)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keistimewaan)-(caleg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keistimewaan)-(daerah pemilihan Jawa Timur I)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keistimewaan)-(nomor)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keistimewaan)-(PDI Perjuangan)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(keistimewaan)-(republik khusus,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(keistimewaan)-(masa loyalis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keistimewaan)-(massa loyalis Bung Karno)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keistimewaan)-(DPP PDI Perjuangan)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(keistimewaan)-(penghormatan khusus)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keistimewaan)-(Bung Karno dan keluarganya)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(keistimewaan)-(hak-hak khusus,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(keistimewaan)-(trah Sukarno,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(keistimewaan)-(keistimewaan,")]";false;false;false;false;false;false;true;OTHER;OTHER
+"[(keistimewaan)-(Bambang)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(keistimewaan)-(Ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(keistimewaan)-(adanya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keistimewaan)-(penilaian)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keistimewaan)-(Guruh)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(keistimewaan)-(jarang)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keistimewaan)-(DPR RI)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(keistimewaan)-(Bambang)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(keistimewaan)-(semua orang silahkan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keistimewaan)-(Guruh)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(keistimewaan)-(masyarakat umum)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keistimewaan)-(silahkan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keistimewaan)-(Guruh)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(keistimewaan)-(PDI Perjuangan dan pertanggungjawabannya)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(keistimewaan)-(massa PDIP)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keistimewaan)-(Guruh,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(keistimewaan)-(partai lain,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(keistimewaan)-(tegas Bambang)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keistimewaan)-(adanya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keistimewaan)-(artis-artis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keistimewaan)-(caleg,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(keistimewaan)-(PDIP,)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(keistimewaan)-(diprioritaskan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keistimewaan)-("PDIP)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(keistimewaan)-(keistimewaan)]";true;true;false;false;false;false;true;OTHER;OTHER
+"[(keistimewaan)-(artis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keistimewaan)-(tetap)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keistimewaan)-(jalankan serangkaian tes)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keistimewaan)-(artis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keistimewaan)-(caleg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keistimewaan)-(hebat-hebat amat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keistimewaan)-(Popularitas artis)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(keistimewaan)-(jaminan,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(keistimewaan)-(Bambang)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(trah Bung Karno)-(pencalegan DPR RI)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(trah Bung Karno)-(Hal itu)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(trah Bung Karno)-(Ketua DPP PDI Perjuangan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(trah Bung Karno)-(Bambang Wuriyanto)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(trah Bung Karno)-(Gedung)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(trah Bung Karno)-(RI)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(trah Bung Karno)-(Jakarta)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(trah Bung Karno)-(Rabu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(trah Bung Karno)-(masuknya nama Guruh Soekarnoputra)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(trah Bung Karno)-(caleg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(trah Bung Karno)-(daerah pemilihan Jawa Timur I)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(trah Bung Karno)-(nomor)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(trah Bung Karno)-(PDI Perjuangan)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(trah Bung Karno)-(republik khusus,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(trah Bung Karno)-(masa loyalis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(trah Bung Karno)-(massa loyalis Bung Karno)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(trah Bung Karno)-(DPP PDI Perjuangan)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(trah Bung Karno)-(penghormatan khusus)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(trah Bung Karno)-(Bung Karno dan keluarganya)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(trah Bung Karno)-(hak-hak khusus,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(trah Bung Karno)-(trah Sukarno,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(trah Bung Karno)-(keistimewaan,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(trah Bung Karno)-(Bambang)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(trah Bung Karno)-(Ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(trah Bung Karno)-(adanya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(trah Bung Karno)-(penilaian)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(trah Bung Karno)-(Guruh)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(trah Bung Karno)-(jarang)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(trah Bung Karno)-(DPR RI)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(trah Bung Karno)-(Bambang)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(trah Bung Karno)-(semua orang silahkan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(trah Bung Karno)-(Guruh)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(trah Bung Karno)-(masyarakat umum)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(trah Bung Karno)-(silahkan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(trah Bung Karno)-(Guruh)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(trah Bung Karno)-(PDI Perjuangan dan pertanggungjawabannya)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(trah Bung Karno)-(massa PDIP)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(trah Bung Karno)-(Guruh,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(trah Bung Karno)-(partai lain,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(trah Bung Karno)-(tegas Bambang)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(trah Bung Karno)-(adanya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(trah Bung Karno)-(artis-artis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(trah Bung Karno)-(caleg,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(trah Bung Karno)-(PDIP,)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(trah Bung Karno)-(diprioritaskan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(trah Bung Karno)-("PDIP)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(trah Bung Karno)-(keistimewaan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(trah Bung Karno)-(artis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(trah Bung Karno)-(tetap)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(trah Bung Karno)-(jalankan serangkaian tes)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(trah Bung Karno)-(artis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(trah Bung Karno)-(caleg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(trah Bung Karno)-(hebat-hebat amat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(trah Bung Karno)-(Popularitas artis)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(trah Bung Karno)-(jaminan,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(trah Bung Karno)-(Bambang)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pencalegan DPR RI)-(Hal itu)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pencalegan DPR RI)-(Ketua DPP PDI Perjuangan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pencalegan DPR RI)-(Bambang Wuriyanto)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pencalegan DPR RI)-(Gedung)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(pencalegan DPR RI)-(RI)]";false;true;false;false;false;false;true;OTHER;ORGANIZATION
+"[(pencalegan DPR RI)-(Jakarta)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(pencalegan DPR RI)-(Rabu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pencalegan DPR RI)-(masuknya nama Guruh Soekarnoputra)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pencalegan DPR RI)-(caleg)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(pencalegan DPR RI)-(daerah pemilihan Jawa Timur I)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pencalegan DPR RI)-(nomor)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pencalegan DPR RI)-(PDI Perjuangan)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(pencalegan DPR RI)-(republik khusus,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pencalegan DPR RI)-(masa loyalis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pencalegan DPR RI)-(massa loyalis Bung Karno)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pencalegan DPR RI)-(DPP PDI Perjuangan)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(pencalegan DPR RI)-(penghormatan khusus)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pencalegan DPR RI)-(Bung Karno dan keluarganya)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pencalegan DPR RI)-(hak-hak khusus,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pencalegan DPR RI)-(trah Sukarno,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pencalegan DPR RI)-(keistimewaan,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pencalegan DPR RI)-(Bambang)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pencalegan DPR RI)-(Ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(pencalegan DPR RI)-(adanya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pencalegan DPR RI)-(penilaian)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pencalegan DPR RI)-(Guruh)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pencalegan DPR RI)-(jarang)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pencalegan DPR RI)-(DPR RI)]";false;true;false;false;false;false;true;OTHER;ORGANIZATION
+"[(pencalegan DPR RI)-(Bambang)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pencalegan DPR RI)-(semua orang silahkan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pencalegan DPR RI)-(Guruh)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pencalegan DPR RI)-(masyarakat umum)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pencalegan DPR RI)-(silahkan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pencalegan DPR RI)-(Guruh)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pencalegan DPR RI)-(PDI Perjuangan dan pertanggungjawabannya)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(pencalegan DPR RI)-(massa PDIP)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pencalegan DPR RI)-(Guruh,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(pencalegan DPR RI)-(partai lain,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pencalegan DPR RI)-(tegas Bambang)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pencalegan DPR RI)-(adanya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pencalegan DPR RI)-(artis-artis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pencalegan DPR RI)-(caleg,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pencalegan DPR RI)-(PDIP,)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(pencalegan DPR RI)-(diprioritaskan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pencalegan DPR RI)-("PDIP)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pencalegan DPR RI)-(keistimewaan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pencalegan DPR RI)-(artis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pencalegan DPR RI)-(tetap)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pencalegan DPR RI)-(jalankan serangkaian tes)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pencalegan DPR RI)-(artis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pencalegan DPR RI)-(caleg)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(pencalegan DPR RI)-(hebat-hebat amat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pencalegan DPR RI)-(Popularitas artis)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pencalegan DPR RI)-(jaminan,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pencalegan DPR RI)-(Bambang)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(Hal itu)-(Ketua DPP PDI Perjuangan)]";false;true;false;false;false;true;false;PERSON;PERSON
+"[(Hal itu)-(Bambang Wuriyanto)]";false;true;false;false;false;true;false;PERSON;PERSON
+"[(Hal itu)-(Gedung)]";false;true;false;false;false;true;false;PERSON;LOCATION
+"[(Hal itu)-(RI)]";false;true;false;false;false;true;false;PERSON;ORGANIZATION
+"[(Hal itu)-(Jakarta)]";false;true;false;false;false;true;false;PERSON;LOCATION
+"[(Hal itu)-(Rabu)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Hal itu)-(masuknya nama Guruh Soekarnoputra)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Hal itu)-(caleg)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Hal itu)-(daerah pemilihan Jawa Timur I)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Hal itu)-(nomor)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Hal itu)-(PDI Perjuangan)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Hal itu)-(republik khusus,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Hal itu)-(masa loyalis)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hal itu)-(massa loyalis Bung Karno)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hal itu)-(DPP PDI Perjuangan)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Hal itu)-(penghormatan khusus)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hal itu)-(Bung Karno dan keluarganya)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Hal itu)-(hak-hak khusus,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Hal itu)-(trah Sukarno,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Hal itu)-(keistimewaan,")]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Hal itu)-(Bambang)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Hal itu)-(Ia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Hal itu)-(adanya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hal itu)-(penilaian)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hal itu)-(Guruh)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Hal itu)-(jarang)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hal itu)-(DPR RI)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Hal itu)-(Bambang)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Hal itu)-(semua orang silahkan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hal itu)-(Guruh)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Hal itu)-(masyarakat umum)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hal itu)-(silahkan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hal itu)-(Guruh)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Hal itu)-(PDI Perjuangan dan pertanggungjawabannya)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Hal itu)-(massa PDIP)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hal itu)-(Guruh,)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Hal itu)-(partai lain,")]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Hal itu)-(tegas Bambang)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hal itu)-(adanya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hal itu)-(artis-artis)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hal itu)-(caleg,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Hal itu)-(PDIP,)]";false;false;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Hal itu)-(diprioritaskan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hal itu)-("PDIP)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Hal itu)-(keistimewaan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hal itu)-(artis)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hal itu)-(tetap)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hal itu)-(jalankan serangkaian tes)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hal itu)-(artis)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hal itu)-(caleg)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hal itu)-(hebat-hebat amat)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hal itu)-(Popularitas artis)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Hal itu)-(jaminan,")]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Hal itu)-(Bambang)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Ketua DPP PDI Perjuangan)-(Bambang Wuriyanto)]";false;true;false;false;false;true;false;PERSON;PERSON
+"[(Ketua DPP PDI Perjuangan)-(Gedung)]";false;true;false;false;false;true;false;PERSON;LOCATION
+"[(Ketua DPP PDI Perjuangan)-(RI)]";false;true;false;false;false;true;false;PERSON;ORGANIZATION
+"[(Ketua DPP PDI Perjuangan)-(Jakarta)]";false;true;false;false;false;true;false;PERSON;LOCATION
+"[(Ketua DPP PDI Perjuangan)-(Rabu)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Ketua DPP PDI Perjuangan)-(masuknya nama Guruh Soekarnoputra)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Ketua DPP PDI Perjuangan)-(caleg)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Ketua DPP PDI Perjuangan)-(daerah pemilihan Jawa Timur I)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Ketua DPP PDI Perjuangan)-(nomor)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Ketua DPP PDI Perjuangan)-(PDI Perjuangan)]";false;true;false;false;false;false;true;PERSON;ORGANIZATION
+"[(Ketua DPP PDI Perjuangan)-(republik khusus,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Ketua DPP PDI Perjuangan)-(masa loyalis)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ketua DPP PDI Perjuangan)-(massa loyalis Bung Karno)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ketua DPP PDI Perjuangan)-(DPP PDI Perjuangan)]";false;true;false;false;false;false;true;PERSON;ORGANIZATION
+"[(Ketua DPP PDI Perjuangan)-(penghormatan khusus)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ketua DPP PDI Perjuangan)-(Bung Karno dan keluarganya)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Ketua DPP PDI Perjuangan)-(hak-hak khusus,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Ketua DPP PDI Perjuangan)-(trah Sukarno,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Ketua DPP PDI Perjuangan)-(keistimewaan,")]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Ketua DPP PDI Perjuangan)-(Bambang)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Ketua DPP PDI Perjuangan)-(Ia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Ketua DPP PDI Perjuangan)-(adanya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ketua DPP PDI Perjuangan)-(penilaian)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ketua DPP PDI Perjuangan)-(Guruh)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Ketua DPP PDI Perjuangan)-(jarang)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ketua DPP PDI Perjuangan)-(DPR RI)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Ketua DPP PDI Perjuangan)-(Bambang)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Ketua DPP PDI Perjuangan)-(semua orang silahkan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ketua DPP PDI Perjuangan)-(Guruh)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Ketua DPP PDI Perjuangan)-(masyarakat umum)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ketua DPP PDI Perjuangan)-(silahkan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ketua DPP PDI Perjuangan)-(Guruh)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Ketua DPP PDI Perjuangan)-(PDI Perjuangan dan pertanggungjawabannya)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Ketua DPP PDI Perjuangan)-(massa PDIP)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ketua DPP PDI Perjuangan)-(Guruh,)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Ketua DPP PDI Perjuangan)-(partai lain,")]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Ketua DPP PDI Perjuangan)-(tegas Bambang)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ketua DPP PDI Perjuangan)-(adanya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ketua DPP PDI Perjuangan)-(artis-artis)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ketua DPP PDI Perjuangan)-(caleg,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Ketua DPP PDI Perjuangan)-(PDIP,)]";false;false;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Ketua DPP PDI Perjuangan)-(diprioritaskan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ketua DPP PDI Perjuangan)-("PDIP)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Ketua DPP PDI Perjuangan)-(keistimewaan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ketua DPP PDI Perjuangan)-(artis)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ketua DPP PDI Perjuangan)-(tetap)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ketua DPP PDI Perjuangan)-(jalankan serangkaian tes)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ketua DPP PDI Perjuangan)-(artis)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ketua DPP PDI Perjuangan)-(caleg)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ketua DPP PDI Perjuangan)-(hebat-hebat amat)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ketua DPP PDI Perjuangan)-(Popularitas artis)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Ketua DPP PDI Perjuangan)-(jaminan,")]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Ketua DPP PDI Perjuangan)-(Bambang)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Bambang Wuriyanto)-(Gedung)]";false;true;false;false;false;true;false;PERSON;LOCATION
+"[(Bambang Wuriyanto)-(RI)]";false;true;false;false;false;true;false;PERSON;ORGANIZATION
+"[(Bambang Wuriyanto)-(Jakarta)]";false;true;false;false;false;true;false;PERSON;LOCATION
+"[(Bambang Wuriyanto)-(Rabu)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Bambang Wuriyanto)-(masuknya nama Guruh Soekarnoputra)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Bambang Wuriyanto)-(caleg)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Bambang Wuriyanto)-(daerah pemilihan Jawa Timur I)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Bambang Wuriyanto)-(nomor)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Bambang Wuriyanto)-(PDI Perjuangan)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Bambang Wuriyanto)-(republik khusus,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Bambang Wuriyanto)-(masa loyalis)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bambang Wuriyanto)-(massa loyalis Bung Karno)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bambang Wuriyanto)-(DPP PDI Perjuangan)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Bambang Wuriyanto)-(penghormatan khusus)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bambang Wuriyanto)-(Bung Karno dan keluarganya)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Bambang Wuriyanto)-(hak-hak khusus,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Bambang Wuriyanto)-(trah Sukarno,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Bambang Wuriyanto)-(keistimewaan,")]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Bambang Wuriyanto)-(Bambang)]";false;true;false;false;false;false;true;PERSON;PERSON
+"[(Bambang Wuriyanto)-(Ia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Bambang Wuriyanto)-(adanya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bambang Wuriyanto)-(penilaian)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bambang Wuriyanto)-(Guruh)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Bambang Wuriyanto)-(jarang)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bambang Wuriyanto)-(DPR RI)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Bambang Wuriyanto)-(Bambang)]";false;true;false;false;false;false;true;PERSON;PERSON
+"[(Bambang Wuriyanto)-(semua orang silahkan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bambang Wuriyanto)-(Guruh)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Bambang Wuriyanto)-(masyarakat umum)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bambang Wuriyanto)-(silahkan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bambang Wuriyanto)-(Guruh)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Bambang Wuriyanto)-(PDI Perjuangan dan pertanggungjawabannya)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Bambang Wuriyanto)-(massa PDIP)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bambang Wuriyanto)-(Guruh,)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Bambang Wuriyanto)-(partai lain,")]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Bambang Wuriyanto)-(tegas Bambang)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bambang Wuriyanto)-(adanya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bambang Wuriyanto)-(artis-artis)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bambang Wuriyanto)-(caleg,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Bambang Wuriyanto)-(PDIP,)]";false;false;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Bambang Wuriyanto)-(diprioritaskan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bambang Wuriyanto)-("PDIP)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Bambang Wuriyanto)-(keistimewaan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bambang Wuriyanto)-(artis)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bambang Wuriyanto)-(tetap)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bambang Wuriyanto)-(jalankan serangkaian tes)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bambang Wuriyanto)-(artis)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bambang Wuriyanto)-(caleg)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bambang Wuriyanto)-(hebat-hebat amat)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bambang Wuriyanto)-(Popularitas artis)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Bambang Wuriyanto)-(jaminan,")]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Bambang Wuriyanto)-(Bambang)]";false;true;false;false;false;false;true;PERSON;PERSON
+"[(Gedung)-(RI)]";false;true;false;false;false;true;false;LOCATION;ORGANIZATION
+"[(Gedung)-(Jakarta)]";false;true;false;false;false;true;false;LOCATION;LOCATION
+"[(Gedung)-(Rabu)]";false;true;false;false;false;true;false;LOCATION;OTHER
+"[(Gedung)-(masuknya nama Guruh Soekarnoputra)]";false;true;false;false;false;true;false;LOCATION;OTHER
+"[(Gedung)-(caleg)]";false;true;false;false;false;true;false;LOCATION;OTHER
+"[(Gedung)-(daerah pemilihan Jawa Timur I)]";false;true;false;false;false;true;false;LOCATION;OTHER
+"[(Gedung)-(nomor)]";false;true;false;false;false;true;false;LOCATION;OTHER
+"[(Gedung)-(PDI Perjuangan)]";false;true;false;false;false;false;false;LOCATION;ORGANIZATION
+"[(Gedung)-(republik khusus,)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Gedung)-(masa loyalis)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Gedung)-(massa loyalis Bung Karno)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Gedung)-(DPP PDI Perjuangan)]";false;true;false;false;false;false;false;LOCATION;ORGANIZATION
+"[(Gedung)-(penghormatan khusus)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Gedung)-(Bung Karno dan keluarganya)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Gedung)-(hak-hak khusus,)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Gedung)-(trah Sukarno,)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Gedung)-(keistimewaan,")]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Gedung)-(Bambang)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Gedung)-(Ia)]";false;true;false;false;true;false;false;LOCATION;OTHER
+"[(Gedung)-(adanya)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Gedung)-(penilaian)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Gedung)-(Guruh)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Gedung)-(jarang)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Gedung)-(DPR RI)]";false;true;false;false;false;false;false;LOCATION;ORGANIZATION
+"[(Gedung)-(Bambang)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Gedung)-(semua orang silahkan)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Gedung)-(Guruh)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Gedung)-(masyarakat umum)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Gedung)-(silahkan)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Gedung)-(Guruh)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Gedung)-(PDI Perjuangan dan pertanggungjawabannya)]";false;true;false;false;false;false;false;LOCATION;ORGANIZATION
+"[(Gedung)-(massa PDIP)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Gedung)-(Guruh,)]";false;false;false;false;false;false;false;LOCATION;PERSON
+"[(Gedung)-(partai lain,")]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Gedung)-(tegas Bambang)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Gedung)-(adanya)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Gedung)-(artis-artis)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Gedung)-(caleg,)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Gedung)-(PDIP,)]";false;false;false;false;false;false;false;LOCATION;ORGANIZATION
+"[(Gedung)-(diprioritaskan)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Gedung)-("PDIP)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Gedung)-(keistimewaan)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Gedung)-(artis)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Gedung)-(tetap)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Gedung)-(jalankan serangkaian tes)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Gedung)-(artis)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Gedung)-(caleg)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Gedung)-(hebat-hebat amat)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Gedung)-(Popularitas artis)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Gedung)-(jaminan,")]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Gedung)-(Bambang)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(RI)-(Jakarta)]";false;true;false;false;false;true;false;ORGANIZATION;LOCATION
+"[(RI)-(Rabu)]";false;true;false;false;false;true;false;ORGANIZATION;OTHER
+"[(RI)-(masuknya nama Guruh Soekarnoputra)]";false;true;false;false;false;true;false;ORGANIZATION;OTHER
+"[(RI)-(caleg)]";false;true;false;false;false;true;false;ORGANIZATION;OTHER
+"[(RI)-(daerah pemilihan Jawa Timur I)]";false;true;false;false;false;true;false;ORGANIZATION;OTHER
+"[(RI)-(nomor)]";false;true;false;false;false;true;false;ORGANIZATION;OTHER
+"[(RI)-(PDI Perjuangan)]";false;true;false;false;false;false;false;ORGANIZATION;ORGANIZATION
+"[(RI)-(republik khusus,)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(RI)-(masa loyalis)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(RI)-(massa loyalis Bung Karno)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(RI)-(DPP PDI Perjuangan)]";false;true;false;false;false;false;false;ORGANIZATION;ORGANIZATION
+"[(RI)-(penghormatan khusus)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(RI)-(Bung Karno dan keluarganya)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(RI)-(hak-hak khusus,)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(RI)-(trah Sukarno,)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(RI)-(keistimewaan,")]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(RI)-(Bambang)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(RI)-(Ia)]";false;true;false;false;true;false;false;ORGANIZATION;OTHER
+"[(RI)-(adanya)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(RI)-(penilaian)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(RI)-(Guruh)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(RI)-(jarang)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(RI)-(DPR RI)]";false;true;false;false;false;false;true;ORGANIZATION;ORGANIZATION
+"[(RI)-(Bambang)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(RI)-(semua orang silahkan)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(RI)-(Guruh)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(RI)-(masyarakat umum)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(RI)-(silahkan)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(RI)-(Guruh)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(RI)-(PDI Perjuangan dan pertanggungjawabannya)]";false;true;false;false;false;false;false;ORGANIZATION;ORGANIZATION
+"[(RI)-(massa PDIP)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(RI)-(Guruh,)]";false;false;false;false;false;false;false;ORGANIZATION;PERSON
+"[(RI)-(partai lain,")]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(RI)-(tegas Bambang)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(RI)-(adanya)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(RI)-(artis-artis)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(RI)-(caleg,)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(RI)-(PDIP,)]";false;false;false;false;false;false;false;ORGANIZATION;ORGANIZATION
+"[(RI)-(diprioritaskan)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(RI)-("PDIP)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(RI)-(keistimewaan)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(RI)-(artis)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(RI)-(tetap)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(RI)-(jalankan serangkaian tes)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(RI)-(artis)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(RI)-(caleg)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(RI)-(hebat-hebat amat)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(RI)-(Popularitas artis)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(RI)-(jaminan,")]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(RI)-(Bambang)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(Jakarta)-(Rabu)]";false;true;false;false;false;true;false;LOCATION;OTHER
+"[(Jakarta)-(masuknya nama Guruh Soekarnoputra)]";false;true;false;false;false;true;false;LOCATION;OTHER
+"[(Jakarta)-(caleg)]";false;true;false;false;false;true;false;LOCATION;OTHER
+"[(Jakarta)-(daerah pemilihan Jawa Timur I)]";false;true;false;false;false;true;false;LOCATION;OTHER
+"[(Jakarta)-(nomor)]";false;true;false;false;false;true;false;LOCATION;OTHER
+"[(Jakarta)-(PDI Perjuangan)]";false;true;false;false;false;false;false;LOCATION;ORGANIZATION
+"[(Jakarta)-(republik khusus,)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Jakarta)-(masa loyalis)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jakarta)-(massa loyalis Bung Karno)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jakarta)-(DPP PDI Perjuangan)]";false;true;false;false;false;false;false;LOCATION;ORGANIZATION
+"[(Jakarta)-(penghormatan khusus)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jakarta)-(Bung Karno dan keluarganya)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Jakarta)-(hak-hak khusus,)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Jakarta)-(trah Sukarno,)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Jakarta)-(keistimewaan,")]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Jakarta)-(Bambang)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Jakarta)-(Ia)]";false;true;false;false;true;false;false;LOCATION;OTHER
+"[(Jakarta)-(adanya)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jakarta)-(penilaian)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jakarta)-(Guruh)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Jakarta)-(jarang)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jakarta)-(DPR RI)]";false;true;false;false;false;false;false;LOCATION;ORGANIZATION
+"[(Jakarta)-(Bambang)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Jakarta)-(semua orang silahkan)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jakarta)-(Guruh)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Jakarta)-(masyarakat umum)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jakarta)-(silahkan)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jakarta)-(Guruh)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Jakarta)-(PDI Perjuangan dan pertanggungjawabannya)]";false;true;false;false;false;false;false;LOCATION;ORGANIZATION
+"[(Jakarta)-(massa PDIP)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jakarta)-(Guruh,)]";false;false;false;false;false;false;false;LOCATION;PERSON
+"[(Jakarta)-(partai lain,")]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Jakarta)-(tegas Bambang)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jakarta)-(adanya)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jakarta)-(artis-artis)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jakarta)-(caleg,)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Jakarta)-(PDIP,)]";false;false;false;false;false;false;false;LOCATION;ORGANIZATION
+"[(Jakarta)-(diprioritaskan)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jakarta)-("PDIP)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Jakarta)-(keistimewaan)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jakarta)-(artis)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jakarta)-(tetap)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jakarta)-(jalankan serangkaian tes)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jakarta)-(artis)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jakarta)-(caleg)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jakarta)-(hebat-hebat amat)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jakarta)-(Popularitas artis)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Jakarta)-(jaminan,")]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Jakarta)-(Bambang)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Rabu)-(masuknya nama Guruh Soekarnoputra)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(Rabu)-(caleg)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(Rabu)-(daerah pemilihan Jawa Timur I)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(Rabu)-(nomor)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(Rabu)-(PDI Perjuangan)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(Rabu)-(republik khusus,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Rabu)-(masa loyalis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Rabu)-(massa loyalis Bung Karno)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Rabu)-(DPP PDI Perjuangan)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(Rabu)-(penghormatan khusus)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Rabu)-(Bung Karno dan keluarganya)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(Rabu)-(hak-hak khusus,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Rabu)-(trah Sukarno,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Rabu)-(keistimewaan,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Rabu)-(Bambang)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(Rabu)-(Ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(Rabu)-(adanya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Rabu)-(penilaian)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Rabu)-(Guruh)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(Rabu)-(jarang)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Rabu)-(DPR RI)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(Rabu)-(Bambang)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(Rabu)-(semua orang silahkan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Rabu)-(Guruh)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(Rabu)-(masyarakat umum)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Rabu)-(silahkan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Rabu)-(Guruh)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(Rabu)-(PDI Perjuangan dan pertanggungjawabannya)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(Rabu)-(massa PDIP)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Rabu)-(Guruh,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(Rabu)-(partai lain,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Rabu)-(tegas Bambang)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Rabu)-(adanya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Rabu)-(artis-artis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Rabu)-(caleg,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Rabu)-(PDIP,)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(Rabu)-(diprioritaskan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Rabu)-("PDIP)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Rabu)-(keistimewaan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Rabu)-(artis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Rabu)-(tetap)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Rabu)-(jalankan serangkaian tes)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Rabu)-(artis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Rabu)-(caleg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Rabu)-(hebat-hebat amat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Rabu)-(Popularitas artis)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(Rabu)-(jaminan,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Rabu)-(Bambang)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(masuknya nama Guruh Soekarnoputra)-(caleg)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(masuknya nama Guruh Soekarnoputra)-(daerah pemilihan Jawa Timur I)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(masuknya nama Guruh Soekarnoputra)-(nomor)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(masuknya nama Guruh Soekarnoputra)-(PDI Perjuangan)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(masuknya nama Guruh Soekarnoputra)-(republik khusus,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(masuknya nama Guruh Soekarnoputra)-(masa loyalis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(masuknya nama Guruh Soekarnoputra)-(massa loyalis Bung Karno)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(masuknya nama Guruh Soekarnoputra)-(DPP PDI Perjuangan)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(masuknya nama Guruh Soekarnoputra)-(penghormatan khusus)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(masuknya nama Guruh Soekarnoputra)-(Bung Karno dan keluarganya)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(masuknya nama Guruh Soekarnoputra)-(hak-hak khusus,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(masuknya nama Guruh Soekarnoputra)-(trah Sukarno,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(masuknya nama Guruh Soekarnoputra)-(keistimewaan,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(masuknya nama Guruh Soekarnoputra)-(Bambang)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(masuknya nama Guruh Soekarnoputra)-(Ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(masuknya nama Guruh Soekarnoputra)-(adanya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(masuknya nama Guruh Soekarnoputra)-(penilaian)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(masuknya nama Guruh Soekarnoputra)-(Guruh)]";false;true;false;false;false;false;true;OTHER;PERSON
+"[(masuknya nama Guruh Soekarnoputra)-(jarang)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(masuknya nama Guruh Soekarnoputra)-(DPR RI)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(masuknya nama Guruh Soekarnoputra)-(Bambang)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(masuknya nama Guruh Soekarnoputra)-(semua orang silahkan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(masuknya nama Guruh Soekarnoputra)-(Guruh)]";false;true;false;false;false;false;true;OTHER;PERSON
+"[(masuknya nama Guruh Soekarnoputra)-(masyarakat umum)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(masuknya nama Guruh Soekarnoputra)-(silahkan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(masuknya nama Guruh Soekarnoputra)-(Guruh)]";false;true;false;false;false;false;true;OTHER;PERSON
+"[(masuknya nama Guruh Soekarnoputra)-(PDI Perjuangan dan pertanggungjawabannya)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(masuknya nama Guruh Soekarnoputra)-(massa PDIP)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(masuknya nama Guruh Soekarnoputra)-(Guruh,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(masuknya nama Guruh Soekarnoputra)-(partai lain,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(masuknya nama Guruh Soekarnoputra)-(tegas Bambang)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(masuknya nama Guruh Soekarnoputra)-(adanya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(masuknya nama Guruh Soekarnoputra)-(artis-artis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(masuknya nama Guruh Soekarnoputra)-(caleg,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(masuknya nama Guruh Soekarnoputra)-(PDIP,)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(masuknya nama Guruh Soekarnoputra)-(diprioritaskan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(masuknya nama Guruh Soekarnoputra)-("PDIP)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(masuknya nama Guruh Soekarnoputra)-(keistimewaan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(masuknya nama Guruh Soekarnoputra)-(artis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(masuknya nama Guruh Soekarnoputra)-(tetap)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(masuknya nama Guruh Soekarnoputra)-(jalankan serangkaian tes)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(masuknya nama Guruh Soekarnoputra)-(artis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(masuknya nama Guruh Soekarnoputra)-(caleg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(masuknya nama Guruh Soekarnoputra)-(hebat-hebat amat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(masuknya nama Guruh Soekarnoputra)-(Popularitas artis)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(masuknya nama Guruh Soekarnoputra)-(jaminan,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(masuknya nama Guruh Soekarnoputra)-(Bambang)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(caleg)-(daerah pemilihan Jawa Timur I)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(caleg)-(nomor)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(caleg)-(PDI Perjuangan)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(caleg)-(republik khusus,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(caleg)-(masa loyalis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(caleg)-(massa loyalis Bung Karno)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(caleg)-(DPP PDI Perjuangan)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(caleg)-(penghormatan khusus)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(caleg)-(Bung Karno dan keluarganya)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(caleg)-(hak-hak khusus,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(caleg)-(trah Sukarno,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(caleg)-(keistimewaan,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(caleg)-(Bambang)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(caleg)-(Ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(caleg)-(adanya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(caleg)-(penilaian)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(caleg)-(Guruh)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(caleg)-(jarang)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(caleg)-(DPR RI)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(caleg)-(Bambang)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(caleg)-(semua orang silahkan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(caleg)-(Guruh)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(caleg)-(masyarakat umum)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(caleg)-(silahkan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(caleg)-(Guruh)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(caleg)-(PDI Perjuangan dan pertanggungjawabannya)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(caleg)-(massa PDIP)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(caleg)-(Guruh,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(caleg)-(partai lain,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(caleg)-(tegas Bambang)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(caleg)-(adanya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(caleg)-(artis-artis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(caleg)-(caleg,)]";false;false;false;false;false;false;true;OTHER;OTHER
+"[(caleg)-(PDIP,)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(caleg)-(diprioritaskan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(caleg)-("PDIP)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(caleg)-(keistimewaan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(caleg)-(artis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(caleg)-(tetap)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(caleg)-(jalankan serangkaian tes)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(caleg)-(artis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(caleg)-(caleg)]";true;true;false;false;false;false;true;OTHER;OTHER
+"[(caleg)-(hebat-hebat amat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(caleg)-(Popularitas artis)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(caleg)-(jaminan,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(caleg)-(Bambang)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(daerah pemilihan Jawa Timur I)-(nomor)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(daerah pemilihan Jawa Timur I)-(PDI Perjuangan)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(daerah pemilihan Jawa Timur I)-(republik khusus,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(daerah pemilihan Jawa Timur I)-(masa loyalis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(daerah pemilihan Jawa Timur I)-(massa loyalis Bung Karno)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(daerah pemilihan Jawa Timur I)-(DPP PDI Perjuangan)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(daerah pemilihan Jawa Timur I)-(penghormatan khusus)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(daerah pemilihan Jawa Timur I)-(Bung Karno dan keluarganya)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(daerah pemilihan Jawa Timur I)-(hak-hak khusus,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(daerah pemilihan Jawa Timur I)-(trah Sukarno,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(daerah pemilihan Jawa Timur I)-(keistimewaan,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(daerah pemilihan Jawa Timur I)-(Bambang)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(daerah pemilihan Jawa Timur I)-(Ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(daerah pemilihan Jawa Timur I)-(adanya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(daerah pemilihan Jawa Timur I)-(penilaian)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(daerah pemilihan Jawa Timur I)-(Guruh)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(daerah pemilihan Jawa Timur I)-(jarang)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(daerah pemilihan Jawa Timur I)-(DPR RI)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(daerah pemilihan Jawa Timur I)-(Bambang)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(daerah pemilihan Jawa Timur I)-(semua orang silahkan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(daerah pemilihan Jawa Timur I)-(Guruh)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(daerah pemilihan Jawa Timur I)-(masyarakat umum)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(daerah pemilihan Jawa Timur I)-(silahkan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(daerah pemilihan Jawa Timur I)-(Guruh)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(daerah pemilihan Jawa Timur I)-(PDI Perjuangan dan pertanggungjawabannya)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(daerah pemilihan Jawa Timur I)-(massa PDIP)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(daerah pemilihan Jawa Timur I)-(Guruh,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(daerah pemilihan Jawa Timur I)-(partai lain,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(daerah pemilihan Jawa Timur I)-(tegas Bambang)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(daerah pemilihan Jawa Timur I)-(adanya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(daerah pemilihan Jawa Timur I)-(artis-artis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(daerah pemilihan Jawa Timur I)-(caleg,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(daerah pemilihan Jawa Timur I)-(PDIP,)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(daerah pemilihan Jawa Timur I)-(diprioritaskan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(daerah pemilihan Jawa Timur I)-("PDIP)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(daerah pemilihan Jawa Timur I)-(keistimewaan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(daerah pemilihan Jawa Timur I)-(artis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(daerah pemilihan Jawa Timur I)-(tetap)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(daerah pemilihan Jawa Timur I)-(jalankan serangkaian tes)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(daerah pemilihan Jawa Timur I)-(artis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(daerah pemilihan Jawa Timur I)-(caleg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(daerah pemilihan Jawa Timur I)-(hebat-hebat amat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(daerah pemilihan Jawa Timur I)-(Popularitas artis)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(daerah pemilihan Jawa Timur I)-(jaminan,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(daerah pemilihan Jawa Timur I)-(Bambang)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(nomor)-(PDI Perjuangan)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(nomor)-(republik khusus,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(nomor)-(masa loyalis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(nomor)-(massa loyalis Bung Karno)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(nomor)-(DPP PDI Perjuangan)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(nomor)-(penghormatan khusus)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(nomor)-(Bung Karno dan keluarganya)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(nomor)-(hak-hak khusus,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(nomor)-(trah Sukarno,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(nomor)-(keistimewaan,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(nomor)-(Bambang)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(nomor)-(Ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(nomor)-(adanya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(nomor)-(penilaian)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(nomor)-(Guruh)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(nomor)-(jarang)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(nomor)-(DPR RI)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(nomor)-(Bambang)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(nomor)-(semua orang silahkan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(nomor)-(Guruh)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(nomor)-(masyarakat umum)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(nomor)-(silahkan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(nomor)-(Guruh)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(nomor)-(PDI Perjuangan dan pertanggungjawabannya)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(nomor)-(massa PDIP)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(nomor)-(Guruh,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(nomor)-(partai lain,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(nomor)-(tegas Bambang)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(nomor)-(adanya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(nomor)-(artis-artis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(nomor)-(caleg,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(nomor)-(PDIP,)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(nomor)-(diprioritaskan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(nomor)-("PDIP)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(nomor)-(keistimewaan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(nomor)-(artis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(nomor)-(tetap)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(nomor)-(jalankan serangkaian tes)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(nomor)-(artis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(nomor)-(caleg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(nomor)-(hebat-hebat amat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(nomor)-(Popularitas artis)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(nomor)-(jaminan,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(nomor)-(Bambang)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(PDI Perjuangan)-(republik khusus,)]";false;false;false;false;false;true;false;ORGANIZATION;OTHER
+"[(PDI Perjuangan)-(masa loyalis)]";false;true;false;false;false;true;false;ORGANIZATION;OTHER
+"[(PDI Perjuangan)-(massa loyalis Bung Karno)]";false;true;false;false;false;true;false;ORGANIZATION;OTHER
+"[(PDI Perjuangan)-(DPP PDI Perjuangan)]";false;true;false;false;false;false;true;ORGANIZATION;ORGANIZATION
+"[(PDI Perjuangan)-(penghormatan khusus)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDI Perjuangan)-(Bung Karno dan keluarganya)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(PDI Perjuangan)-(hak-hak khusus,)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDI Perjuangan)-(trah Sukarno,)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDI Perjuangan)-(keistimewaan,")]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDI Perjuangan)-(Bambang)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(PDI Perjuangan)-(Ia)]";false;true;false;false;true;false;false;ORGANIZATION;OTHER
+"[(PDI Perjuangan)-(adanya)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDI Perjuangan)-(penilaian)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDI Perjuangan)-(Guruh)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(PDI Perjuangan)-(jarang)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDI Perjuangan)-(DPR RI)]";false;true;false;false;false;false;false;ORGANIZATION;ORGANIZATION
+"[(PDI Perjuangan)-(Bambang)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(PDI Perjuangan)-(semua orang silahkan)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDI Perjuangan)-(Guruh)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(PDI Perjuangan)-(masyarakat umum)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDI Perjuangan)-(silahkan)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDI Perjuangan)-(Guruh)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(PDI Perjuangan)-(PDI Perjuangan dan pertanggungjawabannya)]";false;true;false;false;false;false;true;ORGANIZATION;ORGANIZATION
+"[(PDI Perjuangan)-(massa PDIP)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDI Perjuangan)-(Guruh,)]";false;false;false;false;false;false;false;ORGANIZATION;PERSON
+"[(PDI Perjuangan)-(partai lain,")]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDI Perjuangan)-(tegas Bambang)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDI Perjuangan)-(adanya)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDI Perjuangan)-(artis-artis)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDI Perjuangan)-(caleg,)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDI Perjuangan)-(PDIP,)]";false;false;false;false;false;false;false;ORGANIZATION;ORGANIZATION
+"[(PDI Perjuangan)-(diprioritaskan)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDI Perjuangan)-("PDIP)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDI Perjuangan)-(keistimewaan)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDI Perjuangan)-(artis)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDI Perjuangan)-(tetap)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDI Perjuangan)-(jalankan serangkaian tes)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDI Perjuangan)-(artis)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDI Perjuangan)-(caleg)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDI Perjuangan)-(hebat-hebat amat)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDI Perjuangan)-(Popularitas artis)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(PDI Perjuangan)-(jaminan,")]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDI Perjuangan)-(Bambang)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(republik khusus,)-(masa loyalis)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(republik khusus,)-(massa loyalis Bung Karno)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(republik khusus,)-(DPP PDI Perjuangan)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(republik khusus,)-(penghormatan khusus)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(republik khusus,)-(Bung Karno dan keluarganya)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(republik khusus,)-(hak-hak khusus,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(republik khusus,)-(trah Sukarno,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(republik khusus,)-(keistimewaan,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(republik khusus,)-(Bambang)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(republik khusus,)-(Ia)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(republik khusus,)-(adanya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(republik khusus,)-(penilaian)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(republik khusus,)-(Guruh)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(republik khusus,)-(jarang)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(republik khusus,)-(DPR RI)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(republik khusus,)-(Bambang)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(republik khusus,)-(semua orang silahkan)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(republik khusus,)-(Guruh)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(republik khusus,)-(masyarakat umum)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(republik khusus,)-(silahkan)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(republik khusus,)-(Guruh)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(republik khusus,)-(PDI Perjuangan dan pertanggungjawabannya)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(republik khusus,)-(massa PDIP)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(republik khusus,)-(Guruh,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(republik khusus,)-(partai lain,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(republik khusus,)-(tegas Bambang)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(republik khusus,)-(adanya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(republik khusus,)-(artis-artis)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(republik khusus,)-(caleg,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(republik khusus,)-(PDIP,)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(republik khusus,)-(diprioritaskan)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(republik khusus,)-("PDIP)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(republik khusus,)-(keistimewaan)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(republik khusus,)-(artis)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(republik khusus,)-(tetap)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(republik khusus,)-(jalankan serangkaian tes)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(republik khusus,)-(artis)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(republik khusus,)-(caleg)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(republik khusus,)-(hebat-hebat amat)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(republik khusus,)-(Popularitas artis)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(republik khusus,)-(jaminan,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(republik khusus,)-(Bambang)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(masa loyalis)-(massa loyalis Bung Karno)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(masa loyalis)-(DPP PDI Perjuangan)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(masa loyalis)-(penghormatan khusus)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(masa loyalis)-(Bung Karno dan keluarganya)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(masa loyalis)-(hak-hak khusus,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(masa loyalis)-(trah Sukarno,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(masa loyalis)-(keistimewaan,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(masa loyalis)-(Bambang)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(masa loyalis)-(Ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(masa loyalis)-(adanya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(masa loyalis)-(penilaian)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(masa loyalis)-(Guruh)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(masa loyalis)-(jarang)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(masa loyalis)-(DPR RI)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(masa loyalis)-(Bambang)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(masa loyalis)-(semua orang silahkan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(masa loyalis)-(Guruh)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(masa loyalis)-(masyarakat umum)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(masa loyalis)-(silahkan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(masa loyalis)-(Guruh)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(masa loyalis)-(PDI Perjuangan dan pertanggungjawabannya)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(masa loyalis)-(massa PDIP)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(masa loyalis)-(Guruh,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(masa loyalis)-(partai lain,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(masa loyalis)-(tegas Bambang)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(masa loyalis)-(adanya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(masa loyalis)-(artis-artis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(masa loyalis)-(caleg,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(masa loyalis)-(PDIP,)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(masa loyalis)-(diprioritaskan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(masa loyalis)-("PDIP)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(masa loyalis)-(keistimewaan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(masa loyalis)-(artis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(masa loyalis)-(tetap)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(masa loyalis)-(jalankan serangkaian tes)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(masa loyalis)-(artis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(masa loyalis)-(caleg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(masa loyalis)-(hebat-hebat amat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(masa loyalis)-(Popularitas artis)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(masa loyalis)-(jaminan,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(masa loyalis)-(Bambang)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(massa loyalis Bung Karno)-(DPP PDI Perjuangan)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(massa loyalis Bung Karno)-(penghormatan khusus)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(massa loyalis Bung Karno)-(Bung Karno dan keluarganya)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(massa loyalis Bung Karno)-(hak-hak khusus,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(massa loyalis Bung Karno)-(trah Sukarno,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(massa loyalis Bung Karno)-(keistimewaan,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(massa loyalis Bung Karno)-(Bambang)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(massa loyalis Bung Karno)-(Ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(massa loyalis Bung Karno)-(adanya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(massa loyalis Bung Karno)-(penilaian)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(massa loyalis Bung Karno)-(Guruh)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(massa loyalis Bung Karno)-(jarang)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(massa loyalis Bung Karno)-(DPR RI)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(massa loyalis Bung Karno)-(Bambang)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(massa loyalis Bung Karno)-(semua orang silahkan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(massa loyalis Bung Karno)-(Guruh)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(massa loyalis Bung Karno)-(masyarakat umum)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(massa loyalis Bung Karno)-(silahkan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(massa loyalis Bung Karno)-(Guruh)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(massa loyalis Bung Karno)-(PDI Perjuangan dan pertanggungjawabannya)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(massa loyalis Bung Karno)-(massa PDIP)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(massa loyalis Bung Karno)-(Guruh,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(massa loyalis Bung Karno)-(partai lain,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(massa loyalis Bung Karno)-(tegas Bambang)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(massa loyalis Bung Karno)-(adanya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(massa loyalis Bung Karno)-(artis-artis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(massa loyalis Bung Karno)-(caleg,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(massa loyalis Bung Karno)-(PDIP,)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(massa loyalis Bung Karno)-(diprioritaskan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(massa loyalis Bung Karno)-("PDIP)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(massa loyalis Bung Karno)-(keistimewaan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(massa loyalis Bung Karno)-(artis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(massa loyalis Bung Karno)-(tetap)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(massa loyalis Bung Karno)-(jalankan serangkaian tes)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(massa loyalis Bung Karno)-(artis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(massa loyalis Bung Karno)-(caleg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(massa loyalis Bung Karno)-(hebat-hebat amat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(massa loyalis Bung Karno)-(Popularitas artis)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(massa loyalis Bung Karno)-(jaminan,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(massa loyalis Bung Karno)-(Bambang)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(DPP PDI Perjuangan)-(penghormatan khusus)]";false;true;false;false;false;true;false;ORGANIZATION;OTHER
+"[(DPP PDI Perjuangan)-(Bung Karno dan keluarganya)]";false;true;false;false;false;true;false;ORGANIZATION;PERSON
+"[(DPP PDI Perjuangan)-(hak-hak khusus,)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(DPP PDI Perjuangan)-(trah Sukarno,)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(DPP PDI Perjuangan)-(keistimewaan,")]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(DPP PDI Perjuangan)-(Bambang)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(DPP PDI Perjuangan)-(Ia)]";false;true;false;false;true;false;false;ORGANIZATION;OTHER
+"[(DPP PDI Perjuangan)-(adanya)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(DPP PDI Perjuangan)-(penilaian)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(DPP PDI Perjuangan)-(Guruh)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(DPP PDI Perjuangan)-(jarang)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(DPP PDI Perjuangan)-(DPR RI)]";false;true;false;false;false;false;false;ORGANIZATION;ORGANIZATION
+"[(DPP PDI Perjuangan)-(Bambang)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(DPP PDI Perjuangan)-(semua orang silahkan)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(DPP PDI Perjuangan)-(Guruh)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(DPP PDI Perjuangan)-(masyarakat umum)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(DPP PDI Perjuangan)-(silahkan)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(DPP PDI Perjuangan)-(Guruh)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(DPP PDI Perjuangan)-(PDI Perjuangan dan pertanggungjawabannya)]";false;true;false;false;false;false;false;ORGANIZATION;ORGANIZATION
+"[(DPP PDI Perjuangan)-(massa PDIP)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(DPP PDI Perjuangan)-(Guruh,)]";false;false;false;false;false;false;false;ORGANIZATION;PERSON
+"[(DPP PDI Perjuangan)-(partai lain,")]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(DPP PDI Perjuangan)-(tegas Bambang)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(DPP PDI Perjuangan)-(adanya)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(DPP PDI Perjuangan)-(artis-artis)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(DPP PDI Perjuangan)-(caleg,)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(DPP PDI Perjuangan)-(PDIP,)]";false;false;false;false;false;false;false;ORGANIZATION;ORGANIZATION
+"[(DPP PDI Perjuangan)-(diprioritaskan)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(DPP PDI Perjuangan)-("PDIP)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(DPP PDI Perjuangan)-(keistimewaan)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(DPP PDI Perjuangan)-(artis)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(DPP PDI Perjuangan)-(tetap)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(DPP PDI Perjuangan)-(jalankan serangkaian tes)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(DPP PDI Perjuangan)-(artis)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(DPP PDI Perjuangan)-(caleg)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(DPP PDI Perjuangan)-(hebat-hebat amat)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(DPP PDI Perjuangan)-(Popularitas artis)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(DPP PDI Perjuangan)-(jaminan,")]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(DPP PDI Perjuangan)-(Bambang)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(penghormatan khusus)-(Bung Karno dan keluarganya)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(penghormatan khusus)-(hak-hak khusus,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(penghormatan khusus)-(trah Sukarno,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(penghormatan khusus)-(keistimewaan,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(penghormatan khusus)-(Bambang)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(penghormatan khusus)-(Ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(penghormatan khusus)-(adanya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(penghormatan khusus)-(penilaian)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(penghormatan khusus)-(Guruh)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(penghormatan khusus)-(jarang)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(penghormatan khusus)-(DPR RI)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(penghormatan khusus)-(Bambang)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(penghormatan khusus)-(semua orang silahkan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(penghormatan khusus)-(Guruh)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(penghormatan khusus)-(masyarakat umum)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(penghormatan khusus)-(silahkan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(penghormatan khusus)-(Guruh)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(penghormatan khusus)-(PDI Perjuangan dan pertanggungjawabannya)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(penghormatan khusus)-(massa PDIP)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(penghormatan khusus)-(Guruh,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(penghormatan khusus)-(partai lain,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(penghormatan khusus)-(tegas Bambang)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(penghormatan khusus)-(adanya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(penghormatan khusus)-(artis-artis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(penghormatan khusus)-(caleg,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(penghormatan khusus)-(PDIP,)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(penghormatan khusus)-(diprioritaskan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(penghormatan khusus)-("PDIP)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(penghormatan khusus)-(keistimewaan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(penghormatan khusus)-(artis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(penghormatan khusus)-(tetap)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(penghormatan khusus)-(jalankan serangkaian tes)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(penghormatan khusus)-(artis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(penghormatan khusus)-(caleg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(penghormatan khusus)-(hebat-hebat amat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(penghormatan khusus)-(Popularitas artis)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(penghormatan khusus)-(jaminan,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(penghormatan khusus)-(Bambang)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(Bung Karno dan keluarganya)-(hak-hak khusus,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Bung Karno dan keluarganya)-(trah Sukarno,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Bung Karno dan keluarganya)-(keistimewaan,")]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Bung Karno dan keluarganya)-(Bambang)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Bung Karno dan keluarganya)-(Ia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Bung Karno dan keluarganya)-(adanya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bung Karno dan keluarganya)-(penilaian)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bung Karno dan keluarganya)-(Guruh)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Bung Karno dan keluarganya)-(jarang)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bung Karno dan keluarganya)-(DPR RI)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Bung Karno dan keluarganya)-(Bambang)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Bung Karno dan keluarganya)-(semua orang silahkan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bung Karno dan keluarganya)-(Guruh)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Bung Karno dan keluarganya)-(masyarakat umum)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bung Karno dan keluarganya)-(silahkan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bung Karno dan keluarganya)-(Guruh)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Bung Karno dan keluarganya)-(PDI Perjuangan dan pertanggungjawabannya)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Bung Karno dan keluarganya)-(massa PDIP)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bung Karno dan keluarganya)-(Guruh,)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Bung Karno dan keluarganya)-(partai lain,")]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Bung Karno dan keluarganya)-(tegas Bambang)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bung Karno dan keluarganya)-(adanya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bung Karno dan keluarganya)-(artis-artis)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bung Karno dan keluarganya)-(caleg,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Bung Karno dan keluarganya)-(PDIP,)]";false;false;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Bung Karno dan keluarganya)-(diprioritaskan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bung Karno dan keluarganya)-("PDIP)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Bung Karno dan keluarganya)-(keistimewaan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bung Karno dan keluarganya)-(artis)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bung Karno dan keluarganya)-(tetap)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bung Karno dan keluarganya)-(jalankan serangkaian tes)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bung Karno dan keluarganya)-(artis)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bung Karno dan keluarganya)-(caleg)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bung Karno dan keluarganya)-(hebat-hebat amat)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bung Karno dan keluarganya)-(Popularitas artis)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Bung Karno dan keluarganya)-(jaminan,")]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Bung Karno dan keluarganya)-(Bambang)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(hak-hak khusus,)-(trah Sukarno,)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(hak-hak khusus,)-(keistimewaan,")]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(hak-hak khusus,)-(Bambang)]";false;false;false;false;false;true;false;OTHER;PERSON
+"[(hak-hak khusus,)-(Ia)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(hak-hak khusus,)-(adanya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(hak-hak khusus,)-(penilaian)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(hak-hak khusus,)-(Guruh)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(hak-hak khusus,)-(jarang)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(hak-hak khusus,)-(DPR RI)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(hak-hak khusus,)-(Bambang)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(hak-hak khusus,)-(semua orang silahkan)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(hak-hak khusus,)-(Guruh)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(hak-hak khusus,)-(masyarakat umum)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(hak-hak khusus,)-(silahkan)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(hak-hak khusus,)-(Guruh)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(hak-hak khusus,)-(PDI Perjuangan dan pertanggungjawabannya)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(hak-hak khusus,)-(massa PDIP)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(hak-hak khusus,)-(Guruh,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(hak-hak khusus,)-(partai lain,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(hak-hak khusus,)-(tegas Bambang)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(hak-hak khusus,)-(adanya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(hak-hak khusus,)-(artis-artis)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(hak-hak khusus,)-(caleg,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(hak-hak khusus,)-(PDIP,)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(hak-hak khusus,)-(diprioritaskan)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(hak-hak khusus,)-("PDIP)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(hak-hak khusus,)-(keistimewaan)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(hak-hak khusus,)-(artis)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(hak-hak khusus,)-(tetap)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(hak-hak khusus,)-(jalankan serangkaian tes)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(hak-hak khusus,)-(artis)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(hak-hak khusus,)-(caleg)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(hak-hak khusus,)-(hebat-hebat amat)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(hak-hak khusus,)-(Popularitas artis)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(hak-hak khusus,)-(jaminan,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(hak-hak khusus,)-(Bambang)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(trah Sukarno,)-(keistimewaan,")]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(trah Sukarno,)-(Bambang)]";false;false;false;false;false;true;false;OTHER;PERSON
+"[(trah Sukarno,)-(Ia)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(trah Sukarno,)-(adanya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(trah Sukarno,)-(penilaian)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(trah Sukarno,)-(Guruh)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(trah Sukarno,)-(jarang)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(trah Sukarno,)-(DPR RI)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(trah Sukarno,)-(Bambang)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(trah Sukarno,)-(semua orang silahkan)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(trah Sukarno,)-(Guruh)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(trah Sukarno,)-(masyarakat umum)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(trah Sukarno,)-(silahkan)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(trah Sukarno,)-(Guruh)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(trah Sukarno,)-(PDI Perjuangan dan pertanggungjawabannya)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(trah Sukarno,)-(massa PDIP)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(trah Sukarno,)-(Guruh,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(trah Sukarno,)-(partai lain,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(trah Sukarno,)-(tegas Bambang)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(trah Sukarno,)-(adanya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(trah Sukarno,)-(artis-artis)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(trah Sukarno,)-(caleg,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(trah Sukarno,)-(PDIP,)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(trah Sukarno,)-(diprioritaskan)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(trah Sukarno,)-("PDIP)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(trah Sukarno,)-(keistimewaan)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(trah Sukarno,)-(artis)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(trah Sukarno,)-(tetap)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(trah Sukarno,)-(jalankan serangkaian tes)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(trah Sukarno,)-(artis)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(trah Sukarno,)-(caleg)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(trah Sukarno,)-(hebat-hebat amat)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(trah Sukarno,)-(Popularitas artis)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(trah Sukarno,)-(jaminan,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(trah Sukarno,)-(Bambang)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(keistimewaan,")-(Bambang)]";false;false;false;false;false;true;false;OTHER;PERSON
+"[(keistimewaan,")-(Ia)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(keistimewaan,")-(adanya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(keistimewaan,")-(penilaian)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(keistimewaan,")-(Guruh)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(keistimewaan,")-(jarang)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(keistimewaan,")-(DPR RI)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(keistimewaan,")-(Bambang)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(keistimewaan,")-(semua orang silahkan)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(keistimewaan,")-(Guruh)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(keistimewaan,")-(masyarakat umum)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(keistimewaan,")-(silahkan)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(keistimewaan,")-(Guruh)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(keistimewaan,")-(PDI Perjuangan dan pertanggungjawabannya)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(keistimewaan,")-(massa PDIP)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(keistimewaan,")-(Guruh,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(keistimewaan,")-(partai lain,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(keistimewaan,")-(tegas Bambang)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(keistimewaan,")-(adanya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(keistimewaan,")-(artis-artis)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(keistimewaan,")-(caleg,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(keistimewaan,")-(PDIP,)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(keistimewaan,")-(diprioritaskan)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(keistimewaan,")-("PDIP)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(keistimewaan,")-(keistimewaan)]";false;false;false;false;false;false;true;OTHER;OTHER
+"[(keistimewaan,")-(artis)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(keistimewaan,")-(tetap)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(keistimewaan,")-(jalankan serangkaian tes)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(keistimewaan,")-(artis)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(keistimewaan,")-(caleg)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(keistimewaan,")-(hebat-hebat amat)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(keistimewaan,")-(Popularitas artis)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(keistimewaan,")-(jaminan,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(keistimewaan,")-(Bambang)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(Bambang)-(Ia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Bambang)-(adanya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bambang)-(penilaian)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bambang)-(Guruh)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Bambang)-(jarang)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bambang)-(DPR RI)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Bambang)-(Bambang)]";true;true;false;false;false;false;true;PERSON;PERSON
+"[(Bambang)-(semua orang silahkan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bambang)-(Guruh)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Bambang)-(masyarakat umum)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bambang)-(silahkan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bambang)-(Guruh)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Bambang)-(PDI Perjuangan dan pertanggungjawabannya)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Bambang)-(massa PDIP)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bambang)-(Guruh,)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Bambang)-(partai lain,")]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Bambang)-(tegas Bambang)]";false;true;false;false;false;false;true;PERSON;OTHER
+"[(Bambang)-(adanya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bambang)-(artis-artis)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bambang)-(caleg,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Bambang)-(PDIP,)]";false;false;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Bambang)-(diprioritaskan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bambang)-("PDIP)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Bambang)-(keistimewaan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bambang)-(artis)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bambang)-(tetap)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bambang)-(jalankan serangkaian tes)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bambang)-(artis)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bambang)-(caleg)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bambang)-(hebat-hebat amat)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bambang)-(Popularitas artis)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Bambang)-(jaminan,")]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Bambang)-(Bambang)]";true;true;false;false;false;false;true;PERSON;PERSON
+"[(Ia)-(adanya)]";false;true;false;true;false;true;false;OTHER;OTHER
+"[(Ia)-(penilaian)]";false;true;false;true;false;true;false;OTHER;OTHER
+"[(Ia)-(Guruh)]";false;true;false;true;false;true;false;OTHER;PERSON
+"[(Ia)-(jarang)]";false;true;false;true;false;true;false;OTHER;OTHER
+"[(Ia)-(DPR RI)]";false;true;false;true;false;true;false;OTHER;ORGANIZATION
+"[(Ia)-(Bambang)]";false;true;false;true;false;true;false;OTHER;PERSON
+"[(Ia)-(semua orang silahkan)]";false;true;false;true;false;true;false;OTHER;OTHER
+"[(Ia)-(Guruh)]";false;true;false;true;false;true;false;OTHER;PERSON
+"[(Ia)-(masyarakat umum)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Ia)-(silahkan)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Ia)-(Guruh)]";false;true;false;true;false;false;false;OTHER;PERSON
+"[(Ia)-(PDI Perjuangan dan pertanggungjawabannya)]";false;true;false;true;false;false;false;OTHER;ORGANIZATION
+"[(Ia)-(massa PDIP)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Ia)-(Guruh,)]";false;false;false;true;false;false;false;OTHER;PERSON
+"[(Ia)-(partai lain,")]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(Ia)-(tegas Bambang)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Ia)-(adanya)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Ia)-(artis-artis)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Ia)-(caleg,)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(Ia)-(PDIP,)]";false;false;false;true;false;false;false;OTHER;ORGANIZATION
+"[(Ia)-(diprioritaskan)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Ia)-("PDIP)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(Ia)-(keistimewaan)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Ia)-(artis)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Ia)-(tetap)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Ia)-(jalankan serangkaian tes)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Ia)-(artis)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Ia)-(caleg)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Ia)-(hebat-hebat amat)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Ia)-(Popularitas artis)]";false;true;false;true;false;false;false;OTHER;PERSON
+"[(Ia)-(jaminan,")]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(Ia)-(Bambang)]";false;true;false;true;false;false;false;OTHER;PERSON
+"[(adanya)-(penilaian)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(adanya)-(Guruh)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(adanya)-(jarang)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(adanya)-(DPR RI)]";false;true;false;false;false;true;false;OTHER;ORGANIZATION
+"[(adanya)-(Bambang)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(adanya)-(semua orang silahkan)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(adanya)-(Guruh)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(adanya)-(masyarakat umum)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(adanya)-(silahkan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(adanya)-(Guruh)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(adanya)-(PDI Perjuangan dan pertanggungjawabannya)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(adanya)-(massa PDIP)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(adanya)-(Guruh,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(adanya)-(partai lain,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(adanya)-(tegas Bambang)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(adanya)-(adanya)]";true;true;false;false;false;false;true;OTHER;OTHER
+"[(adanya)-(artis-artis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(adanya)-(caleg,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(adanya)-(PDIP,)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(adanya)-(diprioritaskan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(adanya)-("PDIP)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(adanya)-(keistimewaan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(adanya)-(artis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(adanya)-(tetap)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(adanya)-(jalankan serangkaian tes)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(adanya)-(artis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(adanya)-(caleg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(adanya)-(hebat-hebat amat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(adanya)-(Popularitas artis)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(adanya)-(jaminan,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(adanya)-(Bambang)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(penilaian)-(Guruh)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(penilaian)-(jarang)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(penilaian)-(DPR RI)]";false;true;false;false;false;true;false;OTHER;ORGANIZATION
+"[(penilaian)-(Bambang)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(penilaian)-(semua orang silahkan)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(penilaian)-(Guruh)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(penilaian)-(masyarakat umum)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(penilaian)-(silahkan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(penilaian)-(Guruh)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(penilaian)-(PDI Perjuangan dan pertanggungjawabannya)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(penilaian)-(massa PDIP)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(penilaian)-(Guruh,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(penilaian)-(partai lain,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(penilaian)-(tegas Bambang)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(penilaian)-(adanya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(penilaian)-(artis-artis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(penilaian)-(caleg,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(penilaian)-(PDIP,)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(penilaian)-(diprioritaskan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(penilaian)-("PDIP)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(penilaian)-(keistimewaan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(penilaian)-(artis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(penilaian)-(tetap)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(penilaian)-(jalankan serangkaian tes)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(penilaian)-(artis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(penilaian)-(caleg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(penilaian)-(hebat-hebat amat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(penilaian)-(Popularitas artis)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(penilaian)-(jaminan,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(penilaian)-(Bambang)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(Guruh)-(jarang)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Guruh)-(DPR RI)]";false;true;false;false;false;true;false;PERSON;ORGANIZATION
+"[(Guruh)-(Bambang)]";false;true;false;false;false;true;false;PERSON;PERSON
+"[(Guruh)-(semua orang silahkan)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Guruh)-(Guruh)]";true;true;false;false;false;true;true;PERSON;PERSON
+"[(Guruh)-(masyarakat umum)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Guruh)-(silahkan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Guruh)-(Guruh)]";true;true;false;false;false;false;true;PERSON;PERSON
+"[(Guruh)-(PDI Perjuangan dan pertanggungjawabannya)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Guruh)-(massa PDIP)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Guruh)-(Guruh,)]";false;false;false;false;false;false;true;PERSON;PERSON
+"[(Guruh)-(partai lain,")]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Guruh)-(tegas Bambang)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Guruh)-(adanya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Guruh)-(artis-artis)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Guruh)-(caleg,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Guruh)-(PDIP,)]";false;false;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Guruh)-(diprioritaskan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Guruh)-("PDIP)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Guruh)-(keistimewaan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Guruh)-(artis)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Guruh)-(tetap)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Guruh)-(jalankan serangkaian tes)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Guruh)-(artis)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Guruh)-(caleg)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Guruh)-(hebat-hebat amat)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Guruh)-(Popularitas artis)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Guruh)-(jaminan,")]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Guruh)-(Bambang)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(jarang)-(DPR RI)]";false;true;false;false;false;true;false;OTHER;ORGANIZATION
+"[(jarang)-(Bambang)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(jarang)-(semua orang silahkan)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(jarang)-(Guruh)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(jarang)-(masyarakat umum)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(jarang)-(silahkan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(jarang)-(Guruh)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(jarang)-(PDI Perjuangan dan pertanggungjawabannya)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(jarang)-(massa PDIP)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(jarang)-(Guruh,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(jarang)-(partai lain,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(jarang)-(tegas Bambang)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(jarang)-(adanya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(jarang)-(artis-artis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(jarang)-(caleg,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(jarang)-(PDIP,)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(jarang)-(diprioritaskan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(jarang)-("PDIP)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(jarang)-(keistimewaan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(jarang)-(artis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(jarang)-(tetap)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(jarang)-(jalankan serangkaian tes)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(jarang)-(artis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(jarang)-(caleg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(jarang)-(hebat-hebat amat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(jarang)-(Popularitas artis)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(jarang)-(jaminan,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(jarang)-(Bambang)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(DPR RI)-(Bambang)]";false;true;false;false;false;true;false;ORGANIZATION;PERSON
+"[(DPR RI)-(semua orang silahkan)]";false;true;false;false;false;true;false;ORGANIZATION;OTHER
+"[(DPR RI)-(Guruh)]";false;true;false;false;false;true;false;ORGANIZATION;PERSON
+"[(DPR RI)-(masyarakat umum)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(DPR RI)-(silahkan)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(DPR RI)-(Guruh)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(DPR RI)-(PDI Perjuangan dan pertanggungjawabannya)]";false;true;false;false;false;false;false;ORGANIZATION;ORGANIZATION
+"[(DPR RI)-(massa PDIP)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(DPR RI)-(Guruh,)]";false;false;false;false;false;false;false;ORGANIZATION;PERSON
+"[(DPR RI)-(partai lain,")]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(DPR RI)-(tegas Bambang)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(DPR RI)-(adanya)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(DPR RI)-(artis-artis)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(DPR RI)-(caleg,)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(DPR RI)-(PDIP,)]";false;false;false;false;false;false;false;ORGANIZATION;ORGANIZATION
+"[(DPR RI)-(diprioritaskan)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(DPR RI)-("PDIP)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(DPR RI)-(keistimewaan)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(DPR RI)-(artis)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(DPR RI)-(tetap)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(DPR RI)-(jalankan serangkaian tes)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(DPR RI)-(artis)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(DPR RI)-(caleg)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(DPR RI)-(hebat-hebat amat)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(DPR RI)-(Popularitas artis)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(DPR RI)-(jaminan,")]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(DPR RI)-(Bambang)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(Bambang)-(semua orang silahkan)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Bambang)-(Guruh)]";false;true;false;false;false;true;false;PERSON;PERSON
+"[(Bambang)-(masyarakat umum)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bambang)-(silahkan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bambang)-(Guruh)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Bambang)-(PDI Perjuangan dan pertanggungjawabannya)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Bambang)-(massa PDIP)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bambang)-(Guruh,)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Bambang)-(partai lain,")]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Bambang)-(tegas Bambang)]";false;true;false;false;false;false;true;PERSON;OTHER
+"[(Bambang)-(adanya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bambang)-(artis-artis)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bambang)-(caleg,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Bambang)-(PDIP,)]";false;false;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Bambang)-(diprioritaskan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bambang)-("PDIP)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Bambang)-(keistimewaan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bambang)-(artis)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bambang)-(tetap)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bambang)-(jalankan serangkaian tes)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bambang)-(artis)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bambang)-(caleg)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bambang)-(hebat-hebat amat)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bambang)-(Popularitas artis)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Bambang)-(jaminan,")]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Bambang)-(Bambang)]";true;true;false;false;false;false;true;PERSON;PERSON
+"[(semua orang silahkan)-(Guruh)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(semua orang silahkan)-(masyarakat umum)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(semua orang silahkan)-(silahkan)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(semua orang silahkan)-(Guruh)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(semua orang silahkan)-(PDI Perjuangan dan pertanggungjawabannya)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(semua orang silahkan)-(massa PDIP)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(semua orang silahkan)-(Guruh,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(semua orang silahkan)-(partai lain,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(semua orang silahkan)-(tegas Bambang)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(semua orang silahkan)-(adanya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(semua orang silahkan)-(artis-artis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(semua orang silahkan)-(caleg,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(semua orang silahkan)-(PDIP,)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(semua orang silahkan)-(diprioritaskan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(semua orang silahkan)-("PDIP)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(semua orang silahkan)-(keistimewaan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(semua orang silahkan)-(artis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(semua orang silahkan)-(tetap)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(semua orang silahkan)-(jalankan serangkaian tes)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(semua orang silahkan)-(artis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(semua orang silahkan)-(caleg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(semua orang silahkan)-(hebat-hebat amat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(semua orang silahkan)-(Popularitas artis)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(semua orang silahkan)-(jaminan,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(semua orang silahkan)-(Bambang)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(Guruh)-(masyarakat umum)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Guruh)-(silahkan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Guruh)-(Guruh)]";true;true;false;false;false;false;true;PERSON;PERSON
+"[(Guruh)-(PDI Perjuangan dan pertanggungjawabannya)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Guruh)-(massa PDIP)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Guruh)-(Guruh,)]";false;false;false;false;false;false;true;PERSON;PERSON
+"[(Guruh)-(partai lain,")]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Guruh)-(tegas Bambang)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Guruh)-(adanya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Guruh)-(artis-artis)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Guruh)-(caleg,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Guruh)-(PDIP,)]";false;false;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Guruh)-(diprioritaskan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Guruh)-("PDIP)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Guruh)-(keistimewaan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Guruh)-(artis)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Guruh)-(tetap)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Guruh)-(jalankan serangkaian tes)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Guruh)-(artis)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Guruh)-(caleg)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Guruh)-(hebat-hebat amat)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Guruh)-(Popularitas artis)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Guruh)-(jaminan,")]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Guruh)-(Bambang)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(masyarakat umum)-(silahkan)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(masyarakat umum)-(Guruh)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(masyarakat umum)-(PDI Perjuangan dan pertanggungjawabannya)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(masyarakat umum)-(massa PDIP)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(masyarakat umum)-(Guruh,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(masyarakat umum)-(partai lain,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(masyarakat umum)-(tegas Bambang)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(masyarakat umum)-(adanya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(masyarakat umum)-(artis-artis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(masyarakat umum)-(caleg,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(masyarakat umum)-(PDIP,)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(masyarakat umum)-(diprioritaskan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(masyarakat umum)-("PDIP)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(masyarakat umum)-(keistimewaan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(masyarakat umum)-(artis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(masyarakat umum)-(tetap)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(masyarakat umum)-(jalankan serangkaian tes)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(masyarakat umum)-(artis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(masyarakat umum)-(caleg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(masyarakat umum)-(hebat-hebat amat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(masyarakat umum)-(Popularitas artis)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(masyarakat umum)-(jaminan,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(masyarakat umum)-(Bambang)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(silahkan)-(Guruh)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(silahkan)-(PDI Perjuangan dan pertanggungjawabannya)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(silahkan)-(massa PDIP)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(silahkan)-(Guruh,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(silahkan)-(partai lain,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(silahkan)-(tegas Bambang)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(silahkan)-(adanya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(silahkan)-(artis-artis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(silahkan)-(caleg,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(silahkan)-(PDIP,)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(silahkan)-(diprioritaskan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(silahkan)-("PDIP)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(silahkan)-(keistimewaan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(silahkan)-(artis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(silahkan)-(tetap)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(silahkan)-(jalankan serangkaian tes)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(silahkan)-(artis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(silahkan)-(caleg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(silahkan)-(hebat-hebat amat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(silahkan)-(Popularitas artis)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(silahkan)-(jaminan,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(silahkan)-(Bambang)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(Guruh)-(PDI Perjuangan dan pertanggungjawabannya)]";false;true;false;false;false;true;false;PERSON;ORGANIZATION
+"[(Guruh)-(massa PDIP)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Guruh)-(Guruh,)]";false;false;false;false;false;true;true;PERSON;PERSON
+"[(Guruh)-(partai lain,")]";false;false;false;false;false;true;false;PERSON;OTHER
+"[(Guruh)-(tegas Bambang)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Guruh)-(adanya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Guruh)-(artis-artis)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Guruh)-(caleg,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Guruh)-(PDIP,)]";false;false;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Guruh)-(diprioritaskan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Guruh)-("PDIP)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Guruh)-(keistimewaan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Guruh)-(artis)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Guruh)-(tetap)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Guruh)-(jalankan serangkaian tes)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Guruh)-(artis)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Guruh)-(caleg)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Guruh)-(hebat-hebat amat)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Guruh)-(Popularitas artis)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Guruh)-(jaminan,")]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Guruh)-(Bambang)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(PDI Perjuangan dan pertanggungjawabannya)-(massa PDIP)]";false;true;false;false;false;true;false;ORGANIZATION;OTHER
+"[(PDI Perjuangan dan pertanggungjawabannya)-(Guruh,)]";false;false;false;false;false;true;false;ORGANIZATION;PERSON
+"[(PDI Perjuangan dan pertanggungjawabannya)-(partai lain,")]";false;false;false;false;false;true;false;ORGANIZATION;OTHER
+"[(PDI Perjuangan dan pertanggungjawabannya)-(tegas Bambang)]";false;true;false;false;false;true;false;ORGANIZATION;OTHER
+"[(PDI Perjuangan dan pertanggungjawabannya)-(adanya)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDI Perjuangan dan pertanggungjawabannya)-(artis-artis)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDI Perjuangan dan pertanggungjawabannya)-(caleg,)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDI Perjuangan dan pertanggungjawabannya)-(PDIP,)]";false;false;false;false;false;false;false;ORGANIZATION;ORGANIZATION
+"[(PDI Perjuangan dan pertanggungjawabannya)-(diprioritaskan)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDI Perjuangan dan pertanggungjawabannya)-("PDIP)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDI Perjuangan dan pertanggungjawabannya)-(keistimewaan)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDI Perjuangan dan pertanggungjawabannya)-(artis)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDI Perjuangan dan pertanggungjawabannya)-(tetap)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDI Perjuangan dan pertanggungjawabannya)-(jalankan serangkaian tes)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDI Perjuangan dan pertanggungjawabannya)-(artis)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDI Perjuangan dan pertanggungjawabannya)-(caleg)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDI Perjuangan dan pertanggungjawabannya)-(hebat-hebat amat)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDI Perjuangan dan pertanggungjawabannya)-(Popularitas artis)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(PDI Perjuangan dan pertanggungjawabannya)-(jaminan,")]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDI Perjuangan dan pertanggungjawabannya)-(Bambang)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(massa PDIP)-(Guruh,)]";false;false;false;false;false;true;false;OTHER;PERSON
+"[(massa PDIP)-(partai lain,")]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(massa PDIP)-(tegas Bambang)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(massa PDIP)-(adanya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(massa PDIP)-(artis-artis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(massa PDIP)-(caleg,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(massa PDIP)-(PDIP,)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(massa PDIP)-(diprioritaskan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(massa PDIP)-("PDIP)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(massa PDIP)-(keistimewaan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(massa PDIP)-(artis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(massa PDIP)-(tetap)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(massa PDIP)-(jalankan serangkaian tes)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(massa PDIP)-(artis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(massa PDIP)-(caleg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(massa PDIP)-(hebat-hebat amat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(massa PDIP)-(Popularitas artis)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(massa PDIP)-(jaminan,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(massa PDIP)-(Bambang)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(Guruh,)-(partai lain,")]";false;false;false;false;false;true;false;PERSON;OTHER
+"[(Guruh,)-(tegas Bambang)]";false;false;false;false;false;true;false;PERSON;OTHER
+"[(Guruh,)-(adanya)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Guruh,)-(artis-artis)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Guruh,)-(caleg,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Guruh,)-(PDIP,)]";false;false;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Guruh,)-(diprioritaskan)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Guruh,)-("PDIP)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Guruh,)-(keistimewaan)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Guruh,)-(artis)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Guruh,)-(tetap)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Guruh,)-(jalankan serangkaian tes)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Guruh,)-(artis)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Guruh,)-(caleg)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Guruh,)-(hebat-hebat amat)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Guruh,)-(Popularitas artis)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Guruh,)-(jaminan,")]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Guruh,)-(Bambang)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(partai lain,")-(tegas Bambang)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(partai lain,")-(adanya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(partai lain,")-(artis-artis)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(partai lain,")-(caleg,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(partai lain,")-(PDIP,)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(partai lain,")-(diprioritaskan)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(partai lain,")-("PDIP)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(partai lain,")-(keistimewaan)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(partai lain,")-(artis)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(partai lain,")-(tetap)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(partai lain,")-(jalankan serangkaian tes)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(partai lain,")-(artis)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(partai lain,")-(caleg)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(partai lain,")-(hebat-hebat amat)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(partai lain,")-(Popularitas artis)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(partai lain,")-(jaminan,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(partai lain,")-(Bambang)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(tegas Bambang)-(adanya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tegas Bambang)-(artis-artis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tegas Bambang)-(caleg,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(tegas Bambang)-(PDIP,)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(tegas Bambang)-(diprioritaskan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tegas Bambang)-("PDIP)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(tegas Bambang)-(keistimewaan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tegas Bambang)-(artis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tegas Bambang)-(tetap)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tegas Bambang)-(jalankan serangkaian tes)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tegas Bambang)-(artis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tegas Bambang)-(caleg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tegas Bambang)-(hebat-hebat amat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tegas Bambang)-(Popularitas artis)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(tegas Bambang)-(jaminan,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(tegas Bambang)-(Bambang)]";false;true;false;false;false;false;true;OTHER;PERSON
+"[(adanya)-(artis-artis)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(adanya)-(caleg,)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(adanya)-(PDIP,)]";false;false;false;false;false;true;false;OTHER;ORGANIZATION
+"[(adanya)-(diprioritaskan)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(adanya)-("PDIP)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(adanya)-(keistimewaan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(adanya)-(artis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(adanya)-(tetap)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(adanya)-(jalankan serangkaian tes)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(adanya)-(artis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(adanya)-(caleg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(adanya)-(hebat-hebat amat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(adanya)-(Popularitas artis)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(adanya)-(jaminan,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(adanya)-(Bambang)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(artis-artis)-(caleg,)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(artis-artis)-(PDIP,)]";false;false;false;false;false;true;false;OTHER;ORGANIZATION
+"[(artis-artis)-(diprioritaskan)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(artis-artis)-("PDIP)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(artis-artis)-(keistimewaan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(artis-artis)-(artis)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(artis-artis)-(tetap)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(artis-artis)-(jalankan serangkaian tes)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(artis-artis)-(artis)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(artis-artis)-(caleg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(artis-artis)-(hebat-hebat amat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(artis-artis)-(Popularitas artis)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(artis-artis)-(jaminan,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(artis-artis)-(Bambang)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(caleg,)-(PDIP,)]";false;false;false;false;false;true;false;OTHER;ORGANIZATION
+"[(caleg,)-(diprioritaskan)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(caleg,)-("PDIP)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(caleg,)-(keistimewaan)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(caleg,)-(artis)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(caleg,)-(tetap)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(caleg,)-(jalankan serangkaian tes)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(caleg,)-(artis)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(caleg,)-(caleg)]";false;false;false;false;false;false;true;OTHER;OTHER
+"[(caleg,)-(hebat-hebat amat)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(caleg,)-(Popularitas artis)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(caleg,)-(jaminan,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(caleg,)-(Bambang)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(PDIP,)-(diprioritaskan)]";false;false;false;false;false;true;false;ORGANIZATION;OTHER
+"[(PDIP,)-("PDIP)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP,)-(keistimewaan)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP,)-(artis)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP,)-(tetap)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP,)-(jalankan serangkaian tes)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP,)-(artis)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP,)-(caleg)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP,)-(hebat-hebat amat)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP,)-(Popularitas artis)]";false;false;false;false;false;false;false;ORGANIZATION;PERSON
+"[(PDIP,)-(jaminan,")]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP,)-(Bambang)]";false;false;false;false;false;false;false;ORGANIZATION;PERSON
+"[(diprioritaskan)-("PDIP)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(diprioritaskan)-(keistimewaan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(diprioritaskan)-(artis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(diprioritaskan)-(tetap)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(diprioritaskan)-(jalankan serangkaian tes)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(diprioritaskan)-(artis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(diprioritaskan)-(caleg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(diprioritaskan)-(hebat-hebat amat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(diprioritaskan)-(Popularitas artis)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(diprioritaskan)-(jaminan,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(diprioritaskan)-(Bambang)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[("PDIP)-(keistimewaan)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[("PDIP)-(artis)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[("PDIP)-(tetap)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[("PDIP)-(jalankan serangkaian tes)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[("PDIP)-(artis)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("PDIP)-(caleg)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("PDIP)-(hebat-hebat amat)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("PDIP)-(Popularitas artis)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[("PDIP)-(jaminan,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("PDIP)-(Bambang)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(keistimewaan)-(artis)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(keistimewaan)-(tetap)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(keistimewaan)-(jalankan serangkaian tes)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(keistimewaan)-(artis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keistimewaan)-(caleg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keistimewaan)-(hebat-hebat amat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keistimewaan)-(Popularitas artis)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(keistimewaan)-(jaminan,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(keistimewaan)-(Bambang)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(artis)-(tetap)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(artis)-(jalankan serangkaian tes)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(artis)-(artis)]";true;true;false;false;false;false;true;OTHER;OTHER
+"[(artis)-(caleg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(artis)-(hebat-hebat amat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(artis)-(Popularitas artis)]";false;true;false;false;false;false;true;OTHER;PERSON
+"[(artis)-(jaminan,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(artis)-(Bambang)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(tetap)-(jalankan serangkaian tes)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(tetap)-(artis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tetap)-(caleg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tetap)-(hebat-hebat amat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tetap)-(Popularitas artis)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(tetap)-(jaminan,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(tetap)-(Bambang)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(jalankan serangkaian tes)-(artis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(jalankan serangkaian tes)-(caleg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(jalankan serangkaian tes)-(hebat-hebat amat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(jalankan serangkaian tes)-(Popularitas artis)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(jalankan serangkaian tes)-(jaminan,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(jalankan serangkaian tes)-(Bambang)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(artis)-(caleg)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(artis)-(hebat-hebat amat)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(artis)-(Popularitas artis)]";false;true;false;false;false;false;true;OTHER;PERSON
+"[(artis)-(jaminan,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(artis)-(Bambang)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(caleg)-(hebat-hebat amat)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(caleg)-(Popularitas artis)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(caleg)-(jaminan,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(caleg)-(Bambang)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(hebat-hebat amat)-(Popularitas artis)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(hebat-hebat amat)-(jaminan,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(hebat-hebat amat)-(Bambang)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(Popularitas artis)-(jaminan,")]";false;false;false;false;false;true;false;PERSON;OTHER
+"[(Popularitas artis)-(Bambang)]";false;true;false;false;false;true;false;PERSON;PERSON
+"[(jaminan,")-(Bambang)]";false;false;false;false;false;true;false;OTHER;PERSON

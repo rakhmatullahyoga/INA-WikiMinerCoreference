@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>BBM</Mention>
+        <Mention>bahan bakar minyak</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>SBY</Mention>
+        <Mention>Presiden Susilo Bambang Yudhoyono</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>pemerintah</Mention>
+        <Mention>pemerintahan</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>industri</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>BUMN</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>SPBU</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>perekonomian</Mention>
+        <Mention>ekonomi</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>kendaraan roda empat</Mention>
+        <Mention>roda empat</Mention>
+    </Entity>
+</CoreferenceChain>

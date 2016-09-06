@@ -1,5 +1,6 @@
 
-import arcoref.RuleInstance;
+import arcoref.Document;
+import java.io.File;
 import java.util.ArrayList;
 
 /*
@@ -36,9 +37,16 @@ public class TestCode {
     }
     
     public static void main(String[] args) {
-        RuleInstance rule = new RuleInstance();
-        if(rule.isCoref())
-            System.out.println(rule);
+        File fileDir = new File("./data/corefdata/raw/training/");
+        int nbData = fileDir.listFiles().length;
+        System.out.println("Processing...");
+        for(int i=0; i<nbData; i++) {
+            System.out.println("data "+i);
+            Document doc = new Document("./data/corefdata/raw/training/artikel"+i+".txt");
+            doc.extractMentions();
+            doc.extractRuleList();
+            doc.writeMentions("./data/baseline/mentions/training/mention"+i+".txt");
+        }
         
 //        TestCode test = new TestCode();
 //        String testString = "Partai Demokrasi Indonesia Perjuangan";
@@ -52,13 +60,10 @@ public class TestCode {
 //        for(String str:splitAppositive) {
 //            System.out.println(str);
 //        }
-        
-        
 //        Document doc = new Document(CorefRuleConstants.RAW_PATH);
 //        doc.extractMentions();
 //        doc.extractRuleList();
 //        doc.writeRules(CorefRuleConstants.RULES_CSV);
-        
 //        AssociationRuleModel rules = new AssociationRuleModel();
 //        rules.loadRules(CorefRuleConstants.LABEL_CSV);
 //        rules.buildModel();

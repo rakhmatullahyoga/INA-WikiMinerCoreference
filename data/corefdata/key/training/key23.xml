@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>Ahok</Mention>
+        <Mention>Wakil Gubernur DKI Jakarta</Mention>
+        <Mention>Basuki Tjahaja Purnama</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>e-KTP</Mention>
+        <Mention>kartu tanda penduduk elektronik</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>chip kartu</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>DKI Jakarta</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>Balaikota</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>Anjungan Tunai Mandiri</Mention>
+        <Mention>ATM</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>Bank Pembangunan Daerah</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>perbankan</Mention>
+        <Mention>bank</Mention>
+    </Entity>
+    <Entity ClusterId="9">
+        <Mention>Indonesia</Mention>
+    </Entity>
+    <Entity ClusterId="10">
+        <Mention>KTP</Mention>
+    </Entity>
+    <Entity ClusterId="11">
+        <Mention>Jokowi</Mention>
+    </Entity>
+    <Entity ClusterId="12">
+        <Mention>Nomor Pemilik Wajib Pajak</Mention>
+        <Mention>NPWP</Mention>
+    </Entity>
+    <Entity ClusterId="13">
+        <Mention>Menteri Dalam Negeri</Mention>
+        <Mention>Gamawan Fauzi</Mention>
+    </Entity>
+</CoreferenceChain>

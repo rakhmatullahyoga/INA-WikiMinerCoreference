@@ -1,0 +1,1177 @@
+mentions;isStrMatch;isMatchNoCasePunc;isAbbrev;isFirstPronoun;isScndPronoun;isOnOneSentence;isMatchPartial;firstNameClass;scndNameClass
+"[(Mega:)-(Saya)]";false;false;false;false;true;true;false;PERSON;OTHER
+"[(Mega:)-(Ketua Umum)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Mega:)-(Partai Demokrasi Indonesia Perjuangan Megawati Soekarnoputri)]";false;false;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Mega:)-(dia)]";false;false;false;false;true;false;false;PERSON;OTHER
+"[(Mega:)-(pemilihan presiden 2014)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Mega:)-(Dia)]";false;false;false;false;true;false;false;PERSON;OTHER
+"[(Mega:)-(kader dan pengurus)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Mega:)-(partai)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Mega:)-(banteng moncong putih)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Mega:)-(saat ini)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Mega:)-(PDI Perjuangan)]";false;false;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Mega:)-(partai)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Mega:)-(rakyat)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Mega:)-("Hasil survei)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Mega:)-(PDIP)]";false;false;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Mega:)-(partai)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Mega:)-(rakyat,")]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Mega:)-(Surakarta)]";false;false;false;false;false;false;false;PERSON;LOCATION
+"[(Mega:)-(Ahad,)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Mega:)-(14 April 2013,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Mega:)-(saat pidato politik deklarasi)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Mega:)-(pemenangan pasangan Ganjar Pranowo-Heru Sudjatmoko)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Mega:)-(PDI Perjuangan)]";false;false;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Mega:)-(pemilihan kepala daerah Jawa Tengah)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Mega:)-(Mei mendatang)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Mega:)-(hasil survei)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Mega:)-(PDIP)]";false;false;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Mega:)-(dia)]";false;false;false;false;true;false;false;PERSON;OTHER
+"[(Mega:)-(kader)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Mega:)-(Sebab survei)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Mega:)-(pegangan)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Mega:)-("Survei)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Mega:)-(pemilihan presiden 2014?)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Mega:)-(Mega)]";false;false;false;false;true;false;true;PERSON;PERSON
+"[(Mega:)-(dia)]";false;false;false;false;true;false;false;PERSON;OTHER
+"[(Mega:)-(sepuh)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Mega:)-("Saya)]";false;false;false;false;true;false;false;PERSON;OTHER
+"[(Mega:)-((Baca:)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Mega:)-(Megawati)]";false;false;false;false;false;false;false;PERSON;LOCATION
+"[(Mega:)-(Capres)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Mega:)-(Kalinya)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Mega:)-(dia)]";false;false;false;false;true;false;false;PERSON;OTHER
+"[(Mega:)-(ia)]";false;false;false;false;true;false;false;PERSON;OTHER
+"[(Mega:)-(orang-orang muda)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Mega:)-(semangat,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Mega:)-(Dia)]";false;false;false;false;true;false;false;PERSON;OTHER
+"[(Mega:)-(semangat)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Mega:)-(Indonesia)]";false;false;false;false;false;false;false;PERSON;LOCATION
+"[(Saya)-(Ketua Umum)]";false;true;false;true;false;false;false;OTHER;PERSON
+"[(Saya)-(Partai Demokrasi Indonesia Perjuangan Megawati Soekarnoputri)]";false;true;false;true;false;false;false;OTHER;ORGANIZATION
+"[(Saya)-(dia)]";false;true;false;true;true;false;false;OTHER;OTHER
+"[(Saya)-(pemilihan presiden 2014)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Saya)-(Dia)]";false;true;false;true;true;false;false;OTHER;OTHER
+"[(Saya)-(kader dan pengurus)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Saya)-(partai)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Saya)-(banteng moncong putih)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Saya)-(saat ini)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Saya)-(PDI Perjuangan)]";false;true;false;true;false;false;false;OTHER;ORGANIZATION
+"[(Saya)-(partai)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Saya)-(rakyat)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Saya)-("Hasil survei)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(Saya)-(PDIP)]";false;true;false;true;false;false;false;OTHER;ORGANIZATION
+"[(Saya)-(partai)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Saya)-(rakyat,")]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(Saya)-(Surakarta)]";false;true;false;true;false;false;false;OTHER;LOCATION
+"[(Saya)-(Ahad,)]";false;false;false;true;false;false;false;OTHER;PERSON
+"[(Saya)-(14 April 2013,)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(Saya)-(saat pidato politik deklarasi)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Saya)-(pemenangan pasangan Ganjar Pranowo-Heru Sudjatmoko)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Saya)-(PDI Perjuangan)]";false;true;false;true;false;false;false;OTHER;ORGANIZATION
+"[(Saya)-(pemilihan kepala daerah Jawa Tengah)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Saya)-(Mei mendatang)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Saya)-(hasil survei)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Saya)-(PDIP)]";false;true;false;true;false;false;false;OTHER;ORGANIZATION
+"[(Saya)-(dia)]";false;true;false;true;true;false;false;OTHER;OTHER
+"[(Saya)-(kader)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Saya)-(Sebab survei)]";false;true;false;true;false;false;false;OTHER;PERSON
+"[(Saya)-(pegangan)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Saya)-("Survei)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(Saya)-(pemilihan presiden 2014?)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Saya)-(Mega)]";false;true;false;true;true;false;false;OTHER;PERSON
+"[(Saya)-(dia)]";false;true;false;true;true;false;false;OTHER;OTHER
+"[(Saya)-(sepuh)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Saya)-("Saya)]";false;false;false;true;true;false;true;OTHER;OTHER
+"[(Saya)-((Baca:)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(Saya)-(Megawati)]";false;true;false;true;false;false;false;OTHER;LOCATION
+"[(Saya)-(Capres)]";false;true;false;true;false;false;false;OTHER;PERSON
+"[(Saya)-(Kalinya)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Saya)-(dia)]";false;true;false;true;true;false;false;OTHER;OTHER
+"[(Saya)-(ia)]";false;true;false;true;true;false;false;OTHER;OTHER
+"[(Saya)-(orang-orang muda)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Saya)-(semangat,)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(Saya)-(Dia)]";false;true;false;true;true;false;false;OTHER;OTHER
+"[(Saya)-(semangat)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Saya)-(Indonesia)]";false;true;false;true;false;false;false;OTHER;LOCATION
+"[(Ketua Umum)-(Partai Demokrasi Indonesia Perjuangan Megawati Soekarnoputri)]";false;true;false;false;false;true;false;PERSON;ORGANIZATION
+"[(Ketua Umum)-(dia)]";false;true;false;false;true;true;false;PERSON;OTHER
+"[(Ketua Umum)-(pemilihan presiden 2014)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Ketua Umum)-(Dia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Ketua Umum)-(kader dan pengurus)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ketua Umum)-(partai)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ketua Umum)-(banteng moncong putih)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ketua Umum)-(saat ini)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ketua Umum)-(PDI Perjuangan)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Ketua Umum)-(partai)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ketua Umum)-(rakyat)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ketua Umum)-("Hasil survei)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Ketua Umum)-(PDIP)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Ketua Umum)-(partai)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ketua Umum)-(rakyat,")]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Ketua Umum)-(Surakarta)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Ketua Umum)-(Ahad,)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Ketua Umum)-(14 April 2013,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Ketua Umum)-(saat pidato politik deklarasi)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ketua Umum)-(pemenangan pasangan Ganjar Pranowo-Heru Sudjatmoko)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ketua Umum)-(PDI Perjuangan)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Ketua Umum)-(pemilihan kepala daerah Jawa Tengah)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ketua Umum)-(Mei mendatang)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ketua Umum)-(hasil survei)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ketua Umum)-(PDIP)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Ketua Umum)-(dia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Ketua Umum)-(kader)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ketua Umum)-(Sebab survei)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Ketua Umum)-(pegangan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ketua Umum)-("Survei)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Ketua Umum)-(pemilihan presiden 2014?)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ketua Umum)-(Mega)]";false;true;false;false;true;false;false;PERSON;PERSON
+"[(Ketua Umum)-(dia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Ketua Umum)-(sepuh)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ketua Umum)-("Saya)]";false;false;false;false;true;false;false;PERSON;OTHER
+"[(Ketua Umum)-((Baca:)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Ketua Umum)-(Megawati)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Ketua Umum)-(Capres)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Ketua Umum)-(Kalinya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ketua Umum)-(dia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Ketua Umum)-(ia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Ketua Umum)-(orang-orang muda)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ketua Umum)-(semangat,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Ketua Umum)-(Dia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Ketua Umum)-(semangat)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ketua Umum)-(Indonesia)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Partai Demokrasi Indonesia Perjuangan Megawati Soekarnoputri)-(dia)]";false;true;false;false;true;true;false;ORGANIZATION;OTHER
+"[(Partai Demokrasi Indonesia Perjuangan Megawati Soekarnoputri)-(pemilihan presiden 2014)]";false;true;false;false;false;true;false;ORGANIZATION;OTHER
+"[(Partai Demokrasi Indonesia Perjuangan Megawati Soekarnoputri)-(Dia)]";false;true;false;false;true;false;false;ORGANIZATION;OTHER
+"[(Partai Demokrasi Indonesia Perjuangan Megawati Soekarnoputri)-(kader dan pengurus)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Partai Demokrasi Indonesia Perjuangan Megawati Soekarnoputri)-(partai)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Partai Demokrasi Indonesia Perjuangan Megawati Soekarnoputri)-(banteng moncong putih)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Partai Demokrasi Indonesia Perjuangan Megawati Soekarnoputri)-(saat ini)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Partai Demokrasi Indonesia Perjuangan Megawati Soekarnoputri)-(PDI Perjuangan)]";false;true;false;false;false;false;false;ORGANIZATION;ORGANIZATION
+"[(Partai Demokrasi Indonesia Perjuangan Megawati Soekarnoputri)-(partai)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Partai Demokrasi Indonesia Perjuangan Megawati Soekarnoputri)-(rakyat)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Partai Demokrasi Indonesia Perjuangan Megawati Soekarnoputri)-("Hasil survei)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Partai Demokrasi Indonesia Perjuangan Megawati Soekarnoputri)-(PDIP)]";false;true;false;false;false;false;false;ORGANIZATION;ORGANIZATION
+"[(Partai Demokrasi Indonesia Perjuangan Megawati Soekarnoputri)-(partai)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Partai Demokrasi Indonesia Perjuangan Megawati Soekarnoputri)-(rakyat,")]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Partai Demokrasi Indonesia Perjuangan Megawati Soekarnoputri)-(Surakarta)]";false;true;false;false;false;false;false;ORGANIZATION;LOCATION
+"[(Partai Demokrasi Indonesia Perjuangan Megawati Soekarnoputri)-(Ahad,)]";false;false;false;false;false;false;false;ORGANIZATION;PERSON
+"[(Partai Demokrasi Indonesia Perjuangan Megawati Soekarnoputri)-(14 April 2013,)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Partai Demokrasi Indonesia Perjuangan Megawati Soekarnoputri)-(saat pidato politik deklarasi)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Partai Demokrasi Indonesia Perjuangan Megawati Soekarnoputri)-(pemenangan pasangan Ganjar Pranowo-Heru Sudjatmoko)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Partai Demokrasi Indonesia Perjuangan Megawati Soekarnoputri)-(PDI Perjuangan)]";false;true;false;false;false;false;false;ORGANIZATION;ORGANIZATION
+"[(Partai Demokrasi Indonesia Perjuangan Megawati Soekarnoputri)-(pemilihan kepala daerah Jawa Tengah)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Partai Demokrasi Indonesia Perjuangan Megawati Soekarnoputri)-(Mei mendatang)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Partai Demokrasi Indonesia Perjuangan Megawati Soekarnoputri)-(hasil survei)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Partai Demokrasi Indonesia Perjuangan Megawati Soekarnoputri)-(PDIP)]";false;true;false;false;false;false;false;ORGANIZATION;ORGANIZATION
+"[(Partai Demokrasi Indonesia Perjuangan Megawati Soekarnoputri)-(dia)]";false;true;false;false;true;false;false;ORGANIZATION;OTHER
+"[(Partai Demokrasi Indonesia Perjuangan Megawati Soekarnoputri)-(kader)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Partai Demokrasi Indonesia Perjuangan Megawati Soekarnoputri)-(Sebab survei)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(Partai Demokrasi Indonesia Perjuangan Megawati Soekarnoputri)-(pegangan)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Partai Demokrasi Indonesia Perjuangan Megawati Soekarnoputri)-("Survei)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Partai Demokrasi Indonesia Perjuangan Megawati Soekarnoputri)-(pemilihan presiden 2014?)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Partai Demokrasi Indonesia Perjuangan Megawati Soekarnoputri)-(Mega)]";false;true;false;false;true;false;true;ORGANIZATION;PERSON
+"[(Partai Demokrasi Indonesia Perjuangan Megawati Soekarnoputri)-(dia)]";false;true;false;false;true;false;false;ORGANIZATION;OTHER
+"[(Partai Demokrasi Indonesia Perjuangan Megawati Soekarnoputri)-(sepuh)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Partai Demokrasi Indonesia Perjuangan Megawati Soekarnoputri)-("Saya)]";false;false;false;false;true;false;false;ORGANIZATION;OTHER
+"[(Partai Demokrasi Indonesia Perjuangan Megawati Soekarnoputri)-((Baca:)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Partai Demokrasi Indonesia Perjuangan Megawati Soekarnoputri)-(Megawati)]";false;true;false;false;false;false;true;ORGANIZATION;LOCATION
+"[(Partai Demokrasi Indonesia Perjuangan Megawati Soekarnoputri)-(Capres)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(Partai Demokrasi Indonesia Perjuangan Megawati Soekarnoputri)-(Kalinya)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Partai Demokrasi Indonesia Perjuangan Megawati Soekarnoputri)-(dia)]";false;true;false;false;true;false;false;ORGANIZATION;OTHER
+"[(Partai Demokrasi Indonesia Perjuangan Megawati Soekarnoputri)-(ia)]";false;true;false;false;true;false;true;ORGANIZATION;OTHER
+"[(Partai Demokrasi Indonesia Perjuangan Megawati Soekarnoputri)-(orang-orang muda)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Partai Demokrasi Indonesia Perjuangan Megawati Soekarnoputri)-(semangat,)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Partai Demokrasi Indonesia Perjuangan Megawati Soekarnoputri)-(Dia)]";false;true;false;false;true;false;false;ORGANIZATION;OTHER
+"[(Partai Demokrasi Indonesia Perjuangan Megawati Soekarnoputri)-(semangat)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Partai Demokrasi Indonesia Perjuangan Megawati Soekarnoputri)-(Indonesia)]";false;true;false;false;false;false;true;ORGANIZATION;LOCATION
+"[(dia)-(pemilihan presiden 2014)]";false;true;false;true;false;true;false;OTHER;OTHER
+"[(dia)-(Dia)]";true;true;false;true;true;false;false;OTHER;OTHER
+"[(dia)-(kader dan pengurus)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(dia)-(partai)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(dia)-(banteng moncong putih)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(dia)-(saat ini)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(dia)-(PDI Perjuangan)]";false;true;false;true;false;false;false;OTHER;ORGANIZATION
+"[(dia)-(partai)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(dia)-(rakyat)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(dia)-("Hasil survei)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(dia)-(PDIP)]";false;true;false;true;false;false;false;OTHER;ORGANIZATION
+"[(dia)-(partai)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(dia)-(rakyat,")]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(dia)-(Surakarta)]";false;true;false;true;false;false;false;OTHER;LOCATION
+"[(dia)-(Ahad,)]";false;false;false;true;false;false;false;OTHER;PERSON
+"[(dia)-(14 April 2013,)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(dia)-(saat pidato politik deklarasi)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(dia)-(pemenangan pasangan Ganjar Pranowo-Heru Sudjatmoko)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(dia)-(PDI Perjuangan)]";false;true;false;true;false;false;false;OTHER;ORGANIZATION
+"[(dia)-(pemilihan kepala daerah Jawa Tengah)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(dia)-(Mei mendatang)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(dia)-(hasil survei)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(dia)-(PDIP)]";false;true;false;true;false;false;false;OTHER;ORGANIZATION
+"[(dia)-(dia)]";true;true;false;true;true;false;true;OTHER;OTHER
+"[(dia)-(kader)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(dia)-(Sebab survei)]";false;true;false;true;false;false;false;OTHER;PERSON
+"[(dia)-(pegangan)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(dia)-("Survei)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(dia)-(pemilihan presiden 2014?)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(dia)-(Mega)]";false;true;false;true;true;false;false;OTHER;PERSON
+"[(dia)-(dia)]";true;true;false;true;true;false;true;OTHER;OTHER
+"[(dia)-(sepuh)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(dia)-("Saya)]";false;false;false;true;true;false;false;OTHER;OTHER
+"[(dia)-((Baca:)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(dia)-(Megawati)]";false;true;false;true;false;false;false;OTHER;LOCATION
+"[(dia)-(Capres)]";false;true;false;true;false;false;false;OTHER;PERSON
+"[(dia)-(Kalinya)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(dia)-(dia)]";true;true;false;true;true;false;true;OTHER;OTHER
+"[(dia)-(ia)]";false;true;false;true;true;false;true;OTHER;OTHER
+"[(dia)-(orang-orang muda)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(dia)-(semangat,)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(dia)-(Dia)]";true;true;false;true;true;false;false;OTHER;OTHER
+"[(dia)-(semangat)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(dia)-(Indonesia)]";false;true;false;true;false;false;false;OTHER;LOCATION
+"[(pemilihan presiden 2014)-(Dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(pemilihan presiden 2014)-(kader dan pengurus)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemilihan presiden 2014)-(partai)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemilihan presiden 2014)-(banteng moncong putih)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemilihan presiden 2014)-(saat ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemilihan presiden 2014)-(PDI Perjuangan)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(pemilihan presiden 2014)-(partai)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemilihan presiden 2014)-(rakyat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemilihan presiden 2014)-("Hasil survei)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pemilihan presiden 2014)-(PDIP)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(pemilihan presiden 2014)-(partai)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemilihan presiden 2014)-(rakyat,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pemilihan presiden 2014)-(Surakarta)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(pemilihan presiden 2014)-(Ahad,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(pemilihan presiden 2014)-(14 April 2013,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pemilihan presiden 2014)-(saat pidato politik deklarasi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemilihan presiden 2014)-(pemenangan pasangan Ganjar Pranowo-Heru Sudjatmoko)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemilihan presiden 2014)-(PDI Perjuangan)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(pemilihan presiden 2014)-(pemilihan kepala daerah Jawa Tengah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemilihan presiden 2014)-(Mei mendatang)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemilihan presiden 2014)-(hasil survei)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemilihan presiden 2014)-(PDIP)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(pemilihan presiden 2014)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(pemilihan presiden 2014)-(kader)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemilihan presiden 2014)-(Sebab survei)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pemilihan presiden 2014)-(pegangan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemilihan presiden 2014)-("Survei)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pemilihan presiden 2014)-(pemilihan presiden 2014?)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(pemilihan presiden 2014)-(Mega)]";false;true;false;false;true;false;false;OTHER;PERSON
+"[(pemilihan presiden 2014)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(pemilihan presiden 2014)-(sepuh)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemilihan presiden 2014)-("Saya)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(pemilihan presiden 2014)-((Baca:)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pemilihan presiden 2014)-(Megawati)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(pemilihan presiden 2014)-(Capres)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pemilihan presiden 2014)-(Kalinya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemilihan presiden 2014)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(pemilihan presiden 2014)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(pemilihan presiden 2014)-(orang-orang muda)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemilihan presiden 2014)-(semangat,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pemilihan presiden 2014)-(Dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(pemilihan presiden 2014)-(semangat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemilihan presiden 2014)-(Indonesia)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(Dia)-(kader dan pengurus)]";false;true;false;true;false;true;false;OTHER;OTHER
+"[(Dia)-(partai)]";false;true;false;true;false;true;false;OTHER;OTHER
+"[(Dia)-(banteng moncong putih)]";false;true;false;true;false;true;false;OTHER;OTHER
+"[(Dia)-(saat ini)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Dia)-(PDI Perjuangan)]";false;true;false;true;false;false;false;OTHER;ORGANIZATION
+"[(Dia)-(partai)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Dia)-(rakyat)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Dia)-("Hasil survei)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(Dia)-(PDIP)]";false;true;false;true;false;false;false;OTHER;ORGANIZATION
+"[(Dia)-(partai)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Dia)-(rakyat,")]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(Dia)-(Surakarta)]";false;true;false;true;false;false;false;OTHER;LOCATION
+"[(Dia)-(Ahad,)]";false;false;false;true;false;false;false;OTHER;PERSON
+"[(Dia)-(14 April 2013,)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(Dia)-(saat pidato politik deklarasi)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Dia)-(pemenangan pasangan Ganjar Pranowo-Heru Sudjatmoko)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Dia)-(PDI Perjuangan)]";false;true;false;true;false;false;false;OTHER;ORGANIZATION
+"[(Dia)-(pemilihan kepala daerah Jawa Tengah)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Dia)-(Mei mendatang)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Dia)-(hasil survei)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Dia)-(PDIP)]";false;true;false;true;false;false;false;OTHER;ORGANIZATION
+"[(Dia)-(dia)]";true;true;false;true;true;false;false;OTHER;OTHER
+"[(Dia)-(kader)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Dia)-(Sebab survei)]";false;true;false;true;false;false;false;OTHER;PERSON
+"[(Dia)-(pegangan)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Dia)-("Survei)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(Dia)-(pemilihan presiden 2014?)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Dia)-(Mega)]";false;true;false;true;true;false;false;OTHER;PERSON
+"[(Dia)-(dia)]";true;true;false;true;true;false;false;OTHER;OTHER
+"[(Dia)-(sepuh)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Dia)-("Saya)]";false;false;false;true;true;false;false;OTHER;OTHER
+"[(Dia)-((Baca:)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(Dia)-(Megawati)]";false;true;false;true;false;false;false;OTHER;LOCATION
+"[(Dia)-(Capres)]";false;true;false;true;false;false;false;OTHER;PERSON
+"[(Dia)-(Kalinya)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Dia)-(dia)]";true;true;false;true;true;false;false;OTHER;OTHER
+"[(Dia)-(ia)]";false;true;false;true;true;false;true;OTHER;OTHER
+"[(Dia)-(orang-orang muda)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Dia)-(semangat,)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(Dia)-(Dia)]";true;true;false;true;true;false;true;OTHER;OTHER
+"[(Dia)-(semangat)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Dia)-(Indonesia)]";false;true;false;true;false;false;false;OTHER;LOCATION
+"[(kader dan pengurus)-(partai)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(kader dan pengurus)-(banteng moncong putih)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(kader dan pengurus)-(saat ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kader dan pengurus)-(PDI Perjuangan)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(kader dan pengurus)-(partai)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kader dan pengurus)-(rakyat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kader dan pengurus)-("Hasil survei)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(kader dan pengurus)-(PDIP)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(kader dan pengurus)-(partai)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kader dan pengurus)-(rakyat,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(kader dan pengurus)-(Surakarta)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(kader dan pengurus)-(Ahad,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(kader dan pengurus)-(14 April 2013,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(kader dan pengurus)-(saat pidato politik deklarasi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kader dan pengurus)-(pemenangan pasangan Ganjar Pranowo-Heru Sudjatmoko)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kader dan pengurus)-(PDI Perjuangan)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(kader dan pengurus)-(pemilihan kepala daerah Jawa Tengah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kader dan pengurus)-(Mei mendatang)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kader dan pengurus)-(hasil survei)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kader dan pengurus)-(PDIP)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(kader dan pengurus)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(kader dan pengurus)-(kader)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(kader dan pengurus)-(Sebab survei)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kader dan pengurus)-(pegangan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kader dan pengurus)-("Survei)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(kader dan pengurus)-(pemilihan presiden 2014?)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kader dan pengurus)-(Mega)]";false;true;false;false;true;false;false;OTHER;PERSON
+"[(kader dan pengurus)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(kader dan pengurus)-(sepuh)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kader dan pengurus)-("Saya)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(kader dan pengurus)-((Baca:)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(kader dan pengurus)-(Megawati)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(kader dan pengurus)-(Capres)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kader dan pengurus)-(Kalinya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kader dan pengurus)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(kader dan pengurus)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(kader dan pengurus)-(orang-orang muda)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kader dan pengurus)-(semangat,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(kader dan pengurus)-(Dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(kader dan pengurus)-(semangat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kader dan pengurus)-(Indonesia)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(partai)-(banteng moncong putih)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(partai)-(saat ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(partai)-(PDI Perjuangan)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(partai)-(partai)]";true;true;false;false;false;false;true;OTHER;OTHER
+"[(partai)-(rakyat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(partai)-("Hasil survei)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(partai)-(PDIP)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(partai)-(partai)]";true;true;false;false;false;false;true;OTHER;OTHER
+"[(partai)-(rakyat,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(partai)-(Surakarta)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(partai)-(Ahad,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(partai)-(14 April 2013,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(partai)-(saat pidato politik deklarasi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(partai)-(pemenangan pasangan Ganjar Pranowo-Heru Sudjatmoko)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(partai)-(PDI Perjuangan)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(partai)-(pemilihan kepala daerah Jawa Tengah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(partai)-(Mei mendatang)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(partai)-(hasil survei)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(partai)-(PDIP)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(partai)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(partai)-(kader)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(partai)-(Sebab survei)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(partai)-(pegangan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(partai)-("Survei)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(partai)-(pemilihan presiden 2014?)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(partai)-(Mega)]";false;true;false;false;true;false;false;OTHER;PERSON
+"[(partai)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(partai)-(sepuh)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(partai)-("Saya)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(partai)-((Baca:)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(partai)-(Megawati)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(partai)-(Capres)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(partai)-(Kalinya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(partai)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(partai)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(partai)-(orang-orang muda)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(partai)-(semangat,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(partai)-(Dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(partai)-(semangat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(partai)-(Indonesia)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(banteng moncong putih)-(saat ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(banteng moncong putih)-(PDI Perjuangan)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(banteng moncong putih)-(partai)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(banteng moncong putih)-(rakyat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(banteng moncong putih)-("Hasil survei)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(banteng moncong putih)-(PDIP)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(banteng moncong putih)-(partai)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(banteng moncong putih)-(rakyat,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(banteng moncong putih)-(Surakarta)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(banteng moncong putih)-(Ahad,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(banteng moncong putih)-(14 April 2013,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(banteng moncong putih)-(saat pidato politik deklarasi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(banteng moncong putih)-(pemenangan pasangan Ganjar Pranowo-Heru Sudjatmoko)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(banteng moncong putih)-(PDI Perjuangan)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(banteng moncong putih)-(pemilihan kepala daerah Jawa Tengah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(banteng moncong putih)-(Mei mendatang)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(banteng moncong putih)-(hasil survei)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(banteng moncong putih)-(PDIP)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(banteng moncong putih)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(banteng moncong putih)-(kader)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(banteng moncong putih)-(Sebab survei)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(banteng moncong putih)-(pegangan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(banteng moncong putih)-("Survei)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(banteng moncong putih)-(pemilihan presiden 2014?)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(banteng moncong putih)-(Mega)]";false;true;false;false;true;false;false;OTHER;PERSON
+"[(banteng moncong putih)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(banteng moncong putih)-(sepuh)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(banteng moncong putih)-("Saya)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(banteng moncong putih)-((Baca:)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(banteng moncong putih)-(Megawati)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(banteng moncong putih)-(Capres)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(banteng moncong putih)-(Kalinya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(banteng moncong putih)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(banteng moncong putih)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(banteng moncong putih)-(orang-orang muda)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(banteng moncong putih)-(semangat,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(banteng moncong putih)-(Dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(banteng moncong putih)-(semangat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(banteng moncong putih)-(Indonesia)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(saat ini)-(PDI Perjuangan)]";false;true;false;false;false;true;false;OTHER;ORGANIZATION
+"[(saat ini)-(partai)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(saat ini)-(rakyat)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(saat ini)-("Hasil survei)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(saat ini)-(PDIP)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(saat ini)-(partai)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(saat ini)-(rakyat,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(saat ini)-(Surakarta)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(saat ini)-(Ahad,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(saat ini)-(14 April 2013,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(saat ini)-(saat pidato politik deklarasi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(saat ini)-(pemenangan pasangan Ganjar Pranowo-Heru Sudjatmoko)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(saat ini)-(PDI Perjuangan)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(saat ini)-(pemilihan kepala daerah Jawa Tengah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(saat ini)-(Mei mendatang)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(saat ini)-(hasil survei)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(saat ini)-(PDIP)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(saat ini)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(saat ini)-(kader)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(saat ini)-(Sebab survei)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(saat ini)-(pegangan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(saat ini)-("Survei)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(saat ini)-(pemilihan presiden 2014?)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(saat ini)-(Mega)]";false;true;false;false;true;false;false;OTHER;PERSON
+"[(saat ini)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(saat ini)-(sepuh)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(saat ini)-("Saya)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(saat ini)-((Baca:)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(saat ini)-(Megawati)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(saat ini)-(Capres)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(saat ini)-(Kalinya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(saat ini)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(saat ini)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(saat ini)-(orang-orang muda)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(saat ini)-(semangat,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(saat ini)-(Dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(saat ini)-(semangat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(saat ini)-(Indonesia)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(PDI Perjuangan)-(partai)]";false;true;false;false;false;true;false;ORGANIZATION;OTHER
+"[(PDI Perjuangan)-(rakyat)]";false;true;false;false;false;true;false;ORGANIZATION;OTHER
+"[(PDI Perjuangan)-("Hasil survei)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDI Perjuangan)-(PDIP)]";false;true;false;false;false;false;false;ORGANIZATION;ORGANIZATION
+"[(PDI Perjuangan)-(partai)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDI Perjuangan)-(rakyat,")]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDI Perjuangan)-(Surakarta)]";false;true;false;false;false;false;false;ORGANIZATION;LOCATION
+"[(PDI Perjuangan)-(Ahad,)]";false;false;false;false;false;false;false;ORGANIZATION;PERSON
+"[(PDI Perjuangan)-(14 April 2013,)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDI Perjuangan)-(saat pidato politik deklarasi)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDI Perjuangan)-(pemenangan pasangan Ganjar Pranowo-Heru Sudjatmoko)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDI Perjuangan)-(PDI Perjuangan)]";true;true;false;false;false;false;true;ORGANIZATION;ORGANIZATION
+"[(PDI Perjuangan)-(pemilihan kepala daerah Jawa Tengah)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDI Perjuangan)-(Mei mendatang)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDI Perjuangan)-(hasil survei)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDI Perjuangan)-(PDIP)]";false;true;false;false;false;false;false;ORGANIZATION;ORGANIZATION
+"[(PDI Perjuangan)-(dia)]";false;true;false;false;true;false;false;ORGANIZATION;OTHER
+"[(PDI Perjuangan)-(kader)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDI Perjuangan)-(Sebab survei)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(PDI Perjuangan)-(pegangan)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDI Perjuangan)-("Survei)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDI Perjuangan)-(pemilihan presiden 2014?)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDI Perjuangan)-(Mega)]";false;true;false;false;true;false;false;ORGANIZATION;PERSON
+"[(PDI Perjuangan)-(dia)]";false;true;false;false;true;false;false;ORGANIZATION;OTHER
+"[(PDI Perjuangan)-(sepuh)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDI Perjuangan)-("Saya)]";false;false;false;false;true;false;false;ORGANIZATION;OTHER
+"[(PDI Perjuangan)-((Baca:)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDI Perjuangan)-(Megawati)]";false;true;false;false;false;false;false;ORGANIZATION;LOCATION
+"[(PDI Perjuangan)-(Capres)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(PDI Perjuangan)-(Kalinya)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDI Perjuangan)-(dia)]";false;true;false;false;true;false;false;ORGANIZATION;OTHER
+"[(PDI Perjuangan)-(ia)]";false;true;false;false;true;false;false;ORGANIZATION;OTHER
+"[(PDI Perjuangan)-(orang-orang muda)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDI Perjuangan)-(semangat,)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDI Perjuangan)-(Dia)]";false;true;false;false;true;false;false;ORGANIZATION;OTHER
+"[(PDI Perjuangan)-(semangat)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDI Perjuangan)-(Indonesia)]";false;true;false;false;false;false;false;ORGANIZATION;LOCATION
+"[(partai)-(rakyat)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(partai)-("Hasil survei)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(partai)-(PDIP)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(partai)-(partai)]";true;true;false;false;false;false;true;OTHER;OTHER
+"[(partai)-(rakyat,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(partai)-(Surakarta)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(partai)-(Ahad,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(partai)-(14 April 2013,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(partai)-(saat pidato politik deklarasi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(partai)-(pemenangan pasangan Ganjar Pranowo-Heru Sudjatmoko)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(partai)-(PDI Perjuangan)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(partai)-(pemilihan kepala daerah Jawa Tengah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(partai)-(Mei mendatang)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(partai)-(hasil survei)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(partai)-(PDIP)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(partai)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(partai)-(kader)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(partai)-(Sebab survei)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(partai)-(pegangan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(partai)-("Survei)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(partai)-(pemilihan presiden 2014?)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(partai)-(Mega)]";false;true;false;false;true;false;false;OTHER;PERSON
+"[(partai)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(partai)-(sepuh)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(partai)-("Saya)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(partai)-((Baca:)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(partai)-(Megawati)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(partai)-(Capres)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(partai)-(Kalinya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(partai)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(partai)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(partai)-(orang-orang muda)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(partai)-(semangat,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(partai)-(Dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(partai)-(semangat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(partai)-(Indonesia)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(rakyat)-("Hasil survei)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(rakyat)-(PDIP)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(rakyat)-(partai)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(rakyat)-(rakyat,")]";false;false;false;false;false;false;true;OTHER;OTHER
+"[(rakyat)-(Surakarta)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(rakyat)-(Ahad,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(rakyat)-(14 April 2013,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(rakyat)-(saat pidato politik deklarasi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(rakyat)-(pemenangan pasangan Ganjar Pranowo-Heru Sudjatmoko)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(rakyat)-(PDI Perjuangan)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(rakyat)-(pemilihan kepala daerah Jawa Tengah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(rakyat)-(Mei mendatang)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(rakyat)-(hasil survei)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(rakyat)-(PDIP)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(rakyat)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(rakyat)-(kader)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(rakyat)-(Sebab survei)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(rakyat)-(pegangan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(rakyat)-("Survei)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(rakyat)-(pemilihan presiden 2014?)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(rakyat)-(Mega)]";false;true;false;false;true;false;false;OTHER;PERSON
+"[(rakyat)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(rakyat)-(sepuh)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(rakyat)-("Saya)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(rakyat)-((Baca:)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(rakyat)-(Megawati)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(rakyat)-(Capres)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(rakyat)-(Kalinya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(rakyat)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(rakyat)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(rakyat)-(orang-orang muda)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(rakyat)-(semangat,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(rakyat)-(Dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(rakyat)-(semangat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(rakyat)-(Indonesia)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[("Hasil survei)-(PDIP)]";false;false;false;false;false;true;false;OTHER;ORGANIZATION
+"[("Hasil survei)-(partai)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[("Hasil survei)-(rakyat,")]";false;false;false;false;false;true;false;OTHER;OTHER
+"[("Hasil survei)-(Surakarta)]";false;false;false;false;false;true;false;OTHER;LOCATION
+"[("Hasil survei)-(Ahad,)]";false;false;false;false;false;true;false;OTHER;PERSON
+"[("Hasil survei)-(14 April 2013,)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[("Hasil survei)-(saat pidato politik deklarasi)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[("Hasil survei)-(pemenangan pasangan Ganjar Pranowo-Heru Sudjatmoko)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[("Hasil survei)-(PDI Perjuangan)]";false;false;false;false;false;true;false;OTHER;ORGANIZATION
+"[("Hasil survei)-(pemilihan kepala daerah Jawa Tengah)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[("Hasil survei)-(Mei mendatang)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[("Hasil survei)-(hasil survei)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Hasil survei)-(PDIP)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[("Hasil survei)-(dia)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[("Hasil survei)-(kader)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Hasil survei)-(Sebab survei)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[("Hasil survei)-(pegangan)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Hasil survei)-("Survei)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Hasil survei)-(pemilihan presiden 2014?)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Hasil survei)-(Mega)]";false;false;false;false;true;false;false;OTHER;PERSON
+"[("Hasil survei)-(dia)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[("Hasil survei)-(sepuh)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Hasil survei)-("Saya)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[("Hasil survei)-((Baca:)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Hasil survei)-(Megawati)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[("Hasil survei)-(Capres)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[("Hasil survei)-(Kalinya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Hasil survei)-(dia)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[("Hasil survei)-(ia)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[("Hasil survei)-(orang-orang muda)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Hasil survei)-(semangat,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Hasil survei)-(Dia)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[("Hasil survei)-(semangat)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Hasil survei)-(Indonesia)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(PDIP)-(partai)]";false;true;false;false;false;true;false;ORGANIZATION;OTHER
+"[(PDIP)-(rakyat,")]";false;false;false;false;false;true;false;ORGANIZATION;OTHER
+"[(PDIP)-(Surakarta)]";false;true;false;false;false;true;false;ORGANIZATION;LOCATION
+"[(PDIP)-(Ahad,)]";false;false;false;false;false;true;false;ORGANIZATION;PERSON
+"[(PDIP)-(14 April 2013,)]";false;false;false;false;false;true;false;ORGANIZATION;OTHER
+"[(PDIP)-(saat pidato politik deklarasi)]";false;true;false;false;false;true;false;ORGANIZATION;OTHER
+"[(PDIP)-(pemenangan pasangan Ganjar Pranowo-Heru Sudjatmoko)]";false;true;false;false;false;true;false;ORGANIZATION;OTHER
+"[(PDIP)-(PDI Perjuangan)]";false;true;false;false;false;true;false;ORGANIZATION;ORGANIZATION
+"[(PDIP)-(pemilihan kepala daerah Jawa Tengah)]";false;true;false;false;false;true;false;ORGANIZATION;OTHER
+"[(PDIP)-(Mei mendatang)]";false;true;false;false;false;true;false;ORGANIZATION;OTHER
+"[(PDIP)-(hasil survei)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP)-(PDIP)]";true;true;false;false;false;false;true;ORGANIZATION;ORGANIZATION
+"[(PDIP)-(dia)]";false;true;false;false;true;false;false;ORGANIZATION;OTHER
+"[(PDIP)-(kader)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP)-(Sebab survei)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(PDIP)-(pegangan)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP)-("Survei)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP)-(pemilihan presiden 2014?)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP)-(Mega)]";false;true;false;false;true;false;false;ORGANIZATION;PERSON
+"[(PDIP)-(dia)]";false;true;false;false;true;false;false;ORGANIZATION;OTHER
+"[(PDIP)-(sepuh)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP)-("Saya)]";false;false;false;false;true;false;false;ORGANIZATION;OTHER
+"[(PDIP)-((Baca:)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP)-(Megawati)]";false;true;false;false;false;false;false;ORGANIZATION;LOCATION
+"[(PDIP)-(Capres)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(PDIP)-(Kalinya)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP)-(dia)]";false;true;false;false;true;false;false;ORGANIZATION;OTHER
+"[(PDIP)-(ia)]";false;true;false;false;true;false;false;ORGANIZATION;OTHER
+"[(PDIP)-(orang-orang muda)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP)-(semangat,)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP)-(Dia)]";false;true;false;false;true;false;false;ORGANIZATION;OTHER
+"[(PDIP)-(semangat)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP)-(Indonesia)]";false;true;false;false;false;false;false;ORGANIZATION;LOCATION
+"[(partai)-(rakyat,")]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(partai)-(Surakarta)]";false;true;false;false;false;true;false;OTHER;LOCATION
+"[(partai)-(Ahad,)]";false;false;false;false;false;true;false;OTHER;PERSON
+"[(partai)-(14 April 2013,)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(partai)-(saat pidato politik deklarasi)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(partai)-(pemenangan pasangan Ganjar Pranowo-Heru Sudjatmoko)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(partai)-(PDI Perjuangan)]";false;true;false;false;false;true;false;OTHER;ORGANIZATION
+"[(partai)-(pemilihan kepala daerah Jawa Tengah)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(partai)-(Mei mendatang)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(partai)-(hasil survei)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(partai)-(PDIP)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(partai)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(partai)-(kader)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(partai)-(Sebab survei)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(partai)-(pegangan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(partai)-("Survei)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(partai)-(pemilihan presiden 2014?)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(partai)-(Mega)]";false;true;false;false;true;false;false;OTHER;PERSON
+"[(partai)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(partai)-(sepuh)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(partai)-("Saya)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(partai)-((Baca:)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(partai)-(Megawati)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(partai)-(Capres)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(partai)-(Kalinya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(partai)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(partai)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(partai)-(orang-orang muda)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(partai)-(semangat,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(partai)-(Dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(partai)-(semangat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(partai)-(Indonesia)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(rakyat,")-(Surakarta)]";false;false;false;false;false;true;false;OTHER;LOCATION
+"[(rakyat,")-(Ahad,)]";false;false;false;false;false;true;false;OTHER;PERSON
+"[(rakyat,")-(14 April 2013,)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(rakyat,")-(saat pidato politik deklarasi)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(rakyat,")-(pemenangan pasangan Ganjar Pranowo-Heru Sudjatmoko)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(rakyat,")-(PDI Perjuangan)]";false;false;false;false;false;true;false;OTHER;ORGANIZATION
+"[(rakyat,")-(pemilihan kepala daerah Jawa Tengah)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(rakyat,")-(Mei mendatang)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(rakyat,")-(hasil survei)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(rakyat,")-(PDIP)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(rakyat,")-(dia)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(rakyat,")-(kader)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(rakyat,")-(Sebab survei)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(rakyat,")-(pegangan)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(rakyat,")-("Survei)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(rakyat,")-(pemilihan presiden 2014?)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(rakyat,")-(Mega)]";false;false;false;false;true;false;false;OTHER;PERSON
+"[(rakyat,")-(dia)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(rakyat,")-(sepuh)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(rakyat,")-("Saya)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(rakyat,")-((Baca:)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(rakyat,")-(Megawati)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(rakyat,")-(Capres)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(rakyat,")-(Kalinya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(rakyat,")-(dia)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(rakyat,")-(ia)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(rakyat,")-(orang-orang muda)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(rakyat,")-(semangat,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(rakyat,")-(Dia)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(rakyat,")-(semangat)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(rakyat,")-(Indonesia)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(Surakarta)-(Ahad,)]";false;false;false;false;false;true;false;LOCATION;PERSON
+"[(Surakarta)-(14 April 2013,)]";false;false;false;false;false;true;false;LOCATION;OTHER
+"[(Surakarta)-(saat pidato politik deklarasi)]";false;true;false;false;false;true;false;LOCATION;OTHER
+"[(Surakarta)-(pemenangan pasangan Ganjar Pranowo-Heru Sudjatmoko)]";false;true;false;false;false;true;false;LOCATION;OTHER
+"[(Surakarta)-(PDI Perjuangan)]";false;true;false;false;false;true;false;LOCATION;ORGANIZATION
+"[(Surakarta)-(pemilihan kepala daerah Jawa Tengah)]";false;true;false;false;false;true;false;LOCATION;OTHER
+"[(Surakarta)-(Mei mendatang)]";false;true;false;false;false;true;false;LOCATION;OTHER
+"[(Surakarta)-(hasil survei)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Surakarta)-(PDIP)]";false;true;false;false;false;false;false;LOCATION;ORGANIZATION
+"[(Surakarta)-(dia)]";false;true;false;false;true;false;false;LOCATION;OTHER
+"[(Surakarta)-(kader)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Surakarta)-(Sebab survei)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Surakarta)-(pegangan)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Surakarta)-("Survei)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Surakarta)-(pemilihan presiden 2014?)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Surakarta)-(Mega)]";false;true;false;false;true;false;false;LOCATION;PERSON
+"[(Surakarta)-(dia)]";false;true;false;false;true;false;false;LOCATION;OTHER
+"[(Surakarta)-(sepuh)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Surakarta)-("Saya)]";false;false;false;false;true;false;false;LOCATION;OTHER
+"[(Surakarta)-((Baca:)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Surakarta)-(Megawati)]";false;true;false;false;false;false;false;LOCATION;LOCATION
+"[(Surakarta)-(Capres)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Surakarta)-(Kalinya)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Surakarta)-(dia)]";false;true;false;false;true;false;false;LOCATION;OTHER
+"[(Surakarta)-(ia)]";false;true;false;false;true;false;false;LOCATION;OTHER
+"[(Surakarta)-(orang-orang muda)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Surakarta)-(semangat,)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Surakarta)-(Dia)]";false;true;false;false;true;false;false;LOCATION;OTHER
+"[(Surakarta)-(semangat)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Surakarta)-(Indonesia)]";false;true;false;false;false;false;false;LOCATION;LOCATION
+"[(Ahad,)-(14 April 2013,)]";false;false;false;false;false;true;false;PERSON;OTHER
+"[(Ahad,)-(saat pidato politik deklarasi)]";false;false;false;false;false;true;false;PERSON;OTHER
+"[(Ahad,)-(pemenangan pasangan Ganjar Pranowo-Heru Sudjatmoko)]";false;false;false;false;false;true;false;PERSON;OTHER
+"[(Ahad,)-(PDI Perjuangan)]";false;false;false;false;false;true;false;PERSON;ORGANIZATION
+"[(Ahad,)-(pemilihan kepala daerah Jawa Tengah)]";false;false;false;false;false;true;false;PERSON;OTHER
+"[(Ahad,)-(Mei mendatang)]";false;false;false;false;false;true;false;PERSON;OTHER
+"[(Ahad,)-(hasil survei)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Ahad,)-(PDIP)]";false;false;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Ahad,)-(dia)]";false;false;false;false;true;false;false;PERSON;OTHER
+"[(Ahad,)-(kader)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Ahad,)-(Sebab survei)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Ahad,)-(pegangan)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Ahad,)-("Survei)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Ahad,)-(pemilihan presiden 2014?)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Ahad,)-(Mega)]";false;false;false;false;true;false;false;PERSON;PERSON
+"[(Ahad,)-(dia)]";false;false;false;false;true;false;false;PERSON;OTHER
+"[(Ahad,)-(sepuh)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Ahad,)-("Saya)]";false;false;false;false;true;false;false;PERSON;OTHER
+"[(Ahad,)-((Baca:)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Ahad,)-(Megawati)]";false;false;false;false;false;false;false;PERSON;LOCATION
+"[(Ahad,)-(Capres)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Ahad,)-(Kalinya)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Ahad,)-(dia)]";false;false;false;false;true;false;false;PERSON;OTHER
+"[(Ahad,)-(ia)]";false;false;false;false;true;false;false;PERSON;OTHER
+"[(Ahad,)-(orang-orang muda)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Ahad,)-(semangat,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Ahad,)-(Dia)]";false;false;false;false;true;false;false;PERSON;OTHER
+"[(Ahad,)-(semangat)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Ahad,)-(Indonesia)]";false;false;false;false;false;false;false;PERSON;LOCATION
+"[(14 April 2013,)-(saat pidato politik deklarasi)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(14 April 2013,)-(pemenangan pasangan Ganjar Pranowo-Heru Sudjatmoko)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(14 April 2013,)-(PDI Perjuangan)]";false;false;false;false;false;true;false;OTHER;ORGANIZATION
+"[(14 April 2013,)-(pemilihan kepala daerah Jawa Tengah)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(14 April 2013,)-(Mei mendatang)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(14 April 2013,)-(hasil survei)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(14 April 2013,)-(PDIP)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(14 April 2013,)-(dia)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(14 April 2013,)-(kader)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(14 April 2013,)-(Sebab survei)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(14 April 2013,)-(pegangan)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(14 April 2013,)-("Survei)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(14 April 2013,)-(pemilihan presiden 2014?)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(14 April 2013,)-(Mega)]";false;false;false;false;true;false;false;OTHER;PERSON
+"[(14 April 2013,)-(dia)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(14 April 2013,)-(sepuh)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(14 April 2013,)-("Saya)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(14 April 2013,)-((Baca:)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(14 April 2013,)-(Megawati)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(14 April 2013,)-(Capres)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(14 April 2013,)-(Kalinya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(14 April 2013,)-(dia)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(14 April 2013,)-(ia)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(14 April 2013,)-(orang-orang muda)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(14 April 2013,)-(semangat,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(14 April 2013,)-(Dia)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(14 April 2013,)-(semangat)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(14 April 2013,)-(Indonesia)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(saat pidato politik deklarasi)-(pemenangan pasangan Ganjar Pranowo-Heru Sudjatmoko)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(saat pidato politik deklarasi)-(PDI Perjuangan)]";false;true;false;false;false;true;false;OTHER;ORGANIZATION
+"[(saat pidato politik deklarasi)-(pemilihan kepala daerah Jawa Tengah)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(saat pidato politik deklarasi)-(Mei mendatang)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(saat pidato politik deklarasi)-(hasil survei)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(saat pidato politik deklarasi)-(PDIP)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(saat pidato politik deklarasi)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(saat pidato politik deklarasi)-(kader)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(saat pidato politik deklarasi)-(Sebab survei)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(saat pidato politik deklarasi)-(pegangan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(saat pidato politik deklarasi)-("Survei)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(saat pidato politik deklarasi)-(pemilihan presiden 2014?)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(saat pidato politik deklarasi)-(Mega)]";false;true;false;false;true;false;false;OTHER;PERSON
+"[(saat pidato politik deklarasi)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(saat pidato politik deklarasi)-(sepuh)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(saat pidato politik deklarasi)-("Saya)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(saat pidato politik deklarasi)-((Baca:)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(saat pidato politik deklarasi)-(Megawati)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(saat pidato politik deklarasi)-(Capres)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(saat pidato politik deklarasi)-(Kalinya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(saat pidato politik deklarasi)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(saat pidato politik deklarasi)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(saat pidato politik deklarasi)-(orang-orang muda)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(saat pidato politik deklarasi)-(semangat,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(saat pidato politik deklarasi)-(Dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(saat pidato politik deklarasi)-(semangat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(saat pidato politik deklarasi)-(Indonesia)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(pemenangan pasangan Ganjar Pranowo-Heru Sudjatmoko)-(PDI Perjuangan)]";false;true;false;false;false;true;false;OTHER;ORGANIZATION
+"[(pemenangan pasangan Ganjar Pranowo-Heru Sudjatmoko)-(pemilihan kepala daerah Jawa Tengah)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(pemenangan pasangan Ganjar Pranowo-Heru Sudjatmoko)-(Mei mendatang)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(pemenangan pasangan Ganjar Pranowo-Heru Sudjatmoko)-(hasil survei)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemenangan pasangan Ganjar Pranowo-Heru Sudjatmoko)-(PDIP)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(pemenangan pasangan Ganjar Pranowo-Heru Sudjatmoko)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(pemenangan pasangan Ganjar Pranowo-Heru Sudjatmoko)-(kader)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemenangan pasangan Ganjar Pranowo-Heru Sudjatmoko)-(Sebab survei)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pemenangan pasangan Ganjar Pranowo-Heru Sudjatmoko)-(pegangan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemenangan pasangan Ganjar Pranowo-Heru Sudjatmoko)-("Survei)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pemenangan pasangan Ganjar Pranowo-Heru Sudjatmoko)-(pemilihan presiden 2014?)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemenangan pasangan Ganjar Pranowo-Heru Sudjatmoko)-(Mega)]";false;true;false;false;true;false;false;OTHER;PERSON
+"[(pemenangan pasangan Ganjar Pranowo-Heru Sudjatmoko)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(pemenangan pasangan Ganjar Pranowo-Heru Sudjatmoko)-(sepuh)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemenangan pasangan Ganjar Pranowo-Heru Sudjatmoko)-("Saya)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(pemenangan pasangan Ganjar Pranowo-Heru Sudjatmoko)-((Baca:)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pemenangan pasangan Ganjar Pranowo-Heru Sudjatmoko)-(Megawati)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(pemenangan pasangan Ganjar Pranowo-Heru Sudjatmoko)-(Capres)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pemenangan pasangan Ganjar Pranowo-Heru Sudjatmoko)-(Kalinya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemenangan pasangan Ganjar Pranowo-Heru Sudjatmoko)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(pemenangan pasangan Ganjar Pranowo-Heru Sudjatmoko)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(pemenangan pasangan Ganjar Pranowo-Heru Sudjatmoko)-(orang-orang muda)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemenangan pasangan Ganjar Pranowo-Heru Sudjatmoko)-(semangat,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pemenangan pasangan Ganjar Pranowo-Heru Sudjatmoko)-(Dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(pemenangan pasangan Ganjar Pranowo-Heru Sudjatmoko)-(semangat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemenangan pasangan Ganjar Pranowo-Heru Sudjatmoko)-(Indonesia)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(PDI Perjuangan)-(pemilihan kepala daerah Jawa Tengah)]";false;true;false;false;false;true;false;ORGANIZATION;OTHER
+"[(PDI Perjuangan)-(Mei mendatang)]";false;true;false;false;false;true;false;ORGANIZATION;OTHER
+"[(PDI Perjuangan)-(hasil survei)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDI Perjuangan)-(PDIP)]";false;true;false;false;false;false;false;ORGANIZATION;ORGANIZATION
+"[(PDI Perjuangan)-(dia)]";false;true;false;false;true;false;false;ORGANIZATION;OTHER
+"[(PDI Perjuangan)-(kader)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDI Perjuangan)-(Sebab survei)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(PDI Perjuangan)-(pegangan)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDI Perjuangan)-("Survei)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDI Perjuangan)-(pemilihan presiden 2014?)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDI Perjuangan)-(Mega)]";false;true;false;false;true;false;false;ORGANIZATION;PERSON
+"[(PDI Perjuangan)-(dia)]";false;true;false;false;true;false;false;ORGANIZATION;OTHER
+"[(PDI Perjuangan)-(sepuh)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDI Perjuangan)-("Saya)]";false;false;false;false;true;false;false;ORGANIZATION;OTHER
+"[(PDI Perjuangan)-((Baca:)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDI Perjuangan)-(Megawati)]";false;true;false;false;false;false;false;ORGANIZATION;LOCATION
+"[(PDI Perjuangan)-(Capres)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(PDI Perjuangan)-(Kalinya)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDI Perjuangan)-(dia)]";false;true;false;false;true;false;false;ORGANIZATION;OTHER
+"[(PDI Perjuangan)-(ia)]";false;true;false;false;true;false;false;ORGANIZATION;OTHER
+"[(PDI Perjuangan)-(orang-orang muda)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDI Perjuangan)-(semangat,)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDI Perjuangan)-(Dia)]";false;true;false;false;true;false;false;ORGANIZATION;OTHER
+"[(PDI Perjuangan)-(semangat)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDI Perjuangan)-(Indonesia)]";false;true;false;false;false;false;false;ORGANIZATION;LOCATION
+"[(pemilihan kepala daerah Jawa Tengah)-(Mei mendatang)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(pemilihan kepala daerah Jawa Tengah)-(hasil survei)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemilihan kepala daerah Jawa Tengah)-(PDIP)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(pemilihan kepala daerah Jawa Tengah)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(pemilihan kepala daerah Jawa Tengah)-(kader)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemilihan kepala daerah Jawa Tengah)-(Sebab survei)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pemilihan kepala daerah Jawa Tengah)-(pegangan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemilihan kepala daerah Jawa Tengah)-("Survei)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pemilihan kepala daerah Jawa Tengah)-(pemilihan presiden 2014?)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemilihan kepala daerah Jawa Tengah)-(Mega)]";false;true;false;false;true;false;false;OTHER;PERSON
+"[(pemilihan kepala daerah Jawa Tengah)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(pemilihan kepala daerah Jawa Tengah)-(sepuh)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemilihan kepala daerah Jawa Tengah)-("Saya)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(pemilihan kepala daerah Jawa Tengah)-((Baca:)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pemilihan kepala daerah Jawa Tengah)-(Megawati)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(pemilihan kepala daerah Jawa Tengah)-(Capres)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pemilihan kepala daerah Jawa Tengah)-(Kalinya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemilihan kepala daerah Jawa Tengah)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(pemilihan kepala daerah Jawa Tengah)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(pemilihan kepala daerah Jawa Tengah)-(orang-orang muda)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemilihan kepala daerah Jawa Tengah)-(semangat,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pemilihan kepala daerah Jawa Tengah)-(Dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(pemilihan kepala daerah Jawa Tengah)-(semangat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemilihan kepala daerah Jawa Tengah)-(Indonesia)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(Mei mendatang)-(hasil survei)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Mei mendatang)-(PDIP)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(Mei mendatang)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(Mei mendatang)-(kader)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Mei mendatang)-(Sebab survei)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(Mei mendatang)-(pegangan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Mei mendatang)-("Survei)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Mei mendatang)-(pemilihan presiden 2014?)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Mei mendatang)-(Mega)]";false;true;false;false;true;false;false;OTHER;PERSON
+"[(Mei mendatang)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(Mei mendatang)-(sepuh)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Mei mendatang)-("Saya)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(Mei mendatang)-((Baca:)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Mei mendatang)-(Megawati)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(Mei mendatang)-(Capres)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(Mei mendatang)-(Kalinya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Mei mendatang)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(Mei mendatang)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(Mei mendatang)-(orang-orang muda)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Mei mendatang)-(semangat,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Mei mendatang)-(Dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(Mei mendatang)-(semangat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Mei mendatang)-(Indonesia)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(hasil survei)-(PDIP)]";false;true;false;false;false;true;false;OTHER;ORGANIZATION
+"[(hasil survei)-(dia)]";false;true;false;false;true;true;false;OTHER;OTHER
+"[(hasil survei)-(kader)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(hasil survei)-(Sebab survei)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(hasil survei)-(pegangan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hasil survei)-("Survei)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(hasil survei)-(pemilihan presiden 2014?)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hasil survei)-(Mega)]";false;true;false;false;true;false;false;OTHER;PERSON
+"[(hasil survei)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(hasil survei)-(sepuh)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hasil survei)-("Saya)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(hasil survei)-((Baca:)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(hasil survei)-(Megawati)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(hasil survei)-(Capres)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(hasil survei)-(Kalinya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hasil survei)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(hasil survei)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(hasil survei)-(orang-orang muda)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hasil survei)-(semangat,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(hasil survei)-(Dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(hasil survei)-(semangat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hasil survei)-(Indonesia)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(PDIP)-(dia)]";false;true;false;false;true;true;false;ORGANIZATION;OTHER
+"[(PDIP)-(kader)]";false;true;false;false;false;true;false;ORGANIZATION;OTHER
+"[(PDIP)-(Sebab survei)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(PDIP)-(pegangan)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP)-("Survei)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP)-(pemilihan presiden 2014?)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP)-(Mega)]";false;true;false;false;true;false;false;ORGANIZATION;PERSON
+"[(PDIP)-(dia)]";false;true;false;false;true;false;false;ORGANIZATION;OTHER
+"[(PDIP)-(sepuh)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP)-("Saya)]";false;false;false;false;true;false;false;ORGANIZATION;OTHER
+"[(PDIP)-((Baca:)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP)-(Megawati)]";false;true;false;false;false;false;false;ORGANIZATION;LOCATION
+"[(PDIP)-(Capres)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(PDIP)-(Kalinya)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP)-(dia)]";false;true;false;false;true;false;false;ORGANIZATION;OTHER
+"[(PDIP)-(ia)]";false;true;false;false;true;false;false;ORGANIZATION;OTHER
+"[(PDIP)-(orang-orang muda)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP)-(semangat,)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP)-(Dia)]";false;true;false;false;true;false;false;ORGANIZATION;OTHER
+"[(PDIP)-(semangat)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP)-(Indonesia)]";false;true;false;false;false;false;false;ORGANIZATION;LOCATION
+"[(dia)-(kader)]";false;true;false;true;false;true;false;OTHER;OTHER
+"[(dia)-(Sebab survei)]";false;true;false;true;false;false;false;OTHER;PERSON
+"[(dia)-(pegangan)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(dia)-("Survei)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(dia)-(pemilihan presiden 2014?)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(dia)-(Mega)]";false;true;false;true;true;false;false;OTHER;PERSON
+"[(dia)-(dia)]";true;true;false;true;true;false;true;OTHER;OTHER
+"[(dia)-(sepuh)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(dia)-("Saya)]";false;false;false;true;true;false;false;OTHER;OTHER
+"[(dia)-((Baca:)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(dia)-(Megawati)]";false;true;false;true;false;false;false;OTHER;LOCATION
+"[(dia)-(Capres)]";false;true;false;true;false;false;false;OTHER;PERSON
+"[(dia)-(Kalinya)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(dia)-(dia)]";true;true;false;true;true;false;true;OTHER;OTHER
+"[(dia)-(ia)]";false;true;false;true;true;false;true;OTHER;OTHER
+"[(dia)-(orang-orang muda)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(dia)-(semangat,)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(dia)-(Dia)]";true;true;false;true;true;false;false;OTHER;OTHER
+"[(dia)-(semangat)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(dia)-(Indonesia)]";false;true;false;true;false;false;false;OTHER;LOCATION
+"[(kader)-(Sebab survei)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kader)-(pegangan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kader)-("Survei)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(kader)-(pemilihan presiden 2014?)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kader)-(Mega)]";false;true;false;false;true;false;false;OTHER;PERSON
+"[(kader)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(kader)-(sepuh)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kader)-("Saya)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(kader)-((Baca:)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(kader)-(Megawati)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(kader)-(Capres)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kader)-(Kalinya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kader)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(kader)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(kader)-(orang-orang muda)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kader)-(semangat,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(kader)-(Dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(kader)-(semangat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kader)-(Indonesia)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(Sebab survei)-(pegangan)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Sebab survei)-("Survei)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Sebab survei)-(pemilihan presiden 2014?)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Sebab survei)-(Mega)]";false;true;false;false;true;false;false;PERSON;PERSON
+"[(Sebab survei)-(dia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Sebab survei)-(sepuh)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Sebab survei)-("Saya)]";false;false;false;false;true;false;false;PERSON;OTHER
+"[(Sebab survei)-((Baca:)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Sebab survei)-(Megawati)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Sebab survei)-(Capres)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Sebab survei)-(Kalinya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Sebab survei)-(dia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Sebab survei)-(ia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Sebab survei)-(orang-orang muda)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Sebab survei)-(semangat,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Sebab survei)-(Dia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Sebab survei)-(semangat)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Sebab survei)-(Indonesia)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(pegangan)-("Survei)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pegangan)-(pemilihan presiden 2014?)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pegangan)-(Mega)]";false;true;false;false;true;false;false;OTHER;PERSON
+"[(pegangan)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(pegangan)-(sepuh)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pegangan)-("Saya)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(pegangan)-((Baca:)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pegangan)-(Megawati)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(pegangan)-(Capres)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pegangan)-(Kalinya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pegangan)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(pegangan)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(pegangan)-(orang-orang muda)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pegangan)-(semangat,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pegangan)-(Dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(pegangan)-(semangat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pegangan)-(Indonesia)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[("Survei)-(pemilihan presiden 2014?)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Survei)-(Mega)]";false;false;false;false;true;false;false;OTHER;PERSON
+"[("Survei)-(dia)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[("Survei)-(sepuh)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Survei)-("Saya)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[("Survei)-((Baca:)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Survei)-(Megawati)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[("Survei)-(Capres)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[("Survei)-(Kalinya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Survei)-(dia)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[("Survei)-(ia)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[("Survei)-(orang-orang muda)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Survei)-(semangat,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Survei)-(Dia)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[("Survei)-(semangat)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Survei)-(Indonesia)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(pemilihan presiden 2014?)-(Mega)]";false;true;false;false;true;false;false;OTHER;PERSON
+"[(pemilihan presiden 2014?)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(pemilihan presiden 2014?)-(sepuh)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemilihan presiden 2014?)-("Saya)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(pemilihan presiden 2014?)-((Baca:)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pemilihan presiden 2014?)-(Megawati)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(pemilihan presiden 2014?)-(Capres)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pemilihan presiden 2014?)-(Kalinya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemilihan presiden 2014?)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(pemilihan presiden 2014?)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(pemilihan presiden 2014?)-(orang-orang muda)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemilihan presiden 2014?)-(semangat,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pemilihan presiden 2014?)-(Dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(pemilihan presiden 2014?)-(semangat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemilihan presiden 2014?)-(Indonesia)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(Mega)-(dia)]";false;true;false;true;true;true;false;PERSON;OTHER
+"[(Mega)-(sepuh)]";false;true;false;true;false;true;false;PERSON;OTHER
+"[(Mega)-("Saya)]";false;false;false;true;true;false;false;PERSON;OTHER
+"[(Mega)-((Baca:)]";false;false;false;true;false;false;false;PERSON;OTHER
+"[(Mega)-(Megawati)]";false;true;false;true;false;false;true;PERSON;LOCATION
+"[(Mega)-(Capres)]";false;true;false;true;false;false;false;PERSON;PERSON
+"[(Mega)-(Kalinya)]";false;true;false;true;false;false;false;PERSON;OTHER
+"[(Mega)-(dia)]";false;true;false;true;true;false;false;PERSON;OTHER
+"[(Mega)-(ia)]";false;true;false;true;true;false;false;PERSON;OTHER
+"[(Mega)-(orang-orang muda)]";false;true;false;true;false;false;false;PERSON;OTHER
+"[(Mega)-(semangat,)]";false;false;false;true;false;false;false;PERSON;OTHER
+"[(Mega)-(Dia)]";false;true;false;true;true;false;false;PERSON;OTHER
+"[(Mega)-(semangat)]";false;true;false;true;false;false;false;PERSON;OTHER
+"[(Mega)-(Indonesia)]";false;true;false;true;false;false;false;PERSON;LOCATION
+"[(dia)-(sepuh)]";false;true;false;true;false;true;false;OTHER;OTHER
+"[(dia)-("Saya)]";false;false;false;true;true;false;false;OTHER;OTHER
+"[(dia)-((Baca:)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(dia)-(Megawati)]";false;true;false;true;false;false;false;OTHER;LOCATION
+"[(dia)-(Capres)]";false;true;false;true;false;false;false;OTHER;PERSON
+"[(dia)-(Kalinya)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(dia)-(dia)]";true;true;false;true;true;false;true;OTHER;OTHER
+"[(dia)-(ia)]";false;true;false;true;true;false;true;OTHER;OTHER
+"[(dia)-(orang-orang muda)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(dia)-(semangat,)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(dia)-(Dia)]";true;true;false;true;true;false;false;OTHER;OTHER
+"[(dia)-(semangat)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(dia)-(Indonesia)]";false;true;false;true;false;false;false;OTHER;LOCATION
+"[(sepuh)-("Saya)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(sepuh)-((Baca:)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(sepuh)-(Megawati)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(sepuh)-(Capres)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(sepuh)-(Kalinya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sepuh)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(sepuh)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(sepuh)-(orang-orang muda)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sepuh)-(semangat,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(sepuh)-(Dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(sepuh)-(semangat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sepuh)-(Indonesia)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[("Saya)-((Baca:)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[("Saya)-(Megawati)]";false;false;false;true;false;false;false;OTHER;LOCATION
+"[("Saya)-(Capres)]";false;false;false;true;false;false;false;OTHER;PERSON
+"[("Saya)-(Kalinya)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[("Saya)-(dia)]";false;false;false;true;true;false;false;OTHER;OTHER
+"[("Saya)-(ia)]";false;false;false;true;true;false;false;OTHER;OTHER
+"[("Saya)-(orang-orang muda)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[("Saya)-(semangat,)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[("Saya)-(Dia)]";false;false;false;true;true;false;false;OTHER;OTHER
+"[("Saya)-(semangat)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[("Saya)-(Indonesia)]";false;false;false;true;false;false;false;OTHER;LOCATION
+"[((Baca:)-(Megawati)]";false;false;false;false;false;true;false;OTHER;LOCATION
+"[((Baca:)-(Capres)]";false;false;false;false;false;true;false;OTHER;PERSON
+"[((Baca:)-(Kalinya)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[((Baca:)-(dia)]";false;false;false;false;true;true;false;OTHER;OTHER
+"[((Baca:)-(ia)]";false;false;false;false;true;true;false;OTHER;OTHER
+"[((Baca:)-(orang-orang muda)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[((Baca:)-(semangat,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[((Baca:)-(Dia)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[((Baca:)-(semangat)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[((Baca:)-(Indonesia)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(Megawati)-(Capres)]";false;true;false;false;false;true;false;LOCATION;PERSON
+"[(Megawati)-(Kalinya)]";false;true;false;false;false;true;false;LOCATION;OTHER
+"[(Megawati)-(dia)]";false;true;false;false;true;true;false;LOCATION;OTHER
+"[(Megawati)-(ia)]";false;true;false;false;true;true;false;LOCATION;OTHER
+"[(Megawati)-(orang-orang muda)]";false;true;false;false;false;true;false;LOCATION;OTHER
+"[(Megawati)-(semangat,)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Megawati)-(Dia)]";false;true;false;false;true;false;false;LOCATION;OTHER
+"[(Megawati)-(semangat)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Megawati)-(Indonesia)]";false;true;false;false;false;false;false;LOCATION;LOCATION
+"[(Capres)-(Kalinya)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Capres)-(dia)]";false;true;false;false;true;true;false;PERSON;OTHER
+"[(Capres)-(ia)]";false;true;false;false;true;true;false;PERSON;OTHER
+"[(Capres)-(orang-orang muda)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Capres)-(semangat,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Capres)-(Dia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Capres)-(semangat)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Capres)-(Indonesia)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Kalinya)-(dia)]";false;true;false;false;true;true;false;OTHER;OTHER
+"[(Kalinya)-(ia)]";false;true;false;false;true;true;false;OTHER;OTHER
+"[(Kalinya)-(orang-orang muda)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(Kalinya)-(semangat,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Kalinya)-(Dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(Kalinya)-(semangat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Kalinya)-(Indonesia)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(dia)-(ia)]";false;true;false;true;true;true;true;OTHER;OTHER
+"[(dia)-(orang-orang muda)]";false;true;false;true;false;true;false;OTHER;OTHER
+"[(dia)-(semangat,)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(dia)-(Dia)]";true;true;false;true;true;false;false;OTHER;OTHER
+"[(dia)-(semangat)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(dia)-(Indonesia)]";false;true;false;true;false;false;false;OTHER;LOCATION
+"[(ia)-(orang-orang muda)]";false;true;false;true;false;true;false;OTHER;OTHER
+"[(ia)-(semangat,)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(ia)-(Dia)]";false;true;false;true;true;false;true;OTHER;OTHER
+"[(ia)-(semangat)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(ia)-(Indonesia)]";false;true;false;true;false;false;true;OTHER;LOCATION
+"[(orang-orang muda)-(semangat,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(orang-orang muda)-(Dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(orang-orang muda)-(semangat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(orang-orang muda)-(Indonesia)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(semangat,)-(Dia)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(semangat,)-(semangat)]";false;false;false;false;false;false;true;OTHER;OTHER
+"[(semangat,)-(Indonesia)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(Dia)-(semangat)]";false;true;false;true;false;true;false;OTHER;OTHER
+"[(Dia)-(Indonesia)]";false;true;false;true;false;true;false;OTHER;LOCATION
+"[(semangat)-(Indonesia)]";false;true;false;false;false;true;false;OTHER;LOCATION

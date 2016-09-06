@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>Anggaran</Mention>
+        <Mention>Anggaran Ujian Nasional</Mention>
+        <Mention>Anggaran UN</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>Kementerian Keuangan</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>seluruh anggaran</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>kebutuhan penyelenggaran ujian nasional</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>(UN</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>Pencairan tersebut</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>dispensasi</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>administrasi</Mention>
+    </Entity>
+    <Entity ClusterId="9">
+        <Mention>Kementerian Pendidikan dan Kebudayaan</Mention>
+    </Entity>
+    <Entity ClusterId="10">
+        <Mention>selesai</Mention>
+    </Entity>
+    <Entity ClusterId="11">
+        <Mention>(anggaran UN</Mention>
+    </Entity>
+    <Entity ClusterId="12">
+        <Mention>kasih dispensasi walaupun pengambilan</Mention>
+    </Entity>
+    <Entity ClusterId="13">
+        <Mention>keadaannya</Mention>
+    </Entity>
+    <Entity ClusterId="14">
+        <Mention>bayar</Mention>
+    </Entity>
+    <Entity ClusterId="15">
+        <Mention>minta,"</Mention>
+    </Entity>
+    <Entity ClusterId="16">
+        <Mention>Direktur Jenderal Perbendaharaan Kementerian Keuangan</Mention>
+    </Entity>
+    <Entity ClusterId="17">
+        <Mention>Agus Suprijanto</Mention>
+    </Entity>
+    <Entity ClusterId="18">
+        <Mention>kantornya,</Mention>
+    </Entity>
+    <Entity ClusterId="19">
+        <Mention>Jakarta</Mention>
+    </Entity>
+    <Entity ClusterId="20">
+        <Mention>Selasa</Mention>
+    </Entity>
+    <Entity ClusterId="21">
+        <Mention>alokasi</Mention>
+    </Entity>
+    <Entity ClusterId="22">
+        <Mention>Komisi</Mention>
+        <Mention>Komisi X,"</Mention>
+        <Mention>Komisi X.</Mention>
+    </Entity>
+    <Entity ClusterId="23">
+        <Mention>Keppres Nomor</Mention>
+    </Entity>
+    <Entity ClusterId="24">
+        <Mention>miliar</Mention>
+    </Entity>
+    <Entity ClusterId="25">
+        <Mention>tiba-tiba anggaran</Mention>
+    </Entity>
+    <Entity ClusterId="26">
+        <Mention>Alasannya</Mention>
+    </Entity>
+    <Entity ClusterId="27">
+        <Mention>target sasaran siswa</Mention>
+    </Entity>
+    <Entity ClusterId="28">
+        <Mention>biaya Rp39</Mention>
+    </Entity>
+    <Entity ClusterId="29">
+        <Mention>ribu per siswa</Mention>
+    </Entity>
+    <Entity ClusterId="30">
+        <Mention>juta siswa</Mention>
+    </Entity>
+    <Entity ClusterId="31">
+        <Mention>biaya Rp53</Mention>
+    </Entity>
+    <Entity ClusterId="32">
+        <Mention>Selisih anggaran ini</Mention>
+    </Entity>
+    <Entity ClusterId="33">
+        <Mention>Kemenkeu</Mention>
+        <Mention>Kemenkeu karena alasan</Mention>
+    </Entity>
+    <Entity ClusterId="34">
+        <Mention>administratif</Mention>
+    </Entity>
+    <Entity ClusterId="35">
+        <Mention>beberapa anggaran</Mention>
+    </Entity>
+    <Entity ClusterId="36">
+        <Mention>Plt Menteri Keuangan</Mention>
+    </Entity>
+    <Entity ClusterId="37">
+        <Mention>Hatta</Mention>
+        <Mention>Hatta Rajasa</Mention>
+    </Entity>
+    <Entity ClusterId="38">
+        <Mention>persoalan itu</Mention>
+    </Entity>
+    <Entity ClusterId="39">
+        <Mention>tengah</Mention>
+    </Entity>
+    <Entity ClusterId="40">
+        <Mention>1-2 hari</Mention>
+    </Entity>
+    <Entity ClusterId="41">
+        <Mention>selesai,</Mention>
+    </Entity>
+    <Entity ClusterId="42">
+        <Mention>anggaran blokir,</Mention>
+    </Entity>
+    <Entity ClusterId="43">
+        <Mention>paut Dikti</Mention>
+    </Entity>
+    <Entity ClusterId="44">
+        <Mention>(Pendidikan Tinggi</Mention>
+    </Entity>
+    <Entity ClusterId="45">
+        <Mention>satu-satu jemput bola</Mention>
+    </Entity>
+    <Entity ClusterId="46">
+        <Mention>spending,"</Mention>
+    </Entity>
+    <Entity ClusterId="47">
+        <Mention>Penyelesaiannya</Mention>
+    </Entity>
+    <Entity ClusterId="48">
+        <Mention>pembicaraan</Mention>
+    </Entity>
+    <Entity ClusterId="49">
+        <Mention>perubahan,</Mention>
+    </Entity>
+    <Entity ClusterId="50">
+        <Mention>(anggaran</Mention>
+    </Entity>
+    <Entity ClusterId="51">
+        <Mention>Karenanya,</Mention>
+    </Entity>
+    <Entity ClusterId="52">
+        <Mention>perbedaan,</Mention>
+    </Entity>
+    <Entity ClusterId="53">
+        <Mention>tahun</Mention>
+    </Entity>
+    <Entity ClusterId="54">
+        <Mention>anggaran Kemendikbud</Mention>
+    </Entity>
+    <Entity ClusterId="55">
+        <Mention>89,4% anggaran</Mention>
+    </Entity>
+    <Entity ClusterId="56">
+        <Mention>Maret 2013</Mention>
+    </Entity>
+    <Entity ClusterId="57">
+        <Mention>sembilan program</Mention>
+    </Entity>
+    <Entity ClusterId="58">
+        <Mention>satu program</Mention>
+    </Entity>
+</CoreferenceChain>

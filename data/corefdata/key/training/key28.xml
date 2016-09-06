@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>Ahok</Mention>
+        <Mention>Wakil Gubernur DKI Jakarta</Mention>
+        <Mention>Basuki Tjahaja Purnama</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>UN</Mention>
+        <Mention>Ujian Nasional</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>Jakarta</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>Bupati</Mention>
+    </Entity>
+</CoreferenceChain>

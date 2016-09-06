@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>AP II</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>Bantuan</Mention>
+        <Mention>Kucurkan Bantuan Rp1,3</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>PT Angkasa Pura II</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>(Persero</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>program kesehatan dan penghijauan</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>Kabupaten Bintan dan Kota Tanjung Pinang</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>program Bina</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>Lingkungan</Mention>
+        <Mention>Lingkungan tersebut</Mention>
+    </Entity>
+    <Entity ClusterId="9">
+        <Mention>Direktur Keuangan</Mention>
+    </Entity>
+    <Entity ClusterId="10">
+        <Mention>Laurensius</Mention>
+        <Mention>Laurensius Manurung</Mention>
+        <Mention>Laurensius Manurung dan Direktur SDM</Mention>
+    </Entity>
+    <Entity ClusterId="11">
+        <Mention>Hari Cahyono</Mention>
+    </Entity>
+    <Entity ClusterId="12">
+        <Mention>perwakilan Pemkab Bintan dan Pemkot Tanjungpinang</Mention>
+    </Entity>
+    <Entity ClusterId="13">
+        <Mention>Kamis</Mention>
+    </Entity>
+    <Entity ClusterId="14">
+        <Mention>Direktur Keuangan Angkasa Pura II</Mention>
+    </Entity>
+    <Entity ClusterId="15">
+        <Mention>saat ini</Mention>
+    </Entity>
+    <Entity ClusterId="16">
+        <Mention>Bandara Raja Haji Fisabilillah</Mention>
+    </Entity>
+    <Entity ClusterId="17">
+        <Mention>komitmen</Mention>
+    </Entity>
+    <Entity ClusterId="18">
+        <Mention>masyarakat</Mention>
+    </Entity>
+    <Entity ClusterId="19">
+        <Mention>wilayah Kepulauan Riau</Mention>
+    </Entity>
+    <Entity ClusterId="20">
+        <Mention>kerugian Bandara Raja Haji Fisabilillah</Mention>
+    </Entity>
+    <Entity ClusterId="21">
+        <Mention>miliar per tahun</Mention>
+    </Entity>
+    <Entity ClusterId="22">
+        <Mention>korporasi tetap</Mention>
+    </Entity>
+    <Entity ClusterId="23">
+        <Mention>jawabnya</Mention>
+    </Entity>
+    <Entity ClusterId="24">
+        <Mention>sekitar wilayah kerja,"</Mention>
+    </Entity>
+    <Entity ClusterId="25">
+        <Mention>lima unit mobil ambulan</Mention>
+    </Entity>
+    <Entity ClusterId="26">
+        <Mention>empat puskesmas</Mention>
+    </Entity>
+    <Entity ClusterId="27">
+        <Mention>Kota Tanjung Pinang</Mention>
+    </Entity>
+    <Entity ClusterId="28">
+        <Mention>satu puskesmas</Mention>
+    </Entity>
+    <Entity ClusterId="29">
+        <Mention>Kabupaten Bintan</Mention>
+    </Entity>
+    <Entity ClusterId="30">
+        <Mention>sebuah bangunan posyandu</Mention>
+    </Entity>
+    <Entity ClusterId="31">
+        <Mention>Kota Tanjungpinang</Mention>
+    </Entity>
+    <Entity ClusterId="32">
+        <Mention>ribu benih tanaman mangrove</Mention>
+    </Entity>
+    <Entity ClusterId="33">
+        <Mention>"Lima mobil ambulan</Mention>
+    </Entity>
+    <Entity ClusterId="34">
+        <Mention>Posyandu</Mention>
+    </Entity>
+    <Entity ClusterId="35">
+        <Mention>sumbangkan ini,</Mention>
+    </Entity>
+    <Entity ClusterId="36">
+        <Mention>upaya peningkatan kesehatan masyarakat</Mention>
+    </Entity>
+    <Entity ClusterId="37">
+        <Mention>baik</Mention>
+    </Entity>
+    <Entity ClusterId="38">
+        <Mention>Bintan</Mention>
+    </Entity>
+    <Entity ClusterId="39">
+        <Mention>Tanjungpinang,"</Mention>
+    </Entity>
+    <Entity ClusterId="40">
+        <Mention>ribu bibit mangrove</Mention>
+    </Entity>
+    <Entity ClusterId="41">
+        <Mention>tindak</Mention>
+    </Entity>
+    <Entity ClusterId="42">
+        <Mention>Gerakan Penanaman Satu</Mention>
+    </Entity>
+    <Entity ClusterId="43">
+        <Mention>Miliar Pohon</Mention>
+    </Entity>
+    <Entity ClusterId="44">
+        <Mention>pemerintah</Mention>
+    </Entity>
+    <Entity ClusterId="45">
+        <Mention>tanaman," ucapnya</Mention>
+    </Entity>
+    <Entity ClusterId="46">
+        <Mention>program Peduli</Mention>
+    </Entity>
+    <Entity ClusterId="47">
+        <Mention>Kesehatan</Mention>
+    </Entity>
+    <Entity ClusterId="48">
+        <Mention>Angkasa Pura II</Mention>
+    </Entity>
+    <Entity ClusterId="49">
+        <Mention>total sebanyak</Mention>
+    </Entity>
+    <Entity ClusterId="50">
+        <Mention>68 unit ambulan</Mention>
+    </Entity>
+    <Entity ClusterId="51">
+        <Mention>puskesmas-puskesmas</Mention>
+    </Entity>
+    <Entity ClusterId="52">
+        <Mention>seluruh wilayah kerja perseroan</Mention>
+    </Entity>
+    <Entity ClusterId="53">
+        <Mention>Selain Bina</Mention>
+    </Entity>
+    <Entity ClusterId="54">
+        <Mention>total penyaluran</Mention>
+    </Entity>
+    <Entity ClusterId="55">
+        <Mention>Program Kemitraan</Mention>
+        <Mention>Total dana Program Kemitraan</Mention>
+    </Entity>
+    <Entity ClusterId="56">
+        <Mention>unit-unit usaha kecil</Mention>
+    </Entity>
+    <Entity ClusterId="57">
+        <Mention>selluruh wilayah kerja perusahaan</Mention>
+    </Entity>
+    <Entity ClusterId="58">
+        <Mention>Maret</Mention>
+    </Entity>
+    <Entity ClusterId="59">
+        <Mention>jumlah mitra binaan sebanyak</Mention>
+    </Entity>
+</CoreferenceChain>

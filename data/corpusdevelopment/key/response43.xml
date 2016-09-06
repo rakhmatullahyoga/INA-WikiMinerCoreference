@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>REPUBLIKA.CO.ID</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>Buleleng</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>Bali</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>badan</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>obesitas</Mention>
+        <Mention>kegemukan</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>Singaraja</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>bintara</Mention>
+        <Mention>tamtama</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>apel</Mention>
+    </Entity>
+    <Entity ClusterId="9">
+        <Mention>penyakit</Mention>
+    </Entity>
+    <Entity ClusterId="10">
+        <Mention>diabetes melitus</Mention>
+    </Entity>
+    <Entity ClusterId="11">
+        <Mention>osteoartritis</Mention>
+    </Entity>
+</CoreferenceChain>

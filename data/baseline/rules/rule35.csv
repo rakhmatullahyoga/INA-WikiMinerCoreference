@@ -1,0 +1,1226 @@
+mentions;isStrMatch;isMatchNoCasePunc;isAbbrev;isFirstPronoun;isScndPronoun;isOnOneSentence;isMatchPartial;firstNameClass;scndNameClass
+"[(Pelajar Jawa Timur Ikrar Anti)-(Narkoba)]";false;true;false;false;false;true;false;LOCATION;PERSON
+"[(Pelajar Jawa Timur Ikrar Anti)-(pelajar setingkat SMP dan SMA se-Jawa Timur)]";false;true;false;false;false;true;false;LOCATION;OTHER
+"[(Pelajar Jawa Timur Ikrar Anti)-(narkoba)]";false;true;false;false;false;true;false;LOCATION;OTHER
+"[(Pelajar Jawa Timur Ikrar Anti)-(Kamis pagi,)]";false;false;false;false;false;true;false;LOCATION;OTHER
+"[(Pelajar Jawa Timur Ikrar Anti)-(23 Mei 2013)]";false;true;false;false;false;true;false;LOCATION;OTHER
+"[(Pelajar Jawa Timur Ikrar Anti)-(pelajar)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Pelajar Jawa Timur Ikrar Anti)-(barang laknat itu)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Pelajar Jawa Timur Ikrar Anti)-(hadapan Kepala Badan Narkotika Nasional)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Pelajar Jawa Timur Ikrar Anti)-(Komisaris Jendral Anang Iskandar dan Wakil Gubernur Saifullah Yusuf)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Pelajar Jawa Timur Ikrar Anti)-(pelajar)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Pelajar Jawa Timur Ikrar Anti)-(kegiatan ini)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Pelajar Jawa Timur Ikrar Anti)-(Sebelum acara deklarasi)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Pelajar Jawa Timur Ikrar Anti)-(sejumlah pelajar)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Pelajar Jawa Timur Ikrar Anti)-(aksi teatrikal)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Pelajar Jawa Timur Ikrar Anti)-(Mereka)]";false;true;false;false;true;false;false;LOCATION;OTHER
+"[(Pelajar Jawa Timur Ikrar Anti)-(potongan kertas)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Pelajar Jawa Timur Ikrar Anti)-(jenis narkotika dan obat-obatan)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Pelajar Jawa Timur Ikrar Anti)-(Kertas itu)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Pelajar Jawa Timur Ikrar Anti)-(panggung)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Pelajar Jawa Timur Ikrar Anti)-(pelajar)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Pelajar Jawa Timur Ikrar Anti)-(perisai)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Pelajar Jawa Timur Ikrar Anti)-(persen 'drugsfree' dan sapu)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Pelajar Jawa Timur Ikrar Anti)-(Mereka)]";false;true;false;false;true;false;false;LOCATION;OTHER
+"[(Pelajar Jawa Timur Ikrar Anti)-(pengedar narkoba)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Pelajar Jawa Timur Ikrar Anti)-('narkoba')]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Pelajar Jawa Timur Ikrar Anti)-(Prosesi)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Pelajar Jawa Timur Ikrar Anti)-(teatrikal ini)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Pelajar Jawa Timur Ikrar Anti)-(pembacaan Deklarasi Anti)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Pelajar Jawa Timur Ikrar Anti)-(Narkoba)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Pelajar Jawa Timur Ikrar Anti)-(orang pelajar putra dan putri)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Pelajar Jawa Timur Ikrar Anti)-(mereka)]";false;true;false;false;true;false;false;LOCATION;OTHER
+"[(Pelajar Jawa Timur Ikrar Anti)-(pelajar)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Pelajar Jawa Timur Ikrar Anti)-(siswa)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Pelajar Jawa Timur Ikrar Anti)-(narkoba)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Pelajar Jawa Timur Ikrar Anti)-(pembacaan deklarasi,)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Pelajar Jawa Timur Ikrar Anti)-(siswa dan siswi)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Pelajar Jawa Timur Ikrar Anti)-(narkoba)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Pelajar Jawa Timur Ikrar Anti)-(Anang Iskandar beserta Gus Ipul)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Pelajar Jawa Timur Ikrar Anti)-(Anang Iskandar)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Pelajar Jawa Timur Ikrar Anti)-(acara deklarasi)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Pelajar Jawa Timur Ikrar Anti)-(narkoba ini)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Pelajar Jawa Timur Ikrar Anti)-(semangat)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Pelajar Jawa Timur Ikrar Anti)-(pelajar)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Pelajar Jawa Timur Ikrar Anti)-(narkoba)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Pelajar Jawa Timur Ikrar Anti)-(narkoba)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Pelajar Jawa Timur Ikrar Anti)-("Semangat)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Pelajar Jawa Timur Ikrar Anti)-(narkoba itu)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Pelajar Jawa Timur Ikrar Anti)-(Anang)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Pelajar Jawa Timur Ikrar Anti)-(seusai acara deklarasi)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Narkoba)-(pelajar setingkat SMP dan SMA se-Jawa Timur)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Narkoba)-(narkoba)]";true;true;false;false;false;true;false;PERSON;OTHER
+"[(Narkoba)-(Kamis pagi,)]";false;false;false;false;false;true;false;PERSON;OTHER
+"[(Narkoba)-(23 Mei 2013)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Narkoba)-(pelajar)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Narkoba)-(barang laknat itu)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Narkoba)-(hadapan Kepala Badan Narkotika Nasional)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Narkoba)-(Komisaris Jendral Anang Iskandar dan Wakil Gubernur Saifullah Yusuf)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Narkoba)-(pelajar)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Narkoba)-(kegiatan ini)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Narkoba)-(Sebelum acara deklarasi)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Narkoba)-(sejumlah pelajar)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Narkoba)-(aksi teatrikal)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Narkoba)-(Mereka)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Narkoba)-(potongan kertas)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Narkoba)-(jenis narkotika dan obat-obatan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Narkoba)-(Kertas itu)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Narkoba)-(panggung)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Narkoba)-(pelajar)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Narkoba)-(perisai)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Narkoba)-(persen 'drugsfree' dan sapu)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Narkoba)-(Mereka)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Narkoba)-(pengedar narkoba)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Narkoba)-('narkoba')]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Narkoba)-(Prosesi)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Narkoba)-(teatrikal ini)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Narkoba)-(pembacaan Deklarasi Anti)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Narkoba)-(Narkoba)]";true;true;false;false;false;false;true;PERSON;PERSON
+"[(Narkoba)-(orang pelajar putra dan putri)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Narkoba)-(mereka)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Narkoba)-(pelajar)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Narkoba)-(siswa)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Narkoba)-(narkoba)]";true;true;false;false;false;false;false;PERSON;OTHER
+"[(Narkoba)-(pembacaan deklarasi,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Narkoba)-(siswa dan siswi)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Narkoba)-(narkoba)]";true;true;false;false;false;false;false;PERSON;OTHER
+"[(Narkoba)-(Anang Iskandar beserta Gus Ipul)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Narkoba)-(Anang Iskandar)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Narkoba)-(acara deklarasi)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Narkoba)-(narkoba ini)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Narkoba)-(semangat)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Narkoba)-(pelajar)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Narkoba)-(narkoba)]";true;true;false;false;false;false;false;PERSON;OTHER
+"[(Narkoba)-(narkoba)]";true;true;false;false;false;false;false;PERSON;OTHER
+"[(Narkoba)-("Semangat)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Narkoba)-(narkoba itu)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Narkoba)-(Anang)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Narkoba)-(seusai acara deklarasi)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(pelajar setingkat SMP dan SMA se-Jawa Timur)-(narkoba)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(pelajar setingkat SMP dan SMA se-Jawa Timur)-(Kamis pagi,)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(pelajar setingkat SMP dan SMA se-Jawa Timur)-(23 Mei 2013)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(pelajar setingkat SMP dan SMA se-Jawa Timur)-(pelajar)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(pelajar setingkat SMP dan SMA se-Jawa Timur)-(barang laknat itu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pelajar setingkat SMP dan SMA se-Jawa Timur)-(hadapan Kepala Badan Narkotika Nasional)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pelajar setingkat SMP dan SMA se-Jawa Timur)-(Komisaris Jendral Anang Iskandar dan Wakil Gubernur Saifullah Yusuf)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pelajar setingkat SMP dan SMA se-Jawa Timur)-(pelajar)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(pelajar setingkat SMP dan SMA se-Jawa Timur)-(kegiatan ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pelajar setingkat SMP dan SMA se-Jawa Timur)-(Sebelum acara deklarasi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pelajar setingkat SMP dan SMA se-Jawa Timur)-(sejumlah pelajar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pelajar setingkat SMP dan SMA se-Jawa Timur)-(aksi teatrikal)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pelajar setingkat SMP dan SMA se-Jawa Timur)-(Mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(pelajar setingkat SMP dan SMA se-Jawa Timur)-(potongan kertas)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pelajar setingkat SMP dan SMA se-Jawa Timur)-(jenis narkotika dan obat-obatan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pelajar setingkat SMP dan SMA se-Jawa Timur)-(Kertas itu)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pelajar setingkat SMP dan SMA se-Jawa Timur)-(panggung)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pelajar setingkat SMP dan SMA se-Jawa Timur)-(pelajar)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(pelajar setingkat SMP dan SMA se-Jawa Timur)-(perisai)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pelajar setingkat SMP dan SMA se-Jawa Timur)-(persen 'drugsfree' dan sapu)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pelajar setingkat SMP dan SMA se-Jawa Timur)-(Mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(pelajar setingkat SMP dan SMA se-Jawa Timur)-(pengedar narkoba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pelajar setingkat SMP dan SMA se-Jawa Timur)-('narkoba')]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pelajar setingkat SMP dan SMA se-Jawa Timur)-(Prosesi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pelajar setingkat SMP dan SMA se-Jawa Timur)-(teatrikal ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pelajar setingkat SMP dan SMA se-Jawa Timur)-(pembacaan Deklarasi Anti)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pelajar setingkat SMP dan SMA se-Jawa Timur)-(Narkoba)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pelajar setingkat SMP dan SMA se-Jawa Timur)-(orang pelajar putra dan putri)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pelajar setingkat SMP dan SMA se-Jawa Timur)-(mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(pelajar setingkat SMP dan SMA se-Jawa Timur)-(pelajar)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(pelajar setingkat SMP dan SMA se-Jawa Timur)-(siswa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pelajar setingkat SMP dan SMA se-Jawa Timur)-(narkoba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pelajar setingkat SMP dan SMA se-Jawa Timur)-(pembacaan deklarasi,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pelajar setingkat SMP dan SMA se-Jawa Timur)-(siswa dan siswi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pelajar setingkat SMP dan SMA se-Jawa Timur)-(narkoba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pelajar setingkat SMP dan SMA se-Jawa Timur)-(Anang Iskandar beserta Gus Ipul)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pelajar setingkat SMP dan SMA se-Jawa Timur)-(Anang Iskandar)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pelajar setingkat SMP dan SMA se-Jawa Timur)-(acara deklarasi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pelajar setingkat SMP dan SMA se-Jawa Timur)-(narkoba ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pelajar setingkat SMP dan SMA se-Jawa Timur)-(semangat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pelajar setingkat SMP dan SMA se-Jawa Timur)-(pelajar)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(pelajar setingkat SMP dan SMA se-Jawa Timur)-(narkoba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pelajar setingkat SMP dan SMA se-Jawa Timur)-(narkoba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pelajar setingkat SMP dan SMA se-Jawa Timur)-("Semangat)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pelajar setingkat SMP dan SMA se-Jawa Timur)-(narkoba itu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pelajar setingkat SMP dan SMA se-Jawa Timur)-(Anang)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pelajar setingkat SMP dan SMA se-Jawa Timur)-(seusai acara deklarasi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(narkoba)-(Kamis pagi,)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(narkoba)-(23 Mei 2013)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(narkoba)-(pelajar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(narkoba)-(barang laknat itu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(narkoba)-(hadapan Kepala Badan Narkotika Nasional)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(narkoba)-(Komisaris Jendral Anang Iskandar dan Wakil Gubernur Saifullah Yusuf)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(narkoba)-(pelajar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(narkoba)-(kegiatan ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(narkoba)-(Sebelum acara deklarasi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(narkoba)-(sejumlah pelajar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(narkoba)-(aksi teatrikal)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(narkoba)-(Mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(narkoba)-(potongan kertas)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(narkoba)-(jenis narkotika dan obat-obatan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(narkoba)-(Kertas itu)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(narkoba)-(panggung)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(narkoba)-(pelajar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(narkoba)-(perisai)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(narkoba)-(persen 'drugsfree' dan sapu)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(narkoba)-(Mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(narkoba)-(pengedar narkoba)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(narkoba)-('narkoba')]";false;false;false;false;false;false;true;OTHER;OTHER
+"[(narkoba)-(Prosesi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(narkoba)-(teatrikal ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(narkoba)-(pembacaan Deklarasi Anti)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(narkoba)-(Narkoba)]";true;true;false;false;false;false;false;OTHER;PERSON
+"[(narkoba)-(orang pelajar putra dan putri)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(narkoba)-(mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(narkoba)-(pelajar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(narkoba)-(siswa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(narkoba)-(narkoba)]";true;true;false;false;false;false;true;OTHER;OTHER
+"[(narkoba)-(pembacaan deklarasi,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(narkoba)-(siswa dan siswi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(narkoba)-(narkoba)]";true;true;false;false;false;false;true;OTHER;OTHER
+"[(narkoba)-(Anang Iskandar beserta Gus Ipul)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(narkoba)-(Anang Iskandar)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(narkoba)-(acara deklarasi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(narkoba)-(narkoba ini)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(narkoba)-(semangat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(narkoba)-(pelajar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(narkoba)-(narkoba)]";true;true;false;false;false;false;true;OTHER;OTHER
+"[(narkoba)-(narkoba)]";true;true;false;false;false;false;true;OTHER;OTHER
+"[(narkoba)-("Semangat)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(narkoba)-(narkoba itu)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(narkoba)-(Anang)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(narkoba)-(seusai acara deklarasi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Kamis pagi,)-(23 Mei 2013)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(Kamis pagi,)-(pelajar)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Kamis pagi,)-(barang laknat itu)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Kamis pagi,)-(hadapan Kepala Badan Narkotika Nasional)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Kamis pagi,)-(Komisaris Jendral Anang Iskandar dan Wakil Gubernur Saifullah Yusuf)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(Kamis pagi,)-(pelajar)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Kamis pagi,)-(kegiatan ini)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Kamis pagi,)-(Sebelum acara deklarasi)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(Kamis pagi,)-(sejumlah pelajar)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Kamis pagi,)-(aksi teatrikal)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Kamis pagi,)-(Mereka)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(Kamis pagi,)-(potongan kertas)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Kamis pagi,)-(jenis narkotika dan obat-obatan)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Kamis pagi,)-(Kertas itu)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(Kamis pagi,)-(panggung)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Kamis pagi,)-(pelajar)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Kamis pagi,)-(perisai)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Kamis pagi,)-(persen 'drugsfree' dan sapu)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Kamis pagi,)-(Mereka)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(Kamis pagi,)-(pengedar narkoba)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Kamis pagi,)-('narkoba')]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Kamis pagi,)-(Prosesi)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(Kamis pagi,)-(teatrikal ini)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Kamis pagi,)-(pembacaan Deklarasi Anti)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Kamis pagi,)-(Narkoba)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(Kamis pagi,)-(orang pelajar putra dan putri)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Kamis pagi,)-(mereka)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(Kamis pagi,)-(pelajar)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Kamis pagi,)-(siswa)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Kamis pagi,)-(narkoba)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Kamis pagi,)-(pembacaan deklarasi,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Kamis pagi,)-(siswa dan siswi)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Kamis pagi,)-(narkoba)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Kamis pagi,)-(Anang Iskandar beserta Gus Ipul)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(Kamis pagi,)-(Anang Iskandar)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(Kamis pagi,)-(acara deklarasi)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Kamis pagi,)-(narkoba ini)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Kamis pagi,)-(semangat)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Kamis pagi,)-(pelajar)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Kamis pagi,)-(narkoba)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Kamis pagi,)-(narkoba)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Kamis pagi,)-("Semangat)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Kamis pagi,)-(narkoba itu)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Kamis pagi,)-(Anang)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(Kamis pagi,)-(seusai acara deklarasi)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(23 Mei 2013)-(pelajar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(23 Mei 2013)-(barang laknat itu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(23 Mei 2013)-(hadapan Kepala Badan Narkotika Nasional)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(23 Mei 2013)-(Komisaris Jendral Anang Iskandar dan Wakil Gubernur Saifullah Yusuf)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(23 Mei 2013)-(pelajar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(23 Mei 2013)-(kegiatan ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(23 Mei 2013)-(Sebelum acara deklarasi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(23 Mei 2013)-(sejumlah pelajar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(23 Mei 2013)-(aksi teatrikal)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(23 Mei 2013)-(Mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(23 Mei 2013)-(potongan kertas)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(23 Mei 2013)-(jenis narkotika dan obat-obatan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(23 Mei 2013)-(Kertas itu)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(23 Mei 2013)-(panggung)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(23 Mei 2013)-(pelajar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(23 Mei 2013)-(perisai)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(23 Mei 2013)-(persen 'drugsfree' dan sapu)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(23 Mei 2013)-(Mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(23 Mei 2013)-(pengedar narkoba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(23 Mei 2013)-('narkoba')]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(23 Mei 2013)-(Prosesi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(23 Mei 2013)-(teatrikal ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(23 Mei 2013)-(pembacaan Deklarasi Anti)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(23 Mei 2013)-(Narkoba)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(23 Mei 2013)-(orang pelajar putra dan putri)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(23 Mei 2013)-(mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(23 Mei 2013)-(pelajar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(23 Mei 2013)-(siswa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(23 Mei 2013)-(narkoba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(23 Mei 2013)-(pembacaan deklarasi,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(23 Mei 2013)-(siswa dan siswi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(23 Mei 2013)-(narkoba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(23 Mei 2013)-(Anang Iskandar beserta Gus Ipul)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(23 Mei 2013)-(Anang Iskandar)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(23 Mei 2013)-(acara deklarasi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(23 Mei 2013)-(narkoba ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(23 Mei 2013)-(semangat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(23 Mei 2013)-(pelajar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(23 Mei 2013)-(narkoba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(23 Mei 2013)-(narkoba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(23 Mei 2013)-("Semangat)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(23 Mei 2013)-(narkoba itu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(23 Mei 2013)-(Anang)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(23 Mei 2013)-(seusai acara deklarasi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pelajar)-(barang laknat itu)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(pelajar)-(hadapan Kepala Badan Narkotika Nasional)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(pelajar)-(Komisaris Jendral Anang Iskandar dan Wakil Gubernur Saifullah Yusuf)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(pelajar)-(pelajar)]";true;true;false;false;false;false;true;OTHER;OTHER
+"[(pelajar)-(kegiatan ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pelajar)-(Sebelum acara deklarasi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pelajar)-(sejumlah pelajar)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(pelajar)-(aksi teatrikal)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pelajar)-(Mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(pelajar)-(potongan kertas)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pelajar)-(jenis narkotika dan obat-obatan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pelajar)-(Kertas itu)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pelajar)-(panggung)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pelajar)-(pelajar)]";true;true;false;false;false;false;true;OTHER;OTHER
+"[(pelajar)-(perisai)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pelajar)-(persen 'drugsfree' dan sapu)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pelajar)-(Mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(pelajar)-(pengedar narkoba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pelajar)-('narkoba')]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pelajar)-(Prosesi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pelajar)-(teatrikal ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pelajar)-(pembacaan Deklarasi Anti)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pelajar)-(Narkoba)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pelajar)-(orang pelajar putra dan putri)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(pelajar)-(mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(pelajar)-(pelajar)]";true;true;false;false;false;false;true;OTHER;OTHER
+"[(pelajar)-(siswa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pelajar)-(narkoba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pelajar)-(pembacaan deklarasi,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pelajar)-(siswa dan siswi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pelajar)-(narkoba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pelajar)-(Anang Iskandar beserta Gus Ipul)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pelajar)-(Anang Iskandar)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pelajar)-(acara deklarasi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pelajar)-(narkoba ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pelajar)-(semangat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pelajar)-(pelajar)]";true;true;false;false;false;false;true;OTHER;OTHER
+"[(pelajar)-(narkoba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pelajar)-(narkoba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pelajar)-("Semangat)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pelajar)-(narkoba itu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pelajar)-(Anang)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pelajar)-(seusai acara deklarasi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(barang laknat itu)-(hadapan Kepala Badan Narkotika Nasional)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(barang laknat itu)-(Komisaris Jendral Anang Iskandar dan Wakil Gubernur Saifullah Yusuf)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(barang laknat itu)-(pelajar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(barang laknat itu)-(kegiatan ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(barang laknat itu)-(Sebelum acara deklarasi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(barang laknat itu)-(sejumlah pelajar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(barang laknat itu)-(aksi teatrikal)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(barang laknat itu)-(Mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(barang laknat itu)-(potongan kertas)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(barang laknat itu)-(jenis narkotika dan obat-obatan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(barang laknat itu)-(Kertas itu)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(barang laknat itu)-(panggung)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(barang laknat itu)-(pelajar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(barang laknat itu)-(perisai)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(barang laknat itu)-(persen 'drugsfree' dan sapu)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(barang laknat itu)-(Mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(barang laknat itu)-(pengedar narkoba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(barang laknat itu)-('narkoba')]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(barang laknat itu)-(Prosesi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(barang laknat itu)-(teatrikal ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(barang laknat itu)-(pembacaan Deklarasi Anti)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(barang laknat itu)-(Narkoba)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(barang laknat itu)-(orang pelajar putra dan putri)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(barang laknat itu)-(mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(barang laknat itu)-(pelajar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(barang laknat itu)-(siswa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(barang laknat itu)-(narkoba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(barang laknat itu)-(pembacaan deklarasi,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(barang laknat itu)-(siswa dan siswi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(barang laknat itu)-(narkoba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(barang laknat itu)-(Anang Iskandar beserta Gus Ipul)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(barang laknat itu)-(Anang Iskandar)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(barang laknat itu)-(acara deklarasi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(barang laknat itu)-(narkoba ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(barang laknat itu)-(semangat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(barang laknat itu)-(pelajar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(barang laknat itu)-(narkoba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(barang laknat itu)-(narkoba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(barang laknat itu)-("Semangat)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(barang laknat itu)-(narkoba itu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(barang laknat itu)-(Anang)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(barang laknat itu)-(seusai acara deklarasi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hadapan Kepala Badan Narkotika Nasional)-(Komisaris Jendral Anang Iskandar dan Wakil Gubernur Saifullah Yusuf)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(hadapan Kepala Badan Narkotika Nasional)-(pelajar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hadapan Kepala Badan Narkotika Nasional)-(kegiatan ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hadapan Kepala Badan Narkotika Nasional)-(Sebelum acara deklarasi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(hadapan Kepala Badan Narkotika Nasional)-(sejumlah pelajar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hadapan Kepala Badan Narkotika Nasional)-(aksi teatrikal)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hadapan Kepala Badan Narkotika Nasional)-(Mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(hadapan Kepala Badan Narkotika Nasional)-(potongan kertas)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hadapan Kepala Badan Narkotika Nasional)-(jenis narkotika dan obat-obatan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hadapan Kepala Badan Narkotika Nasional)-(Kertas itu)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(hadapan Kepala Badan Narkotika Nasional)-(panggung)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hadapan Kepala Badan Narkotika Nasional)-(pelajar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hadapan Kepala Badan Narkotika Nasional)-(perisai)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hadapan Kepala Badan Narkotika Nasional)-(persen 'drugsfree' dan sapu)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(hadapan Kepala Badan Narkotika Nasional)-(Mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(hadapan Kepala Badan Narkotika Nasional)-(pengedar narkoba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hadapan Kepala Badan Narkotika Nasional)-('narkoba')]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(hadapan Kepala Badan Narkotika Nasional)-(Prosesi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(hadapan Kepala Badan Narkotika Nasional)-(teatrikal ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hadapan Kepala Badan Narkotika Nasional)-(pembacaan Deklarasi Anti)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hadapan Kepala Badan Narkotika Nasional)-(Narkoba)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(hadapan Kepala Badan Narkotika Nasional)-(orang pelajar putra dan putri)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hadapan Kepala Badan Narkotika Nasional)-(mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(hadapan Kepala Badan Narkotika Nasional)-(pelajar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hadapan Kepala Badan Narkotika Nasional)-(siswa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hadapan Kepala Badan Narkotika Nasional)-(narkoba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hadapan Kepala Badan Narkotika Nasional)-(pembacaan deklarasi,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(hadapan Kepala Badan Narkotika Nasional)-(siswa dan siswi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hadapan Kepala Badan Narkotika Nasional)-(narkoba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hadapan Kepala Badan Narkotika Nasional)-(Anang Iskandar beserta Gus Ipul)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(hadapan Kepala Badan Narkotika Nasional)-(Anang Iskandar)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(hadapan Kepala Badan Narkotika Nasional)-(acara deklarasi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hadapan Kepala Badan Narkotika Nasional)-(narkoba ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hadapan Kepala Badan Narkotika Nasional)-(semangat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hadapan Kepala Badan Narkotika Nasional)-(pelajar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hadapan Kepala Badan Narkotika Nasional)-(narkoba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hadapan Kepala Badan Narkotika Nasional)-(narkoba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hadapan Kepala Badan Narkotika Nasional)-("Semangat)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(hadapan Kepala Badan Narkotika Nasional)-(narkoba itu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hadapan Kepala Badan Narkotika Nasional)-(Anang)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(hadapan Kepala Badan Narkotika Nasional)-(seusai acara deklarasi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Komisaris Jendral Anang Iskandar dan Wakil Gubernur Saifullah Yusuf)-(pelajar)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Komisaris Jendral Anang Iskandar dan Wakil Gubernur Saifullah Yusuf)-(kegiatan ini)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Komisaris Jendral Anang Iskandar dan Wakil Gubernur Saifullah Yusuf)-(Sebelum acara deklarasi)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Komisaris Jendral Anang Iskandar dan Wakil Gubernur Saifullah Yusuf)-(sejumlah pelajar)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Komisaris Jendral Anang Iskandar dan Wakil Gubernur Saifullah Yusuf)-(aksi teatrikal)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Komisaris Jendral Anang Iskandar dan Wakil Gubernur Saifullah Yusuf)-(Mereka)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Komisaris Jendral Anang Iskandar dan Wakil Gubernur Saifullah Yusuf)-(potongan kertas)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Komisaris Jendral Anang Iskandar dan Wakil Gubernur Saifullah Yusuf)-(jenis narkotika dan obat-obatan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Komisaris Jendral Anang Iskandar dan Wakil Gubernur Saifullah Yusuf)-(Kertas itu)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Komisaris Jendral Anang Iskandar dan Wakil Gubernur Saifullah Yusuf)-(panggung)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Komisaris Jendral Anang Iskandar dan Wakil Gubernur Saifullah Yusuf)-(pelajar)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Komisaris Jendral Anang Iskandar dan Wakil Gubernur Saifullah Yusuf)-(perisai)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Komisaris Jendral Anang Iskandar dan Wakil Gubernur Saifullah Yusuf)-(persen 'drugsfree' dan sapu)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Komisaris Jendral Anang Iskandar dan Wakil Gubernur Saifullah Yusuf)-(Mereka)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Komisaris Jendral Anang Iskandar dan Wakil Gubernur Saifullah Yusuf)-(pengedar narkoba)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Komisaris Jendral Anang Iskandar dan Wakil Gubernur Saifullah Yusuf)-('narkoba')]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Komisaris Jendral Anang Iskandar dan Wakil Gubernur Saifullah Yusuf)-(Prosesi)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Komisaris Jendral Anang Iskandar dan Wakil Gubernur Saifullah Yusuf)-(teatrikal ini)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Komisaris Jendral Anang Iskandar dan Wakil Gubernur Saifullah Yusuf)-(pembacaan Deklarasi Anti)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Komisaris Jendral Anang Iskandar dan Wakil Gubernur Saifullah Yusuf)-(Narkoba)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Komisaris Jendral Anang Iskandar dan Wakil Gubernur Saifullah Yusuf)-(orang pelajar putra dan putri)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Komisaris Jendral Anang Iskandar dan Wakil Gubernur Saifullah Yusuf)-(mereka)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Komisaris Jendral Anang Iskandar dan Wakil Gubernur Saifullah Yusuf)-(pelajar)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Komisaris Jendral Anang Iskandar dan Wakil Gubernur Saifullah Yusuf)-(siswa)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Komisaris Jendral Anang Iskandar dan Wakil Gubernur Saifullah Yusuf)-(narkoba)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Komisaris Jendral Anang Iskandar dan Wakil Gubernur Saifullah Yusuf)-(pembacaan deklarasi,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Komisaris Jendral Anang Iskandar dan Wakil Gubernur Saifullah Yusuf)-(siswa dan siswi)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Komisaris Jendral Anang Iskandar dan Wakil Gubernur Saifullah Yusuf)-(narkoba)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Komisaris Jendral Anang Iskandar dan Wakil Gubernur Saifullah Yusuf)-(Anang Iskandar beserta Gus Ipul)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Komisaris Jendral Anang Iskandar dan Wakil Gubernur Saifullah Yusuf)-(Anang Iskandar)]";false;true;false;false;false;false;true;PERSON;PERSON
+"[(Komisaris Jendral Anang Iskandar dan Wakil Gubernur Saifullah Yusuf)-(acara deklarasi)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Komisaris Jendral Anang Iskandar dan Wakil Gubernur Saifullah Yusuf)-(narkoba ini)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Komisaris Jendral Anang Iskandar dan Wakil Gubernur Saifullah Yusuf)-(semangat)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Komisaris Jendral Anang Iskandar dan Wakil Gubernur Saifullah Yusuf)-(pelajar)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Komisaris Jendral Anang Iskandar dan Wakil Gubernur Saifullah Yusuf)-(narkoba)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Komisaris Jendral Anang Iskandar dan Wakil Gubernur Saifullah Yusuf)-(narkoba)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Komisaris Jendral Anang Iskandar dan Wakil Gubernur Saifullah Yusuf)-("Semangat)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Komisaris Jendral Anang Iskandar dan Wakil Gubernur Saifullah Yusuf)-(narkoba itu)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Komisaris Jendral Anang Iskandar dan Wakil Gubernur Saifullah Yusuf)-(Anang)]";false;true;false;false;false;false;true;PERSON;PERSON
+"[(Komisaris Jendral Anang Iskandar dan Wakil Gubernur Saifullah Yusuf)-(seusai acara deklarasi)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(pelajar)-(kegiatan ini)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(pelajar)-(Sebelum acara deklarasi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pelajar)-(sejumlah pelajar)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(pelajar)-(aksi teatrikal)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pelajar)-(Mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(pelajar)-(potongan kertas)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pelajar)-(jenis narkotika dan obat-obatan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pelajar)-(Kertas itu)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pelajar)-(panggung)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pelajar)-(pelajar)]";true;true;false;false;false;false;true;OTHER;OTHER
+"[(pelajar)-(perisai)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pelajar)-(persen 'drugsfree' dan sapu)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pelajar)-(Mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(pelajar)-(pengedar narkoba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pelajar)-('narkoba')]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pelajar)-(Prosesi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pelajar)-(teatrikal ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pelajar)-(pembacaan Deklarasi Anti)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pelajar)-(Narkoba)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pelajar)-(orang pelajar putra dan putri)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(pelajar)-(mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(pelajar)-(pelajar)]";true;true;false;false;false;false;true;OTHER;OTHER
+"[(pelajar)-(siswa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pelajar)-(narkoba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pelajar)-(pembacaan deklarasi,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pelajar)-(siswa dan siswi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pelajar)-(narkoba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pelajar)-(Anang Iskandar beserta Gus Ipul)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pelajar)-(Anang Iskandar)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pelajar)-(acara deklarasi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pelajar)-(narkoba ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pelajar)-(semangat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pelajar)-(pelajar)]";true;true;false;false;false;false;true;OTHER;OTHER
+"[(pelajar)-(narkoba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pelajar)-(narkoba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pelajar)-("Semangat)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pelajar)-(narkoba itu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pelajar)-(Anang)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pelajar)-(seusai acara deklarasi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kegiatan ini)-(Sebelum acara deklarasi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kegiatan ini)-(sejumlah pelajar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kegiatan ini)-(aksi teatrikal)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kegiatan ini)-(Mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(kegiatan ini)-(potongan kertas)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kegiatan ini)-(jenis narkotika dan obat-obatan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kegiatan ini)-(Kertas itu)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kegiatan ini)-(panggung)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kegiatan ini)-(pelajar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kegiatan ini)-(perisai)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kegiatan ini)-(persen 'drugsfree' dan sapu)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(kegiatan ini)-(Mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(kegiatan ini)-(pengedar narkoba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kegiatan ini)-('narkoba')]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(kegiatan ini)-(Prosesi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kegiatan ini)-(teatrikal ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kegiatan ini)-(pembacaan Deklarasi Anti)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kegiatan ini)-(Narkoba)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kegiatan ini)-(orang pelajar putra dan putri)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kegiatan ini)-(mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(kegiatan ini)-(pelajar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kegiatan ini)-(siswa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kegiatan ini)-(narkoba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kegiatan ini)-(pembacaan deklarasi,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(kegiatan ini)-(siswa dan siswi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kegiatan ini)-(narkoba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kegiatan ini)-(Anang Iskandar beserta Gus Ipul)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kegiatan ini)-(Anang Iskandar)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kegiatan ini)-(acara deklarasi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kegiatan ini)-(narkoba ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kegiatan ini)-(semangat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kegiatan ini)-(pelajar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kegiatan ini)-(narkoba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kegiatan ini)-(narkoba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kegiatan ini)-("Semangat)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(kegiatan ini)-(narkoba itu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kegiatan ini)-(Anang)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kegiatan ini)-(seusai acara deklarasi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Sebelum acara deklarasi)-(sejumlah pelajar)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Sebelum acara deklarasi)-(aksi teatrikal)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Sebelum acara deklarasi)-(Mereka)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Sebelum acara deklarasi)-(potongan kertas)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Sebelum acara deklarasi)-(jenis narkotika dan obat-obatan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Sebelum acara deklarasi)-(Kertas itu)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Sebelum acara deklarasi)-(panggung)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Sebelum acara deklarasi)-(pelajar)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Sebelum acara deklarasi)-(perisai)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Sebelum acara deklarasi)-(persen 'drugsfree' dan sapu)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Sebelum acara deklarasi)-(Mereka)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Sebelum acara deklarasi)-(pengedar narkoba)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Sebelum acara deklarasi)-('narkoba')]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Sebelum acara deklarasi)-(Prosesi)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Sebelum acara deklarasi)-(teatrikal ini)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Sebelum acara deklarasi)-(pembacaan Deklarasi Anti)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Sebelum acara deklarasi)-(Narkoba)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Sebelum acara deklarasi)-(orang pelajar putra dan putri)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Sebelum acara deklarasi)-(mereka)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Sebelum acara deklarasi)-(pelajar)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Sebelum acara deklarasi)-(siswa)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Sebelum acara deklarasi)-(narkoba)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Sebelum acara deklarasi)-(pembacaan deklarasi,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Sebelum acara deklarasi)-(siswa dan siswi)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Sebelum acara deklarasi)-(narkoba)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Sebelum acara deklarasi)-(Anang Iskandar beserta Gus Ipul)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Sebelum acara deklarasi)-(Anang Iskandar)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Sebelum acara deklarasi)-(acara deklarasi)]";false;true;false;false;false;false;true;PERSON;OTHER
+"[(Sebelum acara deklarasi)-(narkoba ini)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Sebelum acara deklarasi)-(semangat)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Sebelum acara deklarasi)-(pelajar)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Sebelum acara deklarasi)-(narkoba)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Sebelum acara deklarasi)-(narkoba)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Sebelum acara deklarasi)-("Semangat)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Sebelum acara deklarasi)-(narkoba itu)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Sebelum acara deklarasi)-(Anang)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Sebelum acara deklarasi)-(seusai acara deklarasi)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(sejumlah pelajar)-(aksi teatrikal)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(sejumlah pelajar)-(Mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(sejumlah pelajar)-(potongan kertas)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah pelajar)-(jenis narkotika dan obat-obatan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah pelajar)-(Kertas itu)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(sejumlah pelajar)-(panggung)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah pelajar)-(pelajar)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(sejumlah pelajar)-(perisai)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah pelajar)-(persen 'drugsfree' dan sapu)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah pelajar)-(Mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(sejumlah pelajar)-(pengedar narkoba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah pelajar)-('narkoba')]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah pelajar)-(Prosesi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(sejumlah pelajar)-(teatrikal ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah pelajar)-(pembacaan Deklarasi Anti)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah pelajar)-(Narkoba)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(sejumlah pelajar)-(orang pelajar putra dan putri)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah pelajar)-(mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(sejumlah pelajar)-(pelajar)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(sejumlah pelajar)-(siswa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah pelajar)-(narkoba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah pelajar)-(pembacaan deklarasi,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah pelajar)-(siswa dan siswi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah pelajar)-(narkoba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah pelajar)-(Anang Iskandar beserta Gus Ipul)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(sejumlah pelajar)-(Anang Iskandar)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(sejumlah pelajar)-(acara deklarasi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah pelajar)-(narkoba ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah pelajar)-(semangat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah pelajar)-(pelajar)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(sejumlah pelajar)-(narkoba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah pelajar)-(narkoba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah pelajar)-("Semangat)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah pelajar)-(narkoba itu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah pelajar)-(Anang)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(sejumlah pelajar)-(seusai acara deklarasi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(aksi teatrikal)-(Mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(aksi teatrikal)-(potongan kertas)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(aksi teatrikal)-(jenis narkotika dan obat-obatan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(aksi teatrikal)-(Kertas itu)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(aksi teatrikal)-(panggung)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(aksi teatrikal)-(pelajar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(aksi teatrikal)-(perisai)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(aksi teatrikal)-(persen 'drugsfree' dan sapu)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(aksi teatrikal)-(Mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(aksi teatrikal)-(pengedar narkoba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(aksi teatrikal)-('narkoba')]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(aksi teatrikal)-(Prosesi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(aksi teatrikal)-(teatrikal ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(aksi teatrikal)-(pembacaan Deklarasi Anti)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(aksi teatrikal)-(Narkoba)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(aksi teatrikal)-(orang pelajar putra dan putri)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(aksi teatrikal)-(mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(aksi teatrikal)-(pelajar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(aksi teatrikal)-(siswa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(aksi teatrikal)-(narkoba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(aksi teatrikal)-(pembacaan deklarasi,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(aksi teatrikal)-(siswa dan siswi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(aksi teatrikal)-(narkoba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(aksi teatrikal)-(Anang Iskandar beserta Gus Ipul)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(aksi teatrikal)-(Anang Iskandar)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(aksi teatrikal)-(acara deklarasi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(aksi teatrikal)-(narkoba ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(aksi teatrikal)-(semangat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(aksi teatrikal)-(pelajar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(aksi teatrikal)-(narkoba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(aksi teatrikal)-(narkoba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(aksi teatrikal)-("Semangat)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(aksi teatrikal)-(narkoba itu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(aksi teatrikal)-(Anang)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(aksi teatrikal)-(seusai acara deklarasi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Mereka)-(potongan kertas)]";false;true;false;true;false;true;false;OTHER;OTHER
+"[(Mereka)-(jenis narkotika dan obat-obatan)]";false;true;false;true;false;true;false;OTHER;OTHER
+"[(Mereka)-(Kertas itu)]";false;true;false;true;false;false;false;OTHER;PERSON
+"[(Mereka)-(panggung)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(pelajar)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(perisai)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(persen 'drugsfree' dan sapu)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(Mereka)]";true;true;false;true;true;false;true;OTHER;OTHER
+"[(Mereka)-(pengedar narkoba)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-('narkoba')]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(Prosesi)]";false;true;false;true;false;false;false;OTHER;PERSON
+"[(Mereka)-(teatrikal ini)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(pembacaan Deklarasi Anti)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(Narkoba)]";false;true;false;true;false;false;false;OTHER;PERSON
+"[(Mereka)-(orang pelajar putra dan putri)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(mereka)]";true;true;false;true;true;false;false;OTHER;OTHER
+"[(Mereka)-(pelajar)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(siswa)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(narkoba)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(pembacaan deklarasi,)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(siswa dan siswi)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(narkoba)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(Anang Iskandar beserta Gus Ipul)]";false;true;false;true;false;false;false;OTHER;PERSON
+"[(Mereka)-(Anang Iskandar)]";false;true;false;true;false;false;false;OTHER;PERSON
+"[(Mereka)-(acara deklarasi)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(narkoba ini)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(semangat)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(pelajar)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(narkoba)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(narkoba)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-("Semangat)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(narkoba itu)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(Anang)]";false;true;false;true;false;false;false;OTHER;PERSON
+"[(Mereka)-(seusai acara deklarasi)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(potongan kertas)-(jenis narkotika dan obat-obatan)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(potongan kertas)-(Kertas itu)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(potongan kertas)-(panggung)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(potongan kertas)-(pelajar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(potongan kertas)-(perisai)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(potongan kertas)-(persen 'drugsfree' dan sapu)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(potongan kertas)-(Mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(potongan kertas)-(pengedar narkoba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(potongan kertas)-('narkoba')]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(potongan kertas)-(Prosesi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(potongan kertas)-(teatrikal ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(potongan kertas)-(pembacaan Deklarasi Anti)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(potongan kertas)-(Narkoba)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(potongan kertas)-(orang pelajar putra dan putri)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(potongan kertas)-(mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(potongan kertas)-(pelajar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(potongan kertas)-(siswa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(potongan kertas)-(narkoba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(potongan kertas)-(pembacaan deklarasi,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(potongan kertas)-(siswa dan siswi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(potongan kertas)-(narkoba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(potongan kertas)-(Anang Iskandar beserta Gus Ipul)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(potongan kertas)-(Anang Iskandar)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(potongan kertas)-(acara deklarasi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(potongan kertas)-(narkoba ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(potongan kertas)-(semangat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(potongan kertas)-(pelajar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(potongan kertas)-(narkoba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(potongan kertas)-(narkoba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(potongan kertas)-("Semangat)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(potongan kertas)-(narkoba itu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(potongan kertas)-(Anang)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(potongan kertas)-(seusai acara deklarasi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(jenis narkotika dan obat-obatan)-(Kertas itu)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(jenis narkotika dan obat-obatan)-(panggung)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(jenis narkotika dan obat-obatan)-(pelajar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(jenis narkotika dan obat-obatan)-(perisai)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(jenis narkotika dan obat-obatan)-(persen 'drugsfree' dan sapu)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(jenis narkotika dan obat-obatan)-(Mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(jenis narkotika dan obat-obatan)-(pengedar narkoba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(jenis narkotika dan obat-obatan)-('narkoba')]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(jenis narkotika dan obat-obatan)-(Prosesi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(jenis narkotika dan obat-obatan)-(teatrikal ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(jenis narkotika dan obat-obatan)-(pembacaan Deklarasi Anti)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(jenis narkotika dan obat-obatan)-(Narkoba)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(jenis narkotika dan obat-obatan)-(orang pelajar putra dan putri)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(jenis narkotika dan obat-obatan)-(mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(jenis narkotika dan obat-obatan)-(pelajar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(jenis narkotika dan obat-obatan)-(siswa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(jenis narkotika dan obat-obatan)-(narkoba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(jenis narkotika dan obat-obatan)-(pembacaan deklarasi,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(jenis narkotika dan obat-obatan)-(siswa dan siswi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(jenis narkotika dan obat-obatan)-(narkoba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(jenis narkotika dan obat-obatan)-(Anang Iskandar beserta Gus Ipul)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(jenis narkotika dan obat-obatan)-(Anang Iskandar)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(jenis narkotika dan obat-obatan)-(acara deklarasi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(jenis narkotika dan obat-obatan)-(narkoba ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(jenis narkotika dan obat-obatan)-(semangat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(jenis narkotika dan obat-obatan)-(pelajar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(jenis narkotika dan obat-obatan)-(narkoba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(jenis narkotika dan obat-obatan)-(narkoba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(jenis narkotika dan obat-obatan)-("Semangat)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(jenis narkotika dan obat-obatan)-(narkoba itu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(jenis narkotika dan obat-obatan)-(Anang)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(jenis narkotika dan obat-obatan)-(seusai acara deklarasi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Kertas itu)-(panggung)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Kertas itu)-(pelajar)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kertas itu)-(perisai)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kertas itu)-(persen 'drugsfree' dan sapu)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Kertas itu)-(Mereka)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Kertas itu)-(pengedar narkoba)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kertas itu)-('narkoba')]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Kertas itu)-(Prosesi)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Kertas itu)-(teatrikal ini)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kertas itu)-(pembacaan Deklarasi Anti)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kertas itu)-(Narkoba)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Kertas itu)-(orang pelajar putra dan putri)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kertas itu)-(mereka)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Kertas itu)-(pelajar)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kertas itu)-(siswa)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kertas itu)-(narkoba)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kertas itu)-(pembacaan deklarasi,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Kertas itu)-(siswa dan siswi)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kertas itu)-(narkoba)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kertas itu)-(Anang Iskandar beserta Gus Ipul)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Kertas itu)-(Anang Iskandar)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Kertas itu)-(acara deklarasi)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kertas itu)-(narkoba ini)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kertas itu)-(semangat)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kertas itu)-(pelajar)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kertas itu)-(narkoba)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kertas itu)-(narkoba)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kertas itu)-("Semangat)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Kertas itu)-(narkoba itu)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kertas itu)-(Anang)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Kertas itu)-(seusai acara deklarasi)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(panggung)-(pelajar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(panggung)-(perisai)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(panggung)-(persen 'drugsfree' dan sapu)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(panggung)-(Mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(panggung)-(pengedar narkoba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(panggung)-('narkoba')]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(panggung)-(Prosesi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(panggung)-(teatrikal ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(panggung)-(pembacaan Deklarasi Anti)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(panggung)-(Narkoba)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(panggung)-(orang pelajar putra dan putri)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(panggung)-(mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(panggung)-(pelajar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(panggung)-(siswa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(panggung)-(narkoba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(panggung)-(pembacaan deklarasi,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(panggung)-(siswa dan siswi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(panggung)-(narkoba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(panggung)-(Anang Iskandar beserta Gus Ipul)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(panggung)-(Anang Iskandar)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(panggung)-(acara deklarasi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(panggung)-(narkoba ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(panggung)-(semangat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(panggung)-(pelajar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(panggung)-(narkoba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(panggung)-(narkoba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(panggung)-("Semangat)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(panggung)-(narkoba itu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(panggung)-(Anang)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(panggung)-(seusai acara deklarasi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pelajar)-(perisai)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(pelajar)-(persen 'drugsfree' dan sapu)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(pelajar)-(Mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(pelajar)-(pengedar narkoba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pelajar)-('narkoba')]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pelajar)-(Prosesi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pelajar)-(teatrikal ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pelajar)-(pembacaan Deklarasi Anti)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pelajar)-(Narkoba)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pelajar)-(orang pelajar putra dan putri)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(pelajar)-(mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(pelajar)-(pelajar)]";true;true;false;false;false;false;true;OTHER;OTHER
+"[(pelajar)-(siswa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pelajar)-(narkoba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pelajar)-(pembacaan deklarasi,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pelajar)-(siswa dan siswi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pelajar)-(narkoba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pelajar)-(Anang Iskandar beserta Gus Ipul)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pelajar)-(Anang Iskandar)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pelajar)-(acara deklarasi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pelajar)-(narkoba ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pelajar)-(semangat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pelajar)-(pelajar)]";true;true;false;false;false;false;true;OTHER;OTHER
+"[(pelajar)-(narkoba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pelajar)-(narkoba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pelajar)-("Semangat)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pelajar)-(narkoba itu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pelajar)-(Anang)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pelajar)-(seusai acara deklarasi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(perisai)-(persen 'drugsfree' dan sapu)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(perisai)-(Mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(perisai)-(pengedar narkoba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(perisai)-('narkoba')]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(perisai)-(Prosesi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(perisai)-(teatrikal ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(perisai)-(pembacaan Deklarasi Anti)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(perisai)-(Narkoba)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(perisai)-(orang pelajar putra dan putri)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(perisai)-(mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(perisai)-(pelajar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(perisai)-(siswa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(perisai)-(narkoba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(perisai)-(pembacaan deklarasi,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(perisai)-(siswa dan siswi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(perisai)-(narkoba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(perisai)-(Anang Iskandar beserta Gus Ipul)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(perisai)-(Anang Iskandar)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(perisai)-(acara deklarasi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(perisai)-(narkoba ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(perisai)-(semangat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(perisai)-(pelajar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(perisai)-(narkoba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(perisai)-(narkoba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(perisai)-("Semangat)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(perisai)-(narkoba itu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(perisai)-(Anang)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(perisai)-(seusai acara deklarasi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persen 'drugsfree' dan sapu)-(Mereka)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(persen 'drugsfree' dan sapu)-(pengedar narkoba)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(persen 'drugsfree' dan sapu)-('narkoba')]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(persen 'drugsfree' dan sapu)-(Prosesi)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(persen 'drugsfree' dan sapu)-(teatrikal ini)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(persen 'drugsfree' dan sapu)-(pembacaan Deklarasi Anti)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(persen 'drugsfree' dan sapu)-(Narkoba)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(persen 'drugsfree' dan sapu)-(orang pelajar putra dan putri)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(persen 'drugsfree' dan sapu)-(mereka)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(persen 'drugsfree' dan sapu)-(pelajar)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(persen 'drugsfree' dan sapu)-(siswa)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(persen 'drugsfree' dan sapu)-(narkoba)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(persen 'drugsfree' dan sapu)-(pembacaan deklarasi,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(persen 'drugsfree' dan sapu)-(siswa dan siswi)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(persen 'drugsfree' dan sapu)-(narkoba)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(persen 'drugsfree' dan sapu)-(Anang Iskandar beserta Gus Ipul)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(persen 'drugsfree' dan sapu)-(Anang Iskandar)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(persen 'drugsfree' dan sapu)-(acara deklarasi)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(persen 'drugsfree' dan sapu)-(narkoba ini)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(persen 'drugsfree' dan sapu)-(semangat)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(persen 'drugsfree' dan sapu)-(pelajar)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(persen 'drugsfree' dan sapu)-(narkoba)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(persen 'drugsfree' dan sapu)-(narkoba)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(persen 'drugsfree' dan sapu)-("Semangat)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(persen 'drugsfree' dan sapu)-(narkoba itu)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(persen 'drugsfree' dan sapu)-(Anang)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(persen 'drugsfree' dan sapu)-(seusai acara deklarasi)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Mereka)-(pengedar narkoba)]";false;true;false;true;false;true;false;OTHER;OTHER
+"[(Mereka)-('narkoba')]";false;false;false;true;false;true;false;OTHER;OTHER
+"[(Mereka)-(Prosesi)]";false;true;false;true;false;false;false;OTHER;PERSON
+"[(Mereka)-(teatrikal ini)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(pembacaan Deklarasi Anti)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(Narkoba)]";false;true;false;true;false;false;false;OTHER;PERSON
+"[(Mereka)-(orang pelajar putra dan putri)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(mereka)]";true;true;false;true;true;false;false;OTHER;OTHER
+"[(Mereka)-(pelajar)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(siswa)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(narkoba)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(pembacaan deklarasi,)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(siswa dan siswi)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(narkoba)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(Anang Iskandar beserta Gus Ipul)]";false;true;false;true;false;false;false;OTHER;PERSON
+"[(Mereka)-(Anang Iskandar)]";false;true;false;true;false;false;false;OTHER;PERSON
+"[(Mereka)-(acara deklarasi)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(narkoba ini)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(semangat)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(pelajar)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(narkoba)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(narkoba)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-("Semangat)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(narkoba itu)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(Anang)]";false;true;false;true;false;false;false;OTHER;PERSON
+"[(Mereka)-(seusai acara deklarasi)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(pengedar narkoba)-('narkoba')]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(pengedar narkoba)-(Prosesi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pengedar narkoba)-(teatrikal ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pengedar narkoba)-(pembacaan Deklarasi Anti)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pengedar narkoba)-(Narkoba)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pengedar narkoba)-(orang pelajar putra dan putri)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pengedar narkoba)-(mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(pengedar narkoba)-(pelajar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pengedar narkoba)-(siswa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pengedar narkoba)-(narkoba)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(pengedar narkoba)-(pembacaan deklarasi,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pengedar narkoba)-(siswa dan siswi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pengedar narkoba)-(narkoba)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(pengedar narkoba)-(Anang Iskandar beserta Gus Ipul)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pengedar narkoba)-(Anang Iskandar)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pengedar narkoba)-(acara deklarasi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pengedar narkoba)-(narkoba ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pengedar narkoba)-(semangat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pengedar narkoba)-(pelajar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pengedar narkoba)-(narkoba)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(pengedar narkoba)-(narkoba)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(pengedar narkoba)-("Semangat)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pengedar narkoba)-(narkoba itu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pengedar narkoba)-(Anang)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pengedar narkoba)-(seusai acara deklarasi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[('narkoba')-(Prosesi)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[('narkoba')-(teatrikal ini)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[('narkoba')-(pembacaan Deklarasi Anti)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[('narkoba')-(Narkoba)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[('narkoba')-(orang pelajar putra dan putri)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[('narkoba')-(mereka)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[('narkoba')-(pelajar)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[('narkoba')-(siswa)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[('narkoba')-(narkoba)]";false;false;false;false;false;false;true;OTHER;OTHER
+"[('narkoba')-(pembacaan deklarasi,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[('narkoba')-(siswa dan siswi)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[('narkoba')-(narkoba)]";false;false;false;false;false;false;true;OTHER;OTHER
+"[('narkoba')-(Anang Iskandar beserta Gus Ipul)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[('narkoba')-(Anang Iskandar)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[('narkoba')-(acara deklarasi)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[('narkoba')-(narkoba ini)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[('narkoba')-(semangat)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[('narkoba')-(pelajar)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[('narkoba')-(narkoba)]";false;false;false;false;false;false;true;OTHER;OTHER
+"[('narkoba')-(narkoba)]";false;false;false;false;false;false;true;OTHER;OTHER
+"[('narkoba')-("Semangat)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[('narkoba')-(narkoba itu)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[('narkoba')-(Anang)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[('narkoba')-(seusai acara deklarasi)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Prosesi)-(teatrikal ini)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Prosesi)-(pembacaan Deklarasi Anti)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Prosesi)-(Narkoba)]";false;true;false;false;false;true;false;PERSON;PERSON
+"[(Prosesi)-(orang pelajar putra dan putri)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Prosesi)-(mereka)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Prosesi)-(pelajar)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Prosesi)-(siswa)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Prosesi)-(narkoba)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Prosesi)-(pembacaan deklarasi,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Prosesi)-(siswa dan siswi)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Prosesi)-(narkoba)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Prosesi)-(Anang Iskandar beserta Gus Ipul)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Prosesi)-(Anang Iskandar)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Prosesi)-(acara deklarasi)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Prosesi)-(narkoba ini)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Prosesi)-(semangat)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Prosesi)-(pelajar)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Prosesi)-(narkoba)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Prosesi)-(narkoba)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Prosesi)-("Semangat)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Prosesi)-(narkoba itu)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Prosesi)-(Anang)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Prosesi)-(seusai acara deklarasi)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(teatrikal ini)-(pembacaan Deklarasi Anti)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(teatrikal ini)-(Narkoba)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(teatrikal ini)-(orang pelajar putra dan putri)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(teatrikal ini)-(mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(teatrikal ini)-(pelajar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(teatrikal ini)-(siswa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(teatrikal ini)-(narkoba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(teatrikal ini)-(pembacaan deklarasi,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(teatrikal ini)-(siswa dan siswi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(teatrikal ini)-(narkoba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(teatrikal ini)-(Anang Iskandar beserta Gus Ipul)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(teatrikal ini)-(Anang Iskandar)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(teatrikal ini)-(acara deklarasi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(teatrikal ini)-(narkoba ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(teatrikal ini)-(semangat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(teatrikal ini)-(pelajar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(teatrikal ini)-(narkoba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(teatrikal ini)-(narkoba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(teatrikal ini)-("Semangat)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(teatrikal ini)-(narkoba itu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(teatrikal ini)-(Anang)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(teatrikal ini)-(seusai acara deklarasi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pembacaan Deklarasi Anti)-(Narkoba)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(pembacaan Deklarasi Anti)-(orang pelajar putra dan putri)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(pembacaan Deklarasi Anti)-(mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(pembacaan Deklarasi Anti)-(pelajar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pembacaan Deklarasi Anti)-(siswa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pembacaan Deklarasi Anti)-(narkoba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pembacaan Deklarasi Anti)-(pembacaan deklarasi,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pembacaan Deklarasi Anti)-(siswa dan siswi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pembacaan Deklarasi Anti)-(narkoba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pembacaan Deklarasi Anti)-(Anang Iskandar beserta Gus Ipul)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pembacaan Deklarasi Anti)-(Anang Iskandar)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pembacaan Deklarasi Anti)-(acara deklarasi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pembacaan Deklarasi Anti)-(narkoba ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pembacaan Deklarasi Anti)-(semangat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pembacaan Deklarasi Anti)-(pelajar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pembacaan Deklarasi Anti)-(narkoba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pembacaan Deklarasi Anti)-(narkoba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pembacaan Deklarasi Anti)-("Semangat)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pembacaan Deklarasi Anti)-(narkoba itu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pembacaan Deklarasi Anti)-(Anang)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pembacaan Deklarasi Anti)-(seusai acara deklarasi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Narkoba)-(orang pelajar putra dan putri)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Narkoba)-(mereka)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Narkoba)-(pelajar)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Narkoba)-(siswa)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Narkoba)-(narkoba)]";true;true;false;false;false;false;false;PERSON;OTHER
+"[(Narkoba)-(pembacaan deklarasi,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Narkoba)-(siswa dan siswi)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Narkoba)-(narkoba)]";true;true;false;false;false;false;false;PERSON;OTHER
+"[(Narkoba)-(Anang Iskandar beserta Gus Ipul)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Narkoba)-(Anang Iskandar)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Narkoba)-(acara deklarasi)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Narkoba)-(narkoba ini)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Narkoba)-(semangat)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Narkoba)-(pelajar)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Narkoba)-(narkoba)]";true;true;false;false;false;false;false;PERSON;OTHER
+"[(Narkoba)-(narkoba)]";true;true;false;false;false;false;false;PERSON;OTHER
+"[(Narkoba)-("Semangat)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Narkoba)-(narkoba itu)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Narkoba)-(Anang)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Narkoba)-(seusai acara deklarasi)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(orang pelajar putra dan putri)-(mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(orang pelajar putra dan putri)-(pelajar)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(orang pelajar putra dan putri)-(siswa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(orang pelajar putra dan putri)-(narkoba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(orang pelajar putra dan putri)-(pembacaan deklarasi,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(orang pelajar putra dan putri)-(siswa dan siswi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(orang pelajar putra dan putri)-(narkoba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(orang pelajar putra dan putri)-(Anang Iskandar beserta Gus Ipul)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(orang pelajar putra dan putri)-(Anang Iskandar)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(orang pelajar putra dan putri)-(acara deklarasi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(orang pelajar putra dan putri)-(narkoba ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(orang pelajar putra dan putri)-(semangat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(orang pelajar putra dan putri)-(pelajar)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(orang pelajar putra dan putri)-(narkoba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(orang pelajar putra dan putri)-(narkoba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(orang pelajar putra dan putri)-("Semangat)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(orang pelajar putra dan putri)-(narkoba itu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(orang pelajar putra dan putri)-(Anang)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(orang pelajar putra dan putri)-(seusai acara deklarasi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(mereka)-(pelajar)]";false;true;false;true;false;true;false;OTHER;OTHER
+"[(mereka)-(siswa)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(mereka)-(narkoba)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(mereka)-(pembacaan deklarasi,)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(mereka)-(siswa dan siswi)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(mereka)-(narkoba)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(mereka)-(Anang Iskandar beserta Gus Ipul)]";false;true;false;true;false;false;false;OTHER;PERSON
+"[(mereka)-(Anang Iskandar)]";false;true;false;true;false;false;false;OTHER;PERSON
+"[(mereka)-(acara deklarasi)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(mereka)-(narkoba ini)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(mereka)-(semangat)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(mereka)-(pelajar)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(mereka)-(narkoba)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(mereka)-(narkoba)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(mereka)-("Semangat)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(mereka)-(narkoba itu)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(mereka)-(Anang)]";false;true;false;true;false;false;false;OTHER;PERSON
+"[(mereka)-(seusai acara deklarasi)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(pelajar)-(siswa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pelajar)-(narkoba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pelajar)-(pembacaan deklarasi,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pelajar)-(siswa dan siswi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pelajar)-(narkoba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pelajar)-(Anang Iskandar beserta Gus Ipul)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pelajar)-(Anang Iskandar)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pelajar)-(acara deklarasi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pelajar)-(narkoba ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pelajar)-(semangat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pelajar)-(pelajar)]";true;true;false;false;false;false;true;OTHER;OTHER
+"[(pelajar)-(narkoba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pelajar)-(narkoba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pelajar)-("Semangat)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pelajar)-(narkoba itu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pelajar)-(Anang)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pelajar)-(seusai acara deklarasi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(siswa)-(narkoba)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(siswa)-(pembacaan deklarasi,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(siswa)-(siswa dan siswi)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(siswa)-(narkoba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(siswa)-(Anang Iskandar beserta Gus Ipul)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(siswa)-(Anang Iskandar)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(siswa)-(acara deklarasi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(siswa)-(narkoba ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(siswa)-(semangat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(siswa)-(pelajar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(siswa)-(narkoba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(siswa)-(narkoba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(siswa)-("Semangat)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(siswa)-(narkoba itu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(siswa)-(Anang)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(siswa)-(seusai acara deklarasi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(narkoba)-(pembacaan deklarasi,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(narkoba)-(siswa dan siswi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(narkoba)-(narkoba)]";true;true;false;false;false;false;true;OTHER;OTHER
+"[(narkoba)-(Anang Iskandar beserta Gus Ipul)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(narkoba)-(Anang Iskandar)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(narkoba)-(acara deklarasi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(narkoba)-(narkoba ini)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(narkoba)-(semangat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(narkoba)-(pelajar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(narkoba)-(narkoba)]";true;true;false;false;false;false;true;OTHER;OTHER
+"[(narkoba)-(narkoba)]";true;true;false;false;false;false;true;OTHER;OTHER
+"[(narkoba)-("Semangat)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(narkoba)-(narkoba itu)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(narkoba)-(Anang)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(narkoba)-(seusai acara deklarasi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pembacaan deklarasi,)-(siswa dan siswi)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(pembacaan deklarasi,)-(narkoba)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(pembacaan deklarasi,)-(Anang Iskandar beserta Gus Ipul)]";false;false;false;false;false;true;false;OTHER;PERSON
+"[(pembacaan deklarasi,)-(Anang Iskandar)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(pembacaan deklarasi,)-(acara deklarasi)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pembacaan deklarasi,)-(narkoba ini)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pembacaan deklarasi,)-(semangat)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pembacaan deklarasi,)-(pelajar)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pembacaan deklarasi,)-(narkoba)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pembacaan deklarasi,)-(narkoba)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pembacaan deklarasi,)-("Semangat)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pembacaan deklarasi,)-(narkoba itu)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pembacaan deklarasi,)-(Anang)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(pembacaan deklarasi,)-(seusai acara deklarasi)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(siswa dan siswi)-(narkoba)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(siswa dan siswi)-(Anang Iskandar beserta Gus Ipul)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(siswa dan siswi)-(Anang Iskandar)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(siswa dan siswi)-(acara deklarasi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(siswa dan siswi)-(narkoba ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(siswa dan siswi)-(semangat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(siswa dan siswi)-(pelajar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(siswa dan siswi)-(narkoba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(siswa dan siswi)-(narkoba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(siswa dan siswi)-("Semangat)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(siswa dan siswi)-(narkoba itu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(siswa dan siswi)-(Anang)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(siswa dan siswi)-(seusai acara deklarasi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(narkoba)-(Anang Iskandar beserta Gus Ipul)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(narkoba)-(Anang Iskandar)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(narkoba)-(acara deklarasi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(narkoba)-(narkoba ini)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(narkoba)-(semangat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(narkoba)-(pelajar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(narkoba)-(narkoba)]";true;true;false;false;false;false;true;OTHER;OTHER
+"[(narkoba)-(narkoba)]";true;true;false;false;false;false;true;OTHER;OTHER
+"[(narkoba)-("Semangat)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(narkoba)-(narkoba itu)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(narkoba)-(Anang)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(narkoba)-(seusai acara deklarasi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Anang Iskandar beserta Gus Ipul)-(Anang Iskandar)]";false;true;false;false;false;false;true;PERSON;PERSON
+"[(Anang Iskandar beserta Gus Ipul)-(acara deklarasi)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Anang Iskandar beserta Gus Ipul)-(narkoba ini)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Anang Iskandar beserta Gus Ipul)-(semangat)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Anang Iskandar beserta Gus Ipul)-(pelajar)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Anang Iskandar beserta Gus Ipul)-(narkoba)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Anang Iskandar beserta Gus Ipul)-(narkoba)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Anang Iskandar beserta Gus Ipul)-("Semangat)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Anang Iskandar beserta Gus Ipul)-(narkoba itu)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Anang Iskandar beserta Gus Ipul)-(Anang)]";false;true;false;false;false;false;true;PERSON;PERSON
+"[(Anang Iskandar beserta Gus Ipul)-(seusai acara deklarasi)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Anang Iskandar)-(acara deklarasi)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Anang Iskandar)-(narkoba ini)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Anang Iskandar)-(semangat)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Anang Iskandar)-(pelajar)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Anang Iskandar)-(narkoba)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Anang Iskandar)-(narkoba)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Anang Iskandar)-("Semangat)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Anang Iskandar)-(narkoba itu)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Anang Iskandar)-(Anang)]";false;true;false;false;false;false;true;PERSON;PERSON
+"[(Anang Iskandar)-(seusai acara deklarasi)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(acara deklarasi)-(narkoba ini)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(acara deklarasi)-(semangat)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(acara deklarasi)-(pelajar)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(acara deklarasi)-(narkoba)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(acara deklarasi)-(narkoba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(acara deklarasi)-("Semangat)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(acara deklarasi)-(narkoba itu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(acara deklarasi)-(Anang)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(acara deklarasi)-(seusai acara deklarasi)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(narkoba ini)-(semangat)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(narkoba ini)-(pelajar)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(narkoba ini)-(narkoba)]";false;true;false;false;false;true;true;OTHER;OTHER
+"[(narkoba ini)-(narkoba)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(narkoba ini)-("Semangat)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(narkoba ini)-(narkoba itu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(narkoba ini)-(Anang)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(narkoba ini)-(seusai acara deklarasi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(semangat)-(pelajar)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(semangat)-(narkoba)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(semangat)-(narkoba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(semangat)-("Semangat)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(semangat)-(narkoba itu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(semangat)-(Anang)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(semangat)-(seusai acara deklarasi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pelajar)-(narkoba)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(pelajar)-(narkoba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pelajar)-("Semangat)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pelajar)-(narkoba itu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pelajar)-(Anang)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pelajar)-(seusai acara deklarasi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(narkoba)-(narkoba)]";true;true;false;false;false;false;true;OTHER;OTHER
+"[(narkoba)-("Semangat)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(narkoba)-(narkoba itu)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(narkoba)-(Anang)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(narkoba)-(seusai acara deklarasi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(narkoba)-("Semangat)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(narkoba)-(narkoba itu)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(narkoba)-(Anang)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(narkoba)-(seusai acara deklarasi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[("Semangat)-(narkoba itu)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[("Semangat)-(Anang)]";false;false;false;false;false;true;false;OTHER;PERSON
+"[("Semangat)-(seusai acara deklarasi)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(narkoba itu)-(Anang)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(narkoba itu)-(seusai acara deklarasi)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(Anang)-(seusai acara deklarasi)]";false;true;false;false;false;true;false;PERSON;OTHER

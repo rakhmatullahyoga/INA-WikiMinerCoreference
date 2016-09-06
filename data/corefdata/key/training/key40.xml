@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>Jateng</Mention>
+        <Mention>Jawa Tengah</Mention>
+        <Mention>Provinsi Jawa Tengah</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>Ujian Nasional</Mention>
+        <Mention>UN</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>SMP</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>Taufik Hidayat</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>SMA</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>Hadi</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>Republika</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>Kota Semarang</Mention>
+        <Mention>Semarang</Mention>
+    </Entity>
+</CoreferenceChain>

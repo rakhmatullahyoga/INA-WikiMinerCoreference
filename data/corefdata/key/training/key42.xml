@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>PT Astra Daihatsu Motor</Mention>
+        <Mention>Daihatsu</Mention>
+        <Mention>ADM</Mention>
+        <Mention>PT ADM</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>SMK</Mention>
+        <Mention>sekolah menengah kejuruan</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>Jawa Tengah</Mention>
+        <Mention>Jateng</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>Pemalang</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>Semarang</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>Hari Pendidikan Nasional</Mention>
+        <Mention>Hardiknas</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>Brebes</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>Banjarnegara</Mention>
+    </Entity>
+    <Entity ClusterId="9">
+        <Mention>Islam</Mention>
+    </Entity>
+    <Entity ClusterId="10">
+        <Mention>Surakarta</Mention>
+    </Entity>
+    <Entity ClusterId="11">
+        <Mention>Muhammadiyah</Mention>
+    </Entity>
+    <Entity ClusterId="12">
+        <Mention>Blora</Mention>
+    </Entity>
+    <Entity ClusterId="13">
+        <Mention>Salatiga</Mention>
+    </Entity>
+</CoreferenceChain>

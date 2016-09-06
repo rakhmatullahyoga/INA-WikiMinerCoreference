@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>Macan Kemayoran</Mention>
+        <Mention>Persija Jakarta</Mention>
+        <Mention>Persija</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>REPUBLIKA.CO.ID</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>BANJARMASIN --</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>puasa</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>Barito Putera</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>Martapura</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>Affandi</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>Ari Wibowo</Mention>
+    </Entity>
+    <Entity ClusterId="9">
+        <Mention>Benny Dollo</Mention>
+    </Entity>
+</CoreferenceChain>

@@ -34,6 +34,8 @@ public class RuleInstance {
     private String mention2;
     
     private Boolean isCorefLabel;
+    private double corefConfidence;
+    private double corefSupport;
 
     public RuleInstance() { // do nothing, only for testing purpose
         isStrMatch = null;
@@ -50,7 +52,7 @@ public class RuleInstance {
     public RuleInstance(Mention m1, Mention m2, boolean oneSentence) {
         mention1 = m1.mentionStr;
         mention2 = m2.mentionStr;
-        isStrMatch = m1.mentionStr.equalsIgnoreCase(m2.mentionStr);
+        isStrMatch = mention1.equalsIgnoreCase(mention2);
         isFirstPronoun = m1.isPronoun;
         isScndPronoun = m2.isPronoun;
         isOnOneSentence = oneSentence;
@@ -62,16 +64,18 @@ public class RuleInstance {
     }
     
     public RuleInstance(String[] rulesCsv) {
-        isStrMatch = rulesCsv[0].equals("true");
-        isMatchNoCasePunc = rulesCsv[1].equals("true");
-        isAbbrev = rulesCsv[2].equals("true");
-        isFirstPronoun = rulesCsv[3].equals("true");
-        isScndPronoun = rulesCsv[4].equals("true");
-        isOnOneSentence = rulesCsv[5].equals("true");
-        isMatchPartial = rulesCsv[6].equals("true");
-        firstNameClass = rulesCsv[7];
-        scndNameClass = rulesCsv[8];
-        isCorefLabel = rulesCsv[9].equals("true");
+        isStrMatch = rulesCsv[1].equalsIgnoreCase("true");
+        isMatchNoCasePunc = rulesCsv[2].equalsIgnoreCase("true");
+        isAbbrev = rulesCsv[3].equalsIgnoreCase("true");
+        isFirstPronoun = rulesCsv[4].equalsIgnoreCase("true");
+        isScndPronoun = rulesCsv[5].equalsIgnoreCase("true");
+        isOnOneSentence = rulesCsv[6].equalsIgnoreCase("true");
+        isMatchPartial = rulesCsv[7].equalsIgnoreCase("true");
+        firstNameClass = rulesCsv[8];
+        scndNameClass = rulesCsv[9];
+        isCorefLabel = rulesCsv[10].equalsIgnoreCase("true");
+        if(rulesCsv.length==13)
+            corefConfidence = Double.parseDouble(rulesCsv[12]);
     }
     
     @Override
@@ -107,9 +111,9 @@ public class RuleInstance {
 
     @Override
     public String toString() {
-        return isStrMatch+","+ isMatchNoCasePunc+","+isAbbrev+","+
-                isFirstPronoun+","+ isScndPronoun+","+isOnOneSentence+","+
-                isMatchPartial+","+ firstNameClass+","+scndNameClass;
+        return isStrMatch+";"+ isMatchNoCasePunc+";"+isAbbrev+";"+
+                isFirstPronoun+";"+ isScndPronoun+";"+isOnOneSentence+";"+
+                isMatchPartial+";"+ firstNameClass+";"+scndNameClass;
     }
     
     private boolean isHavePunctuation(String phrase) {
@@ -136,6 +140,22 @@ public class RuleInstance {
             }
             return abbreviation;
         }
+    }
+
+    public double getCorefSupport() {
+        return corefSupport;
+    }
+
+    public void setCorefSupport(double corefSupport) {
+        this.corefSupport = corefSupport;
+    }
+
+    public double getCorefConfidence() {
+        return corefConfidence;
+    }
+
+    public void setCorefConfidence(double corefConfidence) {
+        this.corefConfidence = corefConfidence;
     }
 
     public String getMention1() {

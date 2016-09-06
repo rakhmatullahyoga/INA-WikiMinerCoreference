@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>Dahlan Iskan</Mention>
+        <Mention>Menteri BUMN</Mention>
+        <Mention>Dahlan</Mention>
+        <Mention>Iskan</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>Presiden Susilo Bambang Yudhyono</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>jejaring sosial</Mention>
+        <Mention>Twitter</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>BUMN</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>Jakarta</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>pembawa acara</Mention>
+        <Mention>Najwa Shihab</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>Metro TV</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>PT PLN</Mention>
+    </Entity>
+    <Entity ClusterId="9">
+        <Mention>Kementerian BUMN</Mention>
+    </Entity>
+</CoreferenceChain>

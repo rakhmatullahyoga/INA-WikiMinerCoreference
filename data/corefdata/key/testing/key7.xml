@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>Lion Air</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>pesawat</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>Bandar Udara Ngurah Rai</Mention>
+        <Mention>Ngurah Rai</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>Bali</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>PT Angkasa Pura I</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>meteorologi</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>pilot</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>pemandu lalu lintas udara</Mention>
+        <Mention>air traffic controller</Mention>
+        <Mention>ATC</Mention>
+    </Entity>
+    <Entity ClusterId="9">
+        <Mention>Boeing 737-800</Mention>
+    </Entity>
+    <Entity ClusterId="10">
+        <Mention>Kurnia</Mention>
+        <Mention>satu penumpang pesawat</Mention>
+    </Entity>
+    <Entity ClusterId="11">
+        <Mention>Kepala Komunikasi dan Legal PT Angkasa Pura I</Mention>
+        <Mention>Alfazah</Mention>
+    </Entity>
+</CoreferenceChain>

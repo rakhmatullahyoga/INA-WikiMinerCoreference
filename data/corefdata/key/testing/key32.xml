@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>Ahok</Mention>
+        <Mention>Wakil Gubernur DKI Jakarta</Mention>
+        <Mention>Basuki Tjahaja Purnama</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>Jakarta</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>Balai Kota</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>Badan Pengelola Keuangan Daerah</Mention>
+        <Mention>BPKD</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>peraturan gubernur</Mention>
+        <Mention>Pergub</Mention>
+    </Entity>
+</CoreferenceChain>

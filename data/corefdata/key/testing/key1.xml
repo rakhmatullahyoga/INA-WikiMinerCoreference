@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>BBM</Mention>
+        <Mention>bahan bakar minyak</Mention>
+        <Mention>bensin</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>SPBU</Mention>
+        <Mention>Stasiun Pengisian Bahan Bakar Umum</Mention>
+        <Mention>Pom bensin</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>Jakarta Selatan</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>angkutan</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>pengendara sepeda motor</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>Pemerintah</Mention>
+    </Entity>
+</CoreferenceChain>

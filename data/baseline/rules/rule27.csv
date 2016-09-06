@@ -1,0 +1,1712 @@
+mentions;isStrMatch;isMatchNoCasePunc;isAbbrev;isFirstPronoun;isScndPronoun;isOnOneSentence;isMatchPartial;firstNameClass;scndNameClass
+"[(Pihak)-(Hatta Kecipratan Elektabilitas Jokowi Dukungan duet Gubernur DKI Jakarta)]";false;true;false;false;false;true;false;PERSON;PERSON
+"[(Pihak)-(Joko Widodo)]";false;true;false;false;false;true;false;PERSON;PERSON
+"[(Pihak)-(Jokowi)]";false;true;false;false;false;true;false;PERSON;PERSON
+"[(Pihak)-(pemilihan presiden 2014,)]";false;false;false;false;false;true;false;PERSON;OTHER
+"[(Pihak)-(bentuk spanduk)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Pihak)-(Solo)]";false;true;false;false;false;true;false;PERSON;LOCATION
+"[(Pihak)-(Jawa tengah)]";false;true;false;false;false;true;false;PERSON;LOCATION
+"[(Pihak)-(Pengamat Politik Hanggoro Doso Pamungkas)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Pihak)-(pihak-pihak)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pihak)-(elektabilitas Jokowi)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pihak)-(saat ini)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pihak)-(Hatta Rajasa)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Pihak)-("Saya)]";false;false;false;false;true;false;false;PERSON;OTHER
+"[(Pihak)-(Solo)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Pihak)-(Hatta)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Pihak)-(elektabilitas jokowi,")]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Pihak)-(Hanggoro,)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Pihak)-(Okezone)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Pihak)-(Jumat)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pihak)-(dia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Pihak)-(hal ini)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pihak)-(bukanlah gerakan politik)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pihak)-(sekedar letupan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pihak)-(Jokowi)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Pihak)-(gejala positif)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pihak)-(orang itu)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pihak)-(calon presiden)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pihak)-(Jokowi)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Pihak)-(Jokowi,)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Pihak)-(Hanggoro,)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Pihak)-(popularitasnya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pihak)-(tokoh lain)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pihak)-(jokowi)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pihak)-(survei Lingkaran Survei Indonesia)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pihak)-(LSI)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Pihak)-(Aburizal Bakrie dan unggul)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Pihak)-(pembeda jokowi)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pihak)-(tokoh)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pihak)-(Jokowi)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Pihak)-(publik)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pihak)-(faktor)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pihak)-(Megawati)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Pihak)-(enggk)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pihak)-(tiket capres)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pihak)-(Jokowi," lugasnya)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Pihak)-(spanduk dukungan duet Jokowi-Hatta Rajasa)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pihak)-(pemilihan presiden 2014,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Pihak)-(Kota Solo,)]";false;false;false;false;false;false;false;PERSON;LOCATION
+"[(Pihak)-(Jawa Tengah)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Pihak)-(spanduk)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pihak)-(perempatan Sangkrah,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Pihak)-(Pasar Kliwon tersebut)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Pihak)-("BerdelaPAN)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Pihak)-(Jokowi dan Hatta Rajasa)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Pihak)-(pilpres 2014-2019)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pihak)-(Ayo dukung wong Solo",)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Pihak)-(spanduk)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pihak)-(merah)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Hatta Kecipratan Elektabilitas Jokowi Dukungan duet Gubernur DKI Jakarta)-(Joko Widodo)]";false;true;false;false;false;true;false;PERSON;PERSON
+"[(Hatta Kecipratan Elektabilitas Jokowi Dukungan duet Gubernur DKI Jakarta)-(Jokowi)]";false;true;false;false;false;true;true;PERSON;PERSON
+"[(Hatta Kecipratan Elektabilitas Jokowi Dukungan duet Gubernur DKI Jakarta)-(pemilihan presiden 2014,)]";false;false;false;false;false;true;false;PERSON;OTHER
+"[(Hatta Kecipratan Elektabilitas Jokowi Dukungan duet Gubernur DKI Jakarta)-(bentuk spanduk)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Hatta Kecipratan Elektabilitas Jokowi Dukungan duet Gubernur DKI Jakarta)-(Solo)]";false;true;false;false;false;true;false;PERSON;LOCATION
+"[(Hatta Kecipratan Elektabilitas Jokowi Dukungan duet Gubernur DKI Jakarta)-(Jawa tengah)]";false;true;false;false;false;true;false;PERSON;LOCATION
+"[(Hatta Kecipratan Elektabilitas Jokowi Dukungan duet Gubernur DKI Jakarta)-(Pengamat Politik Hanggoro Doso Pamungkas)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Hatta Kecipratan Elektabilitas Jokowi Dukungan duet Gubernur DKI Jakarta)-(pihak-pihak)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hatta Kecipratan Elektabilitas Jokowi Dukungan duet Gubernur DKI Jakarta)-(elektabilitas Jokowi)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hatta Kecipratan Elektabilitas Jokowi Dukungan duet Gubernur DKI Jakarta)-(saat ini)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hatta Kecipratan Elektabilitas Jokowi Dukungan duet Gubernur DKI Jakarta)-(Hatta Rajasa)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Hatta Kecipratan Elektabilitas Jokowi Dukungan duet Gubernur DKI Jakarta)-("Saya)]";false;false;false;false;true;false;false;PERSON;OTHER
+"[(Hatta Kecipratan Elektabilitas Jokowi Dukungan duet Gubernur DKI Jakarta)-(Solo)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Hatta Kecipratan Elektabilitas Jokowi Dukungan duet Gubernur DKI Jakarta)-(Hatta)]";false;true;false;false;false;false;true;PERSON;PERSON
+"[(Hatta Kecipratan Elektabilitas Jokowi Dukungan duet Gubernur DKI Jakarta)-(elektabilitas jokowi,")]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Hatta Kecipratan Elektabilitas Jokowi Dukungan duet Gubernur DKI Jakarta)-(Hanggoro,)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Hatta Kecipratan Elektabilitas Jokowi Dukungan duet Gubernur DKI Jakarta)-(Okezone)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Hatta Kecipratan Elektabilitas Jokowi Dukungan duet Gubernur DKI Jakarta)-(Jumat)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hatta Kecipratan Elektabilitas Jokowi Dukungan duet Gubernur DKI Jakarta)-(dia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Hatta Kecipratan Elektabilitas Jokowi Dukungan duet Gubernur DKI Jakarta)-(hal ini)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hatta Kecipratan Elektabilitas Jokowi Dukungan duet Gubernur DKI Jakarta)-(bukanlah gerakan politik)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hatta Kecipratan Elektabilitas Jokowi Dukungan duet Gubernur DKI Jakarta)-(sekedar letupan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hatta Kecipratan Elektabilitas Jokowi Dukungan duet Gubernur DKI Jakarta)-(Jokowi)]";false;true;false;false;false;false;true;PERSON;PERSON
+"[(Hatta Kecipratan Elektabilitas Jokowi Dukungan duet Gubernur DKI Jakarta)-(gejala positif)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hatta Kecipratan Elektabilitas Jokowi Dukungan duet Gubernur DKI Jakarta)-(orang itu)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hatta Kecipratan Elektabilitas Jokowi Dukungan duet Gubernur DKI Jakarta)-(calon presiden)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hatta Kecipratan Elektabilitas Jokowi Dukungan duet Gubernur DKI Jakarta)-(Jokowi)]";false;true;false;false;false;false;true;PERSON;PERSON
+"[(Hatta Kecipratan Elektabilitas Jokowi Dukungan duet Gubernur DKI Jakarta)-(Jokowi,)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Hatta Kecipratan Elektabilitas Jokowi Dukungan duet Gubernur DKI Jakarta)-(Hanggoro,)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Hatta Kecipratan Elektabilitas Jokowi Dukungan duet Gubernur DKI Jakarta)-(popularitasnya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hatta Kecipratan Elektabilitas Jokowi Dukungan duet Gubernur DKI Jakarta)-(tokoh lain)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hatta Kecipratan Elektabilitas Jokowi Dukungan duet Gubernur DKI Jakarta)-(jokowi)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hatta Kecipratan Elektabilitas Jokowi Dukungan duet Gubernur DKI Jakarta)-(survei Lingkaran Survei Indonesia)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hatta Kecipratan Elektabilitas Jokowi Dukungan duet Gubernur DKI Jakarta)-(LSI)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Hatta Kecipratan Elektabilitas Jokowi Dukungan duet Gubernur DKI Jakarta)-(Aburizal Bakrie dan unggul)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Hatta Kecipratan Elektabilitas Jokowi Dukungan duet Gubernur DKI Jakarta)-(pembeda jokowi)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hatta Kecipratan Elektabilitas Jokowi Dukungan duet Gubernur DKI Jakarta)-(tokoh)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hatta Kecipratan Elektabilitas Jokowi Dukungan duet Gubernur DKI Jakarta)-(Jokowi)]";false;true;false;false;false;false;true;PERSON;PERSON
+"[(Hatta Kecipratan Elektabilitas Jokowi Dukungan duet Gubernur DKI Jakarta)-(publik)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hatta Kecipratan Elektabilitas Jokowi Dukungan duet Gubernur DKI Jakarta)-(faktor)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hatta Kecipratan Elektabilitas Jokowi Dukungan duet Gubernur DKI Jakarta)-(Megawati)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Hatta Kecipratan Elektabilitas Jokowi Dukungan duet Gubernur DKI Jakarta)-(enggk)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hatta Kecipratan Elektabilitas Jokowi Dukungan duet Gubernur DKI Jakarta)-(tiket capres)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hatta Kecipratan Elektabilitas Jokowi Dukungan duet Gubernur DKI Jakarta)-(Jokowi," lugasnya)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Hatta Kecipratan Elektabilitas Jokowi Dukungan duet Gubernur DKI Jakarta)-(spanduk dukungan duet Jokowi-Hatta Rajasa)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hatta Kecipratan Elektabilitas Jokowi Dukungan duet Gubernur DKI Jakarta)-(pemilihan presiden 2014,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Hatta Kecipratan Elektabilitas Jokowi Dukungan duet Gubernur DKI Jakarta)-(Kota Solo,)]";false;false;false;false;false;false;false;PERSON;LOCATION
+"[(Hatta Kecipratan Elektabilitas Jokowi Dukungan duet Gubernur DKI Jakarta)-(Jawa Tengah)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Hatta Kecipratan Elektabilitas Jokowi Dukungan duet Gubernur DKI Jakarta)-(spanduk)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hatta Kecipratan Elektabilitas Jokowi Dukungan duet Gubernur DKI Jakarta)-(perempatan Sangkrah,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Hatta Kecipratan Elektabilitas Jokowi Dukungan duet Gubernur DKI Jakarta)-(Pasar Kliwon tersebut)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Hatta Kecipratan Elektabilitas Jokowi Dukungan duet Gubernur DKI Jakarta)-("BerdelaPAN)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Hatta Kecipratan Elektabilitas Jokowi Dukungan duet Gubernur DKI Jakarta)-(Jokowi dan Hatta Rajasa)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Hatta Kecipratan Elektabilitas Jokowi Dukungan duet Gubernur DKI Jakarta)-(pilpres 2014-2019)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hatta Kecipratan Elektabilitas Jokowi Dukungan duet Gubernur DKI Jakarta)-(Ayo dukung wong Solo",)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Hatta Kecipratan Elektabilitas Jokowi Dukungan duet Gubernur DKI Jakarta)-(spanduk)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hatta Kecipratan Elektabilitas Jokowi Dukungan duet Gubernur DKI Jakarta)-(merah)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Joko Widodo)-(Jokowi)]";false;true;false;false;false;true;false;PERSON;PERSON
+"[(Joko Widodo)-(pemilihan presiden 2014,)]";false;false;false;false;false;true;false;PERSON;OTHER
+"[(Joko Widodo)-(bentuk spanduk)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Joko Widodo)-(Solo)]";false;true;false;false;false;true;false;PERSON;LOCATION
+"[(Joko Widodo)-(Jawa tengah)]";false;true;false;false;false;true;false;PERSON;LOCATION
+"[(Joko Widodo)-(Pengamat Politik Hanggoro Doso Pamungkas)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Joko Widodo)-(pihak-pihak)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Joko Widodo)-(elektabilitas Jokowi)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Joko Widodo)-(saat ini)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Joko Widodo)-(Hatta Rajasa)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Joko Widodo)-("Saya)]";false;false;false;false;true;false;false;PERSON;OTHER
+"[(Joko Widodo)-(Solo)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Joko Widodo)-(Hatta)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Joko Widodo)-(elektabilitas jokowi,")]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Joko Widodo)-(Hanggoro,)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Joko Widodo)-(Okezone)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Joko Widodo)-(Jumat)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Joko Widodo)-(dia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Joko Widodo)-(hal ini)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Joko Widodo)-(bukanlah gerakan politik)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Joko Widodo)-(sekedar letupan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Joko Widodo)-(Jokowi)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Joko Widodo)-(gejala positif)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Joko Widodo)-(orang itu)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Joko Widodo)-(calon presiden)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Joko Widodo)-(Jokowi)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Joko Widodo)-(Jokowi,)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Joko Widodo)-(Hanggoro,)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Joko Widodo)-(popularitasnya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Joko Widodo)-(tokoh lain)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Joko Widodo)-(jokowi)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Joko Widodo)-(survei Lingkaran Survei Indonesia)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Joko Widodo)-(LSI)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Joko Widodo)-(Aburizal Bakrie dan unggul)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Joko Widodo)-(pembeda jokowi)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Joko Widodo)-(tokoh)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Joko Widodo)-(Jokowi)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Joko Widodo)-(publik)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Joko Widodo)-(faktor)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Joko Widodo)-(Megawati)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Joko Widodo)-(enggk)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Joko Widodo)-(tiket capres)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Joko Widodo)-(Jokowi," lugasnya)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Joko Widodo)-(spanduk dukungan duet Jokowi-Hatta Rajasa)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Joko Widodo)-(pemilihan presiden 2014,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Joko Widodo)-(Kota Solo,)]";false;false;false;false;false;false;false;PERSON;LOCATION
+"[(Joko Widodo)-(Jawa Tengah)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Joko Widodo)-(spanduk)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Joko Widodo)-(perempatan Sangkrah,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Joko Widodo)-(Pasar Kliwon tersebut)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Joko Widodo)-("BerdelaPAN)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Joko Widodo)-(Jokowi dan Hatta Rajasa)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Joko Widodo)-(pilpres 2014-2019)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Joko Widodo)-(Ayo dukung wong Solo",)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Joko Widodo)-(spanduk)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Joko Widodo)-(merah)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Jokowi)-(pemilihan presiden 2014,)]";false;false;false;false;false;true;false;PERSON;OTHER
+"[(Jokowi)-(bentuk spanduk)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Jokowi)-(Solo)]";false;true;false;false;false;true;false;PERSON;LOCATION
+"[(Jokowi)-(Jawa tengah)]";false;true;false;false;false;true;false;PERSON;LOCATION
+"[(Jokowi)-(Pengamat Politik Hanggoro Doso Pamungkas)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Jokowi)-(pihak-pihak)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi)-(elektabilitas Jokowi)]";false;true;false;false;false;false;true;PERSON;OTHER
+"[(Jokowi)-(saat ini)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi)-(Hatta Rajasa)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Jokowi)-("Saya)]";false;false;false;false;true;false;false;PERSON;OTHER
+"[(Jokowi)-(Solo)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Jokowi)-(Hatta)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Jokowi)-(elektabilitas jokowi,")]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi)-(Hanggoro,)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Jokowi)-(Okezone)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Jokowi)-(Jumat)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi)-(dia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Jokowi)-(hal ini)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi)-(bukanlah gerakan politik)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi)-(sekedar letupan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi)-(Jokowi)]";true;true;false;false;false;false;true;PERSON;PERSON
+"[(Jokowi)-(gejala positif)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi)-(orang itu)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi)-(calon presiden)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi)-(Jokowi)]";true;true;false;false;false;false;true;PERSON;PERSON
+"[(Jokowi)-(Jokowi,)]";false;false;false;false;false;false;true;PERSON;PERSON
+"[(Jokowi)-(Hanggoro,)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Jokowi)-(popularitasnya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi)-(tokoh lain)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi)-(jokowi)]";true;true;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi)-(survei Lingkaran Survei Indonesia)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi)-(LSI)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Jokowi)-(Aburizal Bakrie dan unggul)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Jokowi)-(pembeda jokowi)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi)-(tokoh)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi)-(Jokowi)]";true;true;false;false;false;false;true;PERSON;PERSON
+"[(Jokowi)-(publik)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi)-(faktor)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi)-(Megawati)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Jokowi)-(enggk)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi)-(tiket capres)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi)-(Jokowi," lugasnya)]";false;false;false;false;false;false;true;PERSON;OTHER
+"[(Jokowi)-(spanduk dukungan duet Jokowi-Hatta Rajasa)]";false;true;false;false;false;false;true;PERSON;OTHER
+"[(Jokowi)-(pemilihan presiden 2014,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi)-(Kota Solo,)]";false;false;false;false;false;false;false;PERSON;LOCATION
+"[(Jokowi)-(Jawa Tengah)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Jokowi)-(spanduk)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi)-(perempatan Sangkrah,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi)-(Pasar Kliwon tersebut)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Jokowi)-("BerdelaPAN)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi)-(Jokowi dan Hatta Rajasa)]";false;true;false;false;false;false;true;PERSON;PERSON
+"[(Jokowi)-(pilpres 2014-2019)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi)-(Ayo dukung wong Solo",)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Jokowi)-(spanduk)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi)-(merah)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(pemilihan presiden 2014,)-(bentuk spanduk)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(pemilihan presiden 2014,)-(Solo)]";false;false;false;false;false;true;false;OTHER;LOCATION
+"[(pemilihan presiden 2014,)-(Jawa tengah)]";false;false;false;false;false;true;false;OTHER;LOCATION
+"[(pemilihan presiden 2014,)-(Pengamat Politik Hanggoro Doso Pamungkas)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(pemilihan presiden 2014,)-(pihak-pihak)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pemilihan presiden 2014,)-(elektabilitas Jokowi)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pemilihan presiden 2014,)-(saat ini)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pemilihan presiden 2014,)-(Hatta Rajasa)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(pemilihan presiden 2014,)-("Saya)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(pemilihan presiden 2014,)-(Solo)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(pemilihan presiden 2014,)-(Hatta)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(pemilihan presiden 2014,)-(elektabilitas jokowi,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pemilihan presiden 2014,)-(Hanggoro,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(pemilihan presiden 2014,)-(Okezone)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(pemilihan presiden 2014,)-(Jumat)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pemilihan presiden 2014,)-(dia)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(pemilihan presiden 2014,)-(hal ini)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pemilihan presiden 2014,)-(bukanlah gerakan politik)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pemilihan presiden 2014,)-(sekedar letupan)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pemilihan presiden 2014,)-(Jokowi)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(pemilihan presiden 2014,)-(gejala positif)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pemilihan presiden 2014,)-(orang itu)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pemilihan presiden 2014,)-(calon presiden)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pemilihan presiden 2014,)-(Jokowi)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(pemilihan presiden 2014,)-(Jokowi,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(pemilihan presiden 2014,)-(Hanggoro,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(pemilihan presiden 2014,)-(popularitasnya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pemilihan presiden 2014,)-(tokoh lain)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pemilihan presiden 2014,)-(jokowi)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pemilihan presiden 2014,)-(survei Lingkaran Survei Indonesia)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pemilihan presiden 2014,)-(LSI)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(pemilihan presiden 2014,)-(Aburizal Bakrie dan unggul)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(pemilihan presiden 2014,)-(pembeda jokowi)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pemilihan presiden 2014,)-(tokoh)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pemilihan presiden 2014,)-(Jokowi)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(pemilihan presiden 2014,)-(publik)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pemilihan presiden 2014,)-(faktor)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pemilihan presiden 2014,)-(Megawati)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(pemilihan presiden 2014,)-(enggk)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pemilihan presiden 2014,)-(tiket capres)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pemilihan presiden 2014,)-(Jokowi," lugasnya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pemilihan presiden 2014,)-(spanduk dukungan duet Jokowi-Hatta Rajasa)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pemilihan presiden 2014,)-(pemilihan presiden 2014,)]";true;false;false;false;false;false;true;OTHER;OTHER
+"[(pemilihan presiden 2014,)-(Kota Solo,)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(pemilihan presiden 2014,)-(Jawa Tengah)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(pemilihan presiden 2014,)-(spanduk)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pemilihan presiden 2014,)-(perempatan Sangkrah,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pemilihan presiden 2014,)-(Pasar Kliwon tersebut)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(pemilihan presiden 2014,)-("BerdelaPAN)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pemilihan presiden 2014,)-(Jokowi dan Hatta Rajasa)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(pemilihan presiden 2014,)-(pilpres 2014-2019)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pemilihan presiden 2014,)-(Ayo dukung wong Solo",)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(pemilihan presiden 2014,)-(spanduk)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pemilihan presiden 2014,)-(merah)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(bentuk spanduk)-(Solo)]";false;true;false;false;false;true;false;OTHER;LOCATION
+"[(bentuk spanduk)-(Jawa tengah)]";false;true;false;false;false;true;false;OTHER;LOCATION
+"[(bentuk spanduk)-(Pengamat Politik Hanggoro Doso Pamungkas)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(bentuk spanduk)-(pihak-pihak)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bentuk spanduk)-(elektabilitas Jokowi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bentuk spanduk)-(saat ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bentuk spanduk)-(Hatta Rajasa)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(bentuk spanduk)-("Saya)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(bentuk spanduk)-(Solo)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(bentuk spanduk)-(Hatta)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(bentuk spanduk)-(elektabilitas jokowi,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(bentuk spanduk)-(Hanggoro,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(bentuk spanduk)-(Okezone)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(bentuk spanduk)-(Jumat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bentuk spanduk)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(bentuk spanduk)-(hal ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bentuk spanduk)-(bukanlah gerakan politik)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bentuk spanduk)-(sekedar letupan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bentuk spanduk)-(Jokowi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(bentuk spanduk)-(gejala positif)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bentuk spanduk)-(orang itu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bentuk spanduk)-(calon presiden)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bentuk spanduk)-(Jokowi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(bentuk spanduk)-(Jokowi,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(bentuk spanduk)-(Hanggoro,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(bentuk spanduk)-(popularitasnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bentuk spanduk)-(tokoh lain)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bentuk spanduk)-(jokowi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bentuk spanduk)-(survei Lingkaran Survei Indonesia)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bentuk spanduk)-(LSI)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(bentuk spanduk)-(Aburizal Bakrie dan unggul)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(bentuk spanduk)-(pembeda jokowi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bentuk spanduk)-(tokoh)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bentuk spanduk)-(Jokowi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(bentuk spanduk)-(publik)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bentuk spanduk)-(faktor)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bentuk spanduk)-(Megawati)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(bentuk spanduk)-(enggk)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bentuk spanduk)-(tiket capres)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bentuk spanduk)-(Jokowi," lugasnya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(bentuk spanduk)-(spanduk dukungan duet Jokowi-Hatta Rajasa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bentuk spanduk)-(pemilihan presiden 2014,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(bentuk spanduk)-(Kota Solo,)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(bentuk spanduk)-(Jawa Tengah)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(bentuk spanduk)-(spanduk)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(bentuk spanduk)-(perempatan Sangkrah,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(bentuk spanduk)-(Pasar Kliwon tersebut)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(bentuk spanduk)-("BerdelaPAN)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(bentuk spanduk)-(Jokowi dan Hatta Rajasa)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(bentuk spanduk)-(pilpres 2014-2019)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bentuk spanduk)-(Ayo dukung wong Solo",)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(bentuk spanduk)-(spanduk)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(bentuk spanduk)-(merah)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(Solo)-(Jawa tengah)]";false;true;false;false;false;true;false;LOCATION;LOCATION
+"[(Solo)-(Pengamat Politik Hanggoro Doso Pamungkas)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Solo)-(pihak-pihak)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Solo)-(elektabilitas Jokowi)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Solo)-(saat ini)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Solo)-(Hatta Rajasa)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Solo)-("Saya)]";false;false;false;false;true;false;false;LOCATION;OTHER
+"[(Solo)-(Solo)]";true;true;false;false;false;false;true;LOCATION;LOCATION
+"[(Solo)-(Hatta)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Solo)-(elektabilitas jokowi,")]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Solo)-(Hanggoro,)]";false;false;false;false;false;false;false;LOCATION;PERSON
+"[(Solo)-(Okezone)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Solo)-(Jumat)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Solo)-(dia)]";false;true;false;false;true;false;false;LOCATION;OTHER
+"[(Solo)-(hal ini)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Solo)-(bukanlah gerakan politik)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Solo)-(sekedar letupan)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Solo)-(Jokowi)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Solo)-(gejala positif)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Solo)-(orang itu)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Solo)-(calon presiden)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Solo)-(Jokowi)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Solo)-(Jokowi,)]";false;false;false;false;false;false;false;LOCATION;PERSON
+"[(Solo)-(Hanggoro,)]";false;false;false;false;false;false;false;LOCATION;PERSON
+"[(Solo)-(popularitasnya)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Solo)-(tokoh lain)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Solo)-(jokowi)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Solo)-(survei Lingkaran Survei Indonesia)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Solo)-(LSI)]";false;true;false;false;false;false;false;LOCATION;ORGANIZATION
+"[(Solo)-(Aburizal Bakrie dan unggul)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Solo)-(pembeda jokowi)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Solo)-(tokoh)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Solo)-(Jokowi)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Solo)-(publik)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Solo)-(faktor)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Solo)-(Megawati)]";false;true;false;false;true;false;false;LOCATION;OTHER
+"[(Solo)-(enggk)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Solo)-(tiket capres)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Solo)-(Jokowi," lugasnya)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Solo)-(spanduk dukungan duet Jokowi-Hatta Rajasa)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Solo)-(pemilihan presiden 2014,)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Solo)-(Kota Solo,)]";false;false;false;false;false;false;true;LOCATION;LOCATION
+"[(Solo)-(Jawa Tengah)]";false;true;false;false;false;false;false;LOCATION;LOCATION
+"[(Solo)-(spanduk)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Solo)-(perempatan Sangkrah,)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Solo)-(Pasar Kliwon tersebut)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Solo)-("BerdelaPAN)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Solo)-(Jokowi dan Hatta Rajasa)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Solo)-(pilpres 2014-2019)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Solo)-(Ayo dukung wong Solo",)]";false;false;false;false;false;false;true;LOCATION;PERSON
+"[(Solo)-(spanduk)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Solo)-(merah)]";false;true;false;false;true;false;false;LOCATION;OTHER
+"[(Jawa tengah)-(Pengamat Politik Hanggoro Doso Pamungkas)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Jawa tengah)-(pihak-pihak)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa tengah)-(elektabilitas Jokowi)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa tengah)-(saat ini)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa tengah)-(Hatta Rajasa)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Jawa tengah)-("Saya)]";false;false;false;false;true;false;false;LOCATION;OTHER
+"[(Jawa tengah)-(Solo)]";false;true;false;false;false;false;false;LOCATION;LOCATION
+"[(Jawa tengah)-(Hatta)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Jawa tengah)-(elektabilitas jokowi,")]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa tengah)-(Hanggoro,)]";false;false;false;false;false;false;false;LOCATION;PERSON
+"[(Jawa tengah)-(Okezone)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Jawa tengah)-(Jumat)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa tengah)-(dia)]";false;true;false;false;true;false;false;LOCATION;OTHER
+"[(Jawa tengah)-(hal ini)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa tengah)-(bukanlah gerakan politik)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa tengah)-(sekedar letupan)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa tengah)-(Jokowi)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Jawa tengah)-(gejala positif)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa tengah)-(orang itu)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa tengah)-(calon presiden)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa tengah)-(Jokowi)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Jawa tengah)-(Jokowi,)]";false;false;false;false;false;false;false;LOCATION;PERSON
+"[(Jawa tengah)-(Hanggoro,)]";false;false;false;false;false;false;false;LOCATION;PERSON
+"[(Jawa tengah)-(popularitasnya)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa tengah)-(tokoh lain)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa tengah)-(jokowi)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa tengah)-(survei Lingkaran Survei Indonesia)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa tengah)-(LSI)]";false;true;false;false;false;false;false;LOCATION;ORGANIZATION
+"[(Jawa tengah)-(Aburizal Bakrie dan unggul)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Jawa tengah)-(pembeda jokowi)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa tengah)-(tokoh)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa tengah)-(Jokowi)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Jawa tengah)-(publik)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa tengah)-(faktor)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa tengah)-(Megawati)]";false;true;false;false;true;false;false;LOCATION;OTHER
+"[(Jawa tengah)-(enggk)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa tengah)-(tiket capres)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa tengah)-(Jokowi," lugasnya)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa tengah)-(spanduk dukungan duet Jokowi-Hatta Rajasa)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa tengah)-(pemilihan presiden 2014,)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa tengah)-(Kota Solo,)]";false;false;false;false;false;false;false;LOCATION;LOCATION
+"[(Jawa tengah)-(Jawa Tengah)]";true;true;false;false;false;false;false;LOCATION;LOCATION
+"[(Jawa tengah)-(spanduk)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa tengah)-(perempatan Sangkrah,)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa tengah)-(Pasar Kliwon tersebut)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Jawa tengah)-("BerdelaPAN)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa tengah)-(Jokowi dan Hatta Rajasa)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Jawa tengah)-(pilpres 2014-2019)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa tengah)-(Ayo dukung wong Solo",)]";false;false;false;false;false;false;false;LOCATION;PERSON
+"[(Jawa tengah)-(spanduk)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa tengah)-(merah)]";false;true;false;false;true;false;false;LOCATION;OTHER
+"[(Pengamat Politik Hanggoro Doso Pamungkas)-(pihak-pihak)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Pengamat Politik Hanggoro Doso Pamungkas)-(elektabilitas Jokowi)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Pengamat Politik Hanggoro Doso Pamungkas)-(saat ini)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Pengamat Politik Hanggoro Doso Pamungkas)-(Hatta Rajasa)]";false;true;false;false;false;true;false;PERSON;PERSON
+"[(Pengamat Politik Hanggoro Doso Pamungkas)-("Saya)]";false;false;false;false;true;false;false;PERSON;OTHER
+"[(Pengamat Politik Hanggoro Doso Pamungkas)-(Solo)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Pengamat Politik Hanggoro Doso Pamungkas)-(Hatta)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Pengamat Politik Hanggoro Doso Pamungkas)-(elektabilitas jokowi,")]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Pengamat Politik Hanggoro Doso Pamungkas)-(Hanggoro,)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Pengamat Politik Hanggoro Doso Pamungkas)-(Okezone)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Pengamat Politik Hanggoro Doso Pamungkas)-(Jumat)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pengamat Politik Hanggoro Doso Pamungkas)-(dia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Pengamat Politik Hanggoro Doso Pamungkas)-(hal ini)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pengamat Politik Hanggoro Doso Pamungkas)-(bukanlah gerakan politik)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pengamat Politik Hanggoro Doso Pamungkas)-(sekedar letupan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pengamat Politik Hanggoro Doso Pamungkas)-(Jokowi)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Pengamat Politik Hanggoro Doso Pamungkas)-(gejala positif)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pengamat Politik Hanggoro Doso Pamungkas)-(orang itu)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pengamat Politik Hanggoro Doso Pamungkas)-(calon presiden)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pengamat Politik Hanggoro Doso Pamungkas)-(Jokowi)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Pengamat Politik Hanggoro Doso Pamungkas)-(Jokowi,)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Pengamat Politik Hanggoro Doso Pamungkas)-(Hanggoro,)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Pengamat Politik Hanggoro Doso Pamungkas)-(popularitasnya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pengamat Politik Hanggoro Doso Pamungkas)-(tokoh lain)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pengamat Politik Hanggoro Doso Pamungkas)-(jokowi)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pengamat Politik Hanggoro Doso Pamungkas)-(survei Lingkaran Survei Indonesia)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pengamat Politik Hanggoro Doso Pamungkas)-(LSI)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Pengamat Politik Hanggoro Doso Pamungkas)-(Aburizal Bakrie dan unggul)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Pengamat Politik Hanggoro Doso Pamungkas)-(pembeda jokowi)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pengamat Politik Hanggoro Doso Pamungkas)-(tokoh)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pengamat Politik Hanggoro Doso Pamungkas)-(Jokowi)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Pengamat Politik Hanggoro Doso Pamungkas)-(publik)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pengamat Politik Hanggoro Doso Pamungkas)-(faktor)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pengamat Politik Hanggoro Doso Pamungkas)-(Megawati)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Pengamat Politik Hanggoro Doso Pamungkas)-(enggk)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pengamat Politik Hanggoro Doso Pamungkas)-(tiket capres)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pengamat Politik Hanggoro Doso Pamungkas)-(Jokowi," lugasnya)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Pengamat Politik Hanggoro Doso Pamungkas)-(spanduk dukungan duet Jokowi-Hatta Rajasa)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pengamat Politik Hanggoro Doso Pamungkas)-(pemilihan presiden 2014,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Pengamat Politik Hanggoro Doso Pamungkas)-(Kota Solo,)]";false;false;false;false;false;false;false;PERSON;LOCATION
+"[(Pengamat Politik Hanggoro Doso Pamungkas)-(Jawa Tengah)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Pengamat Politik Hanggoro Doso Pamungkas)-(spanduk)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pengamat Politik Hanggoro Doso Pamungkas)-(perempatan Sangkrah,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Pengamat Politik Hanggoro Doso Pamungkas)-(Pasar Kliwon tersebut)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Pengamat Politik Hanggoro Doso Pamungkas)-("BerdelaPAN)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Pengamat Politik Hanggoro Doso Pamungkas)-(Jokowi dan Hatta Rajasa)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Pengamat Politik Hanggoro Doso Pamungkas)-(pilpres 2014-2019)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pengamat Politik Hanggoro Doso Pamungkas)-(Ayo dukung wong Solo",)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Pengamat Politik Hanggoro Doso Pamungkas)-(spanduk)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pengamat Politik Hanggoro Doso Pamungkas)-(merah)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(pihak-pihak)-(elektabilitas Jokowi)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(pihak-pihak)-(saat ini)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(pihak-pihak)-(Hatta Rajasa)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(pihak-pihak)-("Saya)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(pihak-pihak)-(Solo)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(pihak-pihak)-(Hatta)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pihak-pihak)-(elektabilitas jokowi,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pihak-pihak)-(Hanggoro,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(pihak-pihak)-(Okezone)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pihak-pihak)-(Jumat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pihak-pihak)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(pihak-pihak)-(hal ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pihak-pihak)-(bukanlah gerakan politik)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pihak-pihak)-(sekedar letupan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pihak-pihak)-(Jokowi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pihak-pihak)-(gejala positif)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pihak-pihak)-(orang itu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pihak-pihak)-(calon presiden)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pihak-pihak)-(Jokowi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pihak-pihak)-(Jokowi,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(pihak-pihak)-(Hanggoro,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(pihak-pihak)-(popularitasnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pihak-pihak)-(tokoh lain)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pihak-pihak)-(jokowi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pihak-pihak)-(survei Lingkaran Survei Indonesia)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pihak-pihak)-(LSI)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(pihak-pihak)-(Aburizal Bakrie dan unggul)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pihak-pihak)-(pembeda jokowi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pihak-pihak)-(tokoh)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pihak-pihak)-(Jokowi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pihak-pihak)-(publik)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pihak-pihak)-(faktor)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pihak-pihak)-(Megawati)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(pihak-pihak)-(enggk)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pihak-pihak)-(tiket capres)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pihak-pihak)-(Jokowi," lugasnya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pihak-pihak)-(spanduk dukungan duet Jokowi-Hatta Rajasa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pihak-pihak)-(pemilihan presiden 2014,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pihak-pihak)-(Kota Solo,)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(pihak-pihak)-(Jawa Tengah)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(pihak-pihak)-(spanduk)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pihak-pihak)-(perempatan Sangkrah,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pihak-pihak)-(Pasar Kliwon tersebut)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pihak-pihak)-("BerdelaPAN)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pihak-pihak)-(Jokowi dan Hatta Rajasa)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pihak-pihak)-(pilpres 2014-2019)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pihak-pihak)-(Ayo dukung wong Solo",)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(pihak-pihak)-(spanduk)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pihak-pihak)-(merah)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(elektabilitas Jokowi)-(saat ini)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(elektabilitas Jokowi)-(Hatta Rajasa)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(elektabilitas Jokowi)-("Saya)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(elektabilitas Jokowi)-(Solo)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(elektabilitas Jokowi)-(Hatta)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(elektabilitas Jokowi)-(elektabilitas jokowi,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(elektabilitas Jokowi)-(Hanggoro,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(elektabilitas Jokowi)-(Okezone)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(elektabilitas Jokowi)-(Jumat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(elektabilitas Jokowi)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(elektabilitas Jokowi)-(hal ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(elektabilitas Jokowi)-(bukanlah gerakan politik)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(elektabilitas Jokowi)-(sekedar letupan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(elektabilitas Jokowi)-(Jokowi)]";false;true;false;false;false;false;true;OTHER;PERSON
+"[(elektabilitas Jokowi)-(gejala positif)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(elektabilitas Jokowi)-(orang itu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(elektabilitas Jokowi)-(calon presiden)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(elektabilitas Jokowi)-(Jokowi)]";false;true;false;false;false;false;true;OTHER;PERSON
+"[(elektabilitas Jokowi)-(Jokowi,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(elektabilitas Jokowi)-(Hanggoro,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(elektabilitas Jokowi)-(popularitasnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(elektabilitas Jokowi)-(tokoh lain)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(elektabilitas Jokowi)-(jokowi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(elektabilitas Jokowi)-(survei Lingkaran Survei Indonesia)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(elektabilitas Jokowi)-(LSI)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(elektabilitas Jokowi)-(Aburizal Bakrie dan unggul)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(elektabilitas Jokowi)-(pembeda jokowi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(elektabilitas Jokowi)-(tokoh)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(elektabilitas Jokowi)-(Jokowi)]";false;true;false;false;false;false;true;OTHER;PERSON
+"[(elektabilitas Jokowi)-(publik)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(elektabilitas Jokowi)-(faktor)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(elektabilitas Jokowi)-(Megawati)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(elektabilitas Jokowi)-(enggk)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(elektabilitas Jokowi)-(tiket capres)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(elektabilitas Jokowi)-(Jokowi," lugasnya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(elektabilitas Jokowi)-(spanduk dukungan duet Jokowi-Hatta Rajasa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(elektabilitas Jokowi)-(pemilihan presiden 2014,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(elektabilitas Jokowi)-(Kota Solo,)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(elektabilitas Jokowi)-(Jawa Tengah)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(elektabilitas Jokowi)-(spanduk)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(elektabilitas Jokowi)-(perempatan Sangkrah,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(elektabilitas Jokowi)-(Pasar Kliwon tersebut)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(elektabilitas Jokowi)-("BerdelaPAN)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(elektabilitas Jokowi)-(Jokowi dan Hatta Rajasa)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(elektabilitas Jokowi)-(pilpres 2014-2019)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(elektabilitas Jokowi)-(Ayo dukung wong Solo",)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(elektabilitas Jokowi)-(spanduk)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(elektabilitas Jokowi)-(merah)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(saat ini)-(Hatta Rajasa)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(saat ini)-("Saya)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(saat ini)-(Solo)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(saat ini)-(Hatta)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(saat ini)-(elektabilitas jokowi,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(saat ini)-(Hanggoro,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(saat ini)-(Okezone)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(saat ini)-(Jumat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(saat ini)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(saat ini)-(hal ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(saat ini)-(bukanlah gerakan politik)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(saat ini)-(sekedar letupan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(saat ini)-(Jokowi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(saat ini)-(gejala positif)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(saat ini)-(orang itu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(saat ini)-(calon presiden)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(saat ini)-(Jokowi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(saat ini)-(Jokowi,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(saat ini)-(Hanggoro,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(saat ini)-(popularitasnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(saat ini)-(tokoh lain)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(saat ini)-(jokowi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(saat ini)-(survei Lingkaran Survei Indonesia)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(saat ini)-(LSI)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(saat ini)-(Aburizal Bakrie dan unggul)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(saat ini)-(pembeda jokowi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(saat ini)-(tokoh)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(saat ini)-(Jokowi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(saat ini)-(publik)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(saat ini)-(faktor)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(saat ini)-(Megawati)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(saat ini)-(enggk)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(saat ini)-(tiket capres)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(saat ini)-(Jokowi," lugasnya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(saat ini)-(spanduk dukungan duet Jokowi-Hatta Rajasa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(saat ini)-(pemilihan presiden 2014,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(saat ini)-(Kota Solo,)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(saat ini)-(Jawa Tengah)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(saat ini)-(spanduk)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(saat ini)-(perempatan Sangkrah,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(saat ini)-(Pasar Kliwon tersebut)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(saat ini)-("BerdelaPAN)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(saat ini)-(Jokowi dan Hatta Rajasa)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(saat ini)-(pilpres 2014-2019)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(saat ini)-(Ayo dukung wong Solo",)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(saat ini)-(spanduk)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(saat ini)-(merah)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(Hatta Rajasa)-("Saya)]";false;false;false;false;true;false;false;PERSON;OTHER
+"[(Hatta Rajasa)-(Solo)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Hatta Rajasa)-(Hatta)]";false;true;false;false;false;false;true;PERSON;PERSON
+"[(Hatta Rajasa)-(elektabilitas jokowi,")]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Hatta Rajasa)-(Hanggoro,)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Hatta Rajasa)-(Okezone)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Hatta Rajasa)-(Jumat)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hatta Rajasa)-(dia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Hatta Rajasa)-(hal ini)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hatta Rajasa)-(bukanlah gerakan politik)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hatta Rajasa)-(sekedar letupan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hatta Rajasa)-(Jokowi)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Hatta Rajasa)-(gejala positif)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hatta Rajasa)-(orang itu)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hatta Rajasa)-(calon presiden)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hatta Rajasa)-(Jokowi)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Hatta Rajasa)-(Jokowi,)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Hatta Rajasa)-(Hanggoro,)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Hatta Rajasa)-(popularitasnya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hatta Rajasa)-(tokoh lain)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hatta Rajasa)-(jokowi)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hatta Rajasa)-(survei Lingkaran Survei Indonesia)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hatta Rajasa)-(LSI)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Hatta Rajasa)-(Aburizal Bakrie dan unggul)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Hatta Rajasa)-(pembeda jokowi)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hatta Rajasa)-(tokoh)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hatta Rajasa)-(Jokowi)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Hatta Rajasa)-(publik)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hatta Rajasa)-(faktor)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hatta Rajasa)-(Megawati)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Hatta Rajasa)-(enggk)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hatta Rajasa)-(tiket capres)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hatta Rajasa)-(Jokowi," lugasnya)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Hatta Rajasa)-(spanduk dukungan duet Jokowi-Hatta Rajasa)]";false;true;false;false;false;false;true;PERSON;OTHER
+"[(Hatta Rajasa)-(pemilihan presiden 2014,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Hatta Rajasa)-(Kota Solo,)]";false;false;false;false;false;false;false;PERSON;LOCATION
+"[(Hatta Rajasa)-(Jawa Tengah)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Hatta Rajasa)-(spanduk)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hatta Rajasa)-(perempatan Sangkrah,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Hatta Rajasa)-(Pasar Kliwon tersebut)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Hatta Rajasa)-("BerdelaPAN)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Hatta Rajasa)-(Jokowi dan Hatta Rajasa)]";false;true;false;false;false;false;true;PERSON;PERSON
+"[(Hatta Rajasa)-(pilpres 2014-2019)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hatta Rajasa)-(Ayo dukung wong Solo",)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Hatta Rajasa)-(spanduk)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hatta Rajasa)-(merah)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[("Saya)-(Solo)]";false;false;false;true;false;true;false;OTHER;LOCATION
+"[("Saya)-(Hatta)]";false;false;false;true;false;true;false;OTHER;PERSON
+"[("Saya)-(elektabilitas jokowi,")]";false;false;false;true;false;true;false;OTHER;OTHER
+"[("Saya)-(Hanggoro,)]";false;false;false;true;false;true;false;OTHER;PERSON
+"[("Saya)-(Okezone)]";false;false;false;true;false;true;false;OTHER;PERSON
+"[("Saya)-(Jumat)]";false;false;false;true;false;true;false;OTHER;OTHER
+"[("Saya)-(dia)]";false;false;false;true;true;false;false;OTHER;OTHER
+"[("Saya)-(hal ini)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[("Saya)-(bukanlah gerakan politik)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[("Saya)-(sekedar letupan)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[("Saya)-(Jokowi)]";false;false;false;true;false;false;false;OTHER;PERSON
+"[("Saya)-(gejala positif)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[("Saya)-(orang itu)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[("Saya)-(calon presiden)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[("Saya)-(Jokowi)]";false;false;false;true;false;false;false;OTHER;PERSON
+"[("Saya)-(Jokowi,)]";false;false;false;true;false;false;false;OTHER;PERSON
+"[("Saya)-(Hanggoro,)]";false;false;false;true;false;false;false;OTHER;PERSON
+"[("Saya)-(popularitasnya)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[("Saya)-(tokoh lain)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[("Saya)-(jokowi)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[("Saya)-(survei Lingkaran Survei Indonesia)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[("Saya)-(LSI)]";false;false;false;true;false;false;false;OTHER;ORGANIZATION
+"[("Saya)-(Aburizal Bakrie dan unggul)]";false;false;false;true;false;false;false;OTHER;PERSON
+"[("Saya)-(pembeda jokowi)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[("Saya)-(tokoh)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[("Saya)-(Jokowi)]";false;false;false;true;false;false;false;OTHER;PERSON
+"[("Saya)-(publik)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[("Saya)-(faktor)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[("Saya)-(Megawati)]";false;false;false;true;true;false;false;OTHER;OTHER
+"[("Saya)-(enggk)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[("Saya)-(tiket capres)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[("Saya)-(Jokowi," lugasnya)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[("Saya)-(spanduk dukungan duet Jokowi-Hatta Rajasa)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[("Saya)-(pemilihan presiden 2014,)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[("Saya)-(Kota Solo,)]";false;false;false;true;false;false;false;OTHER;LOCATION
+"[("Saya)-(Jawa Tengah)]";false;false;false;true;false;false;false;OTHER;LOCATION
+"[("Saya)-(spanduk)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[("Saya)-(perempatan Sangkrah,)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[("Saya)-(Pasar Kliwon tersebut)]";false;false;false;true;false;false;false;OTHER;PERSON
+"[("Saya)-("BerdelaPAN)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[("Saya)-(Jokowi dan Hatta Rajasa)]";false;false;false;true;false;false;false;OTHER;PERSON
+"[("Saya)-(pilpres 2014-2019)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[("Saya)-(Ayo dukung wong Solo",)]";false;false;false;true;false;false;false;OTHER;PERSON
+"[("Saya)-(spanduk)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[("Saya)-(merah)]";false;false;false;true;true;false;false;OTHER;OTHER
+"[(Solo)-(Hatta)]";false;true;false;false;false;true;false;LOCATION;PERSON
+"[(Solo)-(elektabilitas jokowi,")]";false;false;false;false;false;true;false;LOCATION;OTHER
+"[(Solo)-(Hanggoro,)]";false;false;false;false;false;true;false;LOCATION;PERSON
+"[(Solo)-(Okezone)]";false;true;false;false;false;true;false;LOCATION;PERSON
+"[(Solo)-(Jumat)]";false;true;false;false;false;true;false;LOCATION;OTHER
+"[(Solo)-(dia)]";false;true;false;false;true;false;false;LOCATION;OTHER
+"[(Solo)-(hal ini)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Solo)-(bukanlah gerakan politik)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Solo)-(sekedar letupan)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Solo)-(Jokowi)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Solo)-(gejala positif)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Solo)-(orang itu)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Solo)-(calon presiden)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Solo)-(Jokowi)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Solo)-(Jokowi,)]";false;false;false;false;false;false;false;LOCATION;PERSON
+"[(Solo)-(Hanggoro,)]";false;false;false;false;false;false;false;LOCATION;PERSON
+"[(Solo)-(popularitasnya)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Solo)-(tokoh lain)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Solo)-(jokowi)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Solo)-(survei Lingkaran Survei Indonesia)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Solo)-(LSI)]";false;true;false;false;false;false;false;LOCATION;ORGANIZATION
+"[(Solo)-(Aburizal Bakrie dan unggul)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Solo)-(pembeda jokowi)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Solo)-(tokoh)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Solo)-(Jokowi)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Solo)-(publik)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Solo)-(faktor)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Solo)-(Megawati)]";false;true;false;false;true;false;false;LOCATION;OTHER
+"[(Solo)-(enggk)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Solo)-(tiket capres)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Solo)-(Jokowi," lugasnya)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Solo)-(spanduk dukungan duet Jokowi-Hatta Rajasa)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Solo)-(pemilihan presiden 2014,)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Solo)-(Kota Solo,)]";false;false;false;false;false;false;true;LOCATION;LOCATION
+"[(Solo)-(Jawa Tengah)]";false;true;false;false;false;false;false;LOCATION;LOCATION
+"[(Solo)-(spanduk)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Solo)-(perempatan Sangkrah,)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Solo)-(Pasar Kliwon tersebut)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Solo)-("BerdelaPAN)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Solo)-(Jokowi dan Hatta Rajasa)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Solo)-(pilpres 2014-2019)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Solo)-(Ayo dukung wong Solo",)]";false;false;false;false;false;false;true;LOCATION;PERSON
+"[(Solo)-(spanduk)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Solo)-(merah)]";false;true;false;false;true;false;false;LOCATION;OTHER
+"[(Hatta)-(elektabilitas jokowi,")]";false;false;false;false;false;true;false;PERSON;OTHER
+"[(Hatta)-(Hanggoro,)]";false;false;false;false;false;true;false;PERSON;PERSON
+"[(Hatta)-(Okezone)]";false;true;false;false;false;true;false;PERSON;PERSON
+"[(Hatta)-(Jumat)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Hatta)-(dia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Hatta)-(hal ini)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hatta)-(bukanlah gerakan politik)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hatta)-(sekedar letupan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hatta)-(Jokowi)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Hatta)-(gejala positif)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hatta)-(orang itu)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hatta)-(calon presiden)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hatta)-(Jokowi)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Hatta)-(Jokowi,)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Hatta)-(Hanggoro,)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Hatta)-(popularitasnya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hatta)-(tokoh lain)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hatta)-(jokowi)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hatta)-(survei Lingkaran Survei Indonesia)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hatta)-(LSI)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Hatta)-(Aburizal Bakrie dan unggul)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Hatta)-(pembeda jokowi)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hatta)-(tokoh)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hatta)-(Jokowi)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Hatta)-(publik)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hatta)-(faktor)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hatta)-(Megawati)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Hatta)-(enggk)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hatta)-(tiket capres)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hatta)-(Jokowi," lugasnya)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Hatta)-(spanduk dukungan duet Jokowi-Hatta Rajasa)]";false;true;false;false;false;false;true;PERSON;OTHER
+"[(Hatta)-(pemilihan presiden 2014,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Hatta)-(Kota Solo,)]";false;false;false;false;false;false;false;PERSON;LOCATION
+"[(Hatta)-(Jawa Tengah)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Hatta)-(spanduk)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hatta)-(perempatan Sangkrah,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Hatta)-(Pasar Kliwon tersebut)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Hatta)-("BerdelaPAN)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Hatta)-(Jokowi dan Hatta Rajasa)]";false;true;false;false;false;false;true;PERSON;PERSON
+"[(Hatta)-(pilpres 2014-2019)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hatta)-(Ayo dukung wong Solo",)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Hatta)-(spanduk)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hatta)-(merah)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(elektabilitas jokowi,")-(Hanggoro,)]";false;false;false;false;false;true;false;OTHER;PERSON
+"[(elektabilitas jokowi,")-(Okezone)]";false;false;false;false;false;true;false;OTHER;PERSON
+"[(elektabilitas jokowi,")-(Jumat)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(elektabilitas jokowi,")-(dia)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(elektabilitas jokowi,")-(hal ini)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(elektabilitas jokowi,")-(bukanlah gerakan politik)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(elektabilitas jokowi,")-(sekedar letupan)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(elektabilitas jokowi,")-(Jokowi)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(elektabilitas jokowi,")-(gejala positif)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(elektabilitas jokowi,")-(orang itu)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(elektabilitas jokowi,")-(calon presiden)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(elektabilitas jokowi,")-(Jokowi)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(elektabilitas jokowi,")-(Jokowi,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(elektabilitas jokowi,")-(Hanggoro,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(elektabilitas jokowi,")-(popularitasnya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(elektabilitas jokowi,")-(tokoh lain)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(elektabilitas jokowi,")-(jokowi)]";false;false;false;false;false;false;true;OTHER;OTHER
+"[(elektabilitas jokowi,")-(survei Lingkaran Survei Indonesia)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(elektabilitas jokowi,")-(LSI)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(elektabilitas jokowi,")-(Aburizal Bakrie dan unggul)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(elektabilitas jokowi,")-(pembeda jokowi)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(elektabilitas jokowi,")-(tokoh)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(elektabilitas jokowi,")-(Jokowi)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(elektabilitas jokowi,")-(publik)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(elektabilitas jokowi,")-(faktor)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(elektabilitas jokowi,")-(Megawati)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(elektabilitas jokowi,")-(enggk)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(elektabilitas jokowi,")-(tiket capres)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(elektabilitas jokowi,")-(Jokowi," lugasnya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(elektabilitas jokowi,")-(spanduk dukungan duet Jokowi-Hatta Rajasa)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(elektabilitas jokowi,")-(pemilihan presiden 2014,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(elektabilitas jokowi,")-(Kota Solo,)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(elektabilitas jokowi,")-(Jawa Tengah)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(elektabilitas jokowi,")-(spanduk)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(elektabilitas jokowi,")-(perempatan Sangkrah,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(elektabilitas jokowi,")-(Pasar Kliwon tersebut)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(elektabilitas jokowi,")-("BerdelaPAN)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(elektabilitas jokowi,")-(Jokowi dan Hatta Rajasa)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(elektabilitas jokowi,")-(pilpres 2014-2019)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(elektabilitas jokowi,")-(Ayo dukung wong Solo",)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(elektabilitas jokowi,")-(spanduk)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(elektabilitas jokowi,")-(merah)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(Hanggoro,)-(Okezone)]";false;false;false;false;false;true;false;PERSON;PERSON
+"[(Hanggoro,)-(Jumat)]";false;false;false;false;false;true;false;PERSON;OTHER
+"[(Hanggoro,)-(dia)]";false;false;false;false;true;false;false;PERSON;OTHER
+"[(Hanggoro,)-(hal ini)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Hanggoro,)-(bukanlah gerakan politik)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Hanggoro,)-(sekedar letupan)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Hanggoro,)-(Jokowi)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Hanggoro,)-(gejala positif)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Hanggoro,)-(orang itu)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Hanggoro,)-(calon presiden)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Hanggoro,)-(Jokowi)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Hanggoro,)-(Jokowi,)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Hanggoro,)-(Hanggoro,)]";true;false;false;false;false;false;true;PERSON;PERSON
+"[(Hanggoro,)-(popularitasnya)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Hanggoro,)-(tokoh lain)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Hanggoro,)-(jokowi)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Hanggoro,)-(survei Lingkaran Survei Indonesia)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Hanggoro,)-(LSI)]";false;false;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Hanggoro,)-(Aburizal Bakrie dan unggul)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Hanggoro,)-(pembeda jokowi)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Hanggoro,)-(tokoh)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Hanggoro,)-(Jokowi)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Hanggoro,)-(publik)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Hanggoro,)-(faktor)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Hanggoro,)-(Megawati)]";false;false;false;false;true;false;false;PERSON;OTHER
+"[(Hanggoro,)-(enggk)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Hanggoro,)-(tiket capres)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Hanggoro,)-(Jokowi," lugasnya)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Hanggoro,)-(spanduk dukungan duet Jokowi-Hatta Rajasa)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Hanggoro,)-(pemilihan presiden 2014,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Hanggoro,)-(Kota Solo,)]";false;false;false;false;false;false;false;PERSON;LOCATION
+"[(Hanggoro,)-(Jawa Tengah)]";false;false;false;false;false;false;false;PERSON;LOCATION
+"[(Hanggoro,)-(spanduk)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Hanggoro,)-(perempatan Sangkrah,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Hanggoro,)-(Pasar Kliwon tersebut)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Hanggoro,)-("BerdelaPAN)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Hanggoro,)-(Jokowi dan Hatta Rajasa)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Hanggoro,)-(pilpres 2014-2019)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Hanggoro,)-(Ayo dukung wong Solo",)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Hanggoro,)-(spanduk)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Hanggoro,)-(merah)]";false;false;false;false;true;false;false;PERSON;OTHER
+"[(Okezone)-(Jumat)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Okezone)-(dia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Okezone)-(hal ini)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Okezone)-(bukanlah gerakan politik)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Okezone)-(sekedar letupan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Okezone)-(Jokowi)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Okezone)-(gejala positif)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Okezone)-(orang itu)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Okezone)-(calon presiden)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Okezone)-(Jokowi)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Okezone)-(Jokowi,)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Okezone)-(Hanggoro,)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Okezone)-(popularitasnya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Okezone)-(tokoh lain)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Okezone)-(jokowi)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Okezone)-(survei Lingkaran Survei Indonesia)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Okezone)-(LSI)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Okezone)-(Aburizal Bakrie dan unggul)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Okezone)-(pembeda jokowi)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Okezone)-(tokoh)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Okezone)-(Jokowi)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Okezone)-(publik)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Okezone)-(faktor)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Okezone)-(Megawati)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Okezone)-(enggk)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Okezone)-(tiket capres)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Okezone)-(Jokowi," lugasnya)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Okezone)-(spanduk dukungan duet Jokowi-Hatta Rajasa)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Okezone)-(pemilihan presiden 2014,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Okezone)-(Kota Solo,)]";false;false;false;false;false;false;false;PERSON;LOCATION
+"[(Okezone)-(Jawa Tengah)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Okezone)-(spanduk)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Okezone)-(perempatan Sangkrah,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Okezone)-(Pasar Kliwon tersebut)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Okezone)-("BerdelaPAN)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Okezone)-(Jokowi dan Hatta Rajasa)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Okezone)-(pilpres 2014-2019)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Okezone)-(Ayo dukung wong Solo",)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Okezone)-(spanduk)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Okezone)-(merah)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Jumat)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(Jumat)-(hal ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Jumat)-(bukanlah gerakan politik)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Jumat)-(sekedar letupan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Jumat)-(Jokowi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(Jumat)-(gejala positif)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Jumat)-(orang itu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Jumat)-(calon presiden)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Jumat)-(Jokowi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(Jumat)-(Jokowi,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(Jumat)-(Hanggoro,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(Jumat)-(popularitasnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Jumat)-(tokoh lain)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Jumat)-(jokowi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Jumat)-(survei Lingkaran Survei Indonesia)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Jumat)-(LSI)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(Jumat)-(Aburizal Bakrie dan unggul)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(Jumat)-(pembeda jokowi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Jumat)-(tokoh)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Jumat)-(Jokowi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(Jumat)-(publik)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Jumat)-(faktor)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Jumat)-(Megawati)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(Jumat)-(enggk)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Jumat)-(tiket capres)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Jumat)-(Jokowi," lugasnya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Jumat)-(spanduk dukungan duet Jokowi-Hatta Rajasa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Jumat)-(pemilihan presiden 2014,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Jumat)-(Kota Solo,)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(Jumat)-(Jawa Tengah)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(Jumat)-(spanduk)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Jumat)-(perempatan Sangkrah,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Jumat)-(Pasar Kliwon tersebut)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(Jumat)-("BerdelaPAN)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Jumat)-(Jokowi dan Hatta Rajasa)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(Jumat)-(pilpres 2014-2019)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Jumat)-(Ayo dukung wong Solo",)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(Jumat)-(spanduk)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Jumat)-(merah)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(dia)-(hal ini)]";false;true;false;true;false;true;false;OTHER;OTHER
+"[(dia)-(bukanlah gerakan politik)]";false;true;false;true;false;true;false;OTHER;OTHER
+"[(dia)-(sekedar letupan)]";false;true;false;true;false;true;false;OTHER;OTHER
+"[(dia)-(Jokowi)]";false;true;false;true;false;false;false;OTHER;PERSON
+"[(dia)-(gejala positif)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(dia)-(orang itu)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(dia)-(calon presiden)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(dia)-(Jokowi)]";false;true;false;true;false;false;false;OTHER;PERSON
+"[(dia)-(Jokowi,)]";false;false;false;true;false;false;false;OTHER;PERSON
+"[(dia)-(Hanggoro,)]";false;false;false;true;false;false;false;OTHER;PERSON
+"[(dia)-(popularitasnya)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(dia)-(tokoh lain)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(dia)-(jokowi)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(dia)-(survei Lingkaran Survei Indonesia)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(dia)-(LSI)]";false;true;false;true;false;false;false;OTHER;ORGANIZATION
+"[(dia)-(Aburizal Bakrie dan unggul)]";false;true;false;true;false;false;false;OTHER;PERSON
+"[(dia)-(pembeda jokowi)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(dia)-(tokoh)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(dia)-(Jokowi)]";false;true;false;true;false;false;false;OTHER;PERSON
+"[(dia)-(publik)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(dia)-(faktor)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(dia)-(Megawati)]";false;true;false;true;true;false;false;OTHER;OTHER
+"[(dia)-(enggk)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(dia)-(tiket capres)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(dia)-(Jokowi," lugasnya)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(dia)-(spanduk dukungan duet Jokowi-Hatta Rajasa)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(dia)-(pemilihan presiden 2014,)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(dia)-(Kota Solo,)]";false;false;false;true;false;false;false;OTHER;LOCATION
+"[(dia)-(Jawa Tengah)]";false;true;false;true;false;false;false;OTHER;LOCATION
+"[(dia)-(spanduk)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(dia)-(perempatan Sangkrah,)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(dia)-(Pasar Kliwon tersebut)]";false;true;false;true;false;false;false;OTHER;PERSON
+"[(dia)-("BerdelaPAN)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(dia)-(Jokowi dan Hatta Rajasa)]";false;true;false;true;false;false;false;OTHER;PERSON
+"[(dia)-(pilpres 2014-2019)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(dia)-(Ayo dukung wong Solo",)]";false;false;false;true;false;false;false;OTHER;PERSON
+"[(dia)-(spanduk)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(dia)-(merah)]";false;true;false;true;true;false;false;OTHER;OTHER
+"[(hal ini)-(bukanlah gerakan politik)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(hal ini)-(sekedar letupan)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(hal ini)-(Jokowi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(hal ini)-(gejala positif)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hal ini)-(orang itu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hal ini)-(calon presiden)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hal ini)-(Jokowi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(hal ini)-(Jokowi,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(hal ini)-(Hanggoro,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(hal ini)-(popularitasnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hal ini)-(tokoh lain)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hal ini)-(jokowi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hal ini)-(survei Lingkaran Survei Indonesia)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hal ini)-(LSI)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(hal ini)-(Aburizal Bakrie dan unggul)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(hal ini)-(pembeda jokowi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hal ini)-(tokoh)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hal ini)-(Jokowi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(hal ini)-(publik)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hal ini)-(faktor)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hal ini)-(Megawati)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(hal ini)-(enggk)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hal ini)-(tiket capres)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hal ini)-(Jokowi," lugasnya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(hal ini)-(spanduk dukungan duet Jokowi-Hatta Rajasa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hal ini)-(pemilihan presiden 2014,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(hal ini)-(Kota Solo,)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(hal ini)-(Jawa Tengah)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(hal ini)-(spanduk)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hal ini)-(perempatan Sangkrah,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(hal ini)-(Pasar Kliwon tersebut)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(hal ini)-("BerdelaPAN)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(hal ini)-(Jokowi dan Hatta Rajasa)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(hal ini)-(pilpres 2014-2019)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hal ini)-(Ayo dukung wong Solo",)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(hal ini)-(spanduk)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hal ini)-(merah)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(bukanlah gerakan politik)-(sekedar letupan)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(bukanlah gerakan politik)-(Jokowi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(bukanlah gerakan politik)-(gejala positif)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bukanlah gerakan politik)-(orang itu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bukanlah gerakan politik)-(calon presiden)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bukanlah gerakan politik)-(Jokowi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(bukanlah gerakan politik)-(Jokowi,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(bukanlah gerakan politik)-(Hanggoro,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(bukanlah gerakan politik)-(popularitasnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bukanlah gerakan politik)-(tokoh lain)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bukanlah gerakan politik)-(jokowi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bukanlah gerakan politik)-(survei Lingkaran Survei Indonesia)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bukanlah gerakan politik)-(LSI)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(bukanlah gerakan politik)-(Aburizal Bakrie dan unggul)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(bukanlah gerakan politik)-(pembeda jokowi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bukanlah gerakan politik)-(tokoh)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bukanlah gerakan politik)-(Jokowi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(bukanlah gerakan politik)-(publik)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bukanlah gerakan politik)-(faktor)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bukanlah gerakan politik)-(Megawati)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(bukanlah gerakan politik)-(enggk)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bukanlah gerakan politik)-(tiket capres)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bukanlah gerakan politik)-(Jokowi," lugasnya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(bukanlah gerakan politik)-(spanduk dukungan duet Jokowi-Hatta Rajasa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bukanlah gerakan politik)-(pemilihan presiden 2014,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(bukanlah gerakan politik)-(Kota Solo,)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(bukanlah gerakan politik)-(Jawa Tengah)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(bukanlah gerakan politik)-(spanduk)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bukanlah gerakan politik)-(perempatan Sangkrah,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(bukanlah gerakan politik)-(Pasar Kliwon tersebut)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(bukanlah gerakan politik)-("BerdelaPAN)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(bukanlah gerakan politik)-(Jokowi dan Hatta Rajasa)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(bukanlah gerakan politik)-(pilpres 2014-2019)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bukanlah gerakan politik)-(Ayo dukung wong Solo",)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(bukanlah gerakan politik)-(spanduk)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bukanlah gerakan politik)-(merah)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(sekedar letupan)-(Jokowi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(sekedar letupan)-(gejala positif)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sekedar letupan)-(orang itu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sekedar letupan)-(calon presiden)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sekedar letupan)-(Jokowi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(sekedar letupan)-(Jokowi,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(sekedar letupan)-(Hanggoro,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(sekedar letupan)-(popularitasnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sekedar letupan)-(tokoh lain)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sekedar letupan)-(jokowi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sekedar letupan)-(survei Lingkaran Survei Indonesia)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sekedar letupan)-(LSI)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(sekedar letupan)-(Aburizal Bakrie dan unggul)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(sekedar letupan)-(pembeda jokowi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sekedar letupan)-(tokoh)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sekedar letupan)-(Jokowi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(sekedar letupan)-(publik)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sekedar letupan)-(faktor)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sekedar letupan)-(Megawati)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(sekedar letupan)-(enggk)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sekedar letupan)-(tiket capres)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sekedar letupan)-(Jokowi," lugasnya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(sekedar letupan)-(spanduk dukungan duet Jokowi-Hatta Rajasa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sekedar letupan)-(pemilihan presiden 2014,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(sekedar letupan)-(Kota Solo,)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(sekedar letupan)-(Jawa Tengah)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(sekedar letupan)-(spanduk)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sekedar letupan)-(perempatan Sangkrah,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(sekedar letupan)-(Pasar Kliwon tersebut)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(sekedar letupan)-("BerdelaPAN)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(sekedar letupan)-(Jokowi dan Hatta Rajasa)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(sekedar letupan)-(pilpres 2014-2019)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sekedar letupan)-(Ayo dukung wong Solo",)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(sekedar letupan)-(spanduk)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sekedar letupan)-(merah)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(Jokowi)-(gejala positif)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi)-(orang itu)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi)-(calon presiden)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi)-(Jokowi)]";true;true;false;false;false;false;true;PERSON;PERSON
+"[(Jokowi)-(Jokowi,)]";false;false;false;false;false;false;true;PERSON;PERSON
+"[(Jokowi)-(Hanggoro,)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Jokowi)-(popularitasnya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi)-(tokoh lain)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi)-(jokowi)]";true;true;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi)-(survei Lingkaran Survei Indonesia)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi)-(LSI)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Jokowi)-(Aburizal Bakrie dan unggul)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Jokowi)-(pembeda jokowi)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi)-(tokoh)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi)-(Jokowi)]";true;true;false;false;false;false;true;PERSON;PERSON
+"[(Jokowi)-(publik)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi)-(faktor)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi)-(Megawati)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Jokowi)-(enggk)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi)-(tiket capres)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi)-(Jokowi," lugasnya)]";false;false;false;false;false;false;true;PERSON;OTHER
+"[(Jokowi)-(spanduk dukungan duet Jokowi-Hatta Rajasa)]";false;true;false;false;false;false;true;PERSON;OTHER
+"[(Jokowi)-(pemilihan presiden 2014,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi)-(Kota Solo,)]";false;false;false;false;false;false;false;PERSON;LOCATION
+"[(Jokowi)-(Jawa Tengah)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Jokowi)-(spanduk)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi)-(perempatan Sangkrah,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi)-(Pasar Kliwon tersebut)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Jokowi)-("BerdelaPAN)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi)-(Jokowi dan Hatta Rajasa)]";false;true;false;false;false;false;true;PERSON;PERSON
+"[(Jokowi)-(pilpres 2014-2019)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi)-(Ayo dukung wong Solo",)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Jokowi)-(spanduk)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi)-(merah)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(gejala positif)-(orang itu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(gejala positif)-(calon presiden)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(gejala positif)-(Jokowi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(gejala positif)-(Jokowi,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(gejala positif)-(Hanggoro,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(gejala positif)-(popularitasnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(gejala positif)-(tokoh lain)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(gejala positif)-(jokowi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(gejala positif)-(survei Lingkaran Survei Indonesia)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(gejala positif)-(LSI)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(gejala positif)-(Aburizal Bakrie dan unggul)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(gejala positif)-(pembeda jokowi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(gejala positif)-(tokoh)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(gejala positif)-(Jokowi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(gejala positif)-(publik)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(gejala positif)-(faktor)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(gejala positif)-(Megawati)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(gejala positif)-(enggk)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(gejala positif)-(tiket capres)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(gejala positif)-(Jokowi," lugasnya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(gejala positif)-(spanduk dukungan duet Jokowi-Hatta Rajasa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(gejala positif)-(pemilihan presiden 2014,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(gejala positif)-(Kota Solo,)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(gejala positif)-(Jawa Tengah)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(gejala positif)-(spanduk)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(gejala positif)-(perempatan Sangkrah,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(gejala positif)-(Pasar Kliwon tersebut)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(gejala positif)-("BerdelaPAN)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(gejala positif)-(Jokowi dan Hatta Rajasa)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(gejala positif)-(pilpres 2014-2019)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(gejala positif)-(Ayo dukung wong Solo",)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(gejala positif)-(spanduk)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(gejala positif)-(merah)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(orang itu)-(calon presiden)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(orang itu)-(Jokowi)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(orang itu)-(Jokowi,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(orang itu)-(Hanggoro,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(orang itu)-(popularitasnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(orang itu)-(tokoh lain)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(orang itu)-(jokowi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(orang itu)-(survei Lingkaran Survei Indonesia)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(orang itu)-(LSI)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(orang itu)-(Aburizal Bakrie dan unggul)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(orang itu)-(pembeda jokowi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(orang itu)-(tokoh)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(orang itu)-(Jokowi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(orang itu)-(publik)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(orang itu)-(faktor)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(orang itu)-(Megawati)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(orang itu)-(enggk)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(orang itu)-(tiket capres)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(orang itu)-(Jokowi," lugasnya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(orang itu)-(spanduk dukungan duet Jokowi-Hatta Rajasa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(orang itu)-(pemilihan presiden 2014,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(orang itu)-(Kota Solo,)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(orang itu)-(Jawa Tengah)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(orang itu)-(spanduk)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(orang itu)-(perempatan Sangkrah,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(orang itu)-(Pasar Kliwon tersebut)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(orang itu)-("BerdelaPAN)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(orang itu)-(Jokowi dan Hatta Rajasa)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(orang itu)-(pilpres 2014-2019)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(orang itu)-(Ayo dukung wong Solo",)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(orang itu)-(spanduk)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(orang itu)-(merah)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(calon presiden)-(Jokowi)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(calon presiden)-(Jokowi,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(calon presiden)-(Hanggoro,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(calon presiden)-(popularitasnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(calon presiden)-(tokoh lain)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(calon presiden)-(jokowi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(calon presiden)-(survei Lingkaran Survei Indonesia)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(calon presiden)-(LSI)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(calon presiden)-(Aburizal Bakrie dan unggul)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(calon presiden)-(pembeda jokowi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(calon presiden)-(tokoh)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(calon presiden)-(Jokowi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(calon presiden)-(publik)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(calon presiden)-(faktor)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(calon presiden)-(Megawati)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(calon presiden)-(enggk)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(calon presiden)-(tiket capres)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(calon presiden)-(Jokowi," lugasnya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(calon presiden)-(spanduk dukungan duet Jokowi-Hatta Rajasa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(calon presiden)-(pemilihan presiden 2014,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(calon presiden)-(Kota Solo,)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(calon presiden)-(Jawa Tengah)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(calon presiden)-(spanduk)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(calon presiden)-(perempatan Sangkrah,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(calon presiden)-(Pasar Kliwon tersebut)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(calon presiden)-("BerdelaPAN)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(calon presiden)-(Jokowi dan Hatta Rajasa)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(calon presiden)-(pilpres 2014-2019)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(calon presiden)-(Ayo dukung wong Solo",)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(calon presiden)-(spanduk)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(calon presiden)-(merah)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(Jokowi)-(Jokowi,)]";false;false;false;false;false;false;true;PERSON;PERSON
+"[(Jokowi)-(Hanggoro,)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Jokowi)-(popularitasnya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi)-(tokoh lain)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi)-(jokowi)]";true;true;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi)-(survei Lingkaran Survei Indonesia)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi)-(LSI)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Jokowi)-(Aburizal Bakrie dan unggul)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Jokowi)-(pembeda jokowi)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi)-(tokoh)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi)-(Jokowi)]";true;true;false;false;false;false;true;PERSON;PERSON
+"[(Jokowi)-(publik)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi)-(faktor)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi)-(Megawati)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Jokowi)-(enggk)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi)-(tiket capres)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi)-(Jokowi," lugasnya)]";false;false;false;false;false;false;true;PERSON;OTHER
+"[(Jokowi)-(spanduk dukungan duet Jokowi-Hatta Rajasa)]";false;true;false;false;false;false;true;PERSON;OTHER
+"[(Jokowi)-(pemilihan presiden 2014,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi)-(Kota Solo,)]";false;false;false;false;false;false;false;PERSON;LOCATION
+"[(Jokowi)-(Jawa Tengah)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Jokowi)-(spanduk)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi)-(perempatan Sangkrah,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi)-(Pasar Kliwon tersebut)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Jokowi)-("BerdelaPAN)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi)-(Jokowi dan Hatta Rajasa)]";false;true;false;false;false;false;true;PERSON;PERSON
+"[(Jokowi)-(pilpres 2014-2019)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi)-(Ayo dukung wong Solo",)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Jokowi)-(spanduk)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi)-(merah)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Jokowi,)-(Hanggoro,)]";false;false;false;false;false;true;false;PERSON;PERSON
+"[(Jokowi,)-(popularitasnya)]";false;false;false;false;false;true;false;PERSON;OTHER
+"[(Jokowi,)-(tokoh lain)]";false;false;false;false;false;true;false;PERSON;OTHER
+"[(Jokowi,)-(jokowi)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi,)-(survei Lingkaran Survei Indonesia)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi,)-(LSI)]";false;false;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Jokowi,)-(Aburizal Bakrie dan unggul)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Jokowi,)-(pembeda jokowi)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi,)-(tokoh)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi,)-(Jokowi)]";false;false;false;false;false;false;true;PERSON;PERSON
+"[(Jokowi,)-(publik)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi,)-(faktor)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi,)-(Megawati)]";false;false;false;false;true;false;false;PERSON;OTHER
+"[(Jokowi,)-(enggk)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi,)-(tiket capres)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi,)-(Jokowi," lugasnya)]";false;false;false;false;false;false;true;PERSON;OTHER
+"[(Jokowi,)-(spanduk dukungan duet Jokowi-Hatta Rajasa)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi,)-(pemilihan presiden 2014,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi,)-(Kota Solo,)]";false;false;false;false;false;false;false;PERSON;LOCATION
+"[(Jokowi,)-(Jawa Tengah)]";false;false;false;false;false;false;false;PERSON;LOCATION
+"[(Jokowi,)-(spanduk)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi,)-(perempatan Sangkrah,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi,)-(Pasar Kliwon tersebut)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Jokowi,)-("BerdelaPAN)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi,)-(Jokowi dan Hatta Rajasa)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Jokowi,)-(pilpres 2014-2019)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi,)-(Ayo dukung wong Solo",)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Jokowi,)-(spanduk)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi,)-(merah)]";false;false;false;false;true;false;false;PERSON;OTHER
+"[(Hanggoro,)-(popularitasnya)]";false;false;false;false;false;true;false;PERSON;OTHER
+"[(Hanggoro,)-(tokoh lain)]";false;false;false;false;false;true;false;PERSON;OTHER
+"[(Hanggoro,)-(jokowi)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Hanggoro,)-(survei Lingkaran Survei Indonesia)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Hanggoro,)-(LSI)]";false;false;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Hanggoro,)-(Aburizal Bakrie dan unggul)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Hanggoro,)-(pembeda jokowi)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Hanggoro,)-(tokoh)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Hanggoro,)-(Jokowi)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Hanggoro,)-(publik)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Hanggoro,)-(faktor)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Hanggoro,)-(Megawati)]";false;false;false;false;true;false;false;PERSON;OTHER
+"[(Hanggoro,)-(enggk)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Hanggoro,)-(tiket capres)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Hanggoro,)-(Jokowi," lugasnya)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Hanggoro,)-(spanduk dukungan duet Jokowi-Hatta Rajasa)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Hanggoro,)-(pemilihan presiden 2014,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Hanggoro,)-(Kota Solo,)]";false;false;false;false;false;false;false;PERSON;LOCATION
+"[(Hanggoro,)-(Jawa Tengah)]";false;false;false;false;false;false;false;PERSON;LOCATION
+"[(Hanggoro,)-(spanduk)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Hanggoro,)-(perempatan Sangkrah,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Hanggoro,)-(Pasar Kliwon tersebut)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Hanggoro,)-("BerdelaPAN)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Hanggoro,)-(Jokowi dan Hatta Rajasa)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Hanggoro,)-(pilpres 2014-2019)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Hanggoro,)-(Ayo dukung wong Solo",)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Hanggoro,)-(spanduk)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Hanggoro,)-(merah)]";false;false;false;false;true;false;false;PERSON;OTHER
+"[(popularitasnya)-(tokoh lain)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(popularitasnya)-(jokowi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(popularitasnya)-(survei Lingkaran Survei Indonesia)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(popularitasnya)-(LSI)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(popularitasnya)-(Aburizal Bakrie dan unggul)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(popularitasnya)-(pembeda jokowi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(popularitasnya)-(tokoh)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(popularitasnya)-(Jokowi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(popularitasnya)-(publik)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(popularitasnya)-(faktor)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(popularitasnya)-(Megawati)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(popularitasnya)-(enggk)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(popularitasnya)-(tiket capres)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(popularitasnya)-(Jokowi," lugasnya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(popularitasnya)-(spanduk dukungan duet Jokowi-Hatta Rajasa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(popularitasnya)-(pemilihan presiden 2014,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(popularitasnya)-(Kota Solo,)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(popularitasnya)-(Jawa Tengah)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(popularitasnya)-(spanduk)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(popularitasnya)-(perempatan Sangkrah,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(popularitasnya)-(Pasar Kliwon tersebut)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(popularitasnya)-("BerdelaPAN)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(popularitasnya)-(Jokowi dan Hatta Rajasa)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(popularitasnya)-(pilpres 2014-2019)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(popularitasnya)-(Ayo dukung wong Solo",)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(popularitasnya)-(spanduk)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(popularitasnya)-(merah)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(tokoh lain)-(jokowi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tokoh lain)-(survei Lingkaran Survei Indonesia)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tokoh lain)-(LSI)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(tokoh lain)-(Aburizal Bakrie dan unggul)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(tokoh lain)-(pembeda jokowi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tokoh lain)-(tokoh)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(tokoh lain)-(Jokowi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(tokoh lain)-(publik)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tokoh lain)-(faktor)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tokoh lain)-(Megawati)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(tokoh lain)-(enggk)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tokoh lain)-(tiket capres)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tokoh lain)-(Jokowi," lugasnya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(tokoh lain)-(spanduk dukungan duet Jokowi-Hatta Rajasa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tokoh lain)-(pemilihan presiden 2014,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(tokoh lain)-(Kota Solo,)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(tokoh lain)-(Jawa Tengah)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(tokoh lain)-(spanduk)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tokoh lain)-(perempatan Sangkrah,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(tokoh lain)-(Pasar Kliwon tersebut)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(tokoh lain)-("BerdelaPAN)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(tokoh lain)-(Jokowi dan Hatta Rajasa)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(tokoh lain)-(pilpres 2014-2019)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tokoh lain)-(Ayo dukung wong Solo",)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(tokoh lain)-(spanduk)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tokoh lain)-(merah)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(jokowi)-(survei Lingkaran Survei Indonesia)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(jokowi)-(LSI)]";false;true;false;false;false;true;false;OTHER;ORGANIZATION
+"[(jokowi)-(Aburizal Bakrie dan unggul)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(jokowi)-(pembeda jokowi)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(jokowi)-(tokoh)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(jokowi)-(Jokowi)]";true;true;false;false;false;false;false;OTHER;PERSON
+"[(jokowi)-(publik)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(jokowi)-(faktor)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(jokowi)-(Megawati)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(jokowi)-(enggk)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(jokowi)-(tiket capres)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(jokowi)-(Jokowi," lugasnya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(jokowi)-(spanduk dukungan duet Jokowi-Hatta Rajasa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(jokowi)-(pemilihan presiden 2014,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(jokowi)-(Kota Solo,)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(jokowi)-(Jawa Tengah)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(jokowi)-(spanduk)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(jokowi)-(perempatan Sangkrah,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(jokowi)-(Pasar Kliwon tersebut)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(jokowi)-("BerdelaPAN)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(jokowi)-(Jokowi dan Hatta Rajasa)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(jokowi)-(pilpres 2014-2019)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(jokowi)-(Ayo dukung wong Solo",)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(jokowi)-(spanduk)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(jokowi)-(merah)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(survei Lingkaran Survei Indonesia)-(LSI)]";false;true;false;false;false;true;false;OTHER;ORGANIZATION
+"[(survei Lingkaran Survei Indonesia)-(Aburizal Bakrie dan unggul)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(survei Lingkaran Survei Indonesia)-(pembeda jokowi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(survei Lingkaran Survei Indonesia)-(tokoh)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(survei Lingkaran Survei Indonesia)-(Jokowi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(survei Lingkaran Survei Indonesia)-(publik)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(survei Lingkaran Survei Indonesia)-(faktor)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(survei Lingkaran Survei Indonesia)-(Megawati)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(survei Lingkaran Survei Indonesia)-(enggk)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(survei Lingkaran Survei Indonesia)-(tiket capres)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(survei Lingkaran Survei Indonesia)-(Jokowi," lugasnya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(survei Lingkaran Survei Indonesia)-(spanduk dukungan duet Jokowi-Hatta Rajasa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(survei Lingkaran Survei Indonesia)-(pemilihan presiden 2014,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(survei Lingkaran Survei Indonesia)-(Kota Solo,)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(survei Lingkaran Survei Indonesia)-(Jawa Tengah)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(survei Lingkaran Survei Indonesia)-(spanduk)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(survei Lingkaran Survei Indonesia)-(perempatan Sangkrah,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(survei Lingkaran Survei Indonesia)-(Pasar Kliwon tersebut)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(survei Lingkaran Survei Indonesia)-("BerdelaPAN)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(survei Lingkaran Survei Indonesia)-(Jokowi dan Hatta Rajasa)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(survei Lingkaran Survei Indonesia)-(pilpres 2014-2019)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(survei Lingkaran Survei Indonesia)-(Ayo dukung wong Solo",)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(survei Lingkaran Survei Indonesia)-(spanduk)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(survei Lingkaran Survei Indonesia)-(merah)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(LSI)-(Aburizal Bakrie dan unggul)]";false;true;false;false;false;true;false;ORGANIZATION;PERSON
+"[(LSI)-(pembeda jokowi)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(LSI)-(tokoh)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(LSI)-(Jokowi)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(LSI)-(publik)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(LSI)-(faktor)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(LSI)-(Megawati)]";false;true;false;false;true;false;false;ORGANIZATION;OTHER
+"[(LSI)-(enggk)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(LSI)-(tiket capres)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(LSI)-(Jokowi," lugasnya)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(LSI)-(spanduk dukungan duet Jokowi-Hatta Rajasa)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(LSI)-(pemilihan presiden 2014,)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(LSI)-(Kota Solo,)]";false;false;false;false;false;false;false;ORGANIZATION;LOCATION
+"[(LSI)-(Jawa Tengah)]";false;true;false;false;false;false;false;ORGANIZATION;LOCATION
+"[(LSI)-(spanduk)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(LSI)-(perempatan Sangkrah,)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(LSI)-(Pasar Kliwon tersebut)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(LSI)-("BerdelaPAN)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(LSI)-(Jokowi dan Hatta Rajasa)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(LSI)-(pilpres 2014-2019)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(LSI)-(Ayo dukung wong Solo",)]";false;false;false;false;false;false;false;ORGANIZATION;PERSON
+"[(LSI)-(spanduk)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(LSI)-(merah)]";false;true;false;false;true;false;false;ORGANIZATION;OTHER
+"[(Aburizal Bakrie dan unggul)-(pembeda jokowi)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Aburizal Bakrie dan unggul)-(tokoh)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Aburizal Bakrie dan unggul)-(Jokowi)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Aburizal Bakrie dan unggul)-(publik)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Aburizal Bakrie dan unggul)-(faktor)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Aburizal Bakrie dan unggul)-(Megawati)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Aburizal Bakrie dan unggul)-(enggk)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Aburizal Bakrie dan unggul)-(tiket capres)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Aburizal Bakrie dan unggul)-(Jokowi," lugasnya)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Aburizal Bakrie dan unggul)-(spanduk dukungan duet Jokowi-Hatta Rajasa)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Aburizal Bakrie dan unggul)-(pemilihan presiden 2014,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Aburizal Bakrie dan unggul)-(Kota Solo,)]";false;false;false;false;false;false;false;PERSON;LOCATION
+"[(Aburizal Bakrie dan unggul)-(Jawa Tengah)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Aburizal Bakrie dan unggul)-(spanduk)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Aburizal Bakrie dan unggul)-(perempatan Sangkrah,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Aburizal Bakrie dan unggul)-(Pasar Kliwon tersebut)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Aburizal Bakrie dan unggul)-("BerdelaPAN)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Aburizal Bakrie dan unggul)-(Jokowi dan Hatta Rajasa)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Aburizal Bakrie dan unggul)-(pilpres 2014-2019)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Aburizal Bakrie dan unggul)-(Ayo dukung wong Solo",)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Aburizal Bakrie dan unggul)-(spanduk)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Aburizal Bakrie dan unggul)-(merah)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(pembeda jokowi)-(tokoh)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(pembeda jokowi)-(Jokowi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pembeda jokowi)-(publik)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pembeda jokowi)-(faktor)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pembeda jokowi)-(Megawati)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(pembeda jokowi)-(enggk)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pembeda jokowi)-(tiket capres)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pembeda jokowi)-(Jokowi," lugasnya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pembeda jokowi)-(spanduk dukungan duet Jokowi-Hatta Rajasa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pembeda jokowi)-(pemilihan presiden 2014,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pembeda jokowi)-(Kota Solo,)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(pembeda jokowi)-(Jawa Tengah)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(pembeda jokowi)-(spanduk)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pembeda jokowi)-(perempatan Sangkrah,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pembeda jokowi)-(Pasar Kliwon tersebut)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pembeda jokowi)-("BerdelaPAN)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pembeda jokowi)-(Jokowi dan Hatta Rajasa)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pembeda jokowi)-(pilpres 2014-2019)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pembeda jokowi)-(Ayo dukung wong Solo",)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(pembeda jokowi)-(spanduk)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pembeda jokowi)-(merah)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(tokoh)-(Jokowi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(tokoh)-(publik)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tokoh)-(faktor)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tokoh)-(Megawati)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(tokoh)-(enggk)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tokoh)-(tiket capres)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tokoh)-(Jokowi," lugasnya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(tokoh)-(spanduk dukungan duet Jokowi-Hatta Rajasa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tokoh)-(pemilihan presiden 2014,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(tokoh)-(Kota Solo,)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(tokoh)-(Jawa Tengah)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(tokoh)-(spanduk)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tokoh)-(perempatan Sangkrah,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(tokoh)-(Pasar Kliwon tersebut)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(tokoh)-("BerdelaPAN)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(tokoh)-(Jokowi dan Hatta Rajasa)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(tokoh)-(pilpres 2014-2019)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tokoh)-(Ayo dukung wong Solo",)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(tokoh)-(spanduk)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tokoh)-(merah)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(Jokowi)-(publik)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Jokowi)-(faktor)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Jokowi)-(Megawati)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Jokowi)-(enggk)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi)-(tiket capres)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi)-(Jokowi," lugasnya)]";false;false;false;false;false;false;true;PERSON;OTHER
+"[(Jokowi)-(spanduk dukungan duet Jokowi-Hatta Rajasa)]";false;true;false;false;false;false;true;PERSON;OTHER
+"[(Jokowi)-(pemilihan presiden 2014,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi)-(Kota Solo,)]";false;false;false;false;false;false;false;PERSON;LOCATION
+"[(Jokowi)-(Jawa Tengah)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Jokowi)-(spanduk)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi)-(perempatan Sangkrah,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi)-(Pasar Kliwon tersebut)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Jokowi)-("BerdelaPAN)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi)-(Jokowi dan Hatta Rajasa)]";false;true;false;false;false;false;true;PERSON;PERSON
+"[(Jokowi)-(pilpres 2014-2019)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi)-(Ayo dukung wong Solo",)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Jokowi)-(spanduk)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi)-(merah)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(publik)-(faktor)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(publik)-(Megawati)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(publik)-(enggk)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(publik)-(tiket capres)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(publik)-(Jokowi," lugasnya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(publik)-(spanduk dukungan duet Jokowi-Hatta Rajasa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(publik)-(pemilihan presiden 2014,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(publik)-(Kota Solo,)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(publik)-(Jawa Tengah)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(publik)-(spanduk)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(publik)-(perempatan Sangkrah,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(publik)-(Pasar Kliwon tersebut)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(publik)-("BerdelaPAN)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(publik)-(Jokowi dan Hatta Rajasa)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(publik)-(pilpres 2014-2019)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(publik)-(Ayo dukung wong Solo",)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(publik)-(spanduk)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(publik)-(merah)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(faktor)-(Megawati)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(faktor)-(enggk)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(faktor)-(tiket capres)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(faktor)-(Jokowi," lugasnya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(faktor)-(spanduk dukungan duet Jokowi-Hatta Rajasa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(faktor)-(pemilihan presiden 2014,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(faktor)-(Kota Solo,)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(faktor)-(Jawa Tengah)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(faktor)-(spanduk)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(faktor)-(perempatan Sangkrah,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(faktor)-(Pasar Kliwon tersebut)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(faktor)-("BerdelaPAN)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(faktor)-(Jokowi dan Hatta Rajasa)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(faktor)-(pilpres 2014-2019)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(faktor)-(Ayo dukung wong Solo",)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(faktor)-(spanduk)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(faktor)-(merah)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(Megawati)-(enggk)]";false;true;false;true;false;true;false;OTHER;OTHER
+"[(Megawati)-(tiket capres)]";false;true;false;true;false;true;false;OTHER;OTHER
+"[(Megawati)-(Jokowi," lugasnya)]";false;false;false;true;false;true;false;OTHER;OTHER
+"[(Megawati)-(spanduk dukungan duet Jokowi-Hatta Rajasa)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Megawati)-(pemilihan presiden 2014,)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(Megawati)-(Kota Solo,)]";false;false;false;true;false;false;false;OTHER;LOCATION
+"[(Megawati)-(Jawa Tengah)]";false;true;false;true;false;false;false;OTHER;LOCATION
+"[(Megawati)-(spanduk)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Megawati)-(perempatan Sangkrah,)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(Megawati)-(Pasar Kliwon tersebut)]";false;true;false;true;false;false;false;OTHER;PERSON
+"[(Megawati)-("BerdelaPAN)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(Megawati)-(Jokowi dan Hatta Rajasa)]";false;true;false;true;false;false;false;OTHER;PERSON
+"[(Megawati)-(pilpres 2014-2019)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Megawati)-(Ayo dukung wong Solo",)]";false;false;false;true;false;false;false;OTHER;PERSON
+"[(Megawati)-(spanduk)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Megawati)-(merah)]";false;true;false;true;true;false;false;OTHER;OTHER
+"[(enggk)-(tiket capres)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(enggk)-(Jokowi," lugasnya)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(enggk)-(spanduk dukungan duet Jokowi-Hatta Rajasa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(enggk)-(pemilihan presiden 2014,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(enggk)-(Kota Solo,)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(enggk)-(Jawa Tengah)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(enggk)-(spanduk)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(enggk)-(perempatan Sangkrah,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(enggk)-(Pasar Kliwon tersebut)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(enggk)-("BerdelaPAN)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(enggk)-(Jokowi dan Hatta Rajasa)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(enggk)-(pilpres 2014-2019)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(enggk)-(Ayo dukung wong Solo",)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(enggk)-(spanduk)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(enggk)-(merah)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(tiket capres)-(Jokowi," lugasnya)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(tiket capres)-(spanduk dukungan duet Jokowi-Hatta Rajasa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tiket capres)-(pemilihan presiden 2014,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(tiket capres)-(Kota Solo,)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(tiket capres)-(Jawa Tengah)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(tiket capres)-(spanduk)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tiket capres)-(perempatan Sangkrah,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(tiket capres)-(Pasar Kliwon tersebut)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(tiket capres)-("BerdelaPAN)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(tiket capres)-(Jokowi dan Hatta Rajasa)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(tiket capres)-(pilpres 2014-2019)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tiket capres)-(Ayo dukung wong Solo",)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(tiket capres)-(spanduk)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tiket capres)-(merah)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(Jokowi," lugasnya)-(spanduk dukungan duet Jokowi-Hatta Rajasa)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Jokowi," lugasnya)-(pemilihan presiden 2014,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Jokowi," lugasnya)-(Kota Solo,)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(Jokowi," lugasnya)-(Jawa Tengah)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(Jokowi," lugasnya)-(spanduk)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Jokowi," lugasnya)-(perempatan Sangkrah,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Jokowi," lugasnya)-(Pasar Kliwon tersebut)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(Jokowi," lugasnya)-("BerdelaPAN)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Jokowi," lugasnya)-(Jokowi dan Hatta Rajasa)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(Jokowi," lugasnya)-(pilpres 2014-2019)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Jokowi," lugasnya)-(Ayo dukung wong Solo",)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(Jokowi," lugasnya)-(spanduk)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Jokowi," lugasnya)-(merah)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(spanduk dukungan duet Jokowi-Hatta Rajasa)-(pemilihan presiden 2014,)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(spanduk dukungan duet Jokowi-Hatta Rajasa)-(Kota Solo,)]";false;false;false;false;false;true;false;OTHER;LOCATION
+"[(spanduk dukungan duet Jokowi-Hatta Rajasa)-(Jawa Tengah)]";false;true;false;false;false;true;false;OTHER;LOCATION
+"[(spanduk dukungan duet Jokowi-Hatta Rajasa)-(spanduk)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(spanduk dukungan duet Jokowi-Hatta Rajasa)-(perempatan Sangkrah,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(spanduk dukungan duet Jokowi-Hatta Rajasa)-(Pasar Kliwon tersebut)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(spanduk dukungan duet Jokowi-Hatta Rajasa)-("BerdelaPAN)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(spanduk dukungan duet Jokowi-Hatta Rajasa)-(Jokowi dan Hatta Rajasa)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(spanduk dukungan duet Jokowi-Hatta Rajasa)-(pilpres 2014-2019)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(spanduk dukungan duet Jokowi-Hatta Rajasa)-(Ayo dukung wong Solo",)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(spanduk dukungan duet Jokowi-Hatta Rajasa)-(spanduk)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(spanduk dukungan duet Jokowi-Hatta Rajasa)-(merah)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(pemilihan presiden 2014,)-(Kota Solo,)]";false;false;false;false;false;true;false;OTHER;LOCATION
+"[(pemilihan presiden 2014,)-(Jawa Tengah)]";false;false;false;false;false;true;false;OTHER;LOCATION
+"[(pemilihan presiden 2014,)-(spanduk)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pemilihan presiden 2014,)-(perempatan Sangkrah,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pemilihan presiden 2014,)-(Pasar Kliwon tersebut)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(pemilihan presiden 2014,)-("BerdelaPAN)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pemilihan presiden 2014,)-(Jokowi dan Hatta Rajasa)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(pemilihan presiden 2014,)-(pilpres 2014-2019)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pemilihan presiden 2014,)-(Ayo dukung wong Solo",)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(pemilihan presiden 2014,)-(spanduk)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pemilihan presiden 2014,)-(merah)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(Kota Solo,)-(Jawa Tengah)]";false;false;false;false;false;true;false;LOCATION;LOCATION
+"[(Kota Solo,)-(spanduk)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Kota Solo,)-(perempatan Sangkrah,)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Kota Solo,)-(Pasar Kliwon tersebut)]";false;false;false;false;false;false;false;LOCATION;PERSON
+"[(Kota Solo,)-("BerdelaPAN)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Kota Solo,)-(Jokowi dan Hatta Rajasa)]";false;false;false;false;false;false;false;LOCATION;PERSON
+"[(Kota Solo,)-(pilpres 2014-2019)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Kota Solo,)-(Ayo dukung wong Solo",)]";false;false;false;false;false;false;false;LOCATION;PERSON
+"[(Kota Solo,)-(spanduk)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Kota Solo,)-(merah)]";false;false;false;false;true;false;false;LOCATION;OTHER
+"[(Jawa Tengah)-(spanduk)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa Tengah)-(perempatan Sangkrah,)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa Tengah)-(Pasar Kliwon tersebut)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Jawa Tengah)-("BerdelaPAN)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa Tengah)-(Jokowi dan Hatta Rajasa)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Jawa Tengah)-(pilpres 2014-2019)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa Tengah)-(Ayo dukung wong Solo",)]";false;false;false;false;false;false;false;LOCATION;PERSON
+"[(Jawa Tengah)-(spanduk)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa Tengah)-(merah)]";false;true;false;false;true;false;false;LOCATION;OTHER
+"[(spanduk)-(perempatan Sangkrah,)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(spanduk)-(Pasar Kliwon tersebut)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(spanduk)-("BerdelaPAN)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(spanduk)-(Jokowi dan Hatta Rajasa)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(spanduk)-(pilpres 2014-2019)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(spanduk)-(Ayo dukung wong Solo",)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(spanduk)-(spanduk)]";true;true;false;false;false;false;true;OTHER;OTHER
+"[(spanduk)-(merah)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(perempatan Sangkrah,)-(Pasar Kliwon tersebut)]";false;false;false;false;false;true;false;OTHER;PERSON
+"[(perempatan Sangkrah,)-("BerdelaPAN)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(perempatan Sangkrah,)-(Jokowi dan Hatta Rajasa)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(perempatan Sangkrah,)-(pilpres 2014-2019)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(perempatan Sangkrah,)-(Ayo dukung wong Solo",)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(perempatan Sangkrah,)-(spanduk)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(perempatan Sangkrah,)-(merah)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(Pasar Kliwon tersebut)-("BerdelaPAN)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Pasar Kliwon tersebut)-(Jokowi dan Hatta Rajasa)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Pasar Kliwon tersebut)-(pilpres 2014-2019)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pasar Kliwon tersebut)-(Ayo dukung wong Solo",)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Pasar Kliwon tersebut)-(spanduk)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pasar Kliwon tersebut)-(merah)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[("BerdelaPAN)-(Jokowi dan Hatta Rajasa)]";false;false;false;false;false;true;false;OTHER;PERSON
+"[("BerdelaPAN)-(pilpres 2014-2019)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[("BerdelaPAN)-(Ayo dukung wong Solo",)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[("BerdelaPAN)-(spanduk)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("BerdelaPAN)-(merah)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(Jokowi dan Hatta Rajasa)-(pilpres 2014-2019)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Jokowi dan Hatta Rajasa)-(Ayo dukung wong Solo",)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Jokowi dan Hatta Rajasa)-(spanduk)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi dan Hatta Rajasa)-(merah)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(pilpres 2014-2019)-(Ayo dukung wong Solo",)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(pilpres 2014-2019)-(spanduk)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pilpres 2014-2019)-(merah)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(Ayo dukung wong Solo",)-(spanduk)]";false;false;false;false;false;true;false;PERSON;OTHER
+"[(Ayo dukung wong Solo",)-(merah)]";false;false;false;false;true;true;false;PERSON;OTHER
+"[(spanduk)-(merah)]";false;true;false;false;true;true;false;OTHER;OTHER

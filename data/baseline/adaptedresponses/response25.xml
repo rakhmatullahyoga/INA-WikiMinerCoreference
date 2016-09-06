@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>Jokowi</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>Guntur</Mention>
+        <Mention>Kelurahan Guntur</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>Komisi Pemberantasan Korupsi (KPK</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>Gubernur DKI Jakarta</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>Joko Widodo</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>DKI Jakarta</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>Kecamatan Setiabudi</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>Jakarta</Mention>
+    </Entity>
+    <Entity ClusterId="9">
+        <Mention>Selatan</Mention>
+    </Entity>
+    <Entity ClusterId="10">
+        <Mention>Balaikota</Mention>
+    </Entity>
+    <Entity ClusterId="11">
+        <Mention>Pinus</Mention>
+    </Entity>
+    <Entity ClusterId="12">
+        <Mention>Timur</Mention>
+    </Entity>
+</CoreferenceChain>

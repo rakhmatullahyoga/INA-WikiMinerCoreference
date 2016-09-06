@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>Jokowi</Mention>
+        <Mention>Gubernur DKI Jakarta</Mention>
+        <Mention>Joko Widodo</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>Hatta Rajasa</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>mantan Ketua Mahkamah Konstitusi</Mention>
+        <Mention>Mahfud MD</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>Centre for Strategic and International Studies</Mention>
+        <Mention>CSIS</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>Philips J Vermonte</Mention>
+        <Mention>Philips</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>Mahkamah Konstitusi</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>mantan Wakil Presiden</Mention>
+        <Mention>Wakil Presiden Jusuf Kalla</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>Indonesia</Mention>
+    </Entity>
+    <Entity ClusterId="9">
+        <Mention>Ketua Umum PDIP</Mention>
+        <Mention>Megawati Soekarnoputri</Mention>
+    </Entity>
+    <Entity ClusterId="10">
+        <Mention>PDIP</Mention>
+    </Entity>
+    <Entity ClusterId="11">
+        <Mention>provinsi</Mention>
+    </Entity>
+    <Entity ClusterId="12">
+        <Mention>Papua</Mention>
+    </Entity>
+    <Entity ClusterId="13">
+        <Mention>Papua Barat</Mention>
+    </Entity>
+    <Entity ClusterId="14">
+        <Mention>Ketua Umum Partai Golkar</Mention>
+        <Mention>Aburizal Bakrie</Mention>
+    </Entity>
+    <Entity ClusterId="15">
+        <Mention>Presiden 2014</Mention>
+    </Entity>
+    <Entity ClusterId="16">
+        <Mention>Partai Gerindra</Mention>
+    </Entity>
+    <Entity ClusterId="17">
+        <Mention>Ketua Dewan Pembina Partai Gerindra</Mention>
+        <Mention>Prabowo Subianto</Mention>
+    </Entity>
+</CoreferenceChain>

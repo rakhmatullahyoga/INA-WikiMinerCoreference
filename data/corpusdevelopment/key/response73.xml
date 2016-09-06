@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>Jabar</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>TEMPO.CO</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>Jakarta</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>Jawa</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>16 Mei</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>Bandung</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>Indonesia</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>6 Mei</Mention>
+    </Entity>
+    <Entity ClusterId="9">
+        <Mention>Timur Tengah</Mention>
+    </Entity>
+    <Entity ClusterId="10">
+        <Mention>China</Mention>
+        <Mention>Cina</Mention>
+    </Entity>
+    <Entity ClusterId="11">
+        <Mention>Jepang</Mention>
+    </Entity>
+    <Entity ClusterId="12">
+        <Mention>Belanda</Mention>
+    </Entity>
+    <Entity ClusterId="13">
+        <Mention>Australia</Mention>
+    </Entity>
+    <Entity ClusterId="14">
+        <Mention>India</Mention>
+    </Entity>
+    <Entity ClusterId="15">
+        <Mention>Thailand</Mention>
+    </Entity>
+    <Entity ClusterId="16">
+        <Mention>Vietnam</Mention>
+    </Entity>
+    <Entity ClusterId="17">
+        <Mention>Filipina</Mention>
+    </Entity>
+    <Entity ClusterId="18">
+        <Mention>Singapura</Mention>
+    </Entity>
+    <Entity ClusterId="19">
+        <Mention>Malaysia</Mention>
+    </Entity>
+    <Entity ClusterId="20">
+        <Mention>PT KAI</Mention>
+    </Entity>
+    <Entity ClusterId="21">
+        <Mention>Balikpapan</Mention>
+    </Entity>
+    <Entity ClusterId="22">
+        <Mention>Pekanbaru</Mention>
+    </Entity>
+    <Entity ClusterId="23">
+        <Mention>Makassar</Mention>
+    </Entity>
+    <Entity ClusterId="24">
+        <Mention>Pontianak</Mention>
+    </Entity>
+    <Entity ClusterId="25">
+        <Mention>Banjarmasin</Mention>
+    </Entity>
+    <Entity ClusterId="26">
+        <Mention>Palembang</Mention>
+    </Entity>
+    <Entity ClusterId="27">
+        <Mention>Jambi</Mention>
+    </Entity>
+    <Entity ClusterId="28">
+        <Mention>Batam</Mention>
+    </Entity>
+    <Entity ClusterId="29">
+        <Mention>Medan</Mention>
+    </Entity>
+    <Entity ClusterId="30">
+        <Mention>Padang</Mention>
+    </Entity>
+    <Entity ClusterId="31">
+        <Mention>Bali</Mention>
+    </Entity>
+    <Entity ClusterId="32">
+        <Mention>Surabaya</Mention>
+    </Entity>
+    <Entity ClusterId="33">
+        <Mention>Semarang</Mention>
+    </Entity>
+    <Entity ClusterId="34">
+        <Mention>Solo</Mention>
+    </Entity>
+    <Entity ClusterId="35">
+        <Mention>Jogjakarta</Mention>
+    </Entity>
+</CoreferenceChain>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>Piala AFC</Mention>
+        <Mention>AFC Cup</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>Striker</Mention>
+        <Mention>Penyerang</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>Semen Padang</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>Yangon</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>Liberia</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>Singapore</Mention>
+        <Mention>Singapura</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>Indonesia</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>Kitchee FC</Mention>
+    </Entity>
+    <Entity ClusterId="9">
+        <Mention>Hongkong</Mention>
+    </Entity>
+    <Entity ClusterId="10">
+        <Mention>pemain bertahan</Mention>
+    </Entity>
+    <Entity ClusterId="11">
+        <Mention>India</Mention>
+    </Entity>
+    <Entity ClusterId="12">
+        <Mention>sepak bola</Mention>
+    </Entity>
+    <Entity ClusterId="13">
+        <Mention>Minang</Mention>
+    </Entity>
+    <Entity ClusterId="14">
+        <Mention>Gor</Mention>
+        <Mention>H Agus Salim</Mention>
+    </Entity>
+    <Entity ClusterId="15">
+        <Mention>stadion Jalan Besar</Mention>
+    </Entity>
+</CoreferenceChain>

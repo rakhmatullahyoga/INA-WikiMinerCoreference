@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>Angkasa Pura II</Mention>
+        <Mention>PT Angkasa Pura II</Mention>
+        <Mention>PT Angkasa Pura II (Persero</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>Bintan</Mention>
+        <Mention>Kabupaten Bintan</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>Kota Tanjungpinang</Mention>
+        <Mention>Tanjung Pinang</Mention>
+        <Mention>Tanjungpinang</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>Bandara Raja Haji Fisabilillah</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>Kepulauan Riau</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>ambulan</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>puskesmas</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>posyandu</Mention>
+    </Entity>
+    <Entity ClusterId="9">
+        <Mention>mangrove</Mention>
+    </Entity>
+    <Entity ClusterId="10">
+        <Mention>usaha kecil dan menengah</Mention>
+    </Entity>
+</CoreferenceChain>

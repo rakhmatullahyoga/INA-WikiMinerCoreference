@@ -1,0 +1,2081 @@
+mentions;isStrMatch;isMatchNoCasePunc;isAbbrev;isFirstPronoun;isScndPronoun;isOnOneSentence;isMatchPartial;firstNameClass;scndNameClass
+"[(Ribery)-(perpanjang kontrak)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Ribery)-(Bayern Pemain sayap asal Prancis)]";false;true;false;false;false;true;false;PERSON;PERSON
+"[(Ribery)-(Franck Ribery,)]";false;false;false;false;false;true;true;PERSON;PERSON
+"[(Ribery)-(kontraknya)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Ribery)-(Bayern Munich)]";false;true;false;false;false;true;false;PERSON;PERSON
+"[(Ribery)-(enam tahun)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Ribery)-(klub finalis Liga Champions)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Ribery)-(Pemain)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Ribery)-(tahun itu)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ribery)-(Bayern)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Ribery)-(Juli 2007)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ribery)-(Marseille)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Ribery)-(51 gol)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ribery)-(74)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ribery)-(assist,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Ribery)-(154 penampilan liga)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ribery)-(klub Bavaria)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ribery)-(penggemar)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ribery)-(Allianz Arena,)]";false;false;false;false;false;false;false;PERSON;LOCATION
+"[(Ribery)-(faktor penentu)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ribery)-(kemenangan Bayern)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ribery)-(gelar juara Bundesliga ke-23)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ribery)-(Dia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Ribery)-(Jerman)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Ribery)-(Kicker,)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Ribery)-(kebersamaannya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ribery)-(Munich)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Ribery)-("Saya)]";false;false;false;false;true;false;false;PERSON;OTHER
+"[(Ribery)-(kontrak baru,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Ribery)-(AFP,)]";false;false;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Ribery)-(final Liga Champions)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ribery)-(kalinya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ribery)-(bayern)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ribery)-(25 Mei)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ribery)-(Wembley)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Ribery)-(Ribery tengah)]";false;true;false;false;false;false;true;PERSON;PERSON
+"[(Ribery)-(kondisi)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ribery)-(musim kali ini)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ribery)-(sayap kiri,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Ribery)-(delapan gol)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ribery)-(ia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Ribery)-(kemenangan Bayern 3-0)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ribery)-(Barcelona)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Ribery)-(leg)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ribery)-(semifinal Liga Champions)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ribery)-(Umpannya)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Ribery)-(depan gawang Barcelona)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ribery)-(Gerard Pique)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Ribery)-(gol)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ribery)-(diri kegawangnya sendiri)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ribery)-(gol kedua)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ribery)-(ia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Ribery)-(umpan silang)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ribery)-(Thomas Mueller)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Ribery)-(umpan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ribery)-(gol ketiga)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ribery)-(kemenangan agregat)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ribery)-(7-0 Bayern)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Ribery)-(semifinal)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ribery)-(Pekan lalu,)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Ribery)-(direktur olahraga Bayern Matthias Sammer)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ribery)-(ia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Ribery)-(Ribery)]";true;true;false;false;false;false;true;PERSON;PERSON
+"[(Ribery)-(kontrak baru)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(perpanjang kontrak)-(Bayern Pemain sayap asal Prancis)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(perpanjang kontrak)-(Franck Ribery,)]";false;false;false;false;false;true;false;OTHER;PERSON
+"[(perpanjang kontrak)-(kontraknya)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(perpanjang kontrak)-(Bayern Munich)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(perpanjang kontrak)-(enam tahun)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(perpanjang kontrak)-(klub finalis Liga Champions)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(perpanjang kontrak)-(Pemain)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(perpanjang kontrak)-(tahun itu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(perpanjang kontrak)-(Bayern)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(perpanjang kontrak)-(Juli 2007)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(perpanjang kontrak)-(Marseille)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(perpanjang kontrak)-(51 gol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(perpanjang kontrak)-(74)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(perpanjang kontrak)-(assist,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(perpanjang kontrak)-(154 penampilan liga)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(perpanjang kontrak)-(klub Bavaria)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(perpanjang kontrak)-(penggemar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(perpanjang kontrak)-(Allianz Arena,)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(perpanjang kontrak)-(faktor penentu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(perpanjang kontrak)-(kemenangan Bayern)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(perpanjang kontrak)-(gelar juara Bundesliga ke-23)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(perpanjang kontrak)-(Dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(perpanjang kontrak)-(Jerman)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(perpanjang kontrak)-(Kicker,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(perpanjang kontrak)-(kebersamaannya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(perpanjang kontrak)-(Munich)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(perpanjang kontrak)-("Saya)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(perpanjang kontrak)-(kontrak baru,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(perpanjang kontrak)-(AFP,)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(perpanjang kontrak)-(final Liga Champions)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(perpanjang kontrak)-(kalinya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(perpanjang kontrak)-(bayern)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(perpanjang kontrak)-(25 Mei)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(perpanjang kontrak)-(Wembley)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(perpanjang kontrak)-(Ribery tengah)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(perpanjang kontrak)-(kondisi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(perpanjang kontrak)-(musim kali ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(perpanjang kontrak)-(sayap kiri,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(perpanjang kontrak)-(delapan gol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(perpanjang kontrak)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(perpanjang kontrak)-(kemenangan Bayern 3-0)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(perpanjang kontrak)-(Barcelona)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(perpanjang kontrak)-(leg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(perpanjang kontrak)-(semifinal Liga Champions)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(perpanjang kontrak)-(Umpannya)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(perpanjang kontrak)-(depan gawang Barcelona)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(perpanjang kontrak)-(Gerard Pique)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(perpanjang kontrak)-(gol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(perpanjang kontrak)-(diri kegawangnya sendiri)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(perpanjang kontrak)-(gol kedua)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(perpanjang kontrak)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(perpanjang kontrak)-(umpan silang)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(perpanjang kontrak)-(Thomas Mueller)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(perpanjang kontrak)-(umpan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(perpanjang kontrak)-(gol ketiga)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(perpanjang kontrak)-(kemenangan agregat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(perpanjang kontrak)-(7-0 Bayern)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(perpanjang kontrak)-(semifinal)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(perpanjang kontrak)-(Pekan lalu,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(perpanjang kontrak)-(direktur olahraga Bayern Matthias Sammer)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(perpanjang kontrak)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(perpanjang kontrak)-(Ribery)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(perpanjang kontrak)-(kontrak baru)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Bayern Pemain sayap asal Prancis)-(Franck Ribery,)]";false;false;false;false;false;true;false;PERSON;PERSON
+"[(Bayern Pemain sayap asal Prancis)-(kontraknya)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Bayern Pemain sayap asal Prancis)-(Bayern Munich)]";false;true;false;false;false;true;false;PERSON;PERSON
+"[(Bayern Pemain sayap asal Prancis)-(enam tahun)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Bayern Pemain sayap asal Prancis)-(klub finalis Liga Champions)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Bayern Pemain sayap asal Prancis)-(Pemain)]";false;true;false;false;false;false;true;PERSON;PERSON
+"[(Bayern Pemain sayap asal Prancis)-(tahun itu)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bayern Pemain sayap asal Prancis)-(Bayern)]";false;true;false;false;false;false;true;PERSON;PERSON
+"[(Bayern Pemain sayap asal Prancis)-(Juli 2007)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bayern Pemain sayap asal Prancis)-(Marseille)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Bayern Pemain sayap asal Prancis)-(51 gol)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bayern Pemain sayap asal Prancis)-(74)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bayern Pemain sayap asal Prancis)-(assist,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Bayern Pemain sayap asal Prancis)-(154 penampilan liga)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bayern Pemain sayap asal Prancis)-(klub Bavaria)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bayern Pemain sayap asal Prancis)-(penggemar)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bayern Pemain sayap asal Prancis)-(Allianz Arena,)]";false;false;false;false;false;false;false;PERSON;LOCATION
+"[(Bayern Pemain sayap asal Prancis)-(faktor penentu)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bayern Pemain sayap asal Prancis)-(kemenangan Bayern)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bayern Pemain sayap asal Prancis)-(gelar juara Bundesliga ke-23)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bayern Pemain sayap asal Prancis)-(Dia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Bayern Pemain sayap asal Prancis)-(Jerman)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Bayern Pemain sayap asal Prancis)-(Kicker,)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Bayern Pemain sayap asal Prancis)-(kebersamaannya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bayern Pemain sayap asal Prancis)-(Munich)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Bayern Pemain sayap asal Prancis)-("Saya)]";false;false;false;false;true;false;false;PERSON;OTHER
+"[(Bayern Pemain sayap asal Prancis)-(kontrak baru,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Bayern Pemain sayap asal Prancis)-(AFP,)]";false;false;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Bayern Pemain sayap asal Prancis)-(final Liga Champions)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bayern Pemain sayap asal Prancis)-(kalinya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bayern Pemain sayap asal Prancis)-(bayern)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bayern Pemain sayap asal Prancis)-(25 Mei)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bayern Pemain sayap asal Prancis)-(Wembley)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Bayern Pemain sayap asal Prancis)-(Ribery tengah)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Bayern Pemain sayap asal Prancis)-(kondisi)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bayern Pemain sayap asal Prancis)-(musim kali ini)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bayern Pemain sayap asal Prancis)-(sayap kiri,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Bayern Pemain sayap asal Prancis)-(delapan gol)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bayern Pemain sayap asal Prancis)-(ia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Bayern Pemain sayap asal Prancis)-(kemenangan Bayern 3-0)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bayern Pemain sayap asal Prancis)-(Barcelona)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Bayern Pemain sayap asal Prancis)-(leg)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bayern Pemain sayap asal Prancis)-(semifinal Liga Champions)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bayern Pemain sayap asal Prancis)-(Umpannya)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Bayern Pemain sayap asal Prancis)-(depan gawang Barcelona)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bayern Pemain sayap asal Prancis)-(Gerard Pique)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Bayern Pemain sayap asal Prancis)-(gol)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bayern Pemain sayap asal Prancis)-(diri kegawangnya sendiri)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bayern Pemain sayap asal Prancis)-(gol kedua)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bayern Pemain sayap asal Prancis)-(ia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Bayern Pemain sayap asal Prancis)-(umpan silang)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bayern Pemain sayap asal Prancis)-(Thomas Mueller)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Bayern Pemain sayap asal Prancis)-(umpan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bayern Pemain sayap asal Prancis)-(gol ketiga)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bayern Pemain sayap asal Prancis)-(kemenangan agregat)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bayern Pemain sayap asal Prancis)-(7-0 Bayern)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Bayern Pemain sayap asal Prancis)-(semifinal)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bayern Pemain sayap asal Prancis)-(Pekan lalu,)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Bayern Pemain sayap asal Prancis)-(direktur olahraga Bayern Matthias Sammer)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bayern Pemain sayap asal Prancis)-(ia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Bayern Pemain sayap asal Prancis)-(Ribery)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Bayern Pemain sayap asal Prancis)-(kontrak baru)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Franck Ribery,)-(kontraknya)]";false;false;false;false;false;true;false;PERSON;OTHER
+"[(Franck Ribery,)-(Bayern Munich)]";false;false;false;false;false;true;false;PERSON;PERSON
+"[(Franck Ribery,)-(enam tahun)]";false;false;false;false;false;true;false;PERSON;OTHER
+"[(Franck Ribery,)-(klub finalis Liga Champions)]";false;false;false;false;false;true;false;PERSON;OTHER
+"[(Franck Ribery,)-(Pemain)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Franck Ribery,)-(tahun itu)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Franck Ribery,)-(Bayern)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Franck Ribery,)-(Juli 2007)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Franck Ribery,)-(Marseille)]";false;false;false;false;false;false;false;PERSON;LOCATION
+"[(Franck Ribery,)-(51 gol)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Franck Ribery,)-(74)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Franck Ribery,)-(assist,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Franck Ribery,)-(154 penampilan liga)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Franck Ribery,)-(klub Bavaria)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Franck Ribery,)-(penggemar)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Franck Ribery,)-(Allianz Arena,)]";false;false;false;false;false;false;false;PERSON;LOCATION
+"[(Franck Ribery,)-(faktor penentu)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Franck Ribery,)-(kemenangan Bayern)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Franck Ribery,)-(gelar juara Bundesliga ke-23)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Franck Ribery,)-(Dia)]";false;false;false;false;true;false;false;PERSON;OTHER
+"[(Franck Ribery,)-(Jerman)]";false;false;false;false;false;false;false;PERSON;LOCATION
+"[(Franck Ribery,)-(Kicker,)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Franck Ribery,)-(kebersamaannya)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Franck Ribery,)-(Munich)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Franck Ribery,)-("Saya)]";false;false;false;false;true;false;false;PERSON;OTHER
+"[(Franck Ribery,)-(kontrak baru,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Franck Ribery,)-(AFP,)]";false;false;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Franck Ribery,)-(final Liga Champions)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Franck Ribery,)-(kalinya)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Franck Ribery,)-(bayern)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Franck Ribery,)-(25 Mei)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Franck Ribery,)-(Wembley)]";false;false;false;false;false;false;false;PERSON;LOCATION
+"[(Franck Ribery,)-(Ribery tengah)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Franck Ribery,)-(kondisi)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Franck Ribery,)-(musim kali ini)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Franck Ribery,)-(sayap kiri,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Franck Ribery,)-(delapan gol)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Franck Ribery,)-(ia)]";false;false;false;false;true;false;false;PERSON;OTHER
+"[(Franck Ribery,)-(kemenangan Bayern 3-0)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Franck Ribery,)-(Barcelona)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Franck Ribery,)-(leg)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Franck Ribery,)-(semifinal Liga Champions)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Franck Ribery,)-(Umpannya)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Franck Ribery,)-(depan gawang Barcelona)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Franck Ribery,)-(Gerard Pique)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Franck Ribery,)-(gol)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Franck Ribery,)-(diri kegawangnya sendiri)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Franck Ribery,)-(gol kedua)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Franck Ribery,)-(ia)]";false;false;false;false;true;false;false;PERSON;OTHER
+"[(Franck Ribery,)-(umpan silang)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Franck Ribery,)-(Thomas Mueller)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Franck Ribery,)-(umpan)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Franck Ribery,)-(gol ketiga)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Franck Ribery,)-(kemenangan agregat)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Franck Ribery,)-(7-0 Bayern)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Franck Ribery,)-(semifinal)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Franck Ribery,)-(Pekan lalu,)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Franck Ribery,)-(direktur olahraga Bayern Matthias Sammer)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Franck Ribery,)-(ia)]";false;false;false;false;true;false;false;PERSON;OTHER
+"[(Franck Ribery,)-(Ribery)]";false;false;false;false;false;false;true;PERSON;PERSON
+"[(Franck Ribery,)-(kontrak baru)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(kontraknya)-(Bayern Munich)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(kontraknya)-(enam tahun)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(kontraknya)-(klub finalis Liga Champions)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(kontraknya)-(Pemain)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kontraknya)-(tahun itu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kontraknya)-(Bayern)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kontraknya)-(Juli 2007)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kontraknya)-(Marseille)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(kontraknya)-(51 gol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kontraknya)-(74)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kontraknya)-(assist,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(kontraknya)-(154 penampilan liga)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kontraknya)-(klub Bavaria)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kontraknya)-(penggemar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kontraknya)-(Allianz Arena,)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(kontraknya)-(faktor penentu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kontraknya)-(kemenangan Bayern)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kontraknya)-(gelar juara Bundesliga ke-23)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kontraknya)-(Dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(kontraknya)-(Jerman)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(kontraknya)-(Kicker,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(kontraknya)-(kebersamaannya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kontraknya)-(Munich)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kontraknya)-("Saya)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(kontraknya)-(kontrak baru,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(kontraknya)-(AFP,)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(kontraknya)-(final Liga Champions)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kontraknya)-(kalinya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kontraknya)-(bayern)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kontraknya)-(25 Mei)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kontraknya)-(Wembley)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(kontraknya)-(Ribery tengah)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kontraknya)-(kondisi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kontraknya)-(musim kali ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kontraknya)-(sayap kiri,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(kontraknya)-(delapan gol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kontraknya)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(kontraknya)-(kemenangan Bayern 3-0)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kontraknya)-(Barcelona)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kontraknya)-(leg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kontraknya)-(semifinal Liga Champions)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kontraknya)-(Umpannya)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kontraknya)-(depan gawang Barcelona)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kontraknya)-(Gerard Pique)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kontraknya)-(gol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kontraknya)-(diri kegawangnya sendiri)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kontraknya)-(gol kedua)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kontraknya)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(kontraknya)-(umpan silang)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kontraknya)-(Thomas Mueller)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kontraknya)-(umpan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kontraknya)-(gol ketiga)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kontraknya)-(kemenangan agregat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kontraknya)-(7-0 Bayern)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kontraknya)-(semifinal)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kontraknya)-(Pekan lalu,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(kontraknya)-(direktur olahraga Bayern Matthias Sammer)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kontraknya)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(kontraknya)-(Ribery)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kontraknya)-(kontrak baru)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Bayern Munich)-(enam tahun)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Bayern Munich)-(klub finalis Liga Champions)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Bayern Munich)-(Pemain)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Bayern Munich)-(tahun itu)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bayern Munich)-(Bayern)]";false;true;false;false;false;false;true;PERSON;PERSON
+"[(Bayern Munich)-(Juli 2007)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bayern Munich)-(Marseille)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Bayern Munich)-(51 gol)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bayern Munich)-(74)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bayern Munich)-(assist,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Bayern Munich)-(154 penampilan liga)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bayern Munich)-(klub Bavaria)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bayern Munich)-(penggemar)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bayern Munich)-(Allianz Arena,)]";false;false;false;false;false;false;false;PERSON;LOCATION
+"[(Bayern Munich)-(faktor penentu)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bayern Munich)-(kemenangan Bayern)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bayern Munich)-(gelar juara Bundesliga ke-23)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bayern Munich)-(Dia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Bayern Munich)-(Jerman)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Bayern Munich)-(Kicker,)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Bayern Munich)-(kebersamaannya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bayern Munich)-(Munich)]";false;true;false;false;false;false;true;PERSON;PERSON
+"[(Bayern Munich)-("Saya)]";false;false;false;false;true;false;false;PERSON;OTHER
+"[(Bayern Munich)-(kontrak baru,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Bayern Munich)-(AFP,)]";false;false;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Bayern Munich)-(final Liga Champions)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bayern Munich)-(kalinya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bayern Munich)-(bayern)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bayern Munich)-(25 Mei)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bayern Munich)-(Wembley)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Bayern Munich)-(Ribery tengah)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Bayern Munich)-(kondisi)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bayern Munich)-(musim kali ini)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bayern Munich)-(sayap kiri,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Bayern Munich)-(delapan gol)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bayern Munich)-(ia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Bayern Munich)-(kemenangan Bayern 3-0)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bayern Munich)-(Barcelona)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Bayern Munich)-(leg)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bayern Munich)-(semifinal Liga Champions)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bayern Munich)-(Umpannya)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Bayern Munich)-(depan gawang Barcelona)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bayern Munich)-(Gerard Pique)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Bayern Munich)-(gol)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bayern Munich)-(diri kegawangnya sendiri)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bayern Munich)-(gol kedua)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bayern Munich)-(ia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Bayern Munich)-(umpan silang)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bayern Munich)-(Thomas Mueller)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Bayern Munich)-(umpan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bayern Munich)-(gol ketiga)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bayern Munich)-(kemenangan agregat)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bayern Munich)-(7-0 Bayern)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Bayern Munich)-(semifinal)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bayern Munich)-(Pekan lalu,)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Bayern Munich)-(direktur olahraga Bayern Matthias Sammer)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bayern Munich)-(ia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Bayern Munich)-(Ribery)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Bayern Munich)-(kontrak baru)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(enam tahun)-(klub finalis Liga Champions)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(enam tahun)-(Pemain)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(enam tahun)-(tahun itu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(enam tahun)-(Bayern)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(enam tahun)-(Juli 2007)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(enam tahun)-(Marseille)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(enam tahun)-(51 gol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(enam tahun)-(74)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(enam tahun)-(assist,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(enam tahun)-(154 penampilan liga)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(enam tahun)-(klub Bavaria)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(enam tahun)-(penggemar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(enam tahun)-(Allianz Arena,)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(enam tahun)-(faktor penentu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(enam tahun)-(kemenangan Bayern)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(enam tahun)-(gelar juara Bundesliga ke-23)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(enam tahun)-(Dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(enam tahun)-(Jerman)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(enam tahun)-(Kicker,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(enam tahun)-(kebersamaannya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(enam tahun)-(Munich)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(enam tahun)-("Saya)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(enam tahun)-(kontrak baru,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(enam tahun)-(AFP,)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(enam tahun)-(final Liga Champions)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(enam tahun)-(kalinya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(enam tahun)-(bayern)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(enam tahun)-(25 Mei)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(enam tahun)-(Wembley)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(enam tahun)-(Ribery tengah)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(enam tahun)-(kondisi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(enam tahun)-(musim kali ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(enam tahun)-(sayap kiri,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(enam tahun)-(delapan gol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(enam tahun)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(enam tahun)-(kemenangan Bayern 3-0)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(enam tahun)-(Barcelona)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(enam tahun)-(leg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(enam tahun)-(semifinal Liga Champions)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(enam tahun)-(Umpannya)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(enam tahun)-(depan gawang Barcelona)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(enam tahun)-(Gerard Pique)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(enam tahun)-(gol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(enam tahun)-(diri kegawangnya sendiri)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(enam tahun)-(gol kedua)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(enam tahun)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(enam tahun)-(umpan silang)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(enam tahun)-(Thomas Mueller)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(enam tahun)-(umpan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(enam tahun)-(gol ketiga)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(enam tahun)-(kemenangan agregat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(enam tahun)-(7-0 Bayern)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(enam tahun)-(semifinal)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(enam tahun)-(Pekan lalu,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(enam tahun)-(direktur olahraga Bayern Matthias Sammer)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(enam tahun)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(enam tahun)-(Ribery)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(enam tahun)-(kontrak baru)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(klub finalis Liga Champions)-(Pemain)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(klub finalis Liga Champions)-(tahun itu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(klub finalis Liga Champions)-(Bayern)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(klub finalis Liga Champions)-(Juli 2007)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(klub finalis Liga Champions)-(Marseille)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(klub finalis Liga Champions)-(51 gol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(klub finalis Liga Champions)-(74)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(klub finalis Liga Champions)-(assist,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(klub finalis Liga Champions)-(154 penampilan liga)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(klub finalis Liga Champions)-(klub Bavaria)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(klub finalis Liga Champions)-(penggemar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(klub finalis Liga Champions)-(Allianz Arena,)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(klub finalis Liga Champions)-(faktor penentu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(klub finalis Liga Champions)-(kemenangan Bayern)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(klub finalis Liga Champions)-(gelar juara Bundesliga ke-23)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(klub finalis Liga Champions)-(Dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(klub finalis Liga Champions)-(Jerman)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(klub finalis Liga Champions)-(Kicker,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(klub finalis Liga Champions)-(kebersamaannya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(klub finalis Liga Champions)-(Munich)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(klub finalis Liga Champions)-("Saya)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(klub finalis Liga Champions)-(kontrak baru,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(klub finalis Liga Champions)-(AFP,)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(klub finalis Liga Champions)-(final Liga Champions)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(klub finalis Liga Champions)-(kalinya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(klub finalis Liga Champions)-(bayern)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(klub finalis Liga Champions)-(25 Mei)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(klub finalis Liga Champions)-(Wembley)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(klub finalis Liga Champions)-(Ribery tengah)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(klub finalis Liga Champions)-(kondisi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(klub finalis Liga Champions)-(musim kali ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(klub finalis Liga Champions)-(sayap kiri,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(klub finalis Liga Champions)-(delapan gol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(klub finalis Liga Champions)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(klub finalis Liga Champions)-(kemenangan Bayern 3-0)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(klub finalis Liga Champions)-(Barcelona)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(klub finalis Liga Champions)-(leg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(klub finalis Liga Champions)-(semifinal Liga Champions)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(klub finalis Liga Champions)-(Umpannya)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(klub finalis Liga Champions)-(depan gawang Barcelona)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(klub finalis Liga Champions)-(Gerard Pique)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(klub finalis Liga Champions)-(gol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(klub finalis Liga Champions)-(diri kegawangnya sendiri)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(klub finalis Liga Champions)-(gol kedua)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(klub finalis Liga Champions)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(klub finalis Liga Champions)-(umpan silang)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(klub finalis Liga Champions)-(Thomas Mueller)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(klub finalis Liga Champions)-(umpan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(klub finalis Liga Champions)-(gol ketiga)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(klub finalis Liga Champions)-(kemenangan agregat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(klub finalis Liga Champions)-(7-0 Bayern)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(klub finalis Liga Champions)-(semifinal)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(klub finalis Liga Champions)-(Pekan lalu,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(klub finalis Liga Champions)-(direktur olahraga Bayern Matthias Sammer)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(klub finalis Liga Champions)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(klub finalis Liga Champions)-(Ribery)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(klub finalis Liga Champions)-(kontrak baru)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Pemain)-(tahun itu)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Pemain)-(Bayern)]";false;true;false;false;false;true;false;PERSON;PERSON
+"[(Pemain)-(Juli 2007)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Pemain)-(Marseille)]";false;true;false;false;false;true;false;PERSON;LOCATION
+"[(Pemain)-(51 gol)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Pemain)-(74)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Pemain)-(assist,)]";false;false;false;false;false;true;false;PERSON;OTHER
+"[(Pemain)-(154 penampilan liga)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Pemain)-(klub Bavaria)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Pemain)-(penggemar)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Pemain)-(Allianz Arena,)]";false;false;false;false;false;true;false;PERSON;LOCATION
+"[(Pemain)-(faktor penentu)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Pemain)-(kemenangan Bayern)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Pemain)-(gelar juara Bundesliga ke-23)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Pemain)-(Dia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Pemain)-(Jerman)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Pemain)-(Kicker,)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Pemain)-(kebersamaannya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pemain)-(Munich)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Pemain)-("Saya)]";false;false;false;false;true;false;false;PERSON;OTHER
+"[(Pemain)-(kontrak baru,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Pemain)-(AFP,)]";false;false;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Pemain)-(final Liga Champions)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pemain)-(kalinya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pemain)-(bayern)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pemain)-(25 Mei)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pemain)-(Wembley)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Pemain)-(Ribery tengah)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Pemain)-(kondisi)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pemain)-(musim kali ini)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pemain)-(sayap kiri,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Pemain)-(delapan gol)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pemain)-(ia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Pemain)-(kemenangan Bayern 3-0)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pemain)-(Barcelona)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Pemain)-(leg)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pemain)-(semifinal Liga Champions)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pemain)-(Umpannya)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Pemain)-(depan gawang Barcelona)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pemain)-(Gerard Pique)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Pemain)-(gol)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pemain)-(diri kegawangnya sendiri)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pemain)-(gol kedua)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pemain)-(ia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Pemain)-(umpan silang)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pemain)-(Thomas Mueller)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Pemain)-(umpan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pemain)-(gol ketiga)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pemain)-(kemenangan agregat)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pemain)-(7-0 Bayern)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Pemain)-(semifinal)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pemain)-(Pekan lalu,)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Pemain)-(direktur olahraga Bayern Matthias Sammer)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pemain)-(ia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Pemain)-(Ribery)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Pemain)-(kontrak baru)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(tahun itu)-(Bayern)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(tahun itu)-(Juli 2007)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(tahun itu)-(Marseille)]";false;true;false;false;false;true;false;OTHER;LOCATION
+"[(tahun itu)-(51 gol)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(tahun itu)-(74)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(tahun itu)-(assist,)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(tahun itu)-(154 penampilan liga)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(tahun itu)-(klub Bavaria)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(tahun itu)-(penggemar)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(tahun itu)-(Allianz Arena,)]";false;false;false;false;false;true;false;OTHER;LOCATION
+"[(tahun itu)-(faktor penentu)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(tahun itu)-(kemenangan Bayern)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(tahun itu)-(gelar juara Bundesliga ke-23)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(tahun itu)-(Dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(tahun itu)-(Jerman)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(tahun itu)-(Kicker,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(tahun itu)-(kebersamaannya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tahun itu)-(Munich)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(tahun itu)-("Saya)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(tahun itu)-(kontrak baru,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(tahun itu)-(AFP,)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(tahun itu)-(final Liga Champions)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tahun itu)-(kalinya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tahun itu)-(bayern)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tahun itu)-(25 Mei)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tahun itu)-(Wembley)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(tahun itu)-(Ribery tengah)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(tahun itu)-(kondisi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tahun itu)-(musim kali ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tahun itu)-(sayap kiri,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(tahun itu)-(delapan gol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tahun itu)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(tahun itu)-(kemenangan Bayern 3-0)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tahun itu)-(Barcelona)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(tahun itu)-(leg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tahun itu)-(semifinal Liga Champions)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tahun itu)-(Umpannya)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(tahun itu)-(depan gawang Barcelona)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tahun itu)-(Gerard Pique)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(tahun itu)-(gol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tahun itu)-(diri kegawangnya sendiri)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tahun itu)-(gol kedua)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tahun itu)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(tahun itu)-(umpan silang)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tahun itu)-(Thomas Mueller)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(tahun itu)-(umpan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tahun itu)-(gol ketiga)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tahun itu)-(kemenangan agregat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tahun itu)-(7-0 Bayern)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(tahun itu)-(semifinal)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tahun itu)-(Pekan lalu,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(tahun itu)-(direktur olahraga Bayern Matthias Sammer)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tahun itu)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(tahun itu)-(Ribery)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(tahun itu)-(kontrak baru)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Bayern)-(Juli 2007)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Bayern)-(Marseille)]";false;true;false;false;false;true;false;PERSON;LOCATION
+"[(Bayern)-(51 gol)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Bayern)-(74)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Bayern)-(assist,)]";false;false;false;false;false;true;false;PERSON;OTHER
+"[(Bayern)-(154 penampilan liga)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Bayern)-(klub Bavaria)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Bayern)-(penggemar)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Bayern)-(Allianz Arena,)]";false;false;false;false;false;true;false;PERSON;LOCATION
+"[(Bayern)-(faktor penentu)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Bayern)-(kemenangan Bayern)]";false;true;false;false;false;true;true;PERSON;OTHER
+"[(Bayern)-(gelar juara Bundesliga ke-23)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Bayern)-(Dia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Bayern)-(Jerman)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Bayern)-(Kicker,)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Bayern)-(kebersamaannya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bayern)-(Munich)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Bayern)-("Saya)]";false;false;false;false;true;false;false;PERSON;OTHER
+"[(Bayern)-(kontrak baru,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Bayern)-(AFP,)]";false;false;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Bayern)-(final Liga Champions)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bayern)-(kalinya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bayern)-(bayern)]";true;true;false;false;false;false;false;PERSON;OTHER
+"[(Bayern)-(25 Mei)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bayern)-(Wembley)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Bayern)-(Ribery tengah)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Bayern)-(kondisi)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bayern)-(musim kali ini)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bayern)-(sayap kiri,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Bayern)-(delapan gol)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bayern)-(ia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Bayern)-(kemenangan Bayern 3-0)]";false;true;false;false;false;false;true;PERSON;OTHER
+"[(Bayern)-(Barcelona)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Bayern)-(leg)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bayern)-(semifinal Liga Champions)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bayern)-(Umpannya)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Bayern)-(depan gawang Barcelona)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bayern)-(Gerard Pique)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Bayern)-(gol)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bayern)-(diri kegawangnya sendiri)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bayern)-(gol kedua)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bayern)-(ia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Bayern)-(umpan silang)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bayern)-(Thomas Mueller)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Bayern)-(umpan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bayern)-(gol ketiga)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bayern)-(kemenangan agregat)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bayern)-(7-0 Bayern)]";false;true;false;false;false;false;true;PERSON;PERSON
+"[(Bayern)-(semifinal)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bayern)-(Pekan lalu,)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Bayern)-(direktur olahraga Bayern Matthias Sammer)]";false;true;false;false;false;false;true;PERSON;OTHER
+"[(Bayern)-(ia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Bayern)-(Ribery)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Bayern)-(kontrak baru)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Juli 2007)-(Marseille)]";false;true;false;false;false;true;false;OTHER;LOCATION
+"[(Juli 2007)-(51 gol)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(Juli 2007)-(74)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(Juli 2007)-(assist,)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(Juli 2007)-(154 penampilan liga)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(Juli 2007)-(klub Bavaria)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(Juli 2007)-(penggemar)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(Juli 2007)-(Allianz Arena,)]";false;false;false;false;false;true;false;OTHER;LOCATION
+"[(Juli 2007)-(faktor penentu)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(Juli 2007)-(kemenangan Bayern)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(Juli 2007)-(gelar juara Bundesliga ke-23)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(Juli 2007)-(Dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(Juli 2007)-(Jerman)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(Juli 2007)-(Kicker,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(Juli 2007)-(kebersamaannya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Juli 2007)-(Munich)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(Juli 2007)-("Saya)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(Juli 2007)-(kontrak baru,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Juli 2007)-(AFP,)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(Juli 2007)-(final Liga Champions)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Juli 2007)-(kalinya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Juli 2007)-(bayern)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Juli 2007)-(25 Mei)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Juli 2007)-(Wembley)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(Juli 2007)-(Ribery tengah)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(Juli 2007)-(kondisi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Juli 2007)-(musim kali ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Juli 2007)-(sayap kiri,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Juli 2007)-(delapan gol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Juli 2007)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(Juli 2007)-(kemenangan Bayern 3-0)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Juli 2007)-(Barcelona)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(Juli 2007)-(leg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Juli 2007)-(semifinal Liga Champions)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Juli 2007)-(Umpannya)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(Juli 2007)-(depan gawang Barcelona)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Juli 2007)-(Gerard Pique)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(Juli 2007)-(gol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Juli 2007)-(diri kegawangnya sendiri)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Juli 2007)-(gol kedua)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Juli 2007)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(Juli 2007)-(umpan silang)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Juli 2007)-(Thomas Mueller)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(Juli 2007)-(umpan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Juli 2007)-(gol ketiga)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Juli 2007)-(kemenangan agregat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Juli 2007)-(7-0 Bayern)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(Juli 2007)-(semifinal)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Juli 2007)-(Pekan lalu,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(Juli 2007)-(direktur olahraga Bayern Matthias Sammer)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Juli 2007)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(Juli 2007)-(Ribery)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(Juli 2007)-(kontrak baru)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Marseille)-(51 gol)]";false;true;false;false;false;true;false;LOCATION;OTHER
+"[(Marseille)-(74)]";false;true;false;false;false;true;false;LOCATION;OTHER
+"[(Marseille)-(assist,)]";false;false;false;false;false;true;false;LOCATION;OTHER
+"[(Marseille)-(154 penampilan liga)]";false;true;false;false;false;true;false;LOCATION;OTHER
+"[(Marseille)-(klub Bavaria)]";false;true;false;false;false;true;false;LOCATION;OTHER
+"[(Marseille)-(penggemar)]";false;true;false;false;false;true;false;LOCATION;OTHER
+"[(Marseille)-(Allianz Arena,)]";false;false;false;false;false;true;false;LOCATION;LOCATION
+"[(Marseille)-(faktor penentu)]";false;true;false;false;false;true;false;LOCATION;OTHER
+"[(Marseille)-(kemenangan Bayern)]";false;true;false;false;false;true;false;LOCATION;OTHER
+"[(Marseille)-(gelar juara Bundesliga ke-23)]";false;true;false;false;false;true;false;LOCATION;OTHER
+"[(Marseille)-(Dia)]";false;true;false;false;true;false;false;LOCATION;OTHER
+"[(Marseille)-(Jerman)]";false;true;false;false;false;false;false;LOCATION;LOCATION
+"[(Marseille)-(Kicker,)]";false;false;false;false;false;false;false;LOCATION;PERSON
+"[(Marseille)-(kebersamaannya)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Marseille)-(Munich)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Marseille)-("Saya)]";false;false;false;false;true;false;false;LOCATION;OTHER
+"[(Marseille)-(kontrak baru,)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Marseille)-(AFP,)]";false;false;false;false;false;false;false;LOCATION;ORGANIZATION
+"[(Marseille)-(final Liga Champions)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Marseille)-(kalinya)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Marseille)-(bayern)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Marseille)-(25 Mei)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Marseille)-(Wembley)]";false;true;false;false;false;false;false;LOCATION;LOCATION
+"[(Marseille)-(Ribery tengah)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Marseille)-(kondisi)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Marseille)-(musim kali ini)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Marseille)-(sayap kiri,)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Marseille)-(delapan gol)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Marseille)-(ia)]";false;true;false;false;true;false;false;LOCATION;OTHER
+"[(Marseille)-(kemenangan Bayern 3-0)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Marseille)-(Barcelona)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Marseille)-(leg)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Marseille)-(semifinal Liga Champions)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Marseille)-(Umpannya)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Marseille)-(depan gawang Barcelona)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Marseille)-(Gerard Pique)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Marseille)-(gol)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Marseille)-(diri kegawangnya sendiri)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Marseille)-(gol kedua)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Marseille)-(ia)]";false;true;false;false;true;false;false;LOCATION;OTHER
+"[(Marseille)-(umpan silang)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Marseille)-(Thomas Mueller)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Marseille)-(umpan)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Marseille)-(gol ketiga)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Marseille)-(kemenangan agregat)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Marseille)-(7-0 Bayern)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Marseille)-(semifinal)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Marseille)-(Pekan lalu,)]";false;false;false;false;false;false;false;LOCATION;PERSON
+"[(Marseille)-(direktur olahraga Bayern Matthias Sammer)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Marseille)-(ia)]";false;true;false;false;true;false;false;LOCATION;OTHER
+"[(Marseille)-(Ribery)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Marseille)-(kontrak baru)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(51 gol)-(74)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(51 gol)-(assist,)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(51 gol)-(154 penampilan liga)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(51 gol)-(klub Bavaria)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(51 gol)-(penggemar)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(51 gol)-(Allianz Arena,)]";false;false;false;false;false;true;false;OTHER;LOCATION
+"[(51 gol)-(faktor penentu)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(51 gol)-(kemenangan Bayern)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(51 gol)-(gelar juara Bundesliga ke-23)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(51 gol)-(Dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(51 gol)-(Jerman)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(51 gol)-(Kicker,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(51 gol)-(kebersamaannya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(51 gol)-(Munich)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(51 gol)-("Saya)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(51 gol)-(kontrak baru,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(51 gol)-(AFP,)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(51 gol)-(final Liga Champions)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(51 gol)-(kalinya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(51 gol)-(bayern)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(51 gol)-(25 Mei)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(51 gol)-(Wembley)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(51 gol)-(Ribery tengah)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(51 gol)-(kondisi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(51 gol)-(musim kali ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(51 gol)-(sayap kiri,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(51 gol)-(delapan gol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(51 gol)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(51 gol)-(kemenangan Bayern 3-0)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(51 gol)-(Barcelona)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(51 gol)-(leg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(51 gol)-(semifinal Liga Champions)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(51 gol)-(Umpannya)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(51 gol)-(depan gawang Barcelona)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(51 gol)-(Gerard Pique)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(51 gol)-(gol)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(51 gol)-(diri kegawangnya sendiri)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(51 gol)-(gol kedua)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(51 gol)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(51 gol)-(umpan silang)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(51 gol)-(Thomas Mueller)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(51 gol)-(umpan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(51 gol)-(gol ketiga)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(51 gol)-(kemenangan agregat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(51 gol)-(7-0 Bayern)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(51 gol)-(semifinal)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(51 gol)-(Pekan lalu,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(51 gol)-(direktur olahraga Bayern Matthias Sammer)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(51 gol)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(51 gol)-(Ribery)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(51 gol)-(kontrak baru)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(74)-(assist,)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(74)-(154 penampilan liga)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(74)-(klub Bavaria)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(74)-(penggemar)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(74)-(Allianz Arena,)]";false;false;false;false;false;true;false;OTHER;LOCATION
+"[(74)-(faktor penentu)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(74)-(kemenangan Bayern)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(74)-(gelar juara Bundesliga ke-23)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(74)-(Dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(74)-(Jerman)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(74)-(Kicker,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(74)-(kebersamaannya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(74)-(Munich)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(74)-("Saya)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(74)-(kontrak baru,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(74)-(AFP,)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(74)-(final Liga Champions)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(74)-(kalinya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(74)-(bayern)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(74)-(25 Mei)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(74)-(Wembley)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(74)-(Ribery tengah)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(74)-(kondisi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(74)-(musim kali ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(74)-(sayap kiri,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(74)-(delapan gol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(74)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(74)-(kemenangan Bayern 3-0)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(74)-(Barcelona)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(74)-(leg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(74)-(semifinal Liga Champions)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(74)-(Umpannya)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(74)-(depan gawang Barcelona)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(74)-(Gerard Pique)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(74)-(gol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(74)-(diri kegawangnya sendiri)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(74)-(gol kedua)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(74)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(74)-(umpan silang)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(74)-(Thomas Mueller)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(74)-(umpan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(74)-(gol ketiga)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(74)-(kemenangan agregat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(74)-(7-0 Bayern)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(74)-(semifinal)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(74)-(Pekan lalu,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(74)-(direktur olahraga Bayern Matthias Sammer)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(74)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(74)-(Ribery)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(74)-(kontrak baru)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(assist,)-(154 penampilan liga)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(assist,)-(klub Bavaria)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(assist,)-(penggemar)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(assist,)-(Allianz Arena,)]";false;false;false;false;false;true;false;OTHER;LOCATION
+"[(assist,)-(faktor penentu)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(assist,)-(kemenangan Bayern)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(assist,)-(gelar juara Bundesliga ke-23)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(assist,)-(Dia)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(assist,)-(Jerman)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(assist,)-(Kicker,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(assist,)-(kebersamaannya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(assist,)-(Munich)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(assist,)-("Saya)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(assist,)-(kontrak baru,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(assist,)-(AFP,)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(assist,)-(final Liga Champions)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(assist,)-(kalinya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(assist,)-(bayern)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(assist,)-(25 Mei)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(assist,)-(Wembley)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(assist,)-(Ribery tengah)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(assist,)-(kondisi)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(assist,)-(musim kali ini)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(assist,)-(sayap kiri,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(assist,)-(delapan gol)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(assist,)-(ia)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(assist,)-(kemenangan Bayern 3-0)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(assist,)-(Barcelona)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(assist,)-(leg)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(assist,)-(semifinal Liga Champions)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(assist,)-(Umpannya)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(assist,)-(depan gawang Barcelona)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(assist,)-(Gerard Pique)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(assist,)-(gol)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(assist,)-(diri kegawangnya sendiri)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(assist,)-(gol kedua)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(assist,)-(ia)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(assist,)-(umpan silang)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(assist,)-(Thomas Mueller)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(assist,)-(umpan)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(assist,)-(gol ketiga)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(assist,)-(kemenangan agregat)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(assist,)-(7-0 Bayern)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(assist,)-(semifinal)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(assist,)-(Pekan lalu,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(assist,)-(direktur olahraga Bayern Matthias Sammer)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(assist,)-(ia)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(assist,)-(Ribery)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(assist,)-(kontrak baru)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(154 penampilan liga)-(klub Bavaria)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(154 penampilan liga)-(penggemar)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(154 penampilan liga)-(Allianz Arena,)]";false;false;false;false;false;true;false;OTHER;LOCATION
+"[(154 penampilan liga)-(faktor penentu)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(154 penampilan liga)-(kemenangan Bayern)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(154 penampilan liga)-(gelar juara Bundesliga ke-23)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(154 penampilan liga)-(Dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(154 penampilan liga)-(Jerman)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(154 penampilan liga)-(Kicker,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(154 penampilan liga)-(kebersamaannya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(154 penampilan liga)-(Munich)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(154 penampilan liga)-("Saya)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(154 penampilan liga)-(kontrak baru,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(154 penampilan liga)-(AFP,)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(154 penampilan liga)-(final Liga Champions)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(154 penampilan liga)-(kalinya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(154 penampilan liga)-(bayern)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(154 penampilan liga)-(25 Mei)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(154 penampilan liga)-(Wembley)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(154 penampilan liga)-(Ribery tengah)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(154 penampilan liga)-(kondisi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(154 penampilan liga)-(musim kali ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(154 penampilan liga)-(sayap kiri,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(154 penampilan liga)-(delapan gol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(154 penampilan liga)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(154 penampilan liga)-(kemenangan Bayern 3-0)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(154 penampilan liga)-(Barcelona)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(154 penampilan liga)-(leg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(154 penampilan liga)-(semifinal Liga Champions)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(154 penampilan liga)-(Umpannya)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(154 penampilan liga)-(depan gawang Barcelona)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(154 penampilan liga)-(Gerard Pique)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(154 penampilan liga)-(gol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(154 penampilan liga)-(diri kegawangnya sendiri)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(154 penampilan liga)-(gol kedua)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(154 penampilan liga)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(154 penampilan liga)-(umpan silang)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(154 penampilan liga)-(Thomas Mueller)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(154 penampilan liga)-(umpan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(154 penampilan liga)-(gol ketiga)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(154 penampilan liga)-(kemenangan agregat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(154 penampilan liga)-(7-0 Bayern)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(154 penampilan liga)-(semifinal)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(154 penampilan liga)-(Pekan lalu,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(154 penampilan liga)-(direktur olahraga Bayern Matthias Sammer)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(154 penampilan liga)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(154 penampilan liga)-(Ribery)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(154 penampilan liga)-(kontrak baru)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(klub Bavaria)-(penggemar)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(klub Bavaria)-(Allianz Arena,)]";false;false;false;false;false;true;false;OTHER;LOCATION
+"[(klub Bavaria)-(faktor penentu)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(klub Bavaria)-(kemenangan Bayern)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(klub Bavaria)-(gelar juara Bundesliga ke-23)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(klub Bavaria)-(Dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(klub Bavaria)-(Jerman)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(klub Bavaria)-(Kicker,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(klub Bavaria)-(kebersamaannya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(klub Bavaria)-(Munich)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(klub Bavaria)-("Saya)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(klub Bavaria)-(kontrak baru,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(klub Bavaria)-(AFP,)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(klub Bavaria)-(final Liga Champions)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(klub Bavaria)-(kalinya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(klub Bavaria)-(bayern)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(klub Bavaria)-(25 Mei)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(klub Bavaria)-(Wembley)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(klub Bavaria)-(Ribery tengah)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(klub Bavaria)-(kondisi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(klub Bavaria)-(musim kali ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(klub Bavaria)-(sayap kiri,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(klub Bavaria)-(delapan gol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(klub Bavaria)-(ia)]";false;true;false;false;true;false;true;OTHER;OTHER
+"[(klub Bavaria)-(kemenangan Bayern 3-0)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(klub Bavaria)-(Barcelona)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(klub Bavaria)-(leg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(klub Bavaria)-(semifinal Liga Champions)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(klub Bavaria)-(Umpannya)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(klub Bavaria)-(depan gawang Barcelona)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(klub Bavaria)-(Gerard Pique)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(klub Bavaria)-(gol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(klub Bavaria)-(diri kegawangnya sendiri)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(klub Bavaria)-(gol kedua)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(klub Bavaria)-(ia)]";false;true;false;false;true;false;true;OTHER;OTHER
+"[(klub Bavaria)-(umpan silang)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(klub Bavaria)-(Thomas Mueller)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(klub Bavaria)-(umpan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(klub Bavaria)-(gol ketiga)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(klub Bavaria)-(kemenangan agregat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(klub Bavaria)-(7-0 Bayern)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(klub Bavaria)-(semifinal)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(klub Bavaria)-(Pekan lalu,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(klub Bavaria)-(direktur olahraga Bayern Matthias Sammer)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(klub Bavaria)-(ia)]";false;true;false;false;true;false;true;OTHER;OTHER
+"[(klub Bavaria)-(Ribery)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(klub Bavaria)-(kontrak baru)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(penggemar)-(Allianz Arena,)]";false;false;false;false;false;true;false;OTHER;LOCATION
+"[(penggemar)-(faktor penentu)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(penggemar)-(kemenangan Bayern)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(penggemar)-(gelar juara Bundesliga ke-23)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(penggemar)-(Dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(penggemar)-(Jerman)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(penggemar)-(Kicker,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(penggemar)-(kebersamaannya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(penggemar)-(Munich)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(penggemar)-("Saya)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(penggemar)-(kontrak baru,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(penggemar)-(AFP,)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(penggemar)-(final Liga Champions)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(penggemar)-(kalinya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(penggemar)-(bayern)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(penggemar)-(25 Mei)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(penggemar)-(Wembley)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(penggemar)-(Ribery tengah)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(penggemar)-(kondisi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(penggemar)-(musim kali ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(penggemar)-(sayap kiri,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(penggemar)-(delapan gol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(penggemar)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(penggemar)-(kemenangan Bayern 3-0)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(penggemar)-(Barcelona)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(penggemar)-(leg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(penggemar)-(semifinal Liga Champions)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(penggemar)-(Umpannya)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(penggemar)-(depan gawang Barcelona)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(penggemar)-(Gerard Pique)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(penggemar)-(gol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(penggemar)-(diri kegawangnya sendiri)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(penggemar)-(gol kedua)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(penggemar)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(penggemar)-(umpan silang)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(penggemar)-(Thomas Mueller)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(penggemar)-(umpan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(penggemar)-(gol ketiga)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(penggemar)-(kemenangan agregat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(penggemar)-(7-0 Bayern)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(penggemar)-(semifinal)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(penggemar)-(Pekan lalu,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(penggemar)-(direktur olahraga Bayern Matthias Sammer)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(penggemar)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(penggemar)-(Ribery)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(penggemar)-(kontrak baru)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Allianz Arena,)-(faktor penentu)]";false;false;false;false;false;true;false;LOCATION;OTHER
+"[(Allianz Arena,)-(kemenangan Bayern)]";false;false;false;false;false;true;false;LOCATION;OTHER
+"[(Allianz Arena,)-(gelar juara Bundesliga ke-23)]";false;false;false;false;false;true;false;LOCATION;OTHER
+"[(Allianz Arena,)-(Dia)]";false;false;false;false;true;false;false;LOCATION;OTHER
+"[(Allianz Arena,)-(Jerman)]";false;false;false;false;false;false;false;LOCATION;LOCATION
+"[(Allianz Arena,)-(Kicker,)]";false;false;false;false;false;false;false;LOCATION;PERSON
+"[(Allianz Arena,)-(kebersamaannya)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Allianz Arena,)-(Munich)]";false;false;false;false;false;false;false;LOCATION;PERSON
+"[(Allianz Arena,)-("Saya)]";false;false;false;false;true;false;false;LOCATION;OTHER
+"[(Allianz Arena,)-(kontrak baru,)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Allianz Arena,)-(AFP,)]";false;false;false;false;false;false;false;LOCATION;ORGANIZATION
+"[(Allianz Arena,)-(final Liga Champions)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Allianz Arena,)-(kalinya)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Allianz Arena,)-(bayern)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Allianz Arena,)-(25 Mei)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Allianz Arena,)-(Wembley)]";false;false;false;false;false;false;false;LOCATION;LOCATION
+"[(Allianz Arena,)-(Ribery tengah)]";false;false;false;false;false;false;false;LOCATION;PERSON
+"[(Allianz Arena,)-(kondisi)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Allianz Arena,)-(musim kali ini)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Allianz Arena,)-(sayap kiri,)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Allianz Arena,)-(delapan gol)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Allianz Arena,)-(ia)]";false;false;false;false;true;false;true;LOCATION;OTHER
+"[(Allianz Arena,)-(kemenangan Bayern 3-0)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Allianz Arena,)-(Barcelona)]";false;false;false;false;false;false;false;LOCATION;PERSON
+"[(Allianz Arena,)-(leg)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Allianz Arena,)-(semifinal Liga Champions)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Allianz Arena,)-(Umpannya)]";false;false;false;false;false;false;false;LOCATION;PERSON
+"[(Allianz Arena,)-(depan gawang Barcelona)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Allianz Arena,)-(Gerard Pique)]";false;false;false;false;false;false;false;LOCATION;PERSON
+"[(Allianz Arena,)-(gol)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Allianz Arena,)-(diri kegawangnya sendiri)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Allianz Arena,)-(gol kedua)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Allianz Arena,)-(ia)]";false;false;false;false;true;false;true;LOCATION;OTHER
+"[(Allianz Arena,)-(umpan silang)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Allianz Arena,)-(Thomas Mueller)]";false;false;false;false;false;false;false;LOCATION;PERSON
+"[(Allianz Arena,)-(umpan)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Allianz Arena,)-(gol ketiga)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Allianz Arena,)-(kemenangan agregat)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Allianz Arena,)-(7-0 Bayern)]";false;false;false;false;false;false;false;LOCATION;PERSON
+"[(Allianz Arena,)-(semifinal)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Allianz Arena,)-(Pekan lalu,)]";false;false;false;false;false;false;false;LOCATION;PERSON
+"[(Allianz Arena,)-(direktur olahraga Bayern Matthias Sammer)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Allianz Arena,)-(ia)]";false;false;false;false;true;false;true;LOCATION;OTHER
+"[(Allianz Arena,)-(Ribery)]";false;false;false;false;false;false;false;LOCATION;PERSON
+"[(Allianz Arena,)-(kontrak baru)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(faktor penentu)-(kemenangan Bayern)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(faktor penentu)-(gelar juara Bundesliga ke-23)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(faktor penentu)-(Dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(faktor penentu)-(Jerman)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(faktor penentu)-(Kicker,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(faktor penentu)-(kebersamaannya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(faktor penentu)-(Munich)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(faktor penentu)-("Saya)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(faktor penentu)-(kontrak baru,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(faktor penentu)-(AFP,)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(faktor penentu)-(final Liga Champions)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(faktor penentu)-(kalinya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(faktor penentu)-(bayern)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(faktor penentu)-(25 Mei)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(faktor penentu)-(Wembley)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(faktor penentu)-(Ribery tengah)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(faktor penentu)-(kondisi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(faktor penentu)-(musim kali ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(faktor penentu)-(sayap kiri,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(faktor penentu)-(delapan gol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(faktor penentu)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(faktor penentu)-(kemenangan Bayern 3-0)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(faktor penentu)-(Barcelona)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(faktor penentu)-(leg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(faktor penentu)-(semifinal Liga Champions)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(faktor penentu)-(Umpannya)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(faktor penentu)-(depan gawang Barcelona)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(faktor penentu)-(Gerard Pique)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(faktor penentu)-(gol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(faktor penentu)-(diri kegawangnya sendiri)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(faktor penentu)-(gol kedua)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(faktor penentu)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(faktor penentu)-(umpan silang)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(faktor penentu)-(Thomas Mueller)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(faktor penentu)-(umpan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(faktor penentu)-(gol ketiga)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(faktor penentu)-(kemenangan agregat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(faktor penentu)-(7-0 Bayern)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(faktor penentu)-(semifinal)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(faktor penentu)-(Pekan lalu,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(faktor penentu)-(direktur olahraga Bayern Matthias Sammer)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(faktor penentu)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(faktor penentu)-(Ribery)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(faktor penentu)-(kontrak baru)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kemenangan Bayern)-(gelar juara Bundesliga ke-23)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(kemenangan Bayern)-(Dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(kemenangan Bayern)-(Jerman)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(kemenangan Bayern)-(Kicker,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(kemenangan Bayern)-(kebersamaannya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kemenangan Bayern)-(Munich)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kemenangan Bayern)-("Saya)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(kemenangan Bayern)-(kontrak baru,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(kemenangan Bayern)-(AFP,)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(kemenangan Bayern)-(final Liga Champions)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kemenangan Bayern)-(kalinya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kemenangan Bayern)-(bayern)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kemenangan Bayern)-(25 Mei)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kemenangan Bayern)-(Wembley)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(kemenangan Bayern)-(Ribery tengah)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kemenangan Bayern)-(kondisi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kemenangan Bayern)-(musim kali ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kemenangan Bayern)-(sayap kiri,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(kemenangan Bayern)-(delapan gol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kemenangan Bayern)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(kemenangan Bayern)-(kemenangan Bayern 3-0)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(kemenangan Bayern)-(Barcelona)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kemenangan Bayern)-(leg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kemenangan Bayern)-(semifinal Liga Champions)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kemenangan Bayern)-(Umpannya)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kemenangan Bayern)-(depan gawang Barcelona)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kemenangan Bayern)-(Gerard Pique)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kemenangan Bayern)-(gol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kemenangan Bayern)-(diri kegawangnya sendiri)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kemenangan Bayern)-(gol kedua)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kemenangan Bayern)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(kemenangan Bayern)-(umpan silang)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kemenangan Bayern)-(Thomas Mueller)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kemenangan Bayern)-(umpan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kemenangan Bayern)-(gol ketiga)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kemenangan Bayern)-(kemenangan agregat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kemenangan Bayern)-(7-0 Bayern)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kemenangan Bayern)-(semifinal)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kemenangan Bayern)-(Pekan lalu,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(kemenangan Bayern)-(direktur olahraga Bayern Matthias Sammer)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kemenangan Bayern)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(kemenangan Bayern)-(Ribery)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kemenangan Bayern)-(kontrak baru)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(gelar juara Bundesliga ke-23)-(Dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(gelar juara Bundesliga ke-23)-(Jerman)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(gelar juara Bundesliga ke-23)-(Kicker,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(gelar juara Bundesliga ke-23)-(kebersamaannya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(gelar juara Bundesliga ke-23)-(Munich)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(gelar juara Bundesliga ke-23)-("Saya)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(gelar juara Bundesliga ke-23)-(kontrak baru,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(gelar juara Bundesliga ke-23)-(AFP,)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(gelar juara Bundesliga ke-23)-(final Liga Champions)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(gelar juara Bundesliga ke-23)-(kalinya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(gelar juara Bundesliga ke-23)-(bayern)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(gelar juara Bundesliga ke-23)-(25 Mei)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(gelar juara Bundesliga ke-23)-(Wembley)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(gelar juara Bundesliga ke-23)-(Ribery tengah)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(gelar juara Bundesliga ke-23)-(kondisi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(gelar juara Bundesliga ke-23)-(musim kali ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(gelar juara Bundesliga ke-23)-(sayap kiri,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(gelar juara Bundesliga ke-23)-(delapan gol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(gelar juara Bundesliga ke-23)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(gelar juara Bundesliga ke-23)-(kemenangan Bayern 3-0)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(gelar juara Bundesliga ke-23)-(Barcelona)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(gelar juara Bundesliga ke-23)-(leg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(gelar juara Bundesliga ke-23)-(semifinal Liga Champions)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(gelar juara Bundesliga ke-23)-(Umpannya)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(gelar juara Bundesliga ke-23)-(depan gawang Barcelona)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(gelar juara Bundesliga ke-23)-(Gerard Pique)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(gelar juara Bundesliga ke-23)-(gol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(gelar juara Bundesliga ke-23)-(diri kegawangnya sendiri)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(gelar juara Bundesliga ke-23)-(gol kedua)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(gelar juara Bundesliga ke-23)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(gelar juara Bundesliga ke-23)-(umpan silang)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(gelar juara Bundesliga ke-23)-(Thomas Mueller)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(gelar juara Bundesliga ke-23)-(umpan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(gelar juara Bundesliga ke-23)-(gol ketiga)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(gelar juara Bundesliga ke-23)-(kemenangan agregat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(gelar juara Bundesliga ke-23)-(7-0 Bayern)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(gelar juara Bundesliga ke-23)-(semifinal)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(gelar juara Bundesliga ke-23)-(Pekan lalu,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(gelar juara Bundesliga ke-23)-(direktur olahraga Bayern Matthias Sammer)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(gelar juara Bundesliga ke-23)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(gelar juara Bundesliga ke-23)-(Ribery)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(gelar juara Bundesliga ke-23)-(kontrak baru)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Dia)-(Jerman)]";false;true;false;true;false;true;false;OTHER;LOCATION
+"[(Dia)-(Kicker,)]";false;false;false;true;false;true;false;OTHER;PERSON
+"[(Dia)-(kebersamaannya)]";false;true;false;true;false;true;false;OTHER;OTHER
+"[(Dia)-(Munich)]";false;true;false;true;false;true;false;OTHER;PERSON
+"[(Dia)-("Saya)]";false;false;false;true;true;false;false;OTHER;OTHER
+"[(Dia)-(kontrak baru,)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(Dia)-(AFP,)]";false;false;false;true;false;false;false;OTHER;ORGANIZATION
+"[(Dia)-(final Liga Champions)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Dia)-(kalinya)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Dia)-(bayern)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Dia)-(25 Mei)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Dia)-(Wembley)]";false;true;false;true;false;false;false;OTHER;LOCATION
+"[(Dia)-(Ribery tengah)]";false;true;false;true;false;false;false;OTHER;PERSON
+"[(Dia)-(kondisi)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Dia)-(musim kali ini)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Dia)-(sayap kiri,)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(Dia)-(delapan gol)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Dia)-(ia)]";false;true;false;true;true;false;true;OTHER;OTHER
+"[(Dia)-(kemenangan Bayern 3-0)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Dia)-(Barcelona)]";false;true;false;true;false;false;false;OTHER;PERSON
+"[(Dia)-(leg)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Dia)-(semifinal Liga Champions)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Dia)-(Umpannya)]";false;true;false;true;false;false;false;OTHER;PERSON
+"[(Dia)-(depan gawang Barcelona)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Dia)-(Gerard Pique)]";false;true;false;true;false;false;false;OTHER;PERSON
+"[(Dia)-(gol)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Dia)-(diri kegawangnya sendiri)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Dia)-(gol kedua)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Dia)-(ia)]";false;true;false;true;true;false;true;OTHER;OTHER
+"[(Dia)-(umpan silang)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Dia)-(Thomas Mueller)]";false;true;false;true;false;false;false;OTHER;PERSON
+"[(Dia)-(umpan)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Dia)-(gol ketiga)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Dia)-(kemenangan agregat)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Dia)-(7-0 Bayern)]";false;true;false;true;false;false;false;OTHER;PERSON
+"[(Dia)-(semifinal)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Dia)-(Pekan lalu,)]";false;false;false;true;false;false;false;OTHER;PERSON
+"[(Dia)-(direktur olahraga Bayern Matthias Sammer)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Dia)-(ia)]";false;true;false;true;true;false;true;OTHER;OTHER
+"[(Dia)-(Ribery)]";false;true;false;true;false;false;false;OTHER;PERSON
+"[(Dia)-(kontrak baru)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Jerman)-(Kicker,)]";false;false;false;false;false;true;false;LOCATION;PERSON
+"[(Jerman)-(kebersamaannya)]";false;true;false;false;false;true;false;LOCATION;OTHER
+"[(Jerman)-(Munich)]";false;true;false;false;false;true;false;LOCATION;PERSON
+"[(Jerman)-("Saya)]";false;false;false;false;true;false;false;LOCATION;OTHER
+"[(Jerman)-(kontrak baru,)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Jerman)-(AFP,)]";false;false;false;false;false;false;false;LOCATION;ORGANIZATION
+"[(Jerman)-(final Liga Champions)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jerman)-(kalinya)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jerman)-(bayern)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jerman)-(25 Mei)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jerman)-(Wembley)]";false;true;false;false;false;false;false;LOCATION;LOCATION
+"[(Jerman)-(Ribery tengah)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Jerman)-(kondisi)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jerman)-(musim kali ini)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jerman)-(sayap kiri,)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Jerman)-(delapan gol)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jerman)-(ia)]";false;true;false;false;true;false;false;LOCATION;OTHER
+"[(Jerman)-(kemenangan Bayern 3-0)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jerman)-(Barcelona)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Jerman)-(leg)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jerman)-(semifinal Liga Champions)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jerman)-(Umpannya)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Jerman)-(depan gawang Barcelona)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jerman)-(Gerard Pique)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Jerman)-(gol)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jerman)-(diri kegawangnya sendiri)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jerman)-(gol kedua)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jerman)-(ia)]";false;true;false;false;true;false;false;LOCATION;OTHER
+"[(Jerman)-(umpan silang)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jerman)-(Thomas Mueller)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Jerman)-(umpan)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jerman)-(gol ketiga)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jerman)-(kemenangan agregat)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jerman)-(7-0 Bayern)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Jerman)-(semifinal)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jerman)-(Pekan lalu,)]";false;false;false;false;false;false;false;LOCATION;PERSON
+"[(Jerman)-(direktur olahraga Bayern Matthias Sammer)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jerman)-(ia)]";false;true;false;false;true;false;false;LOCATION;OTHER
+"[(Jerman)-(Ribery)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Jerman)-(kontrak baru)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Kicker,)-(kebersamaannya)]";false;false;false;false;false;true;false;PERSON;OTHER
+"[(Kicker,)-(Munich)]";false;false;false;false;false;true;false;PERSON;PERSON
+"[(Kicker,)-("Saya)]";false;false;false;false;true;false;false;PERSON;OTHER
+"[(Kicker,)-(kontrak baru,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Kicker,)-(AFP,)]";false;false;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Kicker,)-(final Liga Champions)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Kicker,)-(kalinya)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Kicker,)-(bayern)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Kicker,)-(25 Mei)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Kicker,)-(Wembley)]";false;false;false;false;false;false;false;PERSON;LOCATION
+"[(Kicker,)-(Ribery tengah)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Kicker,)-(kondisi)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Kicker,)-(musim kali ini)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Kicker,)-(sayap kiri,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Kicker,)-(delapan gol)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Kicker,)-(ia)]";false;false;false;false;true;false;false;PERSON;OTHER
+"[(Kicker,)-(kemenangan Bayern 3-0)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Kicker,)-(Barcelona)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Kicker,)-(leg)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Kicker,)-(semifinal Liga Champions)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Kicker,)-(Umpannya)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Kicker,)-(depan gawang Barcelona)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Kicker,)-(Gerard Pique)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Kicker,)-(gol)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Kicker,)-(diri kegawangnya sendiri)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Kicker,)-(gol kedua)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Kicker,)-(ia)]";false;false;false;false;true;false;false;PERSON;OTHER
+"[(Kicker,)-(umpan silang)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Kicker,)-(Thomas Mueller)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Kicker,)-(umpan)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Kicker,)-(gol ketiga)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Kicker,)-(kemenangan agregat)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Kicker,)-(7-0 Bayern)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Kicker,)-(semifinal)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Kicker,)-(Pekan lalu,)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Kicker,)-(direktur olahraga Bayern Matthias Sammer)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Kicker,)-(ia)]";false;false;false;false;true;false;false;PERSON;OTHER
+"[(Kicker,)-(Ribery)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Kicker,)-(kontrak baru)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(kebersamaannya)-(Munich)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(kebersamaannya)-("Saya)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(kebersamaannya)-(kontrak baru,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(kebersamaannya)-(AFP,)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(kebersamaannya)-(final Liga Champions)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kebersamaannya)-(kalinya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kebersamaannya)-(bayern)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kebersamaannya)-(25 Mei)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kebersamaannya)-(Wembley)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(kebersamaannya)-(Ribery tengah)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kebersamaannya)-(kondisi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kebersamaannya)-(musim kali ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kebersamaannya)-(sayap kiri,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(kebersamaannya)-(delapan gol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kebersamaannya)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(kebersamaannya)-(kemenangan Bayern 3-0)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kebersamaannya)-(Barcelona)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kebersamaannya)-(leg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kebersamaannya)-(semifinal Liga Champions)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kebersamaannya)-(Umpannya)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kebersamaannya)-(depan gawang Barcelona)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kebersamaannya)-(Gerard Pique)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kebersamaannya)-(gol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kebersamaannya)-(diri kegawangnya sendiri)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kebersamaannya)-(gol kedua)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kebersamaannya)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(kebersamaannya)-(umpan silang)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kebersamaannya)-(Thomas Mueller)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kebersamaannya)-(umpan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kebersamaannya)-(gol ketiga)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kebersamaannya)-(kemenangan agregat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kebersamaannya)-(7-0 Bayern)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kebersamaannya)-(semifinal)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kebersamaannya)-(Pekan lalu,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(kebersamaannya)-(direktur olahraga Bayern Matthias Sammer)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kebersamaannya)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(kebersamaannya)-(Ribery)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kebersamaannya)-(kontrak baru)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Munich)-("Saya)]";false;false;false;false;true;false;false;PERSON;OTHER
+"[(Munich)-(kontrak baru,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Munich)-(AFP,)]";false;false;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Munich)-(final Liga Champions)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Munich)-(kalinya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Munich)-(bayern)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Munich)-(25 Mei)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Munich)-(Wembley)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Munich)-(Ribery tengah)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Munich)-(kondisi)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Munich)-(musim kali ini)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Munich)-(sayap kiri,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Munich)-(delapan gol)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Munich)-(ia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Munich)-(kemenangan Bayern 3-0)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Munich)-(Barcelona)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Munich)-(leg)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Munich)-(semifinal Liga Champions)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Munich)-(Umpannya)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Munich)-(depan gawang Barcelona)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Munich)-(Gerard Pique)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Munich)-(gol)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Munich)-(diri kegawangnya sendiri)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Munich)-(gol kedua)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Munich)-(ia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Munich)-(umpan silang)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Munich)-(Thomas Mueller)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Munich)-(umpan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Munich)-(gol ketiga)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Munich)-(kemenangan agregat)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Munich)-(7-0 Bayern)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Munich)-(semifinal)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Munich)-(Pekan lalu,)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Munich)-(direktur olahraga Bayern Matthias Sammer)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Munich)-(ia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Munich)-(Ribery)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Munich)-(kontrak baru)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[("Saya)-(kontrak baru,)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[("Saya)-(AFP,)]";false;false;false;true;false;false;false;OTHER;ORGANIZATION
+"[("Saya)-(final Liga Champions)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[("Saya)-(kalinya)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[("Saya)-(bayern)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[("Saya)-(25 Mei)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[("Saya)-(Wembley)]";false;false;false;true;false;false;false;OTHER;LOCATION
+"[("Saya)-(Ribery tengah)]";false;false;false;true;false;false;false;OTHER;PERSON
+"[("Saya)-(kondisi)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[("Saya)-(musim kali ini)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[("Saya)-(sayap kiri,)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[("Saya)-(delapan gol)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[("Saya)-(ia)]";false;false;false;true;true;false;false;OTHER;OTHER
+"[("Saya)-(kemenangan Bayern 3-0)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[("Saya)-(Barcelona)]";false;false;false;true;false;false;false;OTHER;PERSON
+"[("Saya)-(leg)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[("Saya)-(semifinal Liga Champions)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[("Saya)-(Umpannya)]";false;false;false;true;false;false;false;OTHER;PERSON
+"[("Saya)-(depan gawang Barcelona)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[("Saya)-(Gerard Pique)]";false;false;false;true;false;false;false;OTHER;PERSON
+"[("Saya)-(gol)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[("Saya)-(diri kegawangnya sendiri)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[("Saya)-(gol kedua)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[("Saya)-(ia)]";false;false;false;true;true;false;false;OTHER;OTHER
+"[("Saya)-(umpan silang)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[("Saya)-(Thomas Mueller)]";false;false;false;true;false;false;false;OTHER;PERSON
+"[("Saya)-(umpan)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[("Saya)-(gol ketiga)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[("Saya)-(kemenangan agregat)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[("Saya)-(7-0 Bayern)]";false;false;false;true;false;false;false;OTHER;PERSON
+"[("Saya)-(semifinal)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[("Saya)-(Pekan lalu,)]";false;false;false;true;false;false;false;OTHER;PERSON
+"[("Saya)-(direktur olahraga Bayern Matthias Sammer)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[("Saya)-(ia)]";false;false;false;true;true;false;false;OTHER;OTHER
+"[("Saya)-(Ribery)]";false;false;false;true;false;false;false;OTHER;PERSON
+"[("Saya)-(kontrak baru)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(kontrak baru,)-(AFP,)]";false;false;false;false;false;true;false;OTHER;ORGANIZATION
+"[(kontrak baru,)-(final Liga Champions)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(kontrak baru,)-(kalinya)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(kontrak baru,)-(bayern)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(kontrak baru,)-(25 Mei)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(kontrak baru,)-(Wembley)]";false;false;false;false;false;true;false;OTHER;LOCATION
+"[(kontrak baru,)-(Ribery tengah)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(kontrak baru,)-(kondisi)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(kontrak baru,)-(musim kali ini)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(kontrak baru,)-(sayap kiri,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(kontrak baru,)-(delapan gol)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(kontrak baru,)-(ia)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(kontrak baru,)-(kemenangan Bayern 3-0)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(kontrak baru,)-(Barcelona)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(kontrak baru,)-(leg)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(kontrak baru,)-(semifinal Liga Champions)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(kontrak baru,)-(Umpannya)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(kontrak baru,)-(depan gawang Barcelona)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(kontrak baru,)-(Gerard Pique)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(kontrak baru,)-(gol)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(kontrak baru,)-(diri kegawangnya sendiri)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(kontrak baru,)-(gol kedua)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(kontrak baru,)-(ia)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(kontrak baru,)-(umpan silang)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(kontrak baru,)-(Thomas Mueller)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(kontrak baru,)-(umpan)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(kontrak baru,)-(gol ketiga)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(kontrak baru,)-(kemenangan agregat)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(kontrak baru,)-(7-0 Bayern)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(kontrak baru,)-(semifinal)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(kontrak baru,)-(Pekan lalu,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(kontrak baru,)-(direktur olahraga Bayern Matthias Sammer)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(kontrak baru,)-(ia)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(kontrak baru,)-(Ribery)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(kontrak baru,)-(kontrak baru)]";false;false;false;false;false;false;true;OTHER;OTHER
+"[(AFP,)-(final Liga Champions)]";false;false;false;false;false;true;false;ORGANIZATION;OTHER
+"[(AFP,)-(kalinya)]";false;false;false;false;false;true;false;ORGANIZATION;OTHER
+"[(AFP,)-(bayern)]";false;false;false;false;false;true;false;ORGANIZATION;OTHER
+"[(AFP,)-(25 Mei)]";false;false;false;false;false;true;false;ORGANIZATION;OTHER
+"[(AFP,)-(Wembley)]";false;false;false;false;false;true;false;ORGANIZATION;LOCATION
+"[(AFP,)-(Ribery tengah)]";false;false;false;false;false;false;false;ORGANIZATION;PERSON
+"[(AFP,)-(kondisi)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(AFP,)-(musim kali ini)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(AFP,)-(sayap kiri,)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(AFP,)-(delapan gol)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(AFP,)-(ia)]";false;false;false;false;true;false;false;ORGANIZATION;OTHER
+"[(AFP,)-(kemenangan Bayern 3-0)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(AFP,)-(Barcelona)]";false;false;false;false;false;false;false;ORGANIZATION;PERSON
+"[(AFP,)-(leg)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(AFP,)-(semifinal Liga Champions)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(AFP,)-(Umpannya)]";false;false;false;false;false;false;false;ORGANIZATION;PERSON
+"[(AFP,)-(depan gawang Barcelona)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(AFP,)-(Gerard Pique)]";false;false;false;false;false;false;false;ORGANIZATION;PERSON
+"[(AFP,)-(gol)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(AFP,)-(diri kegawangnya sendiri)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(AFP,)-(gol kedua)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(AFP,)-(ia)]";false;false;false;false;true;false;false;ORGANIZATION;OTHER
+"[(AFP,)-(umpan silang)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(AFP,)-(Thomas Mueller)]";false;false;false;false;false;false;false;ORGANIZATION;PERSON
+"[(AFP,)-(umpan)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(AFP,)-(gol ketiga)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(AFP,)-(kemenangan agregat)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(AFP,)-(7-0 Bayern)]";false;false;false;false;false;false;false;ORGANIZATION;PERSON
+"[(AFP,)-(semifinal)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(AFP,)-(Pekan lalu,)]";false;false;false;false;false;false;false;ORGANIZATION;PERSON
+"[(AFP,)-(direktur olahraga Bayern Matthias Sammer)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(AFP,)-(ia)]";false;false;false;false;true;false;false;ORGANIZATION;OTHER
+"[(AFP,)-(Ribery)]";false;false;false;false;false;false;false;ORGANIZATION;PERSON
+"[(AFP,)-(kontrak baru)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(final Liga Champions)-(kalinya)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(final Liga Champions)-(bayern)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(final Liga Champions)-(25 Mei)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(final Liga Champions)-(Wembley)]";false;true;false;false;false;true;false;OTHER;LOCATION
+"[(final Liga Champions)-(Ribery tengah)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(final Liga Champions)-(kondisi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(final Liga Champions)-(musim kali ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(final Liga Champions)-(sayap kiri,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(final Liga Champions)-(delapan gol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(final Liga Champions)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(final Liga Champions)-(kemenangan Bayern 3-0)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(final Liga Champions)-(Barcelona)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(final Liga Champions)-(leg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(final Liga Champions)-(semifinal Liga Champions)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(final Liga Champions)-(Umpannya)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(final Liga Champions)-(depan gawang Barcelona)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(final Liga Champions)-(Gerard Pique)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(final Liga Champions)-(gol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(final Liga Champions)-(diri kegawangnya sendiri)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(final Liga Champions)-(gol kedua)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(final Liga Champions)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(final Liga Champions)-(umpan silang)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(final Liga Champions)-(Thomas Mueller)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(final Liga Champions)-(umpan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(final Liga Champions)-(gol ketiga)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(final Liga Champions)-(kemenangan agregat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(final Liga Champions)-(7-0 Bayern)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(final Liga Champions)-(semifinal)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(final Liga Champions)-(Pekan lalu,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(final Liga Champions)-(direktur olahraga Bayern Matthias Sammer)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(final Liga Champions)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(final Liga Champions)-(Ribery)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(final Liga Champions)-(kontrak baru)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kalinya)-(bayern)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(kalinya)-(25 Mei)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(kalinya)-(Wembley)]";false;true;false;false;false;true;false;OTHER;LOCATION
+"[(kalinya)-(Ribery tengah)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kalinya)-(kondisi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kalinya)-(musim kali ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kalinya)-(sayap kiri,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(kalinya)-(delapan gol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kalinya)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(kalinya)-(kemenangan Bayern 3-0)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kalinya)-(Barcelona)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kalinya)-(leg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kalinya)-(semifinal Liga Champions)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kalinya)-(Umpannya)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kalinya)-(depan gawang Barcelona)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kalinya)-(Gerard Pique)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kalinya)-(gol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kalinya)-(diri kegawangnya sendiri)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kalinya)-(gol kedua)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kalinya)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(kalinya)-(umpan silang)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kalinya)-(Thomas Mueller)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kalinya)-(umpan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kalinya)-(gol ketiga)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kalinya)-(kemenangan agregat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kalinya)-(7-0 Bayern)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kalinya)-(semifinal)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kalinya)-(Pekan lalu,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(kalinya)-(direktur olahraga Bayern Matthias Sammer)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kalinya)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(kalinya)-(Ribery)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kalinya)-(kontrak baru)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bayern)-(25 Mei)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(bayern)-(Wembley)]";false;true;false;false;false;true;false;OTHER;LOCATION
+"[(bayern)-(Ribery tengah)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(bayern)-(kondisi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bayern)-(musim kali ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bayern)-(sayap kiri,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(bayern)-(delapan gol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bayern)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(bayern)-(kemenangan Bayern 3-0)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bayern)-(Barcelona)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(bayern)-(leg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bayern)-(semifinal Liga Champions)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bayern)-(Umpannya)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(bayern)-(depan gawang Barcelona)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bayern)-(Gerard Pique)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(bayern)-(gol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bayern)-(diri kegawangnya sendiri)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bayern)-(gol kedua)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bayern)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(bayern)-(umpan silang)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bayern)-(Thomas Mueller)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(bayern)-(umpan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bayern)-(gol ketiga)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bayern)-(kemenangan agregat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bayern)-(7-0 Bayern)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(bayern)-(semifinal)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bayern)-(Pekan lalu,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(bayern)-(direktur olahraga Bayern Matthias Sammer)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bayern)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(bayern)-(Ribery)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(bayern)-(kontrak baru)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(25 Mei)-(Wembley)]";false;true;false;false;false;true;false;OTHER;LOCATION
+"[(25 Mei)-(Ribery tengah)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(25 Mei)-(kondisi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(25 Mei)-(musim kali ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(25 Mei)-(sayap kiri,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(25 Mei)-(delapan gol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(25 Mei)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(25 Mei)-(kemenangan Bayern 3-0)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(25 Mei)-(Barcelona)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(25 Mei)-(leg)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(25 Mei)-(semifinal Liga Champions)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(25 Mei)-(Umpannya)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(25 Mei)-(depan gawang Barcelona)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(25 Mei)-(Gerard Pique)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(25 Mei)-(gol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(25 Mei)-(diri kegawangnya sendiri)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(25 Mei)-(gol kedua)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(25 Mei)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(25 Mei)-(umpan silang)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(25 Mei)-(Thomas Mueller)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(25 Mei)-(umpan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(25 Mei)-(gol ketiga)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(25 Mei)-(kemenangan agregat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(25 Mei)-(7-0 Bayern)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(25 Mei)-(semifinal)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(25 Mei)-(Pekan lalu,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(25 Mei)-(direktur olahraga Bayern Matthias Sammer)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(25 Mei)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(25 Mei)-(Ribery)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(25 Mei)-(kontrak baru)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Wembley)-(Ribery tengah)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Wembley)-(kondisi)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Wembley)-(musim kali ini)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Wembley)-(sayap kiri,)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Wembley)-(delapan gol)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Wembley)-(ia)]";false;true;false;false;true;false;false;LOCATION;OTHER
+"[(Wembley)-(kemenangan Bayern 3-0)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Wembley)-(Barcelona)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Wembley)-(leg)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Wembley)-(semifinal Liga Champions)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Wembley)-(Umpannya)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Wembley)-(depan gawang Barcelona)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Wembley)-(Gerard Pique)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Wembley)-(gol)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Wembley)-(diri kegawangnya sendiri)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Wembley)-(gol kedua)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Wembley)-(ia)]";false;true;false;false;true;false;false;LOCATION;OTHER
+"[(Wembley)-(umpan silang)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Wembley)-(Thomas Mueller)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Wembley)-(umpan)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Wembley)-(gol ketiga)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Wembley)-(kemenangan agregat)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Wembley)-(7-0 Bayern)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Wembley)-(semifinal)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Wembley)-(Pekan lalu,)]";false;false;false;false;false;false;false;LOCATION;PERSON
+"[(Wembley)-(direktur olahraga Bayern Matthias Sammer)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Wembley)-(ia)]";false;true;false;false;true;false;false;LOCATION;OTHER
+"[(Wembley)-(Ribery)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Wembley)-(kontrak baru)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Ribery tengah)-(kondisi)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Ribery tengah)-(musim kali ini)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Ribery tengah)-(sayap kiri,)]";false;false;false;false;false;true;false;PERSON;OTHER
+"[(Ribery tengah)-(delapan gol)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Ribery tengah)-(ia)]";false;true;false;false;true;true;false;PERSON;OTHER
+"[(Ribery tengah)-(kemenangan Bayern 3-0)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Ribery tengah)-(Barcelona)]";false;true;false;false;false;true;false;PERSON;PERSON
+"[(Ribery tengah)-(leg)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Ribery tengah)-(semifinal Liga Champions)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Ribery tengah)-(Umpannya)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Ribery tengah)-(depan gawang Barcelona)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ribery tengah)-(Gerard Pique)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Ribery tengah)-(gol)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ribery tengah)-(diri kegawangnya sendiri)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ribery tengah)-(gol kedua)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ribery tengah)-(ia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Ribery tengah)-(umpan silang)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ribery tengah)-(Thomas Mueller)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Ribery tengah)-(umpan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ribery tengah)-(gol ketiga)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ribery tengah)-(kemenangan agregat)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ribery tengah)-(7-0 Bayern)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Ribery tengah)-(semifinal)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ribery tengah)-(Pekan lalu,)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Ribery tengah)-(direktur olahraga Bayern Matthias Sammer)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ribery tengah)-(ia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Ribery tengah)-(Ribery)]";false;true;false;false;false;false;true;PERSON;PERSON
+"[(Ribery tengah)-(kontrak baru)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(kondisi)-(musim kali ini)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(kondisi)-(sayap kiri,)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(kondisi)-(delapan gol)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(kondisi)-(ia)]";false;true;false;false;true;true;false;OTHER;OTHER
+"[(kondisi)-(kemenangan Bayern 3-0)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(kondisi)-(Barcelona)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(kondisi)-(leg)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(kondisi)-(semifinal Liga Champions)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(kondisi)-(Umpannya)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kondisi)-(depan gawang Barcelona)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kondisi)-(Gerard Pique)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kondisi)-(gol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kondisi)-(diri kegawangnya sendiri)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kondisi)-(gol kedua)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kondisi)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(kondisi)-(umpan silang)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kondisi)-(Thomas Mueller)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kondisi)-(umpan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kondisi)-(gol ketiga)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kondisi)-(kemenangan agregat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kondisi)-(7-0 Bayern)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kondisi)-(semifinal)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kondisi)-(Pekan lalu,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(kondisi)-(direktur olahraga Bayern Matthias Sammer)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kondisi)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(kondisi)-(Ribery)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kondisi)-(kontrak baru)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(musim kali ini)-(sayap kiri,)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(musim kali ini)-(delapan gol)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(musim kali ini)-(ia)]";false;true;false;false;true;true;false;OTHER;OTHER
+"[(musim kali ini)-(kemenangan Bayern 3-0)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(musim kali ini)-(Barcelona)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(musim kali ini)-(leg)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(musim kali ini)-(semifinal Liga Champions)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(musim kali ini)-(Umpannya)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(musim kali ini)-(depan gawang Barcelona)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(musim kali ini)-(Gerard Pique)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(musim kali ini)-(gol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(musim kali ini)-(diri kegawangnya sendiri)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(musim kali ini)-(gol kedua)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(musim kali ini)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(musim kali ini)-(umpan silang)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(musim kali ini)-(Thomas Mueller)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(musim kali ini)-(umpan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(musim kali ini)-(gol ketiga)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(musim kali ini)-(kemenangan agregat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(musim kali ini)-(7-0 Bayern)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(musim kali ini)-(semifinal)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(musim kali ini)-(Pekan lalu,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(musim kali ini)-(direktur olahraga Bayern Matthias Sammer)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(musim kali ini)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(musim kali ini)-(Ribery)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(musim kali ini)-(kontrak baru)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sayap kiri,)-(delapan gol)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(sayap kiri,)-(ia)]";false;false;false;false;true;true;false;OTHER;OTHER
+"[(sayap kiri,)-(kemenangan Bayern 3-0)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(sayap kiri,)-(Barcelona)]";false;false;false;false;false;true;false;OTHER;PERSON
+"[(sayap kiri,)-(leg)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(sayap kiri,)-(semifinal Liga Champions)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(sayap kiri,)-(Umpannya)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(sayap kiri,)-(depan gawang Barcelona)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(sayap kiri,)-(Gerard Pique)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(sayap kiri,)-(gol)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(sayap kiri,)-(diri kegawangnya sendiri)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(sayap kiri,)-(gol kedua)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(sayap kiri,)-(ia)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(sayap kiri,)-(umpan silang)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(sayap kiri,)-(Thomas Mueller)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(sayap kiri,)-(umpan)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(sayap kiri,)-(gol ketiga)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(sayap kiri,)-(kemenangan agregat)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(sayap kiri,)-(7-0 Bayern)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(sayap kiri,)-(semifinal)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(sayap kiri,)-(Pekan lalu,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(sayap kiri,)-(direktur olahraga Bayern Matthias Sammer)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(sayap kiri,)-(ia)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(sayap kiri,)-(Ribery)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(sayap kiri,)-(kontrak baru)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(delapan gol)-(ia)]";false;true;false;false;true;true;false;OTHER;OTHER
+"[(delapan gol)-(kemenangan Bayern 3-0)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(delapan gol)-(Barcelona)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(delapan gol)-(leg)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(delapan gol)-(semifinal Liga Champions)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(delapan gol)-(Umpannya)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(delapan gol)-(depan gawang Barcelona)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(delapan gol)-(Gerard Pique)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(delapan gol)-(gol)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(delapan gol)-(diri kegawangnya sendiri)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(delapan gol)-(gol kedua)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(delapan gol)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(delapan gol)-(umpan silang)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(delapan gol)-(Thomas Mueller)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(delapan gol)-(umpan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(delapan gol)-(gol ketiga)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(delapan gol)-(kemenangan agregat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(delapan gol)-(7-0 Bayern)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(delapan gol)-(semifinal)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(delapan gol)-(Pekan lalu,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(delapan gol)-(direktur olahraga Bayern Matthias Sammer)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(delapan gol)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(delapan gol)-(Ribery)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(delapan gol)-(kontrak baru)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(ia)-(kemenangan Bayern 3-0)]";false;true;false;true;false;true;false;OTHER;OTHER
+"[(ia)-(Barcelona)]";false;true;false;true;false;true;false;OTHER;PERSON
+"[(ia)-(leg)]";false;true;false;true;false;true;false;OTHER;OTHER
+"[(ia)-(semifinal Liga Champions)]";false;true;false;true;false;true;false;OTHER;OTHER
+"[(ia)-(Umpannya)]";false;true;false;true;false;false;false;OTHER;PERSON
+"[(ia)-(depan gawang Barcelona)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(ia)-(Gerard Pique)]";false;true;false;true;false;false;false;OTHER;PERSON
+"[(ia)-(gol)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(ia)-(diri kegawangnya sendiri)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(ia)-(gol kedua)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(ia)-(ia)]";true;true;false;true;true;false;true;OTHER;OTHER
+"[(ia)-(umpan silang)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(ia)-(Thomas Mueller)]";false;true;false;true;false;false;false;OTHER;PERSON
+"[(ia)-(umpan)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(ia)-(gol ketiga)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(ia)-(kemenangan agregat)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(ia)-(7-0 Bayern)]";false;true;false;true;false;false;false;OTHER;PERSON
+"[(ia)-(semifinal)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(ia)-(Pekan lalu,)]";false;false;false;true;false;false;false;OTHER;PERSON
+"[(ia)-(direktur olahraga Bayern Matthias Sammer)]";false;true;false;true;false;false;true;OTHER;OTHER
+"[(ia)-(ia)]";true;true;false;true;true;false;true;OTHER;OTHER
+"[(ia)-(Ribery)]";false;true;false;true;false;false;false;OTHER;PERSON
+"[(ia)-(kontrak baru)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(kemenangan Bayern 3-0)-(Barcelona)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(kemenangan Bayern 3-0)-(leg)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(kemenangan Bayern 3-0)-(semifinal Liga Champions)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(kemenangan Bayern 3-0)-(Umpannya)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kemenangan Bayern 3-0)-(depan gawang Barcelona)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kemenangan Bayern 3-0)-(Gerard Pique)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kemenangan Bayern 3-0)-(gol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kemenangan Bayern 3-0)-(diri kegawangnya sendiri)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kemenangan Bayern 3-0)-(gol kedua)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kemenangan Bayern 3-0)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(kemenangan Bayern 3-0)-(umpan silang)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kemenangan Bayern 3-0)-(Thomas Mueller)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kemenangan Bayern 3-0)-(umpan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kemenangan Bayern 3-0)-(gol ketiga)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kemenangan Bayern 3-0)-(kemenangan agregat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kemenangan Bayern 3-0)-(7-0 Bayern)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kemenangan Bayern 3-0)-(semifinal)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kemenangan Bayern 3-0)-(Pekan lalu,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(kemenangan Bayern 3-0)-(direktur olahraga Bayern Matthias Sammer)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kemenangan Bayern 3-0)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(kemenangan Bayern 3-0)-(Ribery)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kemenangan Bayern 3-0)-(kontrak baru)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Barcelona)-(leg)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Barcelona)-(semifinal Liga Champions)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Barcelona)-(Umpannya)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Barcelona)-(depan gawang Barcelona)]";false;true;false;false;false;false;true;PERSON;OTHER
+"[(Barcelona)-(Gerard Pique)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Barcelona)-(gol)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Barcelona)-(diri kegawangnya sendiri)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Barcelona)-(gol kedua)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Barcelona)-(ia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Barcelona)-(umpan silang)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Barcelona)-(Thomas Mueller)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Barcelona)-(umpan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Barcelona)-(gol ketiga)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Barcelona)-(kemenangan agregat)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Barcelona)-(7-0 Bayern)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Barcelona)-(semifinal)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Barcelona)-(Pekan lalu,)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Barcelona)-(direktur olahraga Bayern Matthias Sammer)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Barcelona)-(ia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Barcelona)-(Ribery)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Barcelona)-(kontrak baru)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(leg)-(semifinal Liga Champions)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(leg)-(Umpannya)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(leg)-(depan gawang Barcelona)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(leg)-(Gerard Pique)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(leg)-(gol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(leg)-(diri kegawangnya sendiri)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(leg)-(gol kedua)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(leg)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(leg)-(umpan silang)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(leg)-(Thomas Mueller)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(leg)-(umpan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(leg)-(gol ketiga)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(leg)-(kemenangan agregat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(leg)-(7-0 Bayern)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(leg)-(semifinal)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(leg)-(Pekan lalu,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(leg)-(direktur olahraga Bayern Matthias Sammer)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(leg)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(leg)-(Ribery)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(leg)-(kontrak baru)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(semifinal Liga Champions)-(Umpannya)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(semifinal Liga Champions)-(depan gawang Barcelona)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(semifinal Liga Champions)-(Gerard Pique)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(semifinal Liga Champions)-(gol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(semifinal Liga Champions)-(diri kegawangnya sendiri)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(semifinal Liga Champions)-(gol kedua)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(semifinal Liga Champions)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(semifinal Liga Champions)-(umpan silang)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(semifinal Liga Champions)-(Thomas Mueller)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(semifinal Liga Champions)-(umpan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(semifinal Liga Champions)-(gol ketiga)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(semifinal Liga Champions)-(kemenangan agregat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(semifinal Liga Champions)-(7-0 Bayern)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(semifinal Liga Champions)-(semifinal)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(semifinal Liga Champions)-(Pekan lalu,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(semifinal Liga Champions)-(direktur olahraga Bayern Matthias Sammer)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(semifinal Liga Champions)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(semifinal Liga Champions)-(Ribery)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(semifinal Liga Champions)-(kontrak baru)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Umpannya)-(depan gawang Barcelona)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Umpannya)-(Gerard Pique)]";false;true;false;false;false;true;false;PERSON;PERSON
+"[(Umpannya)-(gol)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Umpannya)-(diri kegawangnya sendiri)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Umpannya)-(gol kedua)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Umpannya)-(ia)]";false;true;false;false;true;true;false;PERSON;OTHER
+"[(Umpannya)-(umpan silang)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Umpannya)-(Thomas Mueller)]";false;true;false;false;false;true;false;PERSON;PERSON
+"[(Umpannya)-(umpan)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Umpannya)-(gol ketiga)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Umpannya)-(kemenangan agregat)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Umpannya)-(7-0 Bayern)]";false;true;false;false;false;true;false;PERSON;PERSON
+"[(Umpannya)-(semifinal)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Umpannya)-(Pekan lalu,)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Umpannya)-(direktur olahraga Bayern Matthias Sammer)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Umpannya)-(ia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Umpannya)-(Ribery)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Umpannya)-(kontrak baru)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(depan gawang Barcelona)-(Gerard Pique)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(depan gawang Barcelona)-(gol)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(depan gawang Barcelona)-(diri kegawangnya sendiri)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(depan gawang Barcelona)-(gol kedua)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(depan gawang Barcelona)-(ia)]";false;true;false;false;true;true;false;OTHER;OTHER
+"[(depan gawang Barcelona)-(umpan silang)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(depan gawang Barcelona)-(Thomas Mueller)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(depan gawang Barcelona)-(umpan)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(depan gawang Barcelona)-(gol ketiga)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(depan gawang Barcelona)-(kemenangan agregat)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(depan gawang Barcelona)-(7-0 Bayern)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(depan gawang Barcelona)-(semifinal)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(depan gawang Barcelona)-(Pekan lalu,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(depan gawang Barcelona)-(direktur olahraga Bayern Matthias Sammer)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(depan gawang Barcelona)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(depan gawang Barcelona)-(Ribery)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(depan gawang Barcelona)-(kontrak baru)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Gerard Pique)-(gol)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Gerard Pique)-(diri kegawangnya sendiri)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Gerard Pique)-(gol kedua)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Gerard Pique)-(ia)]";false;true;false;false;true;true;false;PERSON;OTHER
+"[(Gerard Pique)-(umpan silang)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Gerard Pique)-(Thomas Mueller)]";false;true;false;false;false;true;false;PERSON;PERSON
+"[(Gerard Pique)-(umpan)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Gerard Pique)-(gol ketiga)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Gerard Pique)-(kemenangan agregat)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Gerard Pique)-(7-0 Bayern)]";false;true;false;false;false;true;false;PERSON;PERSON
+"[(Gerard Pique)-(semifinal)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Gerard Pique)-(Pekan lalu,)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Gerard Pique)-(direktur olahraga Bayern Matthias Sammer)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Gerard Pique)-(ia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Gerard Pique)-(Ribery)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Gerard Pique)-(kontrak baru)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(gol)-(diri kegawangnya sendiri)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(gol)-(gol kedua)]";false;true;false;false;false;true;true;OTHER;OTHER
+"[(gol)-(ia)]";false;true;false;false;true;true;false;OTHER;OTHER
+"[(gol)-(umpan silang)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(gol)-(Thomas Mueller)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(gol)-(umpan)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(gol)-(gol ketiga)]";false;true;false;false;false;true;true;OTHER;OTHER
+"[(gol)-(kemenangan agregat)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(gol)-(7-0 Bayern)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(gol)-(semifinal)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(gol)-(Pekan lalu,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(gol)-(direktur olahraga Bayern Matthias Sammer)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(gol)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(gol)-(Ribery)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(gol)-(kontrak baru)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(diri kegawangnya sendiri)-(gol kedua)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(diri kegawangnya sendiri)-(ia)]";false;true;false;false;true;true;false;OTHER;OTHER
+"[(diri kegawangnya sendiri)-(umpan silang)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(diri kegawangnya sendiri)-(Thomas Mueller)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(diri kegawangnya sendiri)-(umpan)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(diri kegawangnya sendiri)-(gol ketiga)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(diri kegawangnya sendiri)-(kemenangan agregat)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(diri kegawangnya sendiri)-(7-0 Bayern)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(diri kegawangnya sendiri)-(semifinal)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(diri kegawangnya sendiri)-(Pekan lalu,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(diri kegawangnya sendiri)-(direktur olahraga Bayern Matthias Sammer)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(diri kegawangnya sendiri)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(diri kegawangnya sendiri)-(Ribery)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(diri kegawangnya sendiri)-(kontrak baru)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(gol kedua)-(ia)]";false;true;false;false;true;true;false;OTHER;OTHER
+"[(gol kedua)-(umpan silang)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(gol kedua)-(Thomas Mueller)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(gol kedua)-(umpan)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(gol kedua)-(gol ketiga)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(gol kedua)-(kemenangan agregat)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(gol kedua)-(7-0 Bayern)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(gol kedua)-(semifinal)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(gol kedua)-(Pekan lalu,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(gol kedua)-(direktur olahraga Bayern Matthias Sammer)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(gol kedua)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(gol kedua)-(Ribery)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(gol kedua)-(kontrak baru)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(ia)-(umpan silang)]";false;true;false;true;false;true;false;OTHER;OTHER
+"[(ia)-(Thomas Mueller)]";false;true;false;true;false;true;false;OTHER;PERSON
+"[(ia)-(umpan)]";false;true;false;true;false;true;false;OTHER;OTHER
+"[(ia)-(gol ketiga)]";false;true;false;true;false;true;false;OTHER;OTHER
+"[(ia)-(kemenangan agregat)]";false;true;false;true;false;true;false;OTHER;OTHER
+"[(ia)-(7-0 Bayern)]";false;true;false;true;false;true;false;OTHER;PERSON
+"[(ia)-(semifinal)]";false;true;false;true;false;true;false;OTHER;OTHER
+"[(ia)-(Pekan lalu,)]";false;false;false;true;false;false;false;OTHER;PERSON
+"[(ia)-(direktur olahraga Bayern Matthias Sammer)]";false;true;false;true;false;false;true;OTHER;OTHER
+"[(ia)-(ia)]";true;true;false;true;true;false;true;OTHER;OTHER
+"[(ia)-(Ribery)]";false;true;false;true;false;false;false;OTHER;PERSON
+"[(ia)-(kontrak baru)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(umpan silang)-(Thomas Mueller)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(umpan silang)-(umpan)]";false;true;false;false;false;true;true;OTHER;OTHER
+"[(umpan silang)-(gol ketiga)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(umpan silang)-(kemenangan agregat)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(umpan silang)-(7-0 Bayern)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(umpan silang)-(semifinal)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(umpan silang)-(Pekan lalu,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(umpan silang)-(direktur olahraga Bayern Matthias Sammer)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(umpan silang)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(umpan silang)-(Ribery)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(umpan silang)-(kontrak baru)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Thomas Mueller)-(umpan)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Thomas Mueller)-(gol ketiga)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Thomas Mueller)-(kemenangan agregat)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Thomas Mueller)-(7-0 Bayern)]";false;true;false;false;false;true;false;PERSON;PERSON
+"[(Thomas Mueller)-(semifinal)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Thomas Mueller)-(Pekan lalu,)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Thomas Mueller)-(direktur olahraga Bayern Matthias Sammer)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Thomas Mueller)-(ia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Thomas Mueller)-(Ribery)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Thomas Mueller)-(kontrak baru)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(umpan)-(gol ketiga)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(umpan)-(kemenangan agregat)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(umpan)-(7-0 Bayern)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(umpan)-(semifinal)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(umpan)-(Pekan lalu,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(umpan)-(direktur olahraga Bayern Matthias Sammer)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(umpan)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(umpan)-(Ribery)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(umpan)-(kontrak baru)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(gol ketiga)-(kemenangan agregat)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(gol ketiga)-(7-0 Bayern)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(gol ketiga)-(semifinal)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(gol ketiga)-(Pekan lalu,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(gol ketiga)-(direktur olahraga Bayern Matthias Sammer)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(gol ketiga)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(gol ketiga)-(Ribery)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(gol ketiga)-(kontrak baru)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kemenangan agregat)-(7-0 Bayern)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(kemenangan agregat)-(semifinal)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(kemenangan agregat)-(Pekan lalu,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(kemenangan agregat)-(direktur olahraga Bayern Matthias Sammer)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kemenangan agregat)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(kemenangan agregat)-(Ribery)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kemenangan agregat)-(kontrak baru)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(7-0 Bayern)-(semifinal)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(7-0 Bayern)-(Pekan lalu,)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(7-0 Bayern)-(direktur olahraga Bayern Matthias Sammer)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(7-0 Bayern)-(ia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(7-0 Bayern)-(Ribery)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(7-0 Bayern)-(kontrak baru)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(semifinal)-(Pekan lalu,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(semifinal)-(direktur olahraga Bayern Matthias Sammer)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(semifinal)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(semifinal)-(Ribery)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(semifinal)-(kontrak baru)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Pekan lalu,)-(direktur olahraga Bayern Matthias Sammer)]";false;false;false;false;false;true;false;PERSON;OTHER
+"[(Pekan lalu,)-(ia)]";false;false;false;false;true;true;false;PERSON;OTHER
+"[(Pekan lalu,)-(Ribery)]";false;false;false;false;false;true;false;PERSON;PERSON
+"[(Pekan lalu,)-(kontrak baru)]";false;false;false;false;false;true;false;PERSON;OTHER
+"[(direktur olahraga Bayern Matthias Sammer)-(ia)]";false;true;false;false;true;true;true;OTHER;OTHER
+"[(direktur olahraga Bayern Matthias Sammer)-(Ribery)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(direktur olahraga Bayern Matthias Sammer)-(kontrak baru)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(ia)-(Ribery)]";false;true;false;true;false;true;false;OTHER;PERSON
+"[(ia)-(kontrak baru)]";false;true;false;true;false;true;false;OTHER;OTHER
+"[(Ribery)-(kontrak baru)]";false;true;false;false;false;true;false;PERSON;OTHER

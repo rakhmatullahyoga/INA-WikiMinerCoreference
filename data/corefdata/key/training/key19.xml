@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>Menlu</Mention>
+        <Mention>menteri luar negeri</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>ASEAN</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>China</Mention>
+        <Mention>Tiongkok</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>Laut China Selatan</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>Menteri Luar Negeri Marty Natalegawa</Mention>
+        <Mention>Marty Natalegawa</Mention>
+        <Mention>Marty</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>wartawan</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>Brunei Darussalam</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>Indonesia</Mention>
+    </Entity>
+    <Entity ClusterId="9">
+        <Mention>Kamboja</Mention>
+    </Entity>
+    <Entity ClusterId="10">
+        <Mention>Vietnam</Mention>
+    </Entity>
+    <Entity ClusterId="11">
+        <Mention>Filipina</Mention>
+    </Entity>
+    <Entity ClusterId="12">
+        <Mention>Malaysia</Mention>
+    </Entity>
+</CoreferenceChain>

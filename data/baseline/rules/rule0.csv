@@ -1,0 +1,1226 @@
+mentions;isStrMatch;isMatchNoCasePunc;isAbbrev;isFirstPronoun;isScndPronoun;isOnOneSentence;isMatchPartial;firstNameClass;scndNameClass
+"[(Survei :Jokowi)-(Capres alternatif Hasil survei Center for)]";false;false;false;false;false;true;false;PERSON;PERSON
+"[(Survei :Jokowi)-(Strategic and International)]";false;false;false;false;false;true;false;PERSON;ORGANIZATION
+"[(Survei :Jokowi)-(Studies)]";false;false;false;false;false;true;false;PERSON;ORGANIZATION
+"[(Survei :Jokowi)-(CSIS)]";false;false;false;false;false;true;false;PERSON;ORGANIZATION
+"[(Survei :Jokowi)-(Gubernur DKI Jakarta Joko Widodo)]";false;false;false;false;false;true;false;PERSON;OTHER
+"[(Survei :Jokowi)-(peringkat pertama)]";false;false;false;false;false;true;false;PERSON;OTHER
+"[(Survei :Jokowi)-(tokoh calon presiden)]";false;false;false;false;false;true;false;PERSON;OTHER
+"[(Survei :Jokowi)-(Capres)]";false;false;false;false;false;true;false;PERSON;PERSON
+"[(Survei :Jokowi)-(alternatif)]";false;false;false;false;false;true;false;PERSON;OTHER
+"[(Survei :Jokowi)-(dasarnya)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Survei :Jokowi)-(hasil)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Survei :Jokowi)-(soal 'fenomena Jokowi')]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Survei :Jokowi)-(semata,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Survei :Jokowi)-(masyarakat Indonesia)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Survei :Jokowi)-(calon pemimpin alternatif,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Survei :Jokowi)-(Jokowi atau calon alternatif)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Survei :Jokowi)-(peneliti CSIS Philip Jurius Vermonte)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Survei :Jokowi)-(Jakarta)]";false;false;false;false;false;false;false;PERSON;LOCATION
+"[(Survei :Jokowi)-(Minggu)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Survei :Jokowi)-(nama tokoh Capres)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Survei :Jokowi)-(1.635 responden)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Survei :Jokowi)-(Jokowi)]";false;false;false;false;false;false;true;PERSON;PERSON
+"[(Survei :Jokowi)-(persen)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Survei :Jokowi)-(persen)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Survei :Jokowi)-(persen)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Survei :Jokowi)-(persen)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Survei :Jokowi)-((3,7 persen)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Survei :Jokowi)-(pengamat politik)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Survei :Jokowi)-(peneliti senior)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Survei :Jokowi)-(CSIS Joseph Kristiadi)]";false;false;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Survei :Jokowi)-(kemunculan Jokowi)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Survei :Jokowi)-(momentum pencarian tokoh Capres)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Survei :Jokowi)-(alternatif,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Survei :Jokowi)-(opini)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Survei :Jokowi)-(mantan Walikota Solo)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Survei :Jokowi)-(Gubernur DKI Jakarta)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Survei :Jokowi)-(separuh responden)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Survei :Jokowi)-(53,9)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Survei :Jokowi)-(persen)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Survei :Jokowi)-(Jokowi)]";false;false;false;false;false;false;true;PERSON;PERSON
+"[(Survei :Jokowi)-(kandidat Capres)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Survei :Jokowi)-(Gubernur)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Survei :Jokowi)-("Kesulitan Jokowi)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Survei :Jokowi)-(dukungan partai)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Survei :Jokowi)-(tingkat elektabilitasnya)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Survei :Jokowi)-(persen pasti)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Survei :Jokowi)-(dia)]";false;false;false;false;true;false;false;PERSON;OTHER
+"[(Survei :Jokowi)-(partai-partai,")]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Survei :Jokowi)-(Kristiadi)]";false;false;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Capres alternatif Hasil survei Center for)-(Strategic and International)]";false;true;false;false;false;true;false;PERSON;ORGANIZATION
+"[(Capres alternatif Hasil survei Center for)-(Studies)]";false;true;false;false;false;true;false;PERSON;ORGANIZATION
+"[(Capres alternatif Hasil survei Center for)-(CSIS)]";false;true;false;false;false;true;false;PERSON;ORGANIZATION
+"[(Capres alternatif Hasil survei Center for)-(Gubernur DKI Jakarta Joko Widodo)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Capres alternatif Hasil survei Center for)-(peringkat pertama)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Capres alternatif Hasil survei Center for)-(tokoh calon presiden)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Capres alternatif Hasil survei Center for)-(Capres)]";false;true;false;false;false;true;true;PERSON;PERSON
+"[(Capres alternatif Hasil survei Center for)-(alternatif)]";false;true;false;false;false;true;true;PERSON;OTHER
+"[(Capres alternatif Hasil survei Center for)-(dasarnya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Capres alternatif Hasil survei Center for)-(hasil)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Capres alternatif Hasil survei Center for)-(soal 'fenomena Jokowi')]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Capres alternatif Hasil survei Center for)-(semata,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Capres alternatif Hasil survei Center for)-(masyarakat Indonesia)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Capres alternatif Hasil survei Center for)-(calon pemimpin alternatif,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Capres alternatif Hasil survei Center for)-(Jokowi atau calon alternatif)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Capres alternatif Hasil survei Center for)-(peneliti CSIS Philip Jurius Vermonte)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Capres alternatif Hasil survei Center for)-(Jakarta)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Capres alternatif Hasil survei Center for)-(Minggu)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Capres alternatif Hasil survei Center for)-(nama tokoh Capres)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Capres alternatif Hasil survei Center for)-(1.635 responden)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Capres alternatif Hasil survei Center for)-(Jokowi)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Capres alternatif Hasil survei Center for)-(persen)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Capres alternatif Hasil survei Center for)-(persen)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Capres alternatif Hasil survei Center for)-(persen)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Capres alternatif Hasil survei Center for)-(persen)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Capres alternatif Hasil survei Center for)-((3,7 persen)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Capres alternatif Hasil survei Center for)-(pengamat politik)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Capres alternatif Hasil survei Center for)-(peneliti senior)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Capres alternatif Hasil survei Center for)-(CSIS Joseph Kristiadi)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Capres alternatif Hasil survei Center for)-(kemunculan Jokowi)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Capres alternatif Hasil survei Center for)-(momentum pencarian tokoh Capres)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Capres alternatif Hasil survei Center for)-(alternatif,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Capres alternatif Hasil survei Center for)-(opini)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Capres alternatif Hasil survei Center for)-(mantan Walikota Solo)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Capres alternatif Hasil survei Center for)-(Gubernur DKI Jakarta)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Capres alternatif Hasil survei Center for)-(separuh responden)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Capres alternatif Hasil survei Center for)-(53,9)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Capres alternatif Hasil survei Center for)-(persen)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Capres alternatif Hasil survei Center for)-(Jokowi)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Capres alternatif Hasil survei Center for)-(kandidat Capres)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Capres alternatif Hasil survei Center for)-(Gubernur)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Capres alternatif Hasil survei Center for)-("Kesulitan Jokowi)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Capres alternatif Hasil survei Center for)-(dukungan partai)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Capres alternatif Hasil survei Center for)-(tingkat elektabilitasnya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Capres alternatif Hasil survei Center for)-(persen pasti)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Capres alternatif Hasil survei Center for)-(dia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Capres alternatif Hasil survei Center for)-(partai-partai,")]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Capres alternatif Hasil survei Center for)-(Kristiadi)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Strategic and International)-(Studies)]";false;true;false;false;false;true;false;ORGANIZATION;ORGANIZATION
+"[(Strategic and International)-(CSIS)]";false;true;false;false;false;true;false;ORGANIZATION;ORGANIZATION
+"[(Strategic and International)-(Gubernur DKI Jakarta Joko Widodo)]";false;true;false;false;false;true;false;ORGANIZATION;OTHER
+"[(Strategic and International)-(peringkat pertama)]";false;true;false;false;false;true;false;ORGANIZATION;OTHER
+"[(Strategic and International)-(tokoh calon presiden)]";false;true;false;false;false;true;false;ORGANIZATION;OTHER
+"[(Strategic and International)-(Capres)]";false;true;false;false;false;true;false;ORGANIZATION;PERSON
+"[(Strategic and International)-(alternatif)]";false;true;false;false;false;true;false;ORGANIZATION;OTHER
+"[(Strategic and International)-(dasarnya)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Strategic and International)-(hasil)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Strategic and International)-(soal 'fenomena Jokowi')]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Strategic and International)-(semata,)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Strategic and International)-(masyarakat Indonesia)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Strategic and International)-(calon pemimpin alternatif,)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Strategic and International)-(Jokowi atau calon alternatif)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(Strategic and International)-(peneliti CSIS Philip Jurius Vermonte)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Strategic and International)-(Jakarta)]";false;true;false;false;false;false;false;ORGANIZATION;LOCATION
+"[(Strategic and International)-(Minggu)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Strategic and International)-(nama tokoh Capres)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Strategic and International)-(1.635 responden)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Strategic and International)-(Jokowi)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(Strategic and International)-(persen)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Strategic and International)-(persen)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Strategic and International)-(persen)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Strategic and International)-(persen)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Strategic and International)-((3,7 persen)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Strategic and International)-(pengamat politik)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Strategic and International)-(peneliti senior)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Strategic and International)-(CSIS Joseph Kristiadi)]";false;true;false;false;false;false;false;ORGANIZATION;ORGANIZATION
+"[(Strategic and International)-(kemunculan Jokowi)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Strategic and International)-(momentum pencarian tokoh Capres)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Strategic and International)-(alternatif,)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Strategic and International)-(opini)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Strategic and International)-(mantan Walikota Solo)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Strategic and International)-(Gubernur DKI Jakarta)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Strategic and International)-(separuh responden)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Strategic and International)-(53,9)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Strategic and International)-(persen)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Strategic and International)-(Jokowi)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(Strategic and International)-(kandidat Capres)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Strategic and International)-(Gubernur)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Strategic and International)-("Kesulitan Jokowi)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Strategic and International)-(dukungan partai)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Strategic and International)-(tingkat elektabilitasnya)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Strategic and International)-(persen pasti)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Strategic and International)-(dia)]";false;true;false;false;true;false;false;ORGANIZATION;OTHER
+"[(Strategic and International)-(partai-partai,")]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Strategic and International)-(Kristiadi)]";false;true;false;false;false;false;false;ORGANIZATION;ORGANIZATION
+"[(Studies)-(CSIS)]";false;true;false;false;false;true;false;ORGANIZATION;ORGANIZATION
+"[(Studies)-(Gubernur DKI Jakarta Joko Widodo)]";false;true;false;false;false;true;false;ORGANIZATION;OTHER
+"[(Studies)-(peringkat pertama)]";false;true;false;false;false;true;false;ORGANIZATION;OTHER
+"[(Studies)-(tokoh calon presiden)]";false;true;false;false;false;true;false;ORGANIZATION;OTHER
+"[(Studies)-(Capres)]";false;true;false;false;false;true;false;ORGANIZATION;PERSON
+"[(Studies)-(alternatif)]";false;true;false;false;false;true;false;ORGANIZATION;OTHER
+"[(Studies)-(dasarnya)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Studies)-(hasil)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Studies)-(soal 'fenomena Jokowi')]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Studies)-(semata,)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Studies)-(masyarakat Indonesia)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Studies)-(calon pemimpin alternatif,)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Studies)-(Jokowi atau calon alternatif)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(Studies)-(peneliti CSIS Philip Jurius Vermonte)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Studies)-(Jakarta)]";false;true;false;false;false;false;false;ORGANIZATION;LOCATION
+"[(Studies)-(Minggu)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Studies)-(nama tokoh Capres)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Studies)-(1.635 responden)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Studies)-(Jokowi)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(Studies)-(persen)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Studies)-(persen)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Studies)-(persen)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Studies)-(persen)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Studies)-((3,7 persen)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Studies)-(pengamat politik)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Studies)-(peneliti senior)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Studies)-(CSIS Joseph Kristiadi)]";false;true;false;false;false;false;false;ORGANIZATION;ORGANIZATION
+"[(Studies)-(kemunculan Jokowi)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Studies)-(momentum pencarian tokoh Capres)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Studies)-(alternatif,)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Studies)-(opini)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Studies)-(mantan Walikota Solo)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Studies)-(Gubernur DKI Jakarta)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Studies)-(separuh responden)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Studies)-(53,9)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Studies)-(persen)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Studies)-(Jokowi)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(Studies)-(kandidat Capres)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Studies)-(Gubernur)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Studies)-("Kesulitan Jokowi)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Studies)-(dukungan partai)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Studies)-(tingkat elektabilitasnya)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Studies)-(persen pasti)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Studies)-(dia)]";false;true;false;false;true;false;false;ORGANIZATION;OTHER
+"[(Studies)-(partai-partai,")]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Studies)-(Kristiadi)]";false;true;false;false;false;false;false;ORGANIZATION;ORGANIZATION
+"[(CSIS)-(Gubernur DKI Jakarta Joko Widodo)]";false;true;false;false;false;true;false;ORGANIZATION;OTHER
+"[(CSIS)-(peringkat pertama)]";false;true;false;false;false;true;false;ORGANIZATION;OTHER
+"[(CSIS)-(tokoh calon presiden)]";false;true;false;false;false;true;false;ORGANIZATION;OTHER
+"[(CSIS)-(Capres)]";false;true;false;false;false;true;false;ORGANIZATION;PERSON
+"[(CSIS)-(alternatif)]";false;true;false;false;false;true;false;ORGANIZATION;OTHER
+"[(CSIS)-(dasarnya)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(CSIS)-(hasil)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(CSIS)-(soal 'fenomena Jokowi')]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(CSIS)-(semata,)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(CSIS)-(masyarakat Indonesia)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(CSIS)-(calon pemimpin alternatif,)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(CSIS)-(Jokowi atau calon alternatif)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(CSIS)-(peneliti CSIS Philip Jurius Vermonte)]";false;true;false;false;false;false;true;ORGANIZATION;OTHER
+"[(CSIS)-(Jakarta)]";false;true;false;false;false;false;false;ORGANIZATION;LOCATION
+"[(CSIS)-(Minggu)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(CSIS)-(nama tokoh Capres)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(CSIS)-(1.635 responden)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(CSIS)-(Jokowi)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(CSIS)-(persen)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(CSIS)-(persen)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(CSIS)-(persen)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(CSIS)-(persen)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(CSIS)-((3,7 persen)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(CSIS)-(pengamat politik)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(CSIS)-(peneliti senior)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(CSIS)-(CSIS Joseph Kristiadi)]";false;true;false;false;false;false;true;ORGANIZATION;ORGANIZATION
+"[(CSIS)-(kemunculan Jokowi)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(CSIS)-(momentum pencarian tokoh Capres)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(CSIS)-(alternatif,)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(CSIS)-(opini)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(CSIS)-(mantan Walikota Solo)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(CSIS)-(Gubernur DKI Jakarta)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(CSIS)-(separuh responden)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(CSIS)-(53,9)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(CSIS)-(persen)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(CSIS)-(Jokowi)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(CSIS)-(kandidat Capres)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(CSIS)-(Gubernur)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(CSIS)-("Kesulitan Jokowi)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(CSIS)-(dukungan partai)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(CSIS)-(tingkat elektabilitasnya)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(CSIS)-(persen pasti)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(CSIS)-(dia)]";false;true;false;false;true;false;false;ORGANIZATION;OTHER
+"[(CSIS)-(partai-partai,")]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(CSIS)-(Kristiadi)]";false;true;false;false;false;false;false;ORGANIZATION;ORGANIZATION
+"[(Gubernur DKI Jakarta Joko Widodo)-(peringkat pertama)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(Gubernur DKI Jakarta Joko Widodo)-(tokoh calon presiden)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(Gubernur DKI Jakarta Joko Widodo)-(Capres)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(Gubernur DKI Jakarta Joko Widodo)-(alternatif)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(Gubernur DKI Jakarta Joko Widodo)-(dasarnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Gubernur DKI Jakarta Joko Widodo)-(hasil)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Gubernur DKI Jakarta Joko Widodo)-(soal 'fenomena Jokowi')]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Gubernur DKI Jakarta Joko Widodo)-(semata,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Gubernur DKI Jakarta Joko Widodo)-(masyarakat Indonesia)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Gubernur DKI Jakarta Joko Widodo)-(calon pemimpin alternatif,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Gubernur DKI Jakarta Joko Widodo)-(Jokowi atau calon alternatif)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(Gubernur DKI Jakarta Joko Widodo)-(peneliti CSIS Philip Jurius Vermonte)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Gubernur DKI Jakarta Joko Widodo)-(Jakarta)]";false;true;false;false;false;false;true;OTHER;LOCATION
+"[(Gubernur DKI Jakarta Joko Widodo)-(Minggu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Gubernur DKI Jakarta Joko Widodo)-(nama tokoh Capres)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Gubernur DKI Jakarta Joko Widodo)-(1.635 responden)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Gubernur DKI Jakarta Joko Widodo)-(Jokowi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(Gubernur DKI Jakarta Joko Widodo)-(persen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Gubernur DKI Jakarta Joko Widodo)-(persen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Gubernur DKI Jakarta Joko Widodo)-(persen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Gubernur DKI Jakarta Joko Widodo)-(persen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Gubernur DKI Jakarta Joko Widodo)-((3,7 persen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Gubernur DKI Jakarta Joko Widodo)-(pengamat politik)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Gubernur DKI Jakarta Joko Widodo)-(peneliti senior)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Gubernur DKI Jakarta Joko Widodo)-(CSIS Joseph Kristiadi)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(Gubernur DKI Jakarta Joko Widodo)-(kemunculan Jokowi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Gubernur DKI Jakarta Joko Widodo)-(momentum pencarian tokoh Capres)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Gubernur DKI Jakarta Joko Widodo)-(alternatif,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Gubernur DKI Jakarta Joko Widodo)-(opini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Gubernur DKI Jakarta Joko Widodo)-(mantan Walikota Solo)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Gubernur DKI Jakarta Joko Widodo)-(Gubernur DKI Jakarta)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(Gubernur DKI Jakarta Joko Widodo)-(separuh responden)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Gubernur DKI Jakarta Joko Widodo)-(53,9)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Gubernur DKI Jakarta Joko Widodo)-(persen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Gubernur DKI Jakarta Joko Widodo)-(Jokowi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(Gubernur DKI Jakarta Joko Widodo)-(kandidat Capres)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Gubernur DKI Jakarta Joko Widodo)-(Gubernur)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(Gubernur DKI Jakarta Joko Widodo)-("Kesulitan Jokowi)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Gubernur DKI Jakarta Joko Widodo)-(dukungan partai)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Gubernur DKI Jakarta Joko Widodo)-(tingkat elektabilitasnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Gubernur DKI Jakarta Joko Widodo)-(persen pasti)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Gubernur DKI Jakarta Joko Widodo)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(Gubernur DKI Jakarta Joko Widodo)-(partai-partai,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Gubernur DKI Jakarta Joko Widodo)-(Kristiadi)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(peringkat pertama)-(tokoh calon presiden)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(peringkat pertama)-(Capres)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(peringkat pertama)-(alternatif)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(peringkat pertama)-(dasarnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(peringkat pertama)-(hasil)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(peringkat pertama)-(soal 'fenomena Jokowi')]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(peringkat pertama)-(semata,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(peringkat pertama)-(masyarakat Indonesia)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(peringkat pertama)-(calon pemimpin alternatif,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(peringkat pertama)-(Jokowi atau calon alternatif)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(peringkat pertama)-(peneliti CSIS Philip Jurius Vermonte)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(peringkat pertama)-(Jakarta)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(peringkat pertama)-(Minggu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(peringkat pertama)-(nama tokoh Capres)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(peringkat pertama)-(1.635 responden)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(peringkat pertama)-(Jokowi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(peringkat pertama)-(persen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(peringkat pertama)-(persen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(peringkat pertama)-(persen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(peringkat pertama)-(persen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(peringkat pertama)-((3,7 persen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(peringkat pertama)-(pengamat politik)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(peringkat pertama)-(peneliti senior)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(peringkat pertama)-(CSIS Joseph Kristiadi)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(peringkat pertama)-(kemunculan Jokowi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(peringkat pertama)-(momentum pencarian tokoh Capres)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(peringkat pertama)-(alternatif,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(peringkat pertama)-(opini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(peringkat pertama)-(mantan Walikota Solo)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(peringkat pertama)-(Gubernur DKI Jakarta)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(peringkat pertama)-(separuh responden)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(peringkat pertama)-(53,9)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(peringkat pertama)-(persen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(peringkat pertama)-(Jokowi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(peringkat pertama)-(kandidat Capres)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(peringkat pertama)-(Gubernur)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(peringkat pertama)-("Kesulitan Jokowi)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(peringkat pertama)-(dukungan partai)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(peringkat pertama)-(tingkat elektabilitasnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(peringkat pertama)-(persen pasti)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(peringkat pertama)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(peringkat pertama)-(partai-partai,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(peringkat pertama)-(Kristiadi)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(tokoh calon presiden)-(Capres)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(tokoh calon presiden)-(alternatif)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(tokoh calon presiden)-(dasarnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tokoh calon presiden)-(hasil)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tokoh calon presiden)-(soal 'fenomena Jokowi')]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(tokoh calon presiden)-(semata,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(tokoh calon presiden)-(masyarakat Indonesia)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tokoh calon presiden)-(calon pemimpin alternatif,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(tokoh calon presiden)-(Jokowi atau calon alternatif)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(tokoh calon presiden)-(peneliti CSIS Philip Jurius Vermonte)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tokoh calon presiden)-(Jakarta)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(tokoh calon presiden)-(Minggu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tokoh calon presiden)-(nama tokoh Capres)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tokoh calon presiden)-(1.635 responden)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tokoh calon presiden)-(Jokowi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(tokoh calon presiden)-(persen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tokoh calon presiden)-(persen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tokoh calon presiden)-(persen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tokoh calon presiden)-(persen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tokoh calon presiden)-((3,7 persen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tokoh calon presiden)-(pengamat politik)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tokoh calon presiden)-(peneliti senior)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tokoh calon presiden)-(CSIS Joseph Kristiadi)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(tokoh calon presiden)-(kemunculan Jokowi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tokoh calon presiden)-(momentum pencarian tokoh Capres)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tokoh calon presiden)-(alternatif,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(tokoh calon presiden)-(opini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tokoh calon presiden)-(mantan Walikota Solo)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tokoh calon presiden)-(Gubernur DKI Jakarta)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tokoh calon presiden)-(separuh responden)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tokoh calon presiden)-(53,9)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tokoh calon presiden)-(persen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tokoh calon presiden)-(Jokowi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(tokoh calon presiden)-(kandidat Capres)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tokoh calon presiden)-(Gubernur)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tokoh calon presiden)-("Kesulitan Jokowi)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(tokoh calon presiden)-(dukungan partai)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tokoh calon presiden)-(tingkat elektabilitasnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tokoh calon presiden)-(persen pasti)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tokoh calon presiden)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(tokoh calon presiden)-(partai-partai,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(tokoh calon presiden)-(Kristiadi)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(Capres)-(alternatif)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Capres)-(dasarnya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Capres)-(hasil)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Capres)-(soal 'fenomena Jokowi')]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Capres)-(semata,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Capres)-(masyarakat Indonesia)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Capres)-(calon pemimpin alternatif,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Capres)-(Jokowi atau calon alternatif)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Capres)-(peneliti CSIS Philip Jurius Vermonte)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Capres)-(Jakarta)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Capres)-(Minggu)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Capres)-(nama tokoh Capres)]";false;true;false;false;false;false;true;PERSON;OTHER
+"[(Capres)-(1.635 responden)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Capres)-(Jokowi)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Capres)-(persen)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Capres)-(persen)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Capres)-(persen)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Capres)-(persen)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Capres)-((3,7 persen)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Capres)-(pengamat politik)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Capres)-(peneliti senior)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Capres)-(CSIS Joseph Kristiadi)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Capres)-(kemunculan Jokowi)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Capres)-(momentum pencarian tokoh Capres)]";false;true;false;false;false;false;true;PERSON;OTHER
+"[(Capres)-(alternatif,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Capres)-(opini)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Capres)-(mantan Walikota Solo)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Capres)-(Gubernur DKI Jakarta)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Capres)-(separuh responden)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Capres)-(53,9)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Capres)-(persen)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Capres)-(Jokowi)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Capres)-(kandidat Capres)]";false;true;false;false;false;false;true;PERSON;OTHER
+"[(Capres)-(Gubernur)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Capres)-("Kesulitan Jokowi)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Capres)-(dukungan partai)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Capres)-(tingkat elektabilitasnya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Capres)-(persen pasti)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Capres)-(dia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Capres)-(partai-partai,")]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Capres)-(Kristiadi)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(alternatif)-(dasarnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(alternatif)-(hasil)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(alternatif)-(soal 'fenomena Jokowi')]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(alternatif)-(semata,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(alternatif)-(masyarakat Indonesia)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(alternatif)-(calon pemimpin alternatif,)]";false;false;false;false;false;false;true;OTHER;OTHER
+"[(alternatif)-(Jokowi atau calon alternatif)]";false;true;false;false;false;false;true;OTHER;PERSON
+"[(alternatif)-(peneliti CSIS Philip Jurius Vermonte)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(alternatif)-(Jakarta)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(alternatif)-(Minggu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(alternatif)-(nama tokoh Capres)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(alternatif)-(1.635 responden)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(alternatif)-(Jokowi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(alternatif)-(persen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(alternatif)-(persen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(alternatif)-(persen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(alternatif)-(persen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(alternatif)-((3,7 persen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(alternatif)-(pengamat politik)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(alternatif)-(peneliti senior)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(alternatif)-(CSIS Joseph Kristiadi)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(alternatif)-(kemunculan Jokowi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(alternatif)-(momentum pencarian tokoh Capres)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(alternatif)-(alternatif,)]";false;false;false;false;false;false;true;OTHER;OTHER
+"[(alternatif)-(opini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(alternatif)-(mantan Walikota Solo)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(alternatif)-(Gubernur DKI Jakarta)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(alternatif)-(separuh responden)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(alternatif)-(53,9)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(alternatif)-(persen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(alternatif)-(Jokowi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(alternatif)-(kandidat Capres)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(alternatif)-(Gubernur)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(alternatif)-("Kesulitan Jokowi)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(alternatif)-(dukungan partai)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(alternatif)-(tingkat elektabilitasnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(alternatif)-(persen pasti)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(alternatif)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(alternatif)-(partai-partai,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(alternatif)-(Kristiadi)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(dasarnya)-(hasil)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(dasarnya)-(soal 'fenomena Jokowi')]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(dasarnya)-(semata,)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(dasarnya)-(masyarakat Indonesia)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(dasarnya)-(calon pemimpin alternatif,)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(dasarnya)-(Jokowi atau calon alternatif)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(dasarnya)-(peneliti CSIS Philip Jurius Vermonte)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(dasarnya)-(Jakarta)]";false;true;false;false;false;true;false;OTHER;LOCATION
+"[(dasarnya)-(Minggu)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(dasarnya)-(nama tokoh Capres)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dasarnya)-(1.635 responden)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dasarnya)-(Jokowi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(dasarnya)-(persen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dasarnya)-(persen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dasarnya)-(persen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dasarnya)-(persen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dasarnya)-((3,7 persen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dasarnya)-(pengamat politik)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dasarnya)-(peneliti senior)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dasarnya)-(CSIS Joseph Kristiadi)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(dasarnya)-(kemunculan Jokowi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dasarnya)-(momentum pencarian tokoh Capres)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dasarnya)-(alternatif,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(dasarnya)-(opini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dasarnya)-(mantan Walikota Solo)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dasarnya)-(Gubernur DKI Jakarta)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dasarnya)-(separuh responden)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dasarnya)-(53,9)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dasarnya)-(persen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dasarnya)-(Jokowi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(dasarnya)-(kandidat Capres)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dasarnya)-(Gubernur)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dasarnya)-("Kesulitan Jokowi)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(dasarnya)-(dukungan partai)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dasarnya)-(tingkat elektabilitasnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dasarnya)-(persen pasti)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dasarnya)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(dasarnya)-(partai-partai,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(dasarnya)-(Kristiadi)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(hasil)-(soal 'fenomena Jokowi')]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(hasil)-(semata,)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(hasil)-(masyarakat Indonesia)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(hasil)-(calon pemimpin alternatif,)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(hasil)-(Jokowi atau calon alternatif)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(hasil)-(peneliti CSIS Philip Jurius Vermonte)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(hasil)-(Jakarta)]";false;true;false;false;false;true;false;OTHER;LOCATION
+"[(hasil)-(Minggu)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(hasil)-(nama tokoh Capres)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hasil)-(1.635 responden)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hasil)-(Jokowi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(hasil)-(persen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hasil)-(persen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hasil)-(persen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hasil)-(persen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hasil)-((3,7 persen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hasil)-(pengamat politik)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hasil)-(peneliti senior)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hasil)-(CSIS Joseph Kristiadi)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(hasil)-(kemunculan Jokowi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hasil)-(momentum pencarian tokoh Capres)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hasil)-(alternatif,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(hasil)-(opini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hasil)-(mantan Walikota Solo)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hasil)-(Gubernur DKI Jakarta)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hasil)-(separuh responden)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hasil)-(53,9)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hasil)-(persen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hasil)-(Jokowi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(hasil)-(kandidat Capres)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hasil)-(Gubernur)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hasil)-("Kesulitan Jokowi)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(hasil)-(dukungan partai)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hasil)-(tingkat elektabilitasnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hasil)-(persen pasti)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hasil)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(hasil)-(partai-partai,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(hasil)-(Kristiadi)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(soal 'fenomena Jokowi')-(semata,)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(soal 'fenomena Jokowi')-(masyarakat Indonesia)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(soal 'fenomena Jokowi')-(calon pemimpin alternatif,)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(soal 'fenomena Jokowi')-(Jokowi atau calon alternatif)]";false;false;false;false;false;true;false;OTHER;PERSON
+"[(soal 'fenomena Jokowi')-(peneliti CSIS Philip Jurius Vermonte)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(soal 'fenomena Jokowi')-(Jakarta)]";false;false;false;false;false;true;false;OTHER;LOCATION
+"[(soal 'fenomena Jokowi')-(Minggu)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(soal 'fenomena Jokowi')-(nama tokoh Capres)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(soal 'fenomena Jokowi')-(1.635 responden)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(soal 'fenomena Jokowi')-(Jokowi)]";false;false;false;false;false;false;true;OTHER;PERSON
+"[(soal 'fenomena Jokowi')-(persen)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(soal 'fenomena Jokowi')-(persen)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(soal 'fenomena Jokowi')-(persen)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(soal 'fenomena Jokowi')-(persen)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(soal 'fenomena Jokowi')-((3,7 persen)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(soal 'fenomena Jokowi')-(pengamat politik)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(soal 'fenomena Jokowi')-(peneliti senior)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(soal 'fenomena Jokowi')-(CSIS Joseph Kristiadi)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(soal 'fenomena Jokowi')-(kemunculan Jokowi)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(soal 'fenomena Jokowi')-(momentum pencarian tokoh Capres)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(soal 'fenomena Jokowi')-(alternatif,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(soal 'fenomena Jokowi')-(opini)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(soal 'fenomena Jokowi')-(mantan Walikota Solo)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(soal 'fenomena Jokowi')-(Gubernur DKI Jakarta)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(soal 'fenomena Jokowi')-(separuh responden)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(soal 'fenomena Jokowi')-(53,9)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(soal 'fenomena Jokowi')-(persen)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(soal 'fenomena Jokowi')-(Jokowi)]";false;false;false;false;false;false;true;OTHER;PERSON
+"[(soal 'fenomena Jokowi')-(kandidat Capres)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(soal 'fenomena Jokowi')-(Gubernur)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(soal 'fenomena Jokowi')-("Kesulitan Jokowi)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(soal 'fenomena Jokowi')-(dukungan partai)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(soal 'fenomena Jokowi')-(tingkat elektabilitasnya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(soal 'fenomena Jokowi')-(persen pasti)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(soal 'fenomena Jokowi')-(dia)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(soal 'fenomena Jokowi')-(partai-partai,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(soal 'fenomena Jokowi')-(Kristiadi)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(semata,)-(masyarakat Indonesia)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(semata,)-(calon pemimpin alternatif,)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(semata,)-(Jokowi atau calon alternatif)]";false;false;false;false;false;true;false;OTHER;PERSON
+"[(semata,)-(peneliti CSIS Philip Jurius Vermonte)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(semata,)-(Jakarta)]";false;false;false;false;false;true;false;OTHER;LOCATION
+"[(semata,)-(Minggu)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(semata,)-(nama tokoh Capres)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(semata,)-(1.635 responden)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(semata,)-(Jokowi)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(semata,)-(persen)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(semata,)-(persen)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(semata,)-(persen)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(semata,)-(persen)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(semata,)-((3,7 persen)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(semata,)-(pengamat politik)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(semata,)-(peneliti senior)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(semata,)-(CSIS Joseph Kristiadi)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(semata,)-(kemunculan Jokowi)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(semata,)-(momentum pencarian tokoh Capres)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(semata,)-(alternatif,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(semata,)-(opini)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(semata,)-(mantan Walikota Solo)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(semata,)-(Gubernur DKI Jakarta)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(semata,)-(separuh responden)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(semata,)-(53,9)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(semata,)-(persen)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(semata,)-(Jokowi)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(semata,)-(kandidat Capres)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(semata,)-(Gubernur)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(semata,)-("Kesulitan Jokowi)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(semata,)-(dukungan partai)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(semata,)-(tingkat elektabilitasnya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(semata,)-(persen pasti)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(semata,)-(dia)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(semata,)-(partai-partai,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(semata,)-(Kristiadi)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(masyarakat Indonesia)-(calon pemimpin alternatif,)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(masyarakat Indonesia)-(Jokowi atau calon alternatif)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(masyarakat Indonesia)-(peneliti CSIS Philip Jurius Vermonte)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(masyarakat Indonesia)-(Jakarta)]";false;true;false;false;false;true;false;OTHER;LOCATION
+"[(masyarakat Indonesia)-(Minggu)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(masyarakat Indonesia)-(nama tokoh Capres)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(masyarakat Indonesia)-(1.635 responden)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(masyarakat Indonesia)-(Jokowi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(masyarakat Indonesia)-(persen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(masyarakat Indonesia)-(persen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(masyarakat Indonesia)-(persen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(masyarakat Indonesia)-(persen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(masyarakat Indonesia)-((3,7 persen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(masyarakat Indonesia)-(pengamat politik)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(masyarakat Indonesia)-(peneliti senior)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(masyarakat Indonesia)-(CSIS Joseph Kristiadi)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(masyarakat Indonesia)-(kemunculan Jokowi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(masyarakat Indonesia)-(momentum pencarian tokoh Capres)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(masyarakat Indonesia)-(alternatif,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(masyarakat Indonesia)-(opini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(masyarakat Indonesia)-(mantan Walikota Solo)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(masyarakat Indonesia)-(Gubernur DKI Jakarta)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(masyarakat Indonesia)-(separuh responden)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(masyarakat Indonesia)-(53,9)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(masyarakat Indonesia)-(persen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(masyarakat Indonesia)-(Jokowi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(masyarakat Indonesia)-(kandidat Capres)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(masyarakat Indonesia)-(Gubernur)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(masyarakat Indonesia)-("Kesulitan Jokowi)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(masyarakat Indonesia)-(dukungan partai)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(masyarakat Indonesia)-(tingkat elektabilitasnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(masyarakat Indonesia)-(persen pasti)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(masyarakat Indonesia)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(masyarakat Indonesia)-(partai-partai,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(masyarakat Indonesia)-(Kristiadi)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(calon pemimpin alternatif,)-(Jokowi atau calon alternatif)]";false;false;false;false;false;true;false;OTHER;PERSON
+"[(calon pemimpin alternatif,)-(peneliti CSIS Philip Jurius Vermonte)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(calon pemimpin alternatif,)-(Jakarta)]";false;false;false;false;false;true;false;OTHER;LOCATION
+"[(calon pemimpin alternatif,)-(Minggu)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(calon pemimpin alternatif,)-(nama tokoh Capres)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(calon pemimpin alternatif,)-(1.635 responden)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(calon pemimpin alternatif,)-(Jokowi)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(calon pemimpin alternatif,)-(persen)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(calon pemimpin alternatif,)-(persen)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(calon pemimpin alternatif,)-(persen)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(calon pemimpin alternatif,)-(persen)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(calon pemimpin alternatif,)-((3,7 persen)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(calon pemimpin alternatif,)-(pengamat politik)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(calon pemimpin alternatif,)-(peneliti senior)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(calon pemimpin alternatif,)-(CSIS Joseph Kristiadi)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(calon pemimpin alternatif,)-(kemunculan Jokowi)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(calon pemimpin alternatif,)-(momentum pencarian tokoh Capres)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(calon pemimpin alternatif,)-(alternatif,)]";false;false;false;false;false;false;true;OTHER;OTHER
+"[(calon pemimpin alternatif,)-(opini)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(calon pemimpin alternatif,)-(mantan Walikota Solo)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(calon pemimpin alternatif,)-(Gubernur DKI Jakarta)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(calon pemimpin alternatif,)-(separuh responden)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(calon pemimpin alternatif,)-(53,9)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(calon pemimpin alternatif,)-(persen)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(calon pemimpin alternatif,)-(Jokowi)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(calon pemimpin alternatif,)-(kandidat Capres)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(calon pemimpin alternatif,)-(Gubernur)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(calon pemimpin alternatif,)-("Kesulitan Jokowi)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(calon pemimpin alternatif,)-(dukungan partai)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(calon pemimpin alternatif,)-(tingkat elektabilitasnya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(calon pemimpin alternatif,)-(persen pasti)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(calon pemimpin alternatif,)-(dia)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(calon pemimpin alternatif,)-(partai-partai,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(calon pemimpin alternatif,)-(Kristiadi)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(Jokowi atau calon alternatif)-(peneliti CSIS Philip Jurius Vermonte)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Jokowi atau calon alternatif)-(Jakarta)]";false;true;false;false;false;true;false;PERSON;LOCATION
+"[(Jokowi atau calon alternatif)-(Minggu)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Jokowi atau calon alternatif)-(nama tokoh Capres)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi atau calon alternatif)-(1.635 responden)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi atau calon alternatif)-(Jokowi)]";false;true;false;false;false;false;true;PERSON;PERSON
+"[(Jokowi atau calon alternatif)-(persen)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi atau calon alternatif)-(persen)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi atau calon alternatif)-(persen)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi atau calon alternatif)-(persen)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi atau calon alternatif)-((3,7 persen)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi atau calon alternatif)-(pengamat politik)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi atau calon alternatif)-(peneliti senior)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi atau calon alternatif)-(CSIS Joseph Kristiadi)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Jokowi atau calon alternatif)-(kemunculan Jokowi)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi atau calon alternatif)-(momentum pencarian tokoh Capres)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi atau calon alternatif)-(alternatif,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi atau calon alternatif)-(opini)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi atau calon alternatif)-(mantan Walikota Solo)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi atau calon alternatif)-(Gubernur DKI Jakarta)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi atau calon alternatif)-(separuh responden)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi atau calon alternatif)-(53,9)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi atau calon alternatif)-(persen)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi atau calon alternatif)-(Jokowi)]";false;true;false;false;false;false;true;PERSON;PERSON
+"[(Jokowi atau calon alternatif)-(kandidat Capres)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi atau calon alternatif)-(Gubernur)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi atau calon alternatif)-("Kesulitan Jokowi)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi atau calon alternatif)-(dukungan partai)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi atau calon alternatif)-(tingkat elektabilitasnya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi atau calon alternatif)-(persen pasti)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi atau calon alternatif)-(dia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Jokowi atau calon alternatif)-(partai-partai,")]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi atau calon alternatif)-(Kristiadi)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(peneliti CSIS Philip Jurius Vermonte)-(Jakarta)]";false;true;false;false;false;true;false;OTHER;LOCATION
+"[(peneliti CSIS Philip Jurius Vermonte)-(Minggu)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(peneliti CSIS Philip Jurius Vermonte)-(nama tokoh Capres)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(peneliti CSIS Philip Jurius Vermonte)-(1.635 responden)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(peneliti CSIS Philip Jurius Vermonte)-(Jokowi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(peneliti CSIS Philip Jurius Vermonte)-(persen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(peneliti CSIS Philip Jurius Vermonte)-(persen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(peneliti CSIS Philip Jurius Vermonte)-(persen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(peneliti CSIS Philip Jurius Vermonte)-(persen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(peneliti CSIS Philip Jurius Vermonte)-((3,7 persen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(peneliti CSIS Philip Jurius Vermonte)-(pengamat politik)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(peneliti CSIS Philip Jurius Vermonte)-(peneliti senior)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(peneliti CSIS Philip Jurius Vermonte)-(CSIS Joseph Kristiadi)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(peneliti CSIS Philip Jurius Vermonte)-(kemunculan Jokowi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(peneliti CSIS Philip Jurius Vermonte)-(momentum pencarian tokoh Capres)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(peneliti CSIS Philip Jurius Vermonte)-(alternatif,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(peneliti CSIS Philip Jurius Vermonte)-(opini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(peneliti CSIS Philip Jurius Vermonte)-(mantan Walikota Solo)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(peneliti CSIS Philip Jurius Vermonte)-(Gubernur DKI Jakarta)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(peneliti CSIS Philip Jurius Vermonte)-(separuh responden)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(peneliti CSIS Philip Jurius Vermonte)-(53,9)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(peneliti CSIS Philip Jurius Vermonte)-(persen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(peneliti CSIS Philip Jurius Vermonte)-(Jokowi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(peneliti CSIS Philip Jurius Vermonte)-(kandidat Capres)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(peneliti CSIS Philip Jurius Vermonte)-(Gubernur)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(peneliti CSIS Philip Jurius Vermonte)-("Kesulitan Jokowi)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(peneliti CSIS Philip Jurius Vermonte)-(dukungan partai)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(peneliti CSIS Philip Jurius Vermonte)-(tingkat elektabilitasnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(peneliti CSIS Philip Jurius Vermonte)-(persen pasti)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(peneliti CSIS Philip Jurius Vermonte)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(peneliti CSIS Philip Jurius Vermonte)-(partai-partai,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(peneliti CSIS Philip Jurius Vermonte)-(Kristiadi)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(Jakarta)-(Minggu)]";false;true;false;false;false;true;false;LOCATION;OTHER
+"[(Jakarta)-(nama tokoh Capres)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jakarta)-(1.635 responden)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jakarta)-(Jokowi)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Jakarta)-(persen)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jakarta)-(persen)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jakarta)-(persen)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jakarta)-(persen)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jakarta)-((3,7 persen)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jakarta)-(pengamat politik)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jakarta)-(peneliti senior)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jakarta)-(CSIS Joseph Kristiadi)]";false;true;false;false;false;false;false;LOCATION;ORGANIZATION
+"[(Jakarta)-(kemunculan Jokowi)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jakarta)-(momentum pencarian tokoh Capres)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jakarta)-(alternatif,)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Jakarta)-(opini)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jakarta)-(mantan Walikota Solo)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jakarta)-(Gubernur DKI Jakarta)]";false;true;false;false;false;false;true;LOCATION;OTHER
+"[(Jakarta)-(separuh responden)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jakarta)-(53,9)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jakarta)-(persen)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jakarta)-(Jokowi)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Jakarta)-(kandidat Capres)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jakarta)-(Gubernur)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jakarta)-("Kesulitan Jokowi)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Jakarta)-(dukungan partai)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jakarta)-(tingkat elektabilitasnya)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jakarta)-(persen pasti)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jakarta)-(dia)]";false;true;false;false;true;false;false;LOCATION;OTHER
+"[(Jakarta)-(partai-partai,")]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Jakarta)-(Kristiadi)]";false;true;false;false;false;false;false;LOCATION;ORGANIZATION
+"[(Minggu)-(nama tokoh Capres)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Minggu)-(1.635 responden)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Minggu)-(Jokowi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(Minggu)-(persen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Minggu)-(persen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Minggu)-(persen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Minggu)-(persen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Minggu)-((3,7 persen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Minggu)-(pengamat politik)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Minggu)-(peneliti senior)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Minggu)-(CSIS Joseph Kristiadi)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(Minggu)-(kemunculan Jokowi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Minggu)-(momentum pencarian tokoh Capres)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Minggu)-(alternatif,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Minggu)-(opini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Minggu)-(mantan Walikota Solo)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Minggu)-(Gubernur DKI Jakarta)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Minggu)-(separuh responden)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Minggu)-(53,9)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Minggu)-(persen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Minggu)-(Jokowi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(Minggu)-(kandidat Capres)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Minggu)-(Gubernur)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Minggu)-("Kesulitan Jokowi)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Minggu)-(dukungan partai)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Minggu)-(tingkat elektabilitasnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Minggu)-(persen pasti)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Minggu)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(Minggu)-(partai-partai,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Minggu)-(Kristiadi)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(nama tokoh Capres)-(1.635 responden)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(nama tokoh Capres)-(Jokowi)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(nama tokoh Capres)-(persen)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(nama tokoh Capres)-(persen)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(nama tokoh Capres)-(persen)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(nama tokoh Capres)-(persen)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(nama tokoh Capres)-((3,7 persen)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(nama tokoh Capres)-(pengamat politik)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(nama tokoh Capres)-(peneliti senior)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(nama tokoh Capres)-(CSIS Joseph Kristiadi)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(nama tokoh Capres)-(kemunculan Jokowi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(nama tokoh Capres)-(momentum pencarian tokoh Capres)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(nama tokoh Capres)-(alternatif,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(nama tokoh Capres)-(opini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(nama tokoh Capres)-(mantan Walikota Solo)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(nama tokoh Capres)-(Gubernur DKI Jakarta)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(nama tokoh Capres)-(separuh responden)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(nama tokoh Capres)-(53,9)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(nama tokoh Capres)-(persen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(nama tokoh Capres)-(Jokowi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(nama tokoh Capres)-(kandidat Capres)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(nama tokoh Capres)-(Gubernur)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(nama tokoh Capres)-("Kesulitan Jokowi)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(nama tokoh Capres)-(dukungan partai)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(nama tokoh Capres)-(tingkat elektabilitasnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(nama tokoh Capres)-(persen pasti)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(nama tokoh Capres)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(nama tokoh Capres)-(partai-partai,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(nama tokoh Capres)-(Kristiadi)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(1.635 responden)-(Jokowi)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(1.635 responden)-(persen)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(1.635 responden)-(persen)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(1.635 responden)-(persen)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(1.635 responden)-(persen)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(1.635 responden)-((3,7 persen)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(1.635 responden)-(pengamat politik)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(1.635 responden)-(peneliti senior)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(1.635 responden)-(CSIS Joseph Kristiadi)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(1.635 responden)-(kemunculan Jokowi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(1.635 responden)-(momentum pencarian tokoh Capres)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(1.635 responden)-(alternatif,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(1.635 responden)-(opini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(1.635 responden)-(mantan Walikota Solo)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(1.635 responden)-(Gubernur DKI Jakarta)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(1.635 responden)-(separuh responden)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(1.635 responden)-(53,9)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(1.635 responden)-(persen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(1.635 responden)-(Jokowi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(1.635 responden)-(kandidat Capres)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(1.635 responden)-(Gubernur)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(1.635 responden)-("Kesulitan Jokowi)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(1.635 responden)-(dukungan partai)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(1.635 responden)-(tingkat elektabilitasnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(1.635 responden)-(persen pasti)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(1.635 responden)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(1.635 responden)-(partai-partai,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(1.635 responden)-(Kristiadi)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(Jokowi)-(persen)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Jokowi)-(persen)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Jokowi)-(persen)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Jokowi)-(persen)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Jokowi)-((3,7 persen)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Jokowi)-(pengamat politik)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi)-(peneliti senior)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi)-(CSIS Joseph Kristiadi)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Jokowi)-(kemunculan Jokowi)]";false;true;false;false;false;false;true;PERSON;OTHER
+"[(Jokowi)-(momentum pencarian tokoh Capres)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi)-(alternatif,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi)-(opini)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi)-(mantan Walikota Solo)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi)-(Gubernur DKI Jakarta)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi)-(separuh responden)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi)-(53,9)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi)-(persen)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi)-(Jokowi)]";true;true;false;false;false;false;true;PERSON;PERSON
+"[(Jokowi)-(kandidat Capres)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi)-(Gubernur)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi)-("Kesulitan Jokowi)]";false;false;false;false;false;false;true;PERSON;OTHER
+"[(Jokowi)-(dukungan partai)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi)-(tingkat elektabilitasnya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi)-(persen pasti)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi)-(dia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Jokowi)-(partai-partai,")]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi)-(Kristiadi)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(persen)-(persen)]";true;true;false;false;false;true;true;OTHER;OTHER
+"[(persen)-(persen)]";true;true;false;false;false;true;true;OTHER;OTHER
+"[(persen)-(persen)]";true;true;false;false;false;true;true;OTHER;OTHER
+"[(persen)-((3,7 persen)]";false;true;false;false;false;true;true;OTHER;OTHER
+"[(persen)-(pengamat politik)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persen)-(peneliti senior)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persen)-(CSIS Joseph Kristiadi)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(persen)-(kemunculan Jokowi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persen)-(momentum pencarian tokoh Capres)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persen)-(alternatif,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(persen)-(opini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persen)-(mantan Walikota Solo)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persen)-(Gubernur DKI Jakarta)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persen)-(separuh responden)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persen)-(53,9)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persen)-(persen)]";true;true;false;false;false;false;true;OTHER;OTHER
+"[(persen)-(Jokowi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(persen)-(kandidat Capres)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persen)-(Gubernur)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persen)-("Kesulitan Jokowi)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(persen)-(dukungan partai)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persen)-(tingkat elektabilitasnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persen)-(persen pasti)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(persen)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(persen)-(partai-partai,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(persen)-(Kristiadi)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(persen)-(persen)]";true;true;false;false;false;true;true;OTHER;OTHER
+"[(persen)-(persen)]";true;true;false;false;false;true;true;OTHER;OTHER
+"[(persen)-((3,7 persen)]";false;true;false;false;false;true;true;OTHER;OTHER
+"[(persen)-(pengamat politik)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persen)-(peneliti senior)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persen)-(CSIS Joseph Kristiadi)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(persen)-(kemunculan Jokowi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persen)-(momentum pencarian tokoh Capres)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persen)-(alternatif,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(persen)-(opini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persen)-(mantan Walikota Solo)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persen)-(Gubernur DKI Jakarta)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persen)-(separuh responden)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persen)-(53,9)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persen)-(persen)]";true;true;false;false;false;false;true;OTHER;OTHER
+"[(persen)-(Jokowi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(persen)-(kandidat Capres)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persen)-(Gubernur)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persen)-("Kesulitan Jokowi)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(persen)-(dukungan partai)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persen)-(tingkat elektabilitasnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persen)-(persen pasti)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(persen)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(persen)-(partai-partai,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(persen)-(Kristiadi)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(persen)-(persen)]";true;true;false;false;false;true;true;OTHER;OTHER
+"[(persen)-((3,7 persen)]";false;true;false;false;false;true;true;OTHER;OTHER
+"[(persen)-(pengamat politik)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persen)-(peneliti senior)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persen)-(CSIS Joseph Kristiadi)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(persen)-(kemunculan Jokowi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persen)-(momentum pencarian tokoh Capres)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persen)-(alternatif,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(persen)-(opini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persen)-(mantan Walikota Solo)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persen)-(Gubernur DKI Jakarta)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persen)-(separuh responden)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persen)-(53,9)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persen)-(persen)]";true;true;false;false;false;false;true;OTHER;OTHER
+"[(persen)-(Jokowi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(persen)-(kandidat Capres)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persen)-(Gubernur)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persen)-("Kesulitan Jokowi)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(persen)-(dukungan partai)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persen)-(tingkat elektabilitasnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persen)-(persen pasti)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(persen)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(persen)-(partai-partai,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(persen)-(Kristiadi)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(persen)-((3,7 persen)]";false;true;false;false;false;true;true;OTHER;OTHER
+"[(persen)-(pengamat politik)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persen)-(peneliti senior)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persen)-(CSIS Joseph Kristiadi)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(persen)-(kemunculan Jokowi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persen)-(momentum pencarian tokoh Capres)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persen)-(alternatif,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(persen)-(opini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persen)-(mantan Walikota Solo)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persen)-(Gubernur DKI Jakarta)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persen)-(separuh responden)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persen)-(53,9)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persen)-(persen)]";true;true;false;false;false;false;true;OTHER;OTHER
+"[(persen)-(Jokowi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(persen)-(kandidat Capres)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persen)-(Gubernur)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persen)-("Kesulitan Jokowi)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(persen)-(dukungan partai)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persen)-(tingkat elektabilitasnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persen)-(persen pasti)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(persen)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(persen)-(partai-partai,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(persen)-(Kristiadi)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[((3,7 persen)-(pengamat politik)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[((3,7 persen)-(peneliti senior)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[((3,7 persen)-(CSIS Joseph Kristiadi)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[((3,7 persen)-(kemunculan Jokowi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[((3,7 persen)-(momentum pencarian tokoh Capres)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[((3,7 persen)-(alternatif,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[((3,7 persen)-(opini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[((3,7 persen)-(mantan Walikota Solo)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[((3,7 persen)-(Gubernur DKI Jakarta)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[((3,7 persen)-(separuh responden)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[((3,7 persen)-(53,9)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[((3,7 persen)-(persen)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[((3,7 persen)-(Jokowi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[((3,7 persen)-(kandidat Capres)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[((3,7 persen)-(Gubernur)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[((3,7 persen)-("Kesulitan Jokowi)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[((3,7 persen)-(dukungan partai)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[((3,7 persen)-(tingkat elektabilitasnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[((3,7 persen)-(persen pasti)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[((3,7 persen)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[((3,7 persen)-(partai-partai,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[((3,7 persen)-(Kristiadi)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(pengamat politik)-(peneliti senior)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(pengamat politik)-(CSIS Joseph Kristiadi)]";false;true;false;false;false;true;false;OTHER;ORGANIZATION
+"[(pengamat politik)-(kemunculan Jokowi)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(pengamat politik)-(momentum pencarian tokoh Capres)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(pengamat politik)-(alternatif,)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(pengamat politik)-(opini)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(pengamat politik)-(mantan Walikota Solo)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(pengamat politik)-(Gubernur DKI Jakarta)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(pengamat politik)-(separuh responden)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pengamat politik)-(53,9)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pengamat politik)-(persen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pengamat politik)-(Jokowi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pengamat politik)-(kandidat Capres)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pengamat politik)-(Gubernur)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pengamat politik)-("Kesulitan Jokowi)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pengamat politik)-(dukungan partai)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pengamat politik)-(tingkat elektabilitasnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pengamat politik)-(persen pasti)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pengamat politik)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(pengamat politik)-(partai-partai,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pengamat politik)-(Kristiadi)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(peneliti senior)-(CSIS Joseph Kristiadi)]";false;true;false;false;false;true;false;OTHER;ORGANIZATION
+"[(peneliti senior)-(kemunculan Jokowi)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(peneliti senior)-(momentum pencarian tokoh Capres)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(peneliti senior)-(alternatif,)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(peneliti senior)-(opini)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(peneliti senior)-(mantan Walikota Solo)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(peneliti senior)-(Gubernur DKI Jakarta)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(peneliti senior)-(separuh responden)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(peneliti senior)-(53,9)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(peneliti senior)-(persen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(peneliti senior)-(Jokowi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(peneliti senior)-(kandidat Capres)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(peneliti senior)-(Gubernur)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(peneliti senior)-("Kesulitan Jokowi)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(peneliti senior)-(dukungan partai)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(peneliti senior)-(tingkat elektabilitasnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(peneliti senior)-(persen pasti)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(peneliti senior)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(peneliti senior)-(partai-partai,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(peneliti senior)-(Kristiadi)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(CSIS Joseph Kristiadi)-(kemunculan Jokowi)]";false;true;false;false;false;true;false;ORGANIZATION;OTHER
+"[(CSIS Joseph Kristiadi)-(momentum pencarian tokoh Capres)]";false;true;false;false;false;true;false;ORGANIZATION;OTHER
+"[(CSIS Joseph Kristiadi)-(alternatif,)]";false;false;false;false;false;true;false;ORGANIZATION;OTHER
+"[(CSIS Joseph Kristiadi)-(opini)]";false;true;false;false;false;true;false;ORGANIZATION;OTHER
+"[(CSIS Joseph Kristiadi)-(mantan Walikota Solo)]";false;true;false;false;false;true;false;ORGANIZATION;OTHER
+"[(CSIS Joseph Kristiadi)-(Gubernur DKI Jakarta)]";false;true;false;false;false;true;false;ORGANIZATION;OTHER
+"[(CSIS Joseph Kristiadi)-(separuh responden)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(CSIS Joseph Kristiadi)-(53,9)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(CSIS Joseph Kristiadi)-(persen)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(CSIS Joseph Kristiadi)-(Jokowi)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(CSIS Joseph Kristiadi)-(kandidat Capres)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(CSIS Joseph Kristiadi)-(Gubernur)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(CSIS Joseph Kristiadi)-("Kesulitan Jokowi)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(CSIS Joseph Kristiadi)-(dukungan partai)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(CSIS Joseph Kristiadi)-(tingkat elektabilitasnya)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(CSIS Joseph Kristiadi)-(persen pasti)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(CSIS Joseph Kristiadi)-(dia)]";false;true;false;false;true;false;false;ORGANIZATION;OTHER
+"[(CSIS Joseph Kristiadi)-(partai-partai,")]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(CSIS Joseph Kristiadi)-(Kristiadi)]";false;true;false;false;false;false;true;ORGANIZATION;ORGANIZATION
+"[(kemunculan Jokowi)-(momentum pencarian tokoh Capres)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(kemunculan Jokowi)-(alternatif,)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(kemunculan Jokowi)-(opini)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(kemunculan Jokowi)-(mantan Walikota Solo)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(kemunculan Jokowi)-(Gubernur DKI Jakarta)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(kemunculan Jokowi)-(separuh responden)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kemunculan Jokowi)-(53,9)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kemunculan Jokowi)-(persen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kemunculan Jokowi)-(Jokowi)]";false;true;false;false;false;false;true;OTHER;PERSON
+"[(kemunculan Jokowi)-(kandidat Capres)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kemunculan Jokowi)-(Gubernur)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kemunculan Jokowi)-("Kesulitan Jokowi)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(kemunculan Jokowi)-(dukungan partai)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kemunculan Jokowi)-(tingkat elektabilitasnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kemunculan Jokowi)-(persen pasti)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kemunculan Jokowi)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(kemunculan Jokowi)-(partai-partai,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(kemunculan Jokowi)-(Kristiadi)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(momentum pencarian tokoh Capres)-(alternatif,)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(momentum pencarian tokoh Capres)-(opini)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(momentum pencarian tokoh Capres)-(mantan Walikota Solo)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(momentum pencarian tokoh Capres)-(Gubernur DKI Jakarta)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(momentum pencarian tokoh Capres)-(separuh responden)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(momentum pencarian tokoh Capres)-(53,9)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(momentum pencarian tokoh Capres)-(persen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(momentum pencarian tokoh Capres)-(Jokowi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(momentum pencarian tokoh Capres)-(kandidat Capres)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(momentum pencarian tokoh Capres)-(Gubernur)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(momentum pencarian tokoh Capres)-("Kesulitan Jokowi)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(momentum pencarian tokoh Capres)-(dukungan partai)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(momentum pencarian tokoh Capres)-(tingkat elektabilitasnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(momentum pencarian tokoh Capres)-(persen pasti)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(momentum pencarian tokoh Capres)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(momentum pencarian tokoh Capres)-(partai-partai,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(momentum pencarian tokoh Capres)-(Kristiadi)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(alternatif,)-(opini)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(alternatif,)-(mantan Walikota Solo)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(alternatif,)-(Gubernur DKI Jakarta)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(alternatif,)-(separuh responden)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(alternatif,)-(53,9)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(alternatif,)-(persen)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(alternatif,)-(Jokowi)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(alternatif,)-(kandidat Capres)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(alternatif,)-(Gubernur)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(alternatif,)-("Kesulitan Jokowi)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(alternatif,)-(dukungan partai)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(alternatif,)-(tingkat elektabilitasnya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(alternatif,)-(persen pasti)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(alternatif,)-(dia)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(alternatif,)-(partai-partai,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(alternatif,)-(Kristiadi)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(opini)-(mantan Walikota Solo)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(opini)-(Gubernur DKI Jakarta)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(opini)-(separuh responden)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(opini)-(53,9)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(opini)-(persen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(opini)-(Jokowi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(opini)-(kandidat Capres)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(opini)-(Gubernur)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(opini)-("Kesulitan Jokowi)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(opini)-(dukungan partai)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(opini)-(tingkat elektabilitasnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(opini)-(persen pasti)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(opini)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(opini)-(partai-partai,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(opini)-(Kristiadi)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(mantan Walikota Solo)-(Gubernur DKI Jakarta)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(mantan Walikota Solo)-(separuh responden)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(mantan Walikota Solo)-(53,9)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(mantan Walikota Solo)-(persen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(mantan Walikota Solo)-(Jokowi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(mantan Walikota Solo)-(kandidat Capres)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(mantan Walikota Solo)-(Gubernur)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(mantan Walikota Solo)-("Kesulitan Jokowi)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(mantan Walikota Solo)-(dukungan partai)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(mantan Walikota Solo)-(tingkat elektabilitasnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(mantan Walikota Solo)-(persen pasti)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(mantan Walikota Solo)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(mantan Walikota Solo)-(partai-partai,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(mantan Walikota Solo)-(Kristiadi)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(Gubernur DKI Jakarta)-(separuh responden)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Gubernur DKI Jakarta)-(53,9)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Gubernur DKI Jakarta)-(persen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Gubernur DKI Jakarta)-(Jokowi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(Gubernur DKI Jakarta)-(kandidat Capres)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Gubernur DKI Jakarta)-(Gubernur)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(Gubernur DKI Jakarta)-("Kesulitan Jokowi)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Gubernur DKI Jakarta)-(dukungan partai)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Gubernur DKI Jakarta)-(tingkat elektabilitasnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Gubernur DKI Jakarta)-(persen pasti)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Gubernur DKI Jakarta)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(Gubernur DKI Jakarta)-(partai-partai,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Gubernur DKI Jakarta)-(Kristiadi)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(separuh responden)-(53,9)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(separuh responden)-(persen)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(separuh responden)-(Jokowi)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(separuh responden)-(kandidat Capres)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(separuh responden)-(Gubernur)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(separuh responden)-("Kesulitan Jokowi)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(separuh responden)-(dukungan partai)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(separuh responden)-(tingkat elektabilitasnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(separuh responden)-(persen pasti)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(separuh responden)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(separuh responden)-(partai-partai,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(separuh responden)-(Kristiadi)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(53,9)-(persen)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(53,9)-(Jokowi)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(53,9)-(kandidat Capres)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(53,9)-(Gubernur)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(53,9)-("Kesulitan Jokowi)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(53,9)-(dukungan partai)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(53,9)-(tingkat elektabilitasnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(53,9)-(persen pasti)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(53,9)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(53,9)-(partai-partai,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(53,9)-(Kristiadi)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(persen)-(Jokowi)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(persen)-(kandidat Capres)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(persen)-(Gubernur)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(persen)-("Kesulitan Jokowi)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(persen)-(dukungan partai)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persen)-(tingkat elektabilitasnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persen)-(persen pasti)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(persen)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(persen)-(partai-partai,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(persen)-(Kristiadi)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(Jokowi)-(kandidat Capres)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Jokowi)-(Gubernur)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Jokowi)-("Kesulitan Jokowi)]";false;false;false;false;false;false;true;PERSON;OTHER
+"[(Jokowi)-(dukungan partai)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi)-(tingkat elektabilitasnya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi)-(persen pasti)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi)-(dia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Jokowi)-(partai-partai,")]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Jokowi)-(Kristiadi)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(kandidat Capres)-(Gubernur)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(kandidat Capres)-("Kesulitan Jokowi)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(kandidat Capres)-(dukungan partai)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kandidat Capres)-(tingkat elektabilitasnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kandidat Capres)-(persen pasti)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kandidat Capres)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(kandidat Capres)-(partai-partai,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(kandidat Capres)-(Kristiadi)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(Gubernur)-("Kesulitan Jokowi)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Gubernur)-(dukungan partai)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Gubernur)-(tingkat elektabilitasnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Gubernur)-(persen pasti)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Gubernur)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(Gubernur)-(partai-partai,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Gubernur)-(Kristiadi)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[("Kesulitan Jokowi)-(dukungan partai)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[("Kesulitan Jokowi)-(tingkat elektabilitasnya)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[("Kesulitan Jokowi)-(persen pasti)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[("Kesulitan Jokowi)-(dia)]";false;false;false;false;true;true;false;OTHER;OTHER
+"[("Kesulitan Jokowi)-(partai-partai,")]";false;false;false;false;false;true;false;OTHER;OTHER
+"[("Kesulitan Jokowi)-(Kristiadi)]";false;false;false;false;false;true;false;OTHER;ORGANIZATION
+"[(dukungan partai)-(tingkat elektabilitasnya)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(dukungan partai)-(persen pasti)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(dukungan partai)-(dia)]";false;true;false;false;true;true;false;OTHER;OTHER
+"[(dukungan partai)-(partai-partai,")]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(dukungan partai)-(Kristiadi)]";false;true;false;false;false;true;false;OTHER;ORGANIZATION
+"[(tingkat elektabilitasnya)-(persen pasti)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(tingkat elektabilitasnya)-(dia)]";false;true;false;false;true;true;false;OTHER;OTHER
+"[(tingkat elektabilitasnya)-(partai-partai,")]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(tingkat elektabilitasnya)-(Kristiadi)]";false;true;false;false;false;true;false;OTHER;ORGANIZATION
+"[(persen pasti)-(dia)]";false;true;false;false;true;true;false;OTHER;OTHER
+"[(persen pasti)-(partai-partai,")]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(persen pasti)-(Kristiadi)]";false;true;false;false;false;true;false;OTHER;ORGANIZATION
+"[(dia)-(partai-partai,")]";false;false;false;true;false;true;false;OTHER;OTHER
+"[(dia)-(Kristiadi)]";false;true;false;true;false;true;false;OTHER;ORGANIZATION
+"[(partai-partai,")-(Kristiadi)]";false;false;false;false;false;true;false;OTHER;ORGANIZATION

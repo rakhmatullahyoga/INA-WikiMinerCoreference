@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>Pilkada</Mention>
+        <Mention>pemilihan kepala daerah</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>Magelang</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>ANTARA News</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>Bupati</Mention>
+        <Mention>bupati</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>Komisi Pemilihan Umum</Mention>
+        <Mention>KPU</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>27 Oktober</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>2013</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>Partai Gerindra</Mention>
+        <Mention>Gerindra</Mention>
+    </Entity>
+    <Entity ClusterId="9">
+        <Mention>PKNU</Mention>
+    </Entity>
+    <Entity ClusterId="10">
+        <Mention>Kabupaten Magelang</Mention>
+    </Entity>
+    <Entity ClusterId="11">
+        <Mention>detik terakhir</Mention>
+    </Entity>
+    <Entity ClusterId="12">
+        <Mention>DPRD</Mention>
+        <Mention>Wakil Ketua DPRD</Mention>
+        <Mention>DPRD Kabupaten</Mention>
+    </Entity>
+    <Entity ClusterId="13">
+        <Mention>PPP</Mention>
+        <Mention>PKS</Mention>
+    </Entity>
+    <Entity ClusterId="14">
+        <Mention>PAN</Mention>
+    </Entity>
+    <Entity ClusterId="15">
+        <Mention>PDI Perjuangan</Mention>
+    </Entity>
+    <Entity ClusterId="16">
+        <Mention>Zaenal Arifin</Mention>
+    </Entity>
+    <Entity ClusterId="17">
+        <Mention>Partai Golkar</Mention>
+    </Entity>
+    <Entity ClusterId="18">
+        <Mention>PKB</Mention>
+    </Entity>
+    <Entity ClusterId="19">
+        <Mention>WIB</Mention>
+    </Entity>
+    <Entity ClusterId="20">
+        <Mention>partai</Mention>
+        <Mention>Partai</Mention>
+        <Mention>partai politik</Mention>
+    </Entity>
+    <Entity ClusterId="21">
+        <Mention>Partai Demokrat</Mention>
+    </Entity>
+    <Entity ClusterId="22">
+        <Mention>Hanura</Mention>
+    </Entity>
+    <Entity ClusterId="23">
+        <Mention>PBB</Mention>
+    </Entity>
+    <Entity ClusterId="24">
+        <Mention>PPRN</Mention>
+    </Entity>
+    <Entity ClusterId="25">
+        <Mention>20 Agustus</Mention>
+    </Entity>
+    <Entity ClusterId="26">
+        <Mention>27 Agustus</Mention>
+    </Entity>
+</CoreferenceChain>

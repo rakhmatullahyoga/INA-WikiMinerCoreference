@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>DPR</Mention>
+        <Mention>Dewan Perwakilan Rakyat</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>TEMPO.CO</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>Jakarta</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>Indonesia</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>Ray Rangkuti</Mention>
+        <Mention>Arif Budimanta</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>sering</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>korupsi</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>golput</Mention>
+    </Entity>
+    <Entity ClusterId="9">
+        <Mention>18 Mei</Mention>
+    </Entity>
+    <Entity ClusterId="10">
+        <Mention>PDI Perjuangan</Mention>
+    </Entity>
+</CoreferenceChain>

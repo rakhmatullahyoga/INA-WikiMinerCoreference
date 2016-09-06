@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>Menteri Koordinator Bidang Kesejahteraan Rakyat</Mention>
+        <Mention>Menko Kesra</Mention>
+        <Mention>Agung Laksono</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>Beras Miskin</Mention>
+        <Mention>Raskin</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>Bahan Bakar Minyak</Mention>
+        <Mention>BBM</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>inflasi</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>pemerintah</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>BLT</Mention>
+        <Mention>Bantuan Langsung Tunai</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>Jaminan Kesehatan Masyarakat</Mention>
+        <Mention>Jamkesmas</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>Jaminan Persalinan</Mention>
+        <Mention>Jampersal</Mention>
+    </Entity>
+</CoreferenceChain>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>Menlu</Mention>
+        <Mention>Menlu AS</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>Presiden Sudan</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>Menteri Luar Negeri</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>Hailemariam Desalegn</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>Amerika Serikat</Mention>
+        <Mention>AS</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>Kerry</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>Perdana Menteri Ethiopia</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>Khartoum</Mention>
+    </Entity>
+    <Entity ClusterId="9">
+        <Mention>Omar al-Bashir</Mention>
+    </Entity>
+    <Entity ClusterId="10">
+        <Mention>Islam</Mention>
+    </Entity>
+    <Entity ClusterId="11">
+        <Mention>Kordofan Selatan</Mention>
+        <Mention>Nil Biru</Mention>
+    </Entity>
+    <Entity ClusterId="12">
+        <Mention>Presiden Bashir</Mention>
+    </Entity>
+    <Entity ClusterId="13">
+        <Mention>Sudan</Mention>
+        <Mention>Sudan Selatan</Mention>
+    </Entity>
+    <Entity ClusterId="14">
+        <Mention>pemberontak</Mention>
+    </Entity>
+    <Entity ClusterId="15">
+        <Mention>Diplomat</Mention>
+    </Entity>
+    <Entity ClusterId="16">
+        <Mention>AFP</Mention>
+    </Entity>
+    <Entity ClusterId="17">
+        <Mention>wartawan</Mention>
+    </Entity>
+</CoreferenceChain>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>Jawa Timur</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>Narkoba</Mention>
+        <Mention>narkotika</Mention>
+        <Mention>obat-obatan terlarang</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>Wakil Gubernur</Mention>
+        <Mention>Saifullah Yusuf</Mention>
+        <Mention>Gus Ipul</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>Kepala Badan Narkotika Nasional</Mention>
+        <Mention>Anang Iskandar</Mention>
+        <Mention>Anang</Mention>
+    </Entity>
+</CoreferenceChain>

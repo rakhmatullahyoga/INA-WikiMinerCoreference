@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>PBR</Mention>
+        <Mention>Pelita Bandung Raya</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>Persiwa</Mention>
+        <Mention>Persiwa Wamena</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>Wasit</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>striker</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>Liga Super Indonesia</Mention>
+        <Mention>ISL</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>Stadion Siliwangi</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>Bandung</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>Jawa Barat</Mention>
+    </Entity>
+</CoreferenceChain>

@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>cinta produk</Mention>
+        <Mention>Mendag: cinta produk</Mention>
+        <Mention>produk</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>negeri</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>Menteri Perdagangan</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>Gita Wirjawan</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>hal itu</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>ketahanan pangan</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>"Kontribusi ekonomi itu</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>mayoritas</Mention>
+    </Entity>
+    <Entity ClusterId="9">
+        <Mention>sektor pangan</Mention>
+    </Entity>
+    <Entity ClusterId="10">
+        <Mention>Pameran Pangan Nusantara dan Produk Unggulan</Mention>
+    </Entity>
+    <Entity ClusterId="11">
+        <Mention>Daerah</Mention>
+    </Entity>
+    <Entity ClusterId="12">
+        <Mention>Palembang</Mention>
+        <Mention>Palembang,</Mention>
+    </Entity>
+    <Entity ClusterId="13">
+        <Mention>Jumat</Mention>
+    </Entity>
+    <Entity ClusterId="14">
+        <Mention>pembukaan pameran</Mention>
+    </Entity>
+    <Entity ClusterId="15">
+        <Mention>menteri</Mention>
+    </Entity>
+    <Entity ClusterId="16">
+        <Mention>bantuan</Mention>
+    </Entity>
+    <Entity ClusterId="17">
+        <Mention>30 gerobak</Mention>
+    </Entity>
+    <Entity ClusterId="18">
+        <Mention>100 tenda</Mention>
+    </Entity>
+    <Entity ClusterId="19">
+        <Mention>pedagang kecil</Mention>
+    </Entity>
+    <Entity ClusterId="20">
+        <Mention>Selain itu,</Mention>
+    </Entity>
+    <Entity ClusterId="21">
+        <Mention>Logo</Mention>
+    </Entity>
+    <Entity ClusterId="22">
+        <Mention>Aku Cinta Produk Indonesia</Mention>
+    </Entity>
+    <Entity ClusterId="23">
+        <Mention>acara tersebut</Mention>
+    </Entity>
+    <Entity ClusterId="24">
+        <Mention>sekarang ini</Mention>
+    </Entity>
+    <Entity ClusterId="25">
+        <Mention>produk pangan</Mention>
+    </Entity>
+    <Entity ClusterId="26">
+        <Mention>padahal</Mention>
+    </Entity>
+    <Entity ClusterId="27">
+        <Mention>daerah,"</Mention>
+    </Entity>
+    <Entity ClusterId="28">
+        <Mention>pameran tersebut</Mention>
+    </Entity>
+    <Entity ClusterId="29">
+        <Mention>kecintaan masyarakat</Mention>
+    </Entity>
+    <Entity ClusterId="30">
+        <Mention>pengusaha kecil</Mention>
+    </Entity>
+    <Entity ClusterId="31">
+        <Mention>mutu produknya</Mention>
+    </Entity>
+    <Entity ClusterId="32">
+        <Mention>pameran itu</Mention>
+    </Entity>
+    <Entity ClusterId="33">
+        <Mention>daya saing</Mention>
+    </Entity>
+    <Entity ClusterId="34">
+        <Mention>penggunaan dan konsumsi produk</Mention>
+    </Entity>
+    <Entity ClusterId="35">
+        <Mention>Dirjen Perdagangan</Mention>
+    </Entity>
+    <Entity ClusterId="36">
+        <Mention>Negeri Kementerian Perdagangan</Mention>
+    </Entity>
+    <Entity ClusterId="37">
+        <Mention>Sri Agustina</Mention>
+    </Entity>
+    <Entity ClusterId="38">
+        <Mention>pameran ini</Mention>
+    </Entity>
+    <Entity ClusterId="39">
+        <Mention>delegasi</Mention>
+    </Entity>
+    <Entity ClusterId="40">
+        <Mention>berbagai provinsi</Mention>
+    </Entity>
+    <Entity ClusterId="41">
+        <Mention>Indonesia</Mention>
+    </Entity>
+    <Entity ClusterId="42">
+        <Mention>pameran</Mention>
+    </Entity>
+    <Entity ClusterId="43">
+        <Mention>tindak</Mention>
+    </Entity>
+    <Entity ClusterId="44">
+        <Mention>pelaksanaan pameran serupa</Mention>
+    </Entity>
+    <Entity ClusterId="45">
+        <Mention>Pontianak</Mention>
+    </Entity>
+    <Entity ClusterId="46">
+        <Mention>Mei 2013</Mention>
+    </Entity>
+    <Entity ClusterId="47">
+        <Mention>Sumsel</Mention>
+    </Entity>
+    <Entity ClusterId="48">
+        <Mention>Gubernur Sumsel</Mention>
+    </Entity>
+    <Entity ClusterId="49">
+        <Mention>Alex Noerdin</Mention>
+    </Entity>
+    <Entity ClusterId="50">
+        <Mention>perekonomian masyarakat</Mention>
+    </Entity>
+    <Entity ClusterId="51">
+        <Mention>Hal ini</Mention>
+    </Entity>
+    <Entity ClusterId="52">
+        <Mention>adanya</Mention>
+    </Entity>
+    <Entity ClusterId="53">
+        <Mention>pemasaran produk khas</Mention>
+    </Entity>
+    <Entity ClusterId="54">
+        <Mention>Sumsel baik</Mention>
+    </Entity>
+    <Entity ClusterId="55">
+        <Mention>jenis makanan maupun pakaian</Mention>
+    </Entity>
+    <Entity ClusterId="56">
+        <Mention>kesempatan itu,</Mention>
+    </Entity>
+    <Entity ClusterId="57">
+        <Mention>Gubernur</Mention>
+    </Entity>
+    <Entity ClusterId="58">
+        <Mention>timbangan standar</Mention>
+    </Entity>
+    <Entity ClusterId="59">
+        <Mention>pedagang</Mention>
+    </Entity>
+    <Entity ClusterId="60">
+        <Mention>provinsi itu</Mention>
+    </Entity>
+    <Entity ClusterId="61">
+        <Mention>lomba masak makanan khas</Mention>
+    </Entity>
+    <Entity ClusterId="62">
+        <Mention>pemenang pertamannya</Mention>
+    </Entity>
+    <Entity ClusterId="63">
+        <Mention>SMK 6</Mention>
+    </Entity>
+    <Entity ClusterId="64">
+        <Mention>urutan kedua</Mention>
+    </Entity>
+    <Entity ClusterId="65">
+        <Mention>Kalimantan Selatan dan peringkat</Mention>
+    </Entity>
+    <Entity ClusterId="66">
+        <Mention>Kabupaten Musi Banyu Asin</Mention>
+    </Entity>
+</CoreferenceChain>

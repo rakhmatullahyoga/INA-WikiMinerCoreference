@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>Ahmadinejad</Mention>
+        <Mention>Presiden Iran</Mention>
+        <Mention>Mahmoud Ahmadinejad</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>Iran</Mention>
+        <Mention>Teheran</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>Turki</Mention>
+        <Mention>Ankara</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>Press TV</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>Xinhua</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>Jakarta</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>Islam</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>Antara</Mention>
+    </Entity>
+</CoreferenceChain>

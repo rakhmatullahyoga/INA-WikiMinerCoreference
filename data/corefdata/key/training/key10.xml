@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>Letjen</Mention>
+        <Mention>Letnan Jenderal</Mention>
+        <Mention>Letnan Jenderal TNI</Mention>
+        <Mention>Moeldoko</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>Presiden Susilo Bambang Yudhoyono</Mention>
+        <Mention>Presiden Yudhoyono</Mention>
+        <Mention>Presiden</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>Kepala Staf TNI Angkatan Darat</Mention>
+        <Mention>KSAD</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>tentara</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>Indonesia</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>Jakarta</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>Jenderal</Mention>
+        <Mention>TNI</Mention>
+        <Mention>Pramono Edhie Wibowo</Mention>
+        <Mention>Pramono</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>Panglima TNI</Mention>
+    </Entity>
+    <Entity ClusterId="9">
+        <Mention>Menteri Pertahanan</Mention>
+        <Mention>Purnomo Yusgiantoro</Mention>
+    </Entity>
+    <Entity ClusterId="10">
+        <Mention>Wakil Kepala Staf Angkatan Darat</Mention>
+    </Entity>
+    <Entity ClusterId="11">
+        <Mention>Adhi Makayasa</Mention>
+    </Entity>
+    <Entity ClusterId="12">
+        <Mention>Akademi Militer</Mention>
+    </Entity>
+</CoreferenceChain>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>200 Hektare Tanaman Padi Terendam Banjir</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>Aceh</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>200 Hektar tanaman padi</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>tiga bulan</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>panen</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>kawasan Kecamatan Setia Bakti,</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>Kabupaten Aceh Jaya</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>Nangroe Aceh Darussalam</Mention>
+    </Entity>
+    <Entity ClusterId="9">
+        <Mention>Pasalnya,</Mention>
+    </Entity>
+    <Entity ClusterId="10">
+        <Mention>Rabu</Mention>
+    </Entity>
+    <Entity ClusterId="11">
+        <Mention>kawasan itu</Mention>
+    </Entity>
+    <Entity ClusterId="12">
+        <Mention>banjir,</Mention>
+    </Entity>
+    <Entity ClusterId="13">
+        <Mention>guyuran hujan</Mention>
+    </Entity>
+    <Entity ClusterId="14">
+        <Mention>Sebagian tanaman padi</Mention>
+    </Entity>
+    <Entity ClusterId="15">
+        <Mention>banjir tersebut</Mention>
+    </Entity>
+    <Entity ClusterId="16">
+        <Mention>kondisi</Mention>
+    </Entity>
+    <Entity ClusterId="17">
+        <Mention>sedimen lumpur banjir</Mention>
+    </Entity>
+    <Entity ClusterId="18">
+        <Mention>lainnya</Mention>
+    </Entity>
+    <Entity ClusterId="19">
+        <Mention>roboh akibat</Mention>
+    </Entity>
+    <Entity ClusterId="20">
+        <Mention>air bah</Mention>
+    </Entity>
+    <Entity ClusterId="21">
+        <Mention>Petani pemilik sawah</Mention>
+    </Entity>
+</CoreferenceChain>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>upaya global</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>kesehatan perempuan dan anak</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>Sekretaris Jenderal PBB</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>(Sekjen PBB</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>Ban</Mention>
+        <Mention>Ban Ki-moon,</Mention>
+        <Mention>Ban,</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>Selasa,</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>pertemuan gerakan "Every Woman Every Child"</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>Markas PBB,</Mention>
+    </Entity>
+    <Entity ClusterId="9">
+        <Mention>New York,</Mention>
+    </Entity>
+    <Entity ClusterId="10">
+        <Mention>pentingnya</Mention>
+    </Entity>
+    <Entity ClusterId="11">
+        <Mention>kegiatan</Mention>
+    </Entity>
+    <Entity ClusterId="12">
+        <Mention>seluruh dunia</Mention>
+    </Entity>
+    <Entity ClusterId="13">
+        <Mention>tantangan global</Mention>
+    </Entity>
+    <Entity ClusterId="14">
+        <Mention>Abad 21,</Mention>
+    </Entity>
+    <Entity ClusterId="15">
+        <Mention>lembaga</Mention>
+    </Entity>
+    <Entity ClusterId="16">
+        <Mention>sendirian</Mention>
+    </Entity>
+    <Entity ClusterId="17">
+        <Mention>monopoli pendapat</Mention>
+    </Entity>
+    <Entity ClusterId="18">
+        <Mention>sebabnya</Mention>
+    </Entity>
+    <Entity ClusterId="19">
+        <Mention>kemitraan kemitraan strategis."</Mention>
+    </Entity>
+    <Entity ClusterId="20">
+        <Mention>Xinhua</Mention>
+    </Entity>
+    <Entity ClusterId="21">
+        <Mention>kerja sama</Mention>
+    </Entity>
+    <Entity ClusterId="22">
+        <Mention>pemimpin</Mention>
+    </Entity>
+    <Entity ClusterId="23">
+        <Mention>pemerintah</Mention>
+    </Entity>
+    <Entity ClusterId="24">
+        <Mention>organisasi multilateral</Mention>
+    </Entity>
+    <Entity ClusterId="25">
+        <Mention>masyarakat sipil dan sektor</Mention>
+    </Entity>
+    <Entity ClusterId="26">
+        <Mention>gerakan "Every Woman Every Moment"</Mention>
+    </Entity>
+    <Entity ClusterId="27">
+        <Mention>Sekjen PBB</Mention>
+    </Entity>
+    <Entity ClusterId="28">
+        <Mention>nyawa 16</Mention>
+    </Entity>
+    <Entity ClusterId="29">
+        <Mention>perempuan dan anak-anak</Mention>
+    </Entity>
+    <Entity ClusterId="30">
+        <Mention>standar</Mention>
+    </Entity>
+    <Entity ClusterId="31">
+        <Mention>juta orang</Mention>
+    </Entity>
+    <Entity ClusterId="32">
+        <Mention>Gagasan</Mention>
+    </Entity>
+    <Entity ClusterId="33">
+        <Mention>tahun tersebut</Mention>
+    </Entity>
+    <Entity ClusterId="34">
+        <Mention>panggung</Mention>
+    </Entity>
+    <Entity ClusterId="35">
+        <Mention>70 negara</Mention>
+    </Entity>
+    <Entity ClusterId="36">
+        <Mention>pendapat dan penyelesaian</Mention>
+    </Entity>
+    <Entity ClusterId="37">
+        <Mention>nyawa,</Mention>
+    </Entity>
+    <Entity ClusterId="38">
+        <Mention>"Sekarang lah saat buat mitra baru</Mention>
+    </Entity>
+    <Entity ClusterId="39">
+        <Mention>waktu,"</Mention>
+    </Entity>
+    <Entity ClusterId="40">
+        <Mention>April</Mention>
+    </Entity>
+    <Entity ClusterId="41">
+        <Mention>penghitungan</Mention>
+    </Entity>
+    <Entity ClusterId="42">
+        <Mention>1.000 hari</Mention>
+    </Entity>
+    <Entity ClusterId="43">
+        <Mention>tenggat Sasaran Pembangunan Milenium,</Mention>
+    </Entity>
+    <Entity ClusterId="44">
+        <Mention>serangkai</Mention>
+    </Entity>
+</CoreferenceChain>

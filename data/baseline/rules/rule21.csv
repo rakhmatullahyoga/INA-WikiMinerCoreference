@@ -1,0 +1,2017 @@
+mentions;isStrMatch;isMatchNoCasePunc;isAbbrev;isFirstPronoun;isScndPronoun;isOnOneSentence;isMatchPartial;firstNameClass;scndNameClass
+"[(JK: Banyak)-(Kesamaan)]";false;false;false;false;false;true;false;ORGANIZATION;PERSON
+"[(JK: Banyak)-(PMI dan Kopassus Ketua)]";false;false;false;false;false;true;false;ORGANIZATION;PERSON
+"[(JK: Banyak)-(Palang Merah Indonesia Jusuf Kalla)]";false;false;false;false;false;true;false;ORGANIZATION;PERSON
+"[(JK: Banyak)-(JK)]";false;false;false;false;false;true;true;ORGANIZATION;ORGANIZATION
+"[(JK: Banyak)-(PMI dan Komando Pasukan)]";false;false;false;false;false;true;false;ORGANIZATION;PERSON
+"[(JK: Banyak)-((Kopassus)]";false;false;false;false;false;true;false;ORGANIZATION;OTHER
+"[(JK: Banyak)-(persamaannya)]";false;false;false;false;false;true;false;ORGANIZATION;OTHER
+"[(JK: Banyak)-(persamaan)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(JK: Banyak)-(PMI dan Kopassus,")]";false;false;false;false;false;false;false;ORGANIZATION;PERSON
+"[(JK: Banyak)-(Jusuf Kalla)]";false;false;false;false;false;false;false;ORGANIZATION;LOCATION
+"[(JK: Banyak)-(acara donor darah)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(JK: Banyak)-("1.000 Kantong Darah)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(JK: Banyak)-(Kemanusiaan)]";false;false;false;false;false;false;false;ORGANIZATION;PERSON
+"[(JK: Banyak)-(Kopassus")]";false;false;false;false;false;false;false;ORGANIZATION;PERSON
+"[(JK: Banyak)-(Markas Grup 2)]";false;false;false;false;false;false;false;ORGANIZATION;LOCATION
+"[(JK: Banyak)-(Kopassus Kandang Menjangan Kartasura)]";false;false;false;false;false;false;false;ORGANIZATION;PERSON
+"[(JK: Banyak)-(Sukoharjo)]";false;false;false;false;false;false;false;ORGANIZATION;PERSON
+"[(JK: Banyak)-(Jateng,)]";false;false;false;false;false;false;false;ORGANIZATION;PERSON
+"[(JK: Banyak)-(Sabtu)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(JK: Banyak)-(Acara donor darah)]";false;false;false;false;false;false;false;ORGANIZATION;PERSON
+"[(JK: Banyak)-(1.000 kantong darah)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(JK: Banyak)-(kemanusiaan tersebut)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(JK: Banyak)-(rangka)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(JK: Banyak)-(Hari Ulang Tahun)]";false;false;false;false;false;false;false;ORGANIZATION;PERSON
+"[(JK: Banyak)-(Ke-61 Kopassus)]";false;false;false;false;false;false;false;ORGANIZATION;PERSON
+"[(JK: Banyak)-(JK)]";false;false;false;false;false;false;true;ORGANIZATION;ORGANIZATION
+"[(JK: Banyak)-(Wakil Danjen Kopassus Brigjen TNI Jaswadi)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(JK: Banyak)-(dan Komandan Grup)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(JK: Banyak)-(Kopassus Letkol Maruli,)]";false;false;false;false;false;false;false;ORGANIZATION;PERSON
+"[(JK: Banyak)-(kesamaan PMI dan Kopassus)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(JK: Banyak)-(merah,)]";false;false;false;false;true;false;false;ORGANIZATION;OTHER
+"[(JK: Banyak)-(baret dan logo PMI)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(JK: Banyak)-(Selain itu,)]";false;false;false;false;false;false;false;ORGANIZATION;PERSON
+"[(JK: Banyak)-(Jusuf Kalla,)]";false;false;false;false;false;false;false;ORGANIZATION;LOCATION
+"[(JK: Banyak)-(kesamaan)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(JK: Banyak)-(lainnya)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(JK: Banyak)-(Kopassus)]";false;false;false;false;false;false;false;ORGANIZATION;PERSON
+"[(JK: Banyak)-(namanya)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(JK: Banyak)-(darah)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(JK: Banyak)-(PMI)]";false;false;false;false;false;false;false;ORGANIZATION;PERSON
+"[(JK: Banyak)-(tugasnya)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(JK: Banyak)-(darah)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(JK: Banyak)-(donor)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(JK: Banyak)-(keadaan normal PMI dan Kopassus)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(JK: Banyak)-(persitiwa perang atau bencana," tuturnya)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(JK: Banyak)-(Pihaknya)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(JK: Banyak)-(kasih)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(JK: Banyak)-(adanya)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(JK: Banyak)-(kegiatan donor darah)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(JK: Banyak)-(anggota Kopassus tersebut)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(JK: Banyak)-("Darah)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(JK: Banyak)-(kondisi tertentu)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(JK: Banyak)-(Sumbangan)]";false;false;false;false;false;false;false;ORGANIZATION;PERSON
+"[(JK: Banyak)-(kantong darah ini)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(JK: Banyak)-(Kerja sama)]";false;false;false;false;false;false;false;ORGANIZATION;PERSON
+"[(JK: Banyak)-(Jusuf Kalla)]";false;false;false;false;false;false;false;ORGANIZATION;LOCATION
+"[(JK: Banyak)-(Wadanjen Kopassus Brigjen TNI Jaswadi)]";false;false;false;false;false;false;false;ORGANIZATION;PERSON
+"[(JK: Banyak)-(diri)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(JK: Banyak)-(kegiatan proses donor darah)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(JK: Banyak)-(anggota Kopassus)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(JK: Banyak)-(sebuah Aula)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(JK: Banyak)-(Komplek Grup)]";false;false;false;false;false;false;false;ORGANIZATION;PERSON
+"[(JK: Banyak)-(2 Kopassus)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Kesamaan)-(PMI dan Kopassus Ketua)]";false;true;false;false;false;true;false;PERSON;PERSON
+"[(Kesamaan)-(Palang Merah Indonesia Jusuf Kalla)]";false;true;false;false;false;true;false;PERSON;PERSON
+"[(Kesamaan)-(JK)]";false;true;false;false;false;true;false;PERSON;ORGANIZATION
+"[(Kesamaan)-(PMI dan Komando Pasukan)]";false;true;false;false;false;true;false;PERSON;PERSON
+"[(Kesamaan)-((Kopassus)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Kesamaan)-(persamaannya)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Kesamaan)-(persamaan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kesamaan)-(PMI dan Kopassus,")]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Kesamaan)-(Jusuf Kalla)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Kesamaan)-(acara donor darah)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kesamaan)-("1.000 Kantong Darah)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Kesamaan)-(Kemanusiaan)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Kesamaan)-(Kopassus")]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Kesamaan)-(Markas Grup 2)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Kesamaan)-(Kopassus Kandang Menjangan Kartasura)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Kesamaan)-(Sukoharjo)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Kesamaan)-(Jateng,)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Kesamaan)-(Sabtu)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kesamaan)-(Acara donor darah)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Kesamaan)-(1.000 kantong darah)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kesamaan)-(kemanusiaan tersebut)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kesamaan)-(rangka)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kesamaan)-(Hari Ulang Tahun)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Kesamaan)-(Ke-61 Kopassus)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Kesamaan)-(JK)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Kesamaan)-(Wakil Danjen Kopassus Brigjen TNI Jaswadi)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kesamaan)-(dan Komandan Grup)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kesamaan)-(Kopassus Letkol Maruli,)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Kesamaan)-(kesamaan PMI dan Kopassus)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kesamaan)-(merah,)]";false;false;false;false;true;false;false;PERSON;OTHER
+"[(Kesamaan)-(baret dan logo PMI)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kesamaan)-(Selain itu,)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Kesamaan)-(Jusuf Kalla,)]";false;false;false;false;false;false;false;PERSON;LOCATION
+"[(Kesamaan)-(kesamaan)]";true;true;false;false;false;false;false;PERSON;OTHER
+"[(Kesamaan)-(lainnya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kesamaan)-(Kopassus)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Kesamaan)-(namanya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kesamaan)-(darah)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kesamaan)-(PMI)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Kesamaan)-(tugasnya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kesamaan)-(darah)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kesamaan)-(donor)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kesamaan)-(keadaan normal PMI dan Kopassus)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kesamaan)-(persitiwa perang atau bencana," tuturnya)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Kesamaan)-(Pihaknya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kesamaan)-(kasih)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kesamaan)-(adanya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kesamaan)-(kegiatan donor darah)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kesamaan)-(anggota Kopassus tersebut)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kesamaan)-("Darah)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Kesamaan)-(kondisi tertentu)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kesamaan)-(Sumbangan)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Kesamaan)-(kantong darah ini)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kesamaan)-(Kerja sama)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Kesamaan)-(Jusuf Kalla)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Kesamaan)-(Wadanjen Kopassus Brigjen TNI Jaswadi)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Kesamaan)-(diri)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kesamaan)-(kegiatan proses donor darah)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kesamaan)-(anggota Kopassus)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kesamaan)-(sebuah Aula)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kesamaan)-(Komplek Grup)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Kesamaan)-(2 Kopassus)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(PMI dan Kopassus Ketua)-(Palang Merah Indonesia Jusuf Kalla)]";false;true;false;false;false;true;false;PERSON;PERSON
+"[(PMI dan Kopassus Ketua)-(JK)]";false;true;false;false;false;true;false;PERSON;ORGANIZATION
+"[(PMI dan Kopassus Ketua)-(PMI dan Komando Pasukan)]";false;true;false;false;false;true;false;PERSON;PERSON
+"[(PMI dan Kopassus Ketua)-((Kopassus)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(PMI dan Kopassus Ketua)-(persamaannya)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(PMI dan Kopassus Ketua)-(persamaan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(PMI dan Kopassus Ketua)-(PMI dan Kopassus,")]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(PMI dan Kopassus Ketua)-(Jusuf Kalla)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(PMI dan Kopassus Ketua)-(acara donor darah)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(PMI dan Kopassus Ketua)-("1.000 Kantong Darah)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(PMI dan Kopassus Ketua)-(Kemanusiaan)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(PMI dan Kopassus Ketua)-(Kopassus")]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(PMI dan Kopassus Ketua)-(Markas Grup 2)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(PMI dan Kopassus Ketua)-(Kopassus Kandang Menjangan Kartasura)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(PMI dan Kopassus Ketua)-(Sukoharjo)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(PMI dan Kopassus Ketua)-(Jateng,)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(PMI dan Kopassus Ketua)-(Sabtu)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(PMI dan Kopassus Ketua)-(Acara donor darah)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(PMI dan Kopassus Ketua)-(1.000 kantong darah)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(PMI dan Kopassus Ketua)-(kemanusiaan tersebut)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(PMI dan Kopassus Ketua)-(rangka)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(PMI dan Kopassus Ketua)-(Hari Ulang Tahun)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(PMI dan Kopassus Ketua)-(Ke-61 Kopassus)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(PMI dan Kopassus Ketua)-(JK)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(PMI dan Kopassus Ketua)-(Wakil Danjen Kopassus Brigjen TNI Jaswadi)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(PMI dan Kopassus Ketua)-(dan Komandan Grup)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(PMI dan Kopassus Ketua)-(Kopassus Letkol Maruli,)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(PMI dan Kopassus Ketua)-(kesamaan PMI dan Kopassus)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(PMI dan Kopassus Ketua)-(merah,)]";false;false;false;false;true;false;false;PERSON;OTHER
+"[(PMI dan Kopassus Ketua)-(baret dan logo PMI)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(PMI dan Kopassus Ketua)-(Selain itu,)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(PMI dan Kopassus Ketua)-(Jusuf Kalla,)]";false;false;false;false;false;false;false;PERSON;LOCATION
+"[(PMI dan Kopassus Ketua)-(kesamaan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(PMI dan Kopassus Ketua)-(lainnya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(PMI dan Kopassus Ketua)-(Kopassus)]";false;true;false;false;false;false;true;PERSON;PERSON
+"[(PMI dan Kopassus Ketua)-(namanya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(PMI dan Kopassus Ketua)-(darah)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(PMI dan Kopassus Ketua)-(PMI)]";false;true;false;false;false;false;true;PERSON;PERSON
+"[(PMI dan Kopassus Ketua)-(tugasnya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(PMI dan Kopassus Ketua)-(darah)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(PMI dan Kopassus Ketua)-(donor)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(PMI dan Kopassus Ketua)-(keadaan normal PMI dan Kopassus)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(PMI dan Kopassus Ketua)-(persitiwa perang atau bencana," tuturnya)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(PMI dan Kopassus Ketua)-(Pihaknya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(PMI dan Kopassus Ketua)-(kasih)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(PMI dan Kopassus Ketua)-(adanya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(PMI dan Kopassus Ketua)-(kegiatan donor darah)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(PMI dan Kopassus Ketua)-(anggota Kopassus tersebut)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(PMI dan Kopassus Ketua)-("Darah)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(PMI dan Kopassus Ketua)-(kondisi tertentu)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(PMI dan Kopassus Ketua)-(Sumbangan)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(PMI dan Kopassus Ketua)-(kantong darah ini)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(PMI dan Kopassus Ketua)-(Kerja sama)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(PMI dan Kopassus Ketua)-(Jusuf Kalla)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(PMI dan Kopassus Ketua)-(Wadanjen Kopassus Brigjen TNI Jaswadi)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(PMI dan Kopassus Ketua)-(diri)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(PMI dan Kopassus Ketua)-(kegiatan proses donor darah)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(PMI dan Kopassus Ketua)-(anggota Kopassus)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(PMI dan Kopassus Ketua)-(sebuah Aula)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(PMI dan Kopassus Ketua)-(Komplek Grup)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(PMI dan Kopassus Ketua)-(2 Kopassus)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Palang Merah Indonesia Jusuf Kalla)-(JK)]";false;true;false;false;false;true;false;PERSON;ORGANIZATION
+"[(Palang Merah Indonesia Jusuf Kalla)-(PMI dan Komando Pasukan)]";false;true;false;false;false;true;false;PERSON;PERSON
+"[(Palang Merah Indonesia Jusuf Kalla)-((Kopassus)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Palang Merah Indonesia Jusuf Kalla)-(persamaannya)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Palang Merah Indonesia Jusuf Kalla)-(persamaan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Palang Merah Indonesia Jusuf Kalla)-(PMI dan Kopassus,")]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Palang Merah Indonesia Jusuf Kalla)-(Jusuf Kalla)]";false;true;false;false;false;false;true;PERSON;LOCATION
+"[(Palang Merah Indonesia Jusuf Kalla)-(acara donor darah)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Palang Merah Indonesia Jusuf Kalla)-("1.000 Kantong Darah)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Palang Merah Indonesia Jusuf Kalla)-(Kemanusiaan)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Palang Merah Indonesia Jusuf Kalla)-(Kopassus")]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Palang Merah Indonesia Jusuf Kalla)-(Markas Grup 2)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Palang Merah Indonesia Jusuf Kalla)-(Kopassus Kandang Menjangan Kartasura)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Palang Merah Indonesia Jusuf Kalla)-(Sukoharjo)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Palang Merah Indonesia Jusuf Kalla)-(Jateng,)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Palang Merah Indonesia Jusuf Kalla)-(Sabtu)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Palang Merah Indonesia Jusuf Kalla)-(Acara donor darah)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Palang Merah Indonesia Jusuf Kalla)-(1.000 kantong darah)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Palang Merah Indonesia Jusuf Kalla)-(kemanusiaan tersebut)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Palang Merah Indonesia Jusuf Kalla)-(rangka)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Palang Merah Indonesia Jusuf Kalla)-(Hari Ulang Tahun)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Palang Merah Indonesia Jusuf Kalla)-(Ke-61 Kopassus)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Palang Merah Indonesia Jusuf Kalla)-(JK)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Palang Merah Indonesia Jusuf Kalla)-(Wakil Danjen Kopassus Brigjen TNI Jaswadi)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Palang Merah Indonesia Jusuf Kalla)-(dan Komandan Grup)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Palang Merah Indonesia Jusuf Kalla)-(Kopassus Letkol Maruli,)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Palang Merah Indonesia Jusuf Kalla)-(kesamaan PMI dan Kopassus)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Palang Merah Indonesia Jusuf Kalla)-(merah,)]";false;false;false;false;true;false;false;PERSON;OTHER
+"[(Palang Merah Indonesia Jusuf Kalla)-(baret dan logo PMI)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Palang Merah Indonesia Jusuf Kalla)-(Selain itu,)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Palang Merah Indonesia Jusuf Kalla)-(Jusuf Kalla,)]";false;false;false;false;false;false;false;PERSON;LOCATION
+"[(Palang Merah Indonesia Jusuf Kalla)-(kesamaan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Palang Merah Indonesia Jusuf Kalla)-(lainnya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Palang Merah Indonesia Jusuf Kalla)-(Kopassus)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Palang Merah Indonesia Jusuf Kalla)-(namanya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Palang Merah Indonesia Jusuf Kalla)-(darah)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Palang Merah Indonesia Jusuf Kalla)-(PMI)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Palang Merah Indonesia Jusuf Kalla)-(tugasnya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Palang Merah Indonesia Jusuf Kalla)-(darah)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Palang Merah Indonesia Jusuf Kalla)-(donor)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Palang Merah Indonesia Jusuf Kalla)-(keadaan normal PMI dan Kopassus)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Palang Merah Indonesia Jusuf Kalla)-(persitiwa perang atau bencana," tuturnya)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Palang Merah Indonesia Jusuf Kalla)-(Pihaknya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Palang Merah Indonesia Jusuf Kalla)-(kasih)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Palang Merah Indonesia Jusuf Kalla)-(adanya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Palang Merah Indonesia Jusuf Kalla)-(kegiatan donor darah)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Palang Merah Indonesia Jusuf Kalla)-(anggota Kopassus tersebut)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Palang Merah Indonesia Jusuf Kalla)-("Darah)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Palang Merah Indonesia Jusuf Kalla)-(kondisi tertentu)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Palang Merah Indonesia Jusuf Kalla)-(Sumbangan)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Palang Merah Indonesia Jusuf Kalla)-(kantong darah ini)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Palang Merah Indonesia Jusuf Kalla)-(Kerja sama)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Palang Merah Indonesia Jusuf Kalla)-(Jusuf Kalla)]";false;true;false;false;false;false;true;PERSON;LOCATION
+"[(Palang Merah Indonesia Jusuf Kalla)-(Wadanjen Kopassus Brigjen TNI Jaswadi)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Palang Merah Indonesia Jusuf Kalla)-(diri)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Palang Merah Indonesia Jusuf Kalla)-(kegiatan proses donor darah)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Palang Merah Indonesia Jusuf Kalla)-(anggota Kopassus)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Palang Merah Indonesia Jusuf Kalla)-(sebuah Aula)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Palang Merah Indonesia Jusuf Kalla)-(Komplek Grup)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Palang Merah Indonesia Jusuf Kalla)-(2 Kopassus)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(JK)-(PMI dan Komando Pasukan)]";false;true;false;false;false;true;false;ORGANIZATION;PERSON
+"[(JK)-((Kopassus)]";false;true;false;false;false;true;false;ORGANIZATION;OTHER
+"[(JK)-(persamaannya)]";false;true;false;false;false;true;false;ORGANIZATION;OTHER
+"[(JK)-(persamaan)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(JK)-(PMI dan Kopassus,")]";false;false;false;false;false;false;false;ORGANIZATION;PERSON
+"[(JK)-(Jusuf Kalla)]";false;true;true;false;false;false;false;ORGANIZATION;LOCATION
+"[(JK)-(acara donor darah)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(JK)-("1.000 Kantong Darah)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(JK)-(Kemanusiaan)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(JK)-(Kopassus")]";false;false;false;false;false;false;false;ORGANIZATION;PERSON
+"[(JK)-(Markas Grup 2)]";false;true;false;false;false;false;false;ORGANIZATION;LOCATION
+"[(JK)-(Kopassus Kandang Menjangan Kartasura)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(JK)-(Sukoharjo)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(JK)-(Jateng,)]";false;false;false;false;false;false;false;ORGANIZATION;PERSON
+"[(JK)-(Sabtu)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(JK)-(Acara donor darah)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(JK)-(1.000 kantong darah)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(JK)-(kemanusiaan tersebut)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(JK)-(rangka)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(JK)-(Hari Ulang Tahun)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(JK)-(Ke-61 Kopassus)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(JK)-(JK)]";true;true;false;false;false;false;true;ORGANIZATION;ORGANIZATION
+"[(JK)-(Wakil Danjen Kopassus Brigjen TNI Jaswadi)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(JK)-(dan Komandan Grup)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(JK)-(Kopassus Letkol Maruli,)]";false;false;false;false;false;false;false;ORGANIZATION;PERSON
+"[(JK)-(kesamaan PMI dan Kopassus)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(JK)-(merah,)]";false;false;false;false;true;false;false;ORGANIZATION;OTHER
+"[(JK)-(baret dan logo PMI)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(JK)-(Selain itu,)]";false;false;false;false;false;false;false;ORGANIZATION;PERSON
+"[(JK)-(Jusuf Kalla,)]";false;false;false;false;false;false;false;ORGANIZATION;LOCATION
+"[(JK)-(kesamaan)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(JK)-(lainnya)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(JK)-(Kopassus)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(JK)-(namanya)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(JK)-(darah)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(JK)-(PMI)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(JK)-(tugasnya)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(JK)-(darah)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(JK)-(donor)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(JK)-(keadaan normal PMI dan Kopassus)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(JK)-(persitiwa perang atau bencana," tuturnya)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(JK)-(Pihaknya)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(JK)-(kasih)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(JK)-(adanya)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(JK)-(kegiatan donor darah)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(JK)-(anggota Kopassus tersebut)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(JK)-("Darah)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(JK)-(kondisi tertentu)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(JK)-(Sumbangan)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(JK)-(kantong darah ini)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(JK)-(Kerja sama)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(JK)-(Jusuf Kalla)]";false;true;true;false;false;false;false;ORGANIZATION;LOCATION
+"[(JK)-(Wadanjen Kopassus Brigjen TNI Jaswadi)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(JK)-(diri)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(JK)-(kegiatan proses donor darah)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(JK)-(anggota Kopassus)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(JK)-(sebuah Aula)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(JK)-(Komplek Grup)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(JK)-(2 Kopassus)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PMI dan Komando Pasukan)-((Kopassus)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(PMI dan Komando Pasukan)-(persamaannya)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(PMI dan Komando Pasukan)-(persamaan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(PMI dan Komando Pasukan)-(PMI dan Kopassus,")]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(PMI dan Komando Pasukan)-(Jusuf Kalla)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(PMI dan Komando Pasukan)-(acara donor darah)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(PMI dan Komando Pasukan)-("1.000 Kantong Darah)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(PMI dan Komando Pasukan)-(Kemanusiaan)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(PMI dan Komando Pasukan)-(Kopassus")]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(PMI dan Komando Pasukan)-(Markas Grup 2)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(PMI dan Komando Pasukan)-(Kopassus Kandang Menjangan Kartasura)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(PMI dan Komando Pasukan)-(Sukoharjo)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(PMI dan Komando Pasukan)-(Jateng,)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(PMI dan Komando Pasukan)-(Sabtu)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(PMI dan Komando Pasukan)-(Acara donor darah)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(PMI dan Komando Pasukan)-(1.000 kantong darah)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(PMI dan Komando Pasukan)-(kemanusiaan tersebut)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(PMI dan Komando Pasukan)-(rangka)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(PMI dan Komando Pasukan)-(Hari Ulang Tahun)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(PMI dan Komando Pasukan)-(Ke-61 Kopassus)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(PMI dan Komando Pasukan)-(JK)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(PMI dan Komando Pasukan)-(Wakil Danjen Kopassus Brigjen TNI Jaswadi)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(PMI dan Komando Pasukan)-(dan Komandan Grup)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(PMI dan Komando Pasukan)-(Kopassus Letkol Maruli,)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(PMI dan Komando Pasukan)-(kesamaan PMI dan Kopassus)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(PMI dan Komando Pasukan)-(merah,)]";false;false;false;false;true;false;false;PERSON;OTHER
+"[(PMI dan Komando Pasukan)-(baret dan logo PMI)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(PMI dan Komando Pasukan)-(Selain itu,)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(PMI dan Komando Pasukan)-(Jusuf Kalla,)]";false;false;false;false;false;false;false;PERSON;LOCATION
+"[(PMI dan Komando Pasukan)-(kesamaan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(PMI dan Komando Pasukan)-(lainnya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(PMI dan Komando Pasukan)-(Kopassus)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(PMI dan Komando Pasukan)-(namanya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(PMI dan Komando Pasukan)-(darah)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(PMI dan Komando Pasukan)-(PMI)]";false;true;false;false;false;false;true;PERSON;PERSON
+"[(PMI dan Komando Pasukan)-(tugasnya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(PMI dan Komando Pasukan)-(darah)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(PMI dan Komando Pasukan)-(donor)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(PMI dan Komando Pasukan)-(keadaan normal PMI dan Kopassus)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(PMI dan Komando Pasukan)-(persitiwa perang atau bencana," tuturnya)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(PMI dan Komando Pasukan)-(Pihaknya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(PMI dan Komando Pasukan)-(kasih)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(PMI dan Komando Pasukan)-(adanya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(PMI dan Komando Pasukan)-(kegiatan donor darah)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(PMI dan Komando Pasukan)-(anggota Kopassus tersebut)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(PMI dan Komando Pasukan)-("Darah)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(PMI dan Komando Pasukan)-(kondisi tertentu)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(PMI dan Komando Pasukan)-(Sumbangan)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(PMI dan Komando Pasukan)-(kantong darah ini)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(PMI dan Komando Pasukan)-(Kerja sama)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(PMI dan Komando Pasukan)-(Jusuf Kalla)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(PMI dan Komando Pasukan)-(Wadanjen Kopassus Brigjen TNI Jaswadi)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(PMI dan Komando Pasukan)-(diri)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(PMI dan Komando Pasukan)-(kegiatan proses donor darah)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(PMI dan Komando Pasukan)-(anggota Kopassus)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(PMI dan Komando Pasukan)-(sebuah Aula)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(PMI dan Komando Pasukan)-(Komplek Grup)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(PMI dan Komando Pasukan)-(2 Kopassus)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[((Kopassus)-(persamaannya)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[((Kopassus)-(persamaan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[((Kopassus)-(PMI dan Kopassus,")]";false;false;false;false;false;false;false;OTHER;PERSON
+"[((Kopassus)-(Jusuf Kalla)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[((Kopassus)-(acara donor darah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[((Kopassus)-("1.000 Kantong Darah)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[((Kopassus)-(Kemanusiaan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[((Kopassus)-(Kopassus")]";false;false;false;false;false;false;false;OTHER;PERSON
+"[((Kopassus)-(Markas Grup 2)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[((Kopassus)-(Kopassus Kandang Menjangan Kartasura)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[((Kopassus)-(Sukoharjo)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[((Kopassus)-(Jateng,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[((Kopassus)-(Sabtu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[((Kopassus)-(Acara donor darah)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[((Kopassus)-(1.000 kantong darah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[((Kopassus)-(kemanusiaan tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[((Kopassus)-(rangka)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[((Kopassus)-(Hari Ulang Tahun)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[((Kopassus)-(Ke-61 Kopassus)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[((Kopassus)-(JK)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[((Kopassus)-(Wakil Danjen Kopassus Brigjen TNI Jaswadi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[((Kopassus)-(dan Komandan Grup)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[((Kopassus)-(Kopassus Letkol Maruli,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[((Kopassus)-(kesamaan PMI dan Kopassus)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[((Kopassus)-(merah,)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[((Kopassus)-(baret dan logo PMI)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[((Kopassus)-(Selain itu,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[((Kopassus)-(Jusuf Kalla,)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[((Kopassus)-(kesamaan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[((Kopassus)-(lainnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[((Kopassus)-(Kopassus)]";false;true;false;false;false;false;true;OTHER;PERSON
+"[((Kopassus)-(namanya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[((Kopassus)-(darah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[((Kopassus)-(PMI)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[((Kopassus)-(tugasnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[((Kopassus)-(darah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[((Kopassus)-(donor)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[((Kopassus)-(keadaan normal PMI dan Kopassus)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[((Kopassus)-(persitiwa perang atau bencana," tuturnya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[((Kopassus)-(Pihaknya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[((Kopassus)-(kasih)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[((Kopassus)-(adanya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[((Kopassus)-(kegiatan donor darah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[((Kopassus)-(anggota Kopassus tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[((Kopassus)-("Darah)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[((Kopassus)-(kondisi tertentu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[((Kopassus)-(Sumbangan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[((Kopassus)-(kantong darah ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[((Kopassus)-(Kerja sama)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[((Kopassus)-(Jusuf Kalla)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[((Kopassus)-(Wadanjen Kopassus Brigjen TNI Jaswadi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[((Kopassus)-(diri)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[((Kopassus)-(kegiatan proses donor darah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[((Kopassus)-(anggota Kopassus)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[((Kopassus)-(sebuah Aula)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[((Kopassus)-(Komplek Grup)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[((Kopassus)-(2 Kopassus)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persamaannya)-(persamaan)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(persamaannya)-(PMI dan Kopassus,")]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(persamaannya)-(Jusuf Kalla)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(persamaannya)-(acara donor darah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persamaannya)-("1.000 Kantong Darah)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(persamaannya)-(Kemanusiaan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(persamaannya)-(Kopassus")]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(persamaannya)-(Markas Grup 2)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(persamaannya)-(Kopassus Kandang Menjangan Kartasura)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(persamaannya)-(Sukoharjo)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(persamaannya)-(Jateng,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(persamaannya)-(Sabtu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persamaannya)-(Acara donor darah)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(persamaannya)-(1.000 kantong darah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persamaannya)-(kemanusiaan tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persamaannya)-(rangka)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persamaannya)-(Hari Ulang Tahun)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(persamaannya)-(Ke-61 Kopassus)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(persamaannya)-(JK)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(persamaannya)-(Wakil Danjen Kopassus Brigjen TNI Jaswadi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persamaannya)-(dan Komandan Grup)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persamaannya)-(Kopassus Letkol Maruli,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(persamaannya)-(kesamaan PMI dan Kopassus)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persamaannya)-(merah,)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(persamaannya)-(baret dan logo PMI)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persamaannya)-(Selain itu,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(persamaannya)-(Jusuf Kalla,)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(persamaannya)-(kesamaan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persamaannya)-(lainnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persamaannya)-(Kopassus)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(persamaannya)-(namanya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persamaannya)-(darah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persamaannya)-(PMI)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(persamaannya)-(tugasnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persamaannya)-(darah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persamaannya)-(donor)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persamaannya)-(keadaan normal PMI dan Kopassus)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persamaannya)-(persitiwa perang atau bencana," tuturnya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(persamaannya)-(Pihaknya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persamaannya)-(kasih)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persamaannya)-(adanya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persamaannya)-(kegiatan donor darah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persamaannya)-(anggota Kopassus tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persamaannya)-("Darah)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(persamaannya)-(kondisi tertentu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persamaannya)-(Sumbangan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(persamaannya)-(kantong darah ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persamaannya)-(Kerja sama)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(persamaannya)-(Jusuf Kalla)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(persamaannya)-(Wadanjen Kopassus Brigjen TNI Jaswadi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(persamaannya)-(diri)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persamaannya)-(kegiatan proses donor darah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persamaannya)-(anggota Kopassus)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persamaannya)-(sebuah Aula)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persamaannya)-(Komplek Grup)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(persamaannya)-(2 Kopassus)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persamaan)-(PMI dan Kopassus,")]";false;false;false;false;false;true;false;OTHER;PERSON
+"[(persamaan)-(Jusuf Kalla)]";false;true;false;false;false;true;false;OTHER;LOCATION
+"[(persamaan)-(acara donor darah)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(persamaan)-("1.000 Kantong Darah)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(persamaan)-(Kemanusiaan)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(persamaan)-(Kopassus")]";false;false;false;false;false;true;false;OTHER;PERSON
+"[(persamaan)-(Markas Grup 2)]";false;true;false;false;false;true;false;OTHER;LOCATION
+"[(persamaan)-(Kopassus Kandang Menjangan Kartasura)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(persamaan)-(Sukoharjo)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(persamaan)-(Jateng,)]";false;false;false;false;false;true;false;OTHER;PERSON
+"[(persamaan)-(Sabtu)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(persamaan)-(Acara donor darah)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(persamaan)-(1.000 kantong darah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persamaan)-(kemanusiaan tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persamaan)-(rangka)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persamaan)-(Hari Ulang Tahun)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(persamaan)-(Ke-61 Kopassus)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(persamaan)-(JK)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(persamaan)-(Wakil Danjen Kopassus Brigjen TNI Jaswadi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persamaan)-(dan Komandan Grup)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persamaan)-(Kopassus Letkol Maruli,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(persamaan)-(kesamaan PMI dan Kopassus)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persamaan)-(merah,)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(persamaan)-(baret dan logo PMI)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persamaan)-(Selain itu,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(persamaan)-(Jusuf Kalla,)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(persamaan)-(kesamaan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persamaan)-(lainnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persamaan)-(Kopassus)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(persamaan)-(namanya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persamaan)-(darah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persamaan)-(PMI)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(persamaan)-(tugasnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persamaan)-(darah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persamaan)-(donor)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persamaan)-(keadaan normal PMI dan Kopassus)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persamaan)-(persitiwa perang atau bencana," tuturnya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(persamaan)-(Pihaknya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persamaan)-(kasih)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persamaan)-(adanya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persamaan)-(kegiatan donor darah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persamaan)-(anggota Kopassus tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persamaan)-("Darah)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(persamaan)-(kondisi tertentu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persamaan)-(Sumbangan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(persamaan)-(kantong darah ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persamaan)-(Kerja sama)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(persamaan)-(Jusuf Kalla)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(persamaan)-(Wadanjen Kopassus Brigjen TNI Jaswadi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(persamaan)-(diri)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persamaan)-(kegiatan proses donor darah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persamaan)-(anggota Kopassus)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persamaan)-(sebuah Aula)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persamaan)-(Komplek Grup)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(persamaan)-(2 Kopassus)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(PMI dan Kopassus,")-(Jusuf Kalla)]";false;false;false;false;false;true;false;PERSON;LOCATION
+"[(PMI dan Kopassus,")-(acara donor darah)]";false;false;false;false;false;true;false;PERSON;OTHER
+"[(PMI dan Kopassus,")-("1.000 Kantong Darah)]";false;false;false;false;false;true;false;PERSON;OTHER
+"[(PMI dan Kopassus,")-(Kemanusiaan)]";false;false;false;false;false;true;false;PERSON;PERSON
+"[(PMI dan Kopassus,")-(Kopassus")]";false;false;false;false;false;true;false;PERSON;PERSON
+"[(PMI dan Kopassus,")-(Markas Grup 2)]";false;false;false;false;false;true;false;PERSON;LOCATION
+"[(PMI dan Kopassus,")-(Kopassus Kandang Menjangan Kartasura)]";false;false;false;false;false;true;false;PERSON;PERSON
+"[(PMI dan Kopassus,")-(Sukoharjo)]";false;false;false;false;false;true;false;PERSON;PERSON
+"[(PMI dan Kopassus,")-(Jateng,)]";false;false;false;false;false;true;false;PERSON;PERSON
+"[(PMI dan Kopassus,")-(Sabtu)]";false;false;false;false;false;true;false;PERSON;OTHER
+"[(PMI dan Kopassus,")-(Acara donor darah)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(PMI dan Kopassus,")-(1.000 kantong darah)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(PMI dan Kopassus,")-(kemanusiaan tersebut)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(PMI dan Kopassus,")-(rangka)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(PMI dan Kopassus,")-(Hari Ulang Tahun)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(PMI dan Kopassus,")-(Ke-61 Kopassus)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(PMI dan Kopassus,")-(JK)]";false;false;false;false;false;false;false;PERSON;ORGANIZATION
+"[(PMI dan Kopassus,")-(Wakil Danjen Kopassus Brigjen TNI Jaswadi)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(PMI dan Kopassus,")-(dan Komandan Grup)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(PMI dan Kopassus,")-(Kopassus Letkol Maruli,)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(PMI dan Kopassus,")-(kesamaan PMI dan Kopassus)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(PMI dan Kopassus,")-(merah,)]";false;false;false;false;true;false;false;PERSON;OTHER
+"[(PMI dan Kopassus,")-(baret dan logo PMI)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(PMI dan Kopassus,")-(Selain itu,)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(PMI dan Kopassus,")-(Jusuf Kalla,)]";false;false;false;false;false;false;false;PERSON;LOCATION
+"[(PMI dan Kopassus,")-(kesamaan)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(PMI dan Kopassus,")-(lainnya)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(PMI dan Kopassus,")-(Kopassus)]";false;false;false;false;false;false;true;PERSON;PERSON
+"[(PMI dan Kopassus,")-(namanya)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(PMI dan Kopassus,")-(darah)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(PMI dan Kopassus,")-(PMI)]";false;false;false;false;false;false;true;PERSON;PERSON
+"[(PMI dan Kopassus,")-(tugasnya)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(PMI dan Kopassus,")-(darah)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(PMI dan Kopassus,")-(donor)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(PMI dan Kopassus,")-(keadaan normal PMI dan Kopassus)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(PMI dan Kopassus,")-(persitiwa perang atau bencana," tuturnya)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(PMI dan Kopassus,")-(Pihaknya)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(PMI dan Kopassus,")-(kasih)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(PMI dan Kopassus,")-(adanya)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(PMI dan Kopassus,")-(kegiatan donor darah)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(PMI dan Kopassus,")-(anggota Kopassus tersebut)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(PMI dan Kopassus,")-("Darah)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(PMI dan Kopassus,")-(kondisi tertentu)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(PMI dan Kopassus,")-(Sumbangan)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(PMI dan Kopassus,")-(kantong darah ini)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(PMI dan Kopassus,")-(Kerja sama)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(PMI dan Kopassus,")-(Jusuf Kalla)]";false;false;false;false;false;false;false;PERSON;LOCATION
+"[(PMI dan Kopassus,")-(Wadanjen Kopassus Brigjen TNI Jaswadi)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(PMI dan Kopassus,")-(diri)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(PMI dan Kopassus,")-(kegiatan proses donor darah)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(PMI dan Kopassus,")-(anggota Kopassus)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(PMI dan Kopassus,")-(sebuah Aula)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(PMI dan Kopassus,")-(Komplek Grup)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(PMI dan Kopassus,")-(2 Kopassus)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Jusuf Kalla)-(acara donor darah)]";false;true;false;false;false;true;false;LOCATION;OTHER
+"[(Jusuf Kalla)-("1.000 Kantong Darah)]";false;false;false;false;false;true;false;LOCATION;OTHER
+"[(Jusuf Kalla)-(Kemanusiaan)]";false;true;false;false;false;true;false;LOCATION;PERSON
+"[(Jusuf Kalla)-(Kopassus")]";false;false;false;false;false;true;false;LOCATION;PERSON
+"[(Jusuf Kalla)-(Markas Grup 2)]";false;true;false;false;false;true;false;LOCATION;LOCATION
+"[(Jusuf Kalla)-(Kopassus Kandang Menjangan Kartasura)]";false;true;false;false;false;true;false;LOCATION;PERSON
+"[(Jusuf Kalla)-(Sukoharjo)]";false;true;false;false;false;true;false;LOCATION;PERSON
+"[(Jusuf Kalla)-(Jateng,)]";false;false;false;false;false;true;false;LOCATION;PERSON
+"[(Jusuf Kalla)-(Sabtu)]";false;true;false;false;false;true;false;LOCATION;OTHER
+"[(Jusuf Kalla)-(Acara donor darah)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Jusuf Kalla)-(1.000 kantong darah)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jusuf Kalla)-(kemanusiaan tersebut)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jusuf Kalla)-(rangka)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jusuf Kalla)-(Hari Ulang Tahun)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Jusuf Kalla)-(Ke-61 Kopassus)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Jusuf Kalla)-(JK)]";false;true;true;false;false;false;false;LOCATION;ORGANIZATION
+"[(Jusuf Kalla)-(Wakil Danjen Kopassus Brigjen TNI Jaswadi)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jusuf Kalla)-(dan Komandan Grup)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jusuf Kalla)-(Kopassus Letkol Maruli,)]";false;false;false;false;false;false;false;LOCATION;PERSON
+"[(Jusuf Kalla)-(kesamaan PMI dan Kopassus)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jusuf Kalla)-(merah,)]";false;false;false;false;true;false;false;LOCATION;OTHER
+"[(Jusuf Kalla)-(baret dan logo PMI)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jusuf Kalla)-(Selain itu,)]";false;false;false;false;false;false;false;LOCATION;PERSON
+"[(Jusuf Kalla)-(Jusuf Kalla,)]";false;false;false;false;false;false;true;LOCATION;LOCATION
+"[(Jusuf Kalla)-(kesamaan)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jusuf Kalla)-(lainnya)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jusuf Kalla)-(Kopassus)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Jusuf Kalla)-(namanya)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jusuf Kalla)-(darah)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jusuf Kalla)-(PMI)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Jusuf Kalla)-(tugasnya)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jusuf Kalla)-(darah)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jusuf Kalla)-(donor)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jusuf Kalla)-(keadaan normal PMI dan Kopassus)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jusuf Kalla)-(persitiwa perang atau bencana," tuturnya)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Jusuf Kalla)-(Pihaknya)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jusuf Kalla)-(kasih)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jusuf Kalla)-(adanya)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jusuf Kalla)-(kegiatan donor darah)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jusuf Kalla)-(anggota Kopassus tersebut)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jusuf Kalla)-("Darah)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Jusuf Kalla)-(kondisi tertentu)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jusuf Kalla)-(Sumbangan)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Jusuf Kalla)-(kantong darah ini)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jusuf Kalla)-(Kerja sama)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Jusuf Kalla)-(Jusuf Kalla)]";true;true;false;false;false;false;true;LOCATION;LOCATION
+"[(Jusuf Kalla)-(Wadanjen Kopassus Brigjen TNI Jaswadi)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Jusuf Kalla)-(diri)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jusuf Kalla)-(kegiatan proses donor darah)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jusuf Kalla)-(anggota Kopassus)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jusuf Kalla)-(sebuah Aula)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jusuf Kalla)-(Komplek Grup)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Jusuf Kalla)-(2 Kopassus)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(acara donor darah)-("1.000 Kantong Darah)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(acara donor darah)-(Kemanusiaan)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(acara donor darah)-(Kopassus")]";false;false;false;false;false;true;false;OTHER;PERSON
+"[(acara donor darah)-(Markas Grup 2)]";false;true;false;false;false;true;false;OTHER;LOCATION
+"[(acara donor darah)-(Kopassus Kandang Menjangan Kartasura)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(acara donor darah)-(Sukoharjo)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(acara donor darah)-(Jateng,)]";false;false;false;false;false;true;false;OTHER;PERSON
+"[(acara donor darah)-(Sabtu)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(acara donor darah)-(Acara donor darah)]";true;true;false;false;false;false;false;OTHER;PERSON
+"[(acara donor darah)-(1.000 kantong darah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(acara donor darah)-(kemanusiaan tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(acara donor darah)-(rangka)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(acara donor darah)-(Hari Ulang Tahun)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(acara donor darah)-(Ke-61 Kopassus)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(acara donor darah)-(JK)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(acara donor darah)-(Wakil Danjen Kopassus Brigjen TNI Jaswadi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(acara donor darah)-(dan Komandan Grup)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(acara donor darah)-(Kopassus Letkol Maruli,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(acara donor darah)-(kesamaan PMI dan Kopassus)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(acara donor darah)-(merah,)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(acara donor darah)-(baret dan logo PMI)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(acara donor darah)-(Selain itu,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(acara donor darah)-(Jusuf Kalla,)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(acara donor darah)-(kesamaan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(acara donor darah)-(lainnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(acara donor darah)-(Kopassus)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(acara donor darah)-(namanya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(acara donor darah)-(darah)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(acara donor darah)-(PMI)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(acara donor darah)-(tugasnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(acara donor darah)-(darah)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(acara donor darah)-(donor)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(acara donor darah)-(keadaan normal PMI dan Kopassus)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(acara donor darah)-(persitiwa perang atau bencana," tuturnya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(acara donor darah)-(Pihaknya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(acara donor darah)-(kasih)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(acara donor darah)-(adanya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(acara donor darah)-(kegiatan donor darah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(acara donor darah)-(anggota Kopassus tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(acara donor darah)-("Darah)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(acara donor darah)-(kondisi tertentu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(acara donor darah)-(Sumbangan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(acara donor darah)-(kantong darah ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(acara donor darah)-(Kerja sama)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(acara donor darah)-(Jusuf Kalla)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(acara donor darah)-(Wadanjen Kopassus Brigjen TNI Jaswadi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(acara donor darah)-(diri)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(acara donor darah)-(kegiatan proses donor darah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(acara donor darah)-(anggota Kopassus)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(acara donor darah)-(sebuah Aula)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(acara donor darah)-(Komplek Grup)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(acara donor darah)-(2 Kopassus)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[("1.000 Kantong Darah)-(Kemanusiaan)]";false;false;false;false;false;true;false;OTHER;PERSON
+"[("1.000 Kantong Darah)-(Kopassus")]";false;false;false;false;false;true;false;OTHER;PERSON
+"[("1.000 Kantong Darah)-(Markas Grup 2)]";false;false;false;false;false;true;false;OTHER;LOCATION
+"[("1.000 Kantong Darah)-(Kopassus Kandang Menjangan Kartasura)]";false;false;false;false;false;true;false;OTHER;PERSON
+"[("1.000 Kantong Darah)-(Sukoharjo)]";false;false;false;false;false;true;false;OTHER;PERSON
+"[("1.000 Kantong Darah)-(Jateng,)]";false;false;false;false;false;true;false;OTHER;PERSON
+"[("1.000 Kantong Darah)-(Sabtu)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[("1.000 Kantong Darah)-(Acara donor darah)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[("1.000 Kantong Darah)-(1.000 kantong darah)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("1.000 Kantong Darah)-(kemanusiaan tersebut)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("1.000 Kantong Darah)-(rangka)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("1.000 Kantong Darah)-(Hari Ulang Tahun)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[("1.000 Kantong Darah)-(Ke-61 Kopassus)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[("1.000 Kantong Darah)-(JK)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[("1.000 Kantong Darah)-(Wakil Danjen Kopassus Brigjen TNI Jaswadi)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("1.000 Kantong Darah)-(dan Komandan Grup)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("1.000 Kantong Darah)-(Kopassus Letkol Maruli,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[("1.000 Kantong Darah)-(kesamaan PMI dan Kopassus)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("1.000 Kantong Darah)-(merah,)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[("1.000 Kantong Darah)-(baret dan logo PMI)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("1.000 Kantong Darah)-(Selain itu,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[("1.000 Kantong Darah)-(Jusuf Kalla,)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[("1.000 Kantong Darah)-(kesamaan)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("1.000 Kantong Darah)-(lainnya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("1.000 Kantong Darah)-(Kopassus)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[("1.000 Kantong Darah)-(namanya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("1.000 Kantong Darah)-(darah)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("1.000 Kantong Darah)-(PMI)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[("1.000 Kantong Darah)-(tugasnya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("1.000 Kantong Darah)-(darah)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("1.000 Kantong Darah)-(donor)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("1.000 Kantong Darah)-(keadaan normal PMI dan Kopassus)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("1.000 Kantong Darah)-(persitiwa perang atau bencana," tuturnya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("1.000 Kantong Darah)-(Pihaknya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("1.000 Kantong Darah)-(kasih)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("1.000 Kantong Darah)-(adanya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("1.000 Kantong Darah)-(kegiatan donor darah)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("1.000 Kantong Darah)-(anggota Kopassus tersebut)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("1.000 Kantong Darah)-("Darah)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("1.000 Kantong Darah)-(kondisi tertentu)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("1.000 Kantong Darah)-(Sumbangan)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[("1.000 Kantong Darah)-(kantong darah ini)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("1.000 Kantong Darah)-(Kerja sama)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[("1.000 Kantong Darah)-(Jusuf Kalla)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[("1.000 Kantong Darah)-(Wadanjen Kopassus Brigjen TNI Jaswadi)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[("1.000 Kantong Darah)-(diri)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("1.000 Kantong Darah)-(kegiatan proses donor darah)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("1.000 Kantong Darah)-(anggota Kopassus)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("1.000 Kantong Darah)-(sebuah Aula)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("1.000 Kantong Darah)-(Komplek Grup)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[("1.000 Kantong Darah)-(2 Kopassus)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Kemanusiaan)-(Kopassus")]";false;false;false;false;false;true;false;PERSON;PERSON
+"[(Kemanusiaan)-(Markas Grup 2)]";false;true;false;false;false;true;false;PERSON;LOCATION
+"[(Kemanusiaan)-(Kopassus Kandang Menjangan Kartasura)]";false;true;false;false;false;true;false;PERSON;PERSON
+"[(Kemanusiaan)-(Sukoharjo)]";false;true;false;false;false;true;false;PERSON;PERSON
+"[(Kemanusiaan)-(Jateng,)]";false;false;false;false;false;true;false;PERSON;PERSON
+"[(Kemanusiaan)-(Sabtu)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Kemanusiaan)-(Acara donor darah)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Kemanusiaan)-(1.000 kantong darah)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kemanusiaan)-(kemanusiaan tersebut)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kemanusiaan)-(rangka)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kemanusiaan)-(Hari Ulang Tahun)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Kemanusiaan)-(Ke-61 Kopassus)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Kemanusiaan)-(JK)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Kemanusiaan)-(Wakil Danjen Kopassus Brigjen TNI Jaswadi)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kemanusiaan)-(dan Komandan Grup)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kemanusiaan)-(Kopassus Letkol Maruli,)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Kemanusiaan)-(kesamaan PMI dan Kopassus)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kemanusiaan)-(merah,)]";false;false;false;false;true;false;false;PERSON;OTHER
+"[(Kemanusiaan)-(baret dan logo PMI)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kemanusiaan)-(Selain itu,)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Kemanusiaan)-(Jusuf Kalla,)]";false;false;false;false;false;false;false;PERSON;LOCATION
+"[(Kemanusiaan)-(kesamaan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kemanusiaan)-(lainnya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kemanusiaan)-(Kopassus)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Kemanusiaan)-(namanya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kemanusiaan)-(darah)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kemanusiaan)-(PMI)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Kemanusiaan)-(tugasnya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kemanusiaan)-(darah)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kemanusiaan)-(donor)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kemanusiaan)-(keadaan normal PMI dan Kopassus)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kemanusiaan)-(persitiwa perang atau bencana," tuturnya)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Kemanusiaan)-(Pihaknya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kemanusiaan)-(kasih)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kemanusiaan)-(adanya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kemanusiaan)-(kegiatan donor darah)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kemanusiaan)-(anggota Kopassus tersebut)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kemanusiaan)-("Darah)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Kemanusiaan)-(kondisi tertentu)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kemanusiaan)-(Sumbangan)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Kemanusiaan)-(kantong darah ini)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kemanusiaan)-(Kerja sama)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Kemanusiaan)-(Jusuf Kalla)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Kemanusiaan)-(Wadanjen Kopassus Brigjen TNI Jaswadi)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Kemanusiaan)-(diri)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kemanusiaan)-(kegiatan proses donor darah)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kemanusiaan)-(anggota Kopassus)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kemanusiaan)-(sebuah Aula)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kemanusiaan)-(Komplek Grup)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Kemanusiaan)-(2 Kopassus)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kopassus")-(Markas Grup 2)]";false;false;false;false;false;true;false;PERSON;LOCATION
+"[(Kopassus")-(Kopassus Kandang Menjangan Kartasura)]";false;false;false;false;false;true;false;PERSON;PERSON
+"[(Kopassus")-(Sukoharjo)]";false;false;false;false;false;true;false;PERSON;PERSON
+"[(Kopassus")-(Jateng,)]";false;false;false;false;false;true;false;PERSON;PERSON
+"[(Kopassus")-(Sabtu)]";false;false;false;false;false;true;false;PERSON;OTHER
+"[(Kopassus")-(Acara donor darah)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Kopassus")-(1.000 kantong darah)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Kopassus")-(kemanusiaan tersebut)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Kopassus")-(rangka)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Kopassus")-(Hari Ulang Tahun)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Kopassus")-(Ke-61 Kopassus)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Kopassus")-(JK)]";false;false;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Kopassus")-(Wakil Danjen Kopassus Brigjen TNI Jaswadi)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Kopassus")-(dan Komandan Grup)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Kopassus")-(Kopassus Letkol Maruli,)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Kopassus")-(kesamaan PMI dan Kopassus)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Kopassus")-(merah,)]";false;false;false;false;true;false;false;PERSON;OTHER
+"[(Kopassus")-(baret dan logo PMI)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Kopassus")-(Selain itu,)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Kopassus")-(Jusuf Kalla,)]";false;false;false;false;false;false;false;PERSON;LOCATION
+"[(Kopassus")-(kesamaan)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Kopassus")-(lainnya)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Kopassus")-(Kopassus)]";false;false;false;false;false;false;true;PERSON;PERSON
+"[(Kopassus")-(namanya)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Kopassus")-(darah)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Kopassus")-(PMI)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Kopassus")-(tugasnya)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Kopassus")-(darah)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Kopassus")-(donor)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Kopassus")-(keadaan normal PMI dan Kopassus)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Kopassus")-(persitiwa perang atau bencana," tuturnya)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Kopassus")-(Pihaknya)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Kopassus")-(kasih)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Kopassus")-(adanya)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Kopassus")-(kegiatan donor darah)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Kopassus")-(anggota Kopassus tersebut)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Kopassus")-("Darah)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Kopassus")-(kondisi tertentu)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Kopassus")-(Sumbangan)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Kopassus")-(kantong darah ini)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Kopassus")-(Kerja sama)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Kopassus")-(Jusuf Kalla)]";false;false;false;false;false;false;false;PERSON;LOCATION
+"[(Kopassus")-(Wadanjen Kopassus Brigjen TNI Jaswadi)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Kopassus")-(diri)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Kopassus")-(kegiatan proses donor darah)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Kopassus")-(anggota Kopassus)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Kopassus")-(sebuah Aula)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Kopassus")-(Komplek Grup)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Kopassus")-(2 Kopassus)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Markas Grup 2)-(Kopassus Kandang Menjangan Kartasura)]";false;true;false;false;false;true;false;LOCATION;PERSON
+"[(Markas Grup 2)-(Sukoharjo)]";false;true;false;false;false;true;false;LOCATION;PERSON
+"[(Markas Grup 2)-(Jateng,)]";false;false;false;false;false;true;false;LOCATION;PERSON
+"[(Markas Grup 2)-(Sabtu)]";false;true;false;false;false;true;false;LOCATION;OTHER
+"[(Markas Grup 2)-(Acara donor darah)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Markas Grup 2)-(1.000 kantong darah)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Markas Grup 2)-(kemanusiaan tersebut)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Markas Grup 2)-(rangka)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Markas Grup 2)-(Hari Ulang Tahun)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Markas Grup 2)-(Ke-61 Kopassus)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Markas Grup 2)-(JK)]";false;true;false;false;false;false;false;LOCATION;ORGANIZATION
+"[(Markas Grup 2)-(Wakil Danjen Kopassus Brigjen TNI Jaswadi)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Markas Grup 2)-(dan Komandan Grup)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Markas Grup 2)-(Kopassus Letkol Maruli,)]";false;false;false;false;false;false;false;LOCATION;PERSON
+"[(Markas Grup 2)-(kesamaan PMI dan Kopassus)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Markas Grup 2)-(merah,)]";false;false;false;false;true;false;false;LOCATION;OTHER
+"[(Markas Grup 2)-(baret dan logo PMI)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Markas Grup 2)-(Selain itu,)]";false;false;false;false;false;false;false;LOCATION;PERSON
+"[(Markas Grup 2)-(Jusuf Kalla,)]";false;false;false;false;false;false;false;LOCATION;LOCATION
+"[(Markas Grup 2)-(kesamaan)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Markas Grup 2)-(lainnya)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Markas Grup 2)-(Kopassus)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Markas Grup 2)-(namanya)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Markas Grup 2)-(darah)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Markas Grup 2)-(PMI)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Markas Grup 2)-(tugasnya)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Markas Grup 2)-(darah)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Markas Grup 2)-(donor)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Markas Grup 2)-(keadaan normal PMI dan Kopassus)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Markas Grup 2)-(persitiwa perang atau bencana," tuturnya)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Markas Grup 2)-(Pihaknya)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Markas Grup 2)-(kasih)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Markas Grup 2)-(adanya)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Markas Grup 2)-(kegiatan donor darah)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Markas Grup 2)-(anggota Kopassus tersebut)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Markas Grup 2)-("Darah)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Markas Grup 2)-(kondisi tertentu)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Markas Grup 2)-(Sumbangan)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Markas Grup 2)-(kantong darah ini)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Markas Grup 2)-(Kerja sama)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Markas Grup 2)-(Jusuf Kalla)]";false;true;false;false;false;false;false;LOCATION;LOCATION
+"[(Markas Grup 2)-(Wadanjen Kopassus Brigjen TNI Jaswadi)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Markas Grup 2)-(diri)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Markas Grup 2)-(kegiatan proses donor darah)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Markas Grup 2)-(anggota Kopassus)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Markas Grup 2)-(sebuah Aula)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Markas Grup 2)-(Komplek Grup)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Markas Grup 2)-(2 Kopassus)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Kopassus Kandang Menjangan Kartasura)-(Sukoharjo)]";false;true;false;false;false;true;false;PERSON;PERSON
+"[(Kopassus Kandang Menjangan Kartasura)-(Jateng,)]";false;false;false;false;false;true;false;PERSON;PERSON
+"[(Kopassus Kandang Menjangan Kartasura)-(Sabtu)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Kopassus Kandang Menjangan Kartasura)-(Acara donor darah)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Kopassus Kandang Menjangan Kartasura)-(1.000 kantong darah)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kopassus Kandang Menjangan Kartasura)-(kemanusiaan tersebut)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kopassus Kandang Menjangan Kartasura)-(rangka)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kopassus Kandang Menjangan Kartasura)-(Hari Ulang Tahun)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Kopassus Kandang Menjangan Kartasura)-(Ke-61 Kopassus)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Kopassus Kandang Menjangan Kartasura)-(JK)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Kopassus Kandang Menjangan Kartasura)-(Wakil Danjen Kopassus Brigjen TNI Jaswadi)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kopassus Kandang Menjangan Kartasura)-(dan Komandan Grup)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kopassus Kandang Menjangan Kartasura)-(Kopassus Letkol Maruli,)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Kopassus Kandang Menjangan Kartasura)-(kesamaan PMI dan Kopassus)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kopassus Kandang Menjangan Kartasura)-(merah,)]";false;false;false;false;true;false;false;PERSON;OTHER
+"[(Kopassus Kandang Menjangan Kartasura)-(baret dan logo PMI)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kopassus Kandang Menjangan Kartasura)-(Selain itu,)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Kopassus Kandang Menjangan Kartasura)-(Jusuf Kalla,)]";false;false;false;false;false;false;false;PERSON;LOCATION
+"[(Kopassus Kandang Menjangan Kartasura)-(kesamaan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kopassus Kandang Menjangan Kartasura)-(lainnya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kopassus Kandang Menjangan Kartasura)-(Kopassus)]";false;true;false;false;false;false;true;PERSON;PERSON
+"[(Kopassus Kandang Menjangan Kartasura)-(namanya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kopassus Kandang Menjangan Kartasura)-(darah)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kopassus Kandang Menjangan Kartasura)-(PMI)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Kopassus Kandang Menjangan Kartasura)-(tugasnya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kopassus Kandang Menjangan Kartasura)-(darah)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kopassus Kandang Menjangan Kartasura)-(donor)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kopassus Kandang Menjangan Kartasura)-(keadaan normal PMI dan Kopassus)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kopassus Kandang Menjangan Kartasura)-(persitiwa perang atau bencana," tuturnya)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Kopassus Kandang Menjangan Kartasura)-(Pihaknya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kopassus Kandang Menjangan Kartasura)-(kasih)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kopassus Kandang Menjangan Kartasura)-(adanya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kopassus Kandang Menjangan Kartasura)-(kegiatan donor darah)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kopassus Kandang Menjangan Kartasura)-(anggota Kopassus tersebut)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kopassus Kandang Menjangan Kartasura)-("Darah)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Kopassus Kandang Menjangan Kartasura)-(kondisi tertentu)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kopassus Kandang Menjangan Kartasura)-(Sumbangan)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Kopassus Kandang Menjangan Kartasura)-(kantong darah ini)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kopassus Kandang Menjangan Kartasura)-(Kerja sama)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Kopassus Kandang Menjangan Kartasura)-(Jusuf Kalla)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Kopassus Kandang Menjangan Kartasura)-(Wadanjen Kopassus Brigjen TNI Jaswadi)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Kopassus Kandang Menjangan Kartasura)-(diri)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kopassus Kandang Menjangan Kartasura)-(kegiatan proses donor darah)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kopassus Kandang Menjangan Kartasura)-(anggota Kopassus)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kopassus Kandang Menjangan Kartasura)-(sebuah Aula)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kopassus Kandang Menjangan Kartasura)-(Komplek Grup)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Kopassus Kandang Menjangan Kartasura)-(2 Kopassus)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Sukoharjo)-(Jateng,)]";false;false;false;false;false;true;false;PERSON;PERSON
+"[(Sukoharjo)-(Sabtu)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Sukoharjo)-(Acara donor darah)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Sukoharjo)-(1.000 kantong darah)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Sukoharjo)-(kemanusiaan tersebut)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Sukoharjo)-(rangka)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Sukoharjo)-(Hari Ulang Tahun)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Sukoharjo)-(Ke-61 Kopassus)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Sukoharjo)-(JK)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Sukoharjo)-(Wakil Danjen Kopassus Brigjen TNI Jaswadi)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Sukoharjo)-(dan Komandan Grup)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Sukoharjo)-(Kopassus Letkol Maruli,)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Sukoharjo)-(kesamaan PMI dan Kopassus)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Sukoharjo)-(merah,)]";false;false;false;false;true;false;false;PERSON;OTHER
+"[(Sukoharjo)-(baret dan logo PMI)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Sukoharjo)-(Selain itu,)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Sukoharjo)-(Jusuf Kalla,)]";false;false;false;false;false;false;false;PERSON;LOCATION
+"[(Sukoharjo)-(kesamaan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Sukoharjo)-(lainnya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Sukoharjo)-(Kopassus)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Sukoharjo)-(namanya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Sukoharjo)-(darah)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Sukoharjo)-(PMI)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Sukoharjo)-(tugasnya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Sukoharjo)-(darah)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Sukoharjo)-(donor)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Sukoharjo)-(keadaan normal PMI dan Kopassus)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Sukoharjo)-(persitiwa perang atau bencana," tuturnya)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Sukoharjo)-(Pihaknya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Sukoharjo)-(kasih)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Sukoharjo)-(adanya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Sukoharjo)-(kegiatan donor darah)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Sukoharjo)-(anggota Kopassus tersebut)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Sukoharjo)-("Darah)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Sukoharjo)-(kondisi tertentu)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Sukoharjo)-(Sumbangan)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Sukoharjo)-(kantong darah ini)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Sukoharjo)-(Kerja sama)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Sukoharjo)-(Jusuf Kalla)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Sukoharjo)-(Wadanjen Kopassus Brigjen TNI Jaswadi)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Sukoharjo)-(diri)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Sukoharjo)-(kegiatan proses donor darah)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Sukoharjo)-(anggota Kopassus)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Sukoharjo)-(sebuah Aula)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Sukoharjo)-(Komplek Grup)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Sukoharjo)-(2 Kopassus)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Jateng,)-(Sabtu)]";false;false;false;false;false;true;false;PERSON;OTHER
+"[(Jateng,)-(Acara donor darah)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Jateng,)-(1.000 kantong darah)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Jateng,)-(kemanusiaan tersebut)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Jateng,)-(rangka)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Jateng,)-(Hari Ulang Tahun)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Jateng,)-(Ke-61 Kopassus)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Jateng,)-(JK)]";false;false;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Jateng,)-(Wakil Danjen Kopassus Brigjen TNI Jaswadi)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Jateng,)-(dan Komandan Grup)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Jateng,)-(Kopassus Letkol Maruli,)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Jateng,)-(kesamaan PMI dan Kopassus)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Jateng,)-(merah,)]";false;false;false;false;true;false;false;PERSON;OTHER
+"[(Jateng,)-(baret dan logo PMI)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Jateng,)-(Selain itu,)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Jateng,)-(Jusuf Kalla,)]";false;false;false;false;false;false;false;PERSON;LOCATION
+"[(Jateng,)-(kesamaan)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Jateng,)-(lainnya)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Jateng,)-(Kopassus)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Jateng,)-(namanya)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Jateng,)-(darah)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Jateng,)-(PMI)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Jateng,)-(tugasnya)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Jateng,)-(darah)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Jateng,)-(donor)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Jateng,)-(keadaan normal PMI dan Kopassus)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Jateng,)-(persitiwa perang atau bencana," tuturnya)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Jateng,)-(Pihaknya)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Jateng,)-(kasih)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Jateng,)-(adanya)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Jateng,)-(kegiatan donor darah)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Jateng,)-(anggota Kopassus tersebut)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Jateng,)-("Darah)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Jateng,)-(kondisi tertentu)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Jateng,)-(Sumbangan)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Jateng,)-(kantong darah ini)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Jateng,)-(Kerja sama)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Jateng,)-(Jusuf Kalla)]";false;false;false;false;false;false;false;PERSON;LOCATION
+"[(Jateng,)-(Wadanjen Kopassus Brigjen TNI Jaswadi)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Jateng,)-(diri)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Jateng,)-(kegiatan proses donor darah)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Jateng,)-(anggota Kopassus)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Jateng,)-(sebuah Aula)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Jateng,)-(Komplek Grup)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Jateng,)-(2 Kopassus)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Sabtu)-(Acara donor darah)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(Sabtu)-(1.000 kantong darah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Sabtu)-(kemanusiaan tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Sabtu)-(rangka)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Sabtu)-(Hari Ulang Tahun)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(Sabtu)-(Ke-61 Kopassus)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(Sabtu)-(JK)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(Sabtu)-(Wakil Danjen Kopassus Brigjen TNI Jaswadi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Sabtu)-(dan Komandan Grup)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Sabtu)-(Kopassus Letkol Maruli,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(Sabtu)-(kesamaan PMI dan Kopassus)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Sabtu)-(merah,)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(Sabtu)-(baret dan logo PMI)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Sabtu)-(Selain itu,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(Sabtu)-(Jusuf Kalla,)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(Sabtu)-(kesamaan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Sabtu)-(lainnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Sabtu)-(Kopassus)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(Sabtu)-(namanya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Sabtu)-(darah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Sabtu)-(PMI)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(Sabtu)-(tugasnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Sabtu)-(darah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Sabtu)-(donor)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Sabtu)-(keadaan normal PMI dan Kopassus)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Sabtu)-(persitiwa perang atau bencana," tuturnya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Sabtu)-(Pihaknya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Sabtu)-(kasih)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Sabtu)-(adanya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Sabtu)-(kegiatan donor darah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Sabtu)-(anggota Kopassus tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Sabtu)-("Darah)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Sabtu)-(kondisi tertentu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Sabtu)-(Sumbangan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(Sabtu)-(kantong darah ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Sabtu)-(Kerja sama)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(Sabtu)-(Jusuf Kalla)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(Sabtu)-(Wadanjen Kopassus Brigjen TNI Jaswadi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(Sabtu)-(diri)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Sabtu)-(kegiatan proses donor darah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Sabtu)-(anggota Kopassus)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Sabtu)-(sebuah Aula)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Sabtu)-(Komplek Grup)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(Sabtu)-(2 Kopassus)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Acara donor darah)-(1.000 kantong darah)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Acara donor darah)-(kemanusiaan tersebut)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Acara donor darah)-(rangka)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Acara donor darah)-(Hari Ulang Tahun)]";false;true;false;false;false;true;false;PERSON;PERSON
+"[(Acara donor darah)-(Ke-61 Kopassus)]";false;true;false;false;false;true;false;PERSON;PERSON
+"[(Acara donor darah)-(JK)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Acara donor darah)-(Wakil Danjen Kopassus Brigjen TNI Jaswadi)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Acara donor darah)-(dan Komandan Grup)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Acara donor darah)-(Kopassus Letkol Maruli,)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Acara donor darah)-(kesamaan PMI dan Kopassus)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Acara donor darah)-(merah,)]";false;false;false;false;true;false;false;PERSON;OTHER
+"[(Acara donor darah)-(baret dan logo PMI)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Acara donor darah)-(Selain itu,)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Acara donor darah)-(Jusuf Kalla,)]";false;false;false;false;false;false;false;PERSON;LOCATION
+"[(Acara donor darah)-(kesamaan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Acara donor darah)-(lainnya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Acara donor darah)-(Kopassus)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Acara donor darah)-(namanya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Acara donor darah)-(darah)]";false;true;false;false;false;false;true;PERSON;OTHER
+"[(Acara donor darah)-(PMI)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Acara donor darah)-(tugasnya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Acara donor darah)-(darah)]";false;true;false;false;false;false;true;PERSON;OTHER
+"[(Acara donor darah)-(donor)]";false;true;false;false;false;false;true;PERSON;OTHER
+"[(Acara donor darah)-(keadaan normal PMI dan Kopassus)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Acara donor darah)-(persitiwa perang atau bencana," tuturnya)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Acara donor darah)-(Pihaknya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Acara donor darah)-(kasih)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Acara donor darah)-(adanya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Acara donor darah)-(kegiatan donor darah)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Acara donor darah)-(anggota Kopassus tersebut)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Acara donor darah)-("Darah)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Acara donor darah)-(kondisi tertentu)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Acara donor darah)-(Sumbangan)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Acara donor darah)-(kantong darah ini)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Acara donor darah)-(Kerja sama)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Acara donor darah)-(Jusuf Kalla)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Acara donor darah)-(Wadanjen Kopassus Brigjen TNI Jaswadi)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Acara donor darah)-(diri)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Acara donor darah)-(kegiatan proses donor darah)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Acara donor darah)-(anggota Kopassus)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Acara donor darah)-(sebuah Aula)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Acara donor darah)-(Komplek Grup)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Acara donor darah)-(2 Kopassus)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(1.000 kantong darah)-(kemanusiaan tersebut)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(1.000 kantong darah)-(rangka)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(1.000 kantong darah)-(Hari Ulang Tahun)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(1.000 kantong darah)-(Ke-61 Kopassus)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(1.000 kantong darah)-(JK)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(1.000 kantong darah)-(Wakil Danjen Kopassus Brigjen TNI Jaswadi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(1.000 kantong darah)-(dan Komandan Grup)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(1.000 kantong darah)-(Kopassus Letkol Maruli,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(1.000 kantong darah)-(kesamaan PMI dan Kopassus)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(1.000 kantong darah)-(merah,)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(1.000 kantong darah)-(baret dan logo PMI)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(1.000 kantong darah)-(Selain itu,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(1.000 kantong darah)-(Jusuf Kalla,)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(1.000 kantong darah)-(kesamaan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(1.000 kantong darah)-(lainnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(1.000 kantong darah)-(Kopassus)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(1.000 kantong darah)-(namanya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(1.000 kantong darah)-(darah)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(1.000 kantong darah)-(PMI)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(1.000 kantong darah)-(tugasnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(1.000 kantong darah)-(darah)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(1.000 kantong darah)-(donor)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(1.000 kantong darah)-(keadaan normal PMI dan Kopassus)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(1.000 kantong darah)-(persitiwa perang atau bencana," tuturnya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(1.000 kantong darah)-(Pihaknya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(1.000 kantong darah)-(kasih)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(1.000 kantong darah)-(adanya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(1.000 kantong darah)-(kegiatan donor darah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(1.000 kantong darah)-(anggota Kopassus tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(1.000 kantong darah)-("Darah)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(1.000 kantong darah)-(kondisi tertentu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(1.000 kantong darah)-(Sumbangan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(1.000 kantong darah)-(kantong darah ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(1.000 kantong darah)-(Kerja sama)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(1.000 kantong darah)-(Jusuf Kalla)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(1.000 kantong darah)-(Wadanjen Kopassus Brigjen TNI Jaswadi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(1.000 kantong darah)-(diri)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(1.000 kantong darah)-(kegiatan proses donor darah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(1.000 kantong darah)-(anggota Kopassus)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(1.000 kantong darah)-(sebuah Aula)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(1.000 kantong darah)-(Komplek Grup)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(1.000 kantong darah)-(2 Kopassus)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kemanusiaan tersebut)-(rangka)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(kemanusiaan tersebut)-(Hari Ulang Tahun)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(kemanusiaan tersebut)-(Ke-61 Kopassus)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(kemanusiaan tersebut)-(JK)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(kemanusiaan tersebut)-(Wakil Danjen Kopassus Brigjen TNI Jaswadi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kemanusiaan tersebut)-(dan Komandan Grup)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kemanusiaan tersebut)-(Kopassus Letkol Maruli,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(kemanusiaan tersebut)-(kesamaan PMI dan Kopassus)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kemanusiaan tersebut)-(merah,)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(kemanusiaan tersebut)-(baret dan logo PMI)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kemanusiaan tersebut)-(Selain itu,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(kemanusiaan tersebut)-(Jusuf Kalla,)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(kemanusiaan tersebut)-(kesamaan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kemanusiaan tersebut)-(lainnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kemanusiaan tersebut)-(Kopassus)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kemanusiaan tersebut)-(namanya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kemanusiaan tersebut)-(darah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kemanusiaan tersebut)-(PMI)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kemanusiaan tersebut)-(tugasnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kemanusiaan tersebut)-(darah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kemanusiaan tersebut)-(donor)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kemanusiaan tersebut)-(keadaan normal PMI dan Kopassus)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kemanusiaan tersebut)-(persitiwa perang atau bencana," tuturnya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(kemanusiaan tersebut)-(Pihaknya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kemanusiaan tersebut)-(kasih)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kemanusiaan tersebut)-(adanya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kemanusiaan tersebut)-(kegiatan donor darah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kemanusiaan tersebut)-(anggota Kopassus tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kemanusiaan tersebut)-("Darah)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(kemanusiaan tersebut)-(kondisi tertentu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kemanusiaan tersebut)-(Sumbangan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kemanusiaan tersebut)-(kantong darah ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kemanusiaan tersebut)-(Kerja sama)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kemanusiaan tersebut)-(Jusuf Kalla)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(kemanusiaan tersebut)-(Wadanjen Kopassus Brigjen TNI Jaswadi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kemanusiaan tersebut)-(diri)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kemanusiaan tersebut)-(kegiatan proses donor darah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kemanusiaan tersebut)-(anggota Kopassus)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kemanusiaan tersebut)-(sebuah Aula)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kemanusiaan tersebut)-(Komplek Grup)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kemanusiaan tersebut)-(2 Kopassus)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(rangka)-(Hari Ulang Tahun)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(rangka)-(Ke-61 Kopassus)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(rangka)-(JK)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(rangka)-(Wakil Danjen Kopassus Brigjen TNI Jaswadi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(rangka)-(dan Komandan Grup)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(rangka)-(Kopassus Letkol Maruli,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(rangka)-(kesamaan PMI dan Kopassus)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(rangka)-(merah,)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(rangka)-(baret dan logo PMI)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(rangka)-(Selain itu,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(rangka)-(Jusuf Kalla,)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(rangka)-(kesamaan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(rangka)-(lainnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(rangka)-(Kopassus)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(rangka)-(namanya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(rangka)-(darah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(rangka)-(PMI)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(rangka)-(tugasnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(rangka)-(darah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(rangka)-(donor)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(rangka)-(keadaan normal PMI dan Kopassus)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(rangka)-(persitiwa perang atau bencana," tuturnya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(rangka)-(Pihaknya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(rangka)-(kasih)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(rangka)-(adanya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(rangka)-(kegiatan donor darah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(rangka)-(anggota Kopassus tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(rangka)-("Darah)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(rangka)-(kondisi tertentu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(rangka)-(Sumbangan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(rangka)-(kantong darah ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(rangka)-(Kerja sama)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(rangka)-(Jusuf Kalla)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(rangka)-(Wadanjen Kopassus Brigjen TNI Jaswadi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(rangka)-(diri)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(rangka)-(kegiatan proses donor darah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(rangka)-(anggota Kopassus)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(rangka)-(sebuah Aula)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(rangka)-(Komplek Grup)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(rangka)-(2 Kopassus)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Hari Ulang Tahun)-(Ke-61 Kopassus)]";false;true;false;false;false;true;false;PERSON;PERSON
+"[(Hari Ulang Tahun)-(JK)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Hari Ulang Tahun)-(Wakil Danjen Kopassus Brigjen TNI Jaswadi)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hari Ulang Tahun)-(dan Komandan Grup)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hari Ulang Tahun)-(Kopassus Letkol Maruli,)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Hari Ulang Tahun)-(kesamaan PMI dan Kopassus)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hari Ulang Tahun)-(merah,)]";false;false;false;false;true;false;false;PERSON;OTHER
+"[(Hari Ulang Tahun)-(baret dan logo PMI)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hari Ulang Tahun)-(Selain itu,)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Hari Ulang Tahun)-(Jusuf Kalla,)]";false;false;false;false;false;false;false;PERSON;LOCATION
+"[(Hari Ulang Tahun)-(kesamaan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hari Ulang Tahun)-(lainnya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hari Ulang Tahun)-(Kopassus)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Hari Ulang Tahun)-(namanya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hari Ulang Tahun)-(darah)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hari Ulang Tahun)-(PMI)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Hari Ulang Tahun)-(tugasnya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hari Ulang Tahun)-(darah)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hari Ulang Tahun)-(donor)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hari Ulang Tahun)-(keadaan normal PMI dan Kopassus)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hari Ulang Tahun)-(persitiwa perang atau bencana," tuturnya)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Hari Ulang Tahun)-(Pihaknya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hari Ulang Tahun)-(kasih)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hari Ulang Tahun)-(adanya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hari Ulang Tahun)-(kegiatan donor darah)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hari Ulang Tahun)-(anggota Kopassus tersebut)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hari Ulang Tahun)-("Darah)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Hari Ulang Tahun)-(kondisi tertentu)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hari Ulang Tahun)-(Sumbangan)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Hari Ulang Tahun)-(kantong darah ini)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hari Ulang Tahun)-(Kerja sama)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Hari Ulang Tahun)-(Jusuf Kalla)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Hari Ulang Tahun)-(Wadanjen Kopassus Brigjen TNI Jaswadi)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Hari Ulang Tahun)-(diri)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hari Ulang Tahun)-(kegiatan proses donor darah)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hari Ulang Tahun)-(anggota Kopassus)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hari Ulang Tahun)-(sebuah Aula)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hari Ulang Tahun)-(Komplek Grup)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Hari Ulang Tahun)-(2 Kopassus)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ke-61 Kopassus)-(JK)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Ke-61 Kopassus)-(Wakil Danjen Kopassus Brigjen TNI Jaswadi)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ke-61 Kopassus)-(dan Komandan Grup)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ke-61 Kopassus)-(Kopassus Letkol Maruli,)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Ke-61 Kopassus)-(kesamaan PMI dan Kopassus)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ke-61 Kopassus)-(merah,)]";false;false;false;false;true;false;false;PERSON;OTHER
+"[(Ke-61 Kopassus)-(baret dan logo PMI)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ke-61 Kopassus)-(Selain itu,)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Ke-61 Kopassus)-(Jusuf Kalla,)]";false;false;false;false;false;false;false;PERSON;LOCATION
+"[(Ke-61 Kopassus)-(kesamaan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ke-61 Kopassus)-(lainnya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ke-61 Kopassus)-(Kopassus)]";false;true;false;false;false;false;true;PERSON;PERSON
+"[(Ke-61 Kopassus)-(namanya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ke-61 Kopassus)-(darah)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ke-61 Kopassus)-(PMI)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Ke-61 Kopassus)-(tugasnya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ke-61 Kopassus)-(darah)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ke-61 Kopassus)-(donor)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ke-61 Kopassus)-(keadaan normal PMI dan Kopassus)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ke-61 Kopassus)-(persitiwa perang atau bencana," tuturnya)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Ke-61 Kopassus)-(Pihaknya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ke-61 Kopassus)-(kasih)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ke-61 Kopassus)-(adanya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ke-61 Kopassus)-(kegiatan donor darah)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ke-61 Kopassus)-(anggota Kopassus tersebut)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ke-61 Kopassus)-("Darah)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Ke-61 Kopassus)-(kondisi tertentu)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ke-61 Kopassus)-(Sumbangan)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Ke-61 Kopassus)-(kantong darah ini)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ke-61 Kopassus)-(Kerja sama)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Ke-61 Kopassus)-(Jusuf Kalla)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Ke-61 Kopassus)-(Wadanjen Kopassus Brigjen TNI Jaswadi)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Ke-61 Kopassus)-(diri)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ke-61 Kopassus)-(kegiatan proses donor darah)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ke-61 Kopassus)-(anggota Kopassus)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ke-61 Kopassus)-(sebuah Aula)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ke-61 Kopassus)-(Komplek Grup)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Ke-61 Kopassus)-(2 Kopassus)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(JK)-(Wakil Danjen Kopassus Brigjen TNI Jaswadi)]";false;true;false;false;false;true;false;ORGANIZATION;OTHER
+"[(JK)-(dan Komandan Grup)]";false;true;false;false;false;true;false;ORGANIZATION;OTHER
+"[(JK)-(Kopassus Letkol Maruli,)]";false;false;false;false;false;true;false;ORGANIZATION;PERSON
+"[(JK)-(kesamaan PMI dan Kopassus)]";false;true;false;false;false;true;false;ORGANIZATION;OTHER
+"[(JK)-(merah,)]";false;false;false;false;true;true;false;ORGANIZATION;OTHER
+"[(JK)-(baret dan logo PMI)]";false;true;false;false;false;true;false;ORGANIZATION;OTHER
+"[(JK)-(Selain itu,)]";false;false;false;false;false;false;false;ORGANIZATION;PERSON
+"[(JK)-(Jusuf Kalla,)]";false;false;false;false;false;false;false;ORGANIZATION;LOCATION
+"[(JK)-(kesamaan)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(JK)-(lainnya)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(JK)-(Kopassus)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(JK)-(namanya)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(JK)-(darah)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(JK)-(PMI)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(JK)-(tugasnya)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(JK)-(darah)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(JK)-(donor)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(JK)-(keadaan normal PMI dan Kopassus)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(JK)-(persitiwa perang atau bencana," tuturnya)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(JK)-(Pihaknya)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(JK)-(kasih)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(JK)-(adanya)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(JK)-(kegiatan donor darah)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(JK)-(anggota Kopassus tersebut)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(JK)-("Darah)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(JK)-(kondisi tertentu)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(JK)-(Sumbangan)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(JK)-(kantong darah ini)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(JK)-(Kerja sama)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(JK)-(Jusuf Kalla)]";false;true;true;false;false;false;false;ORGANIZATION;LOCATION
+"[(JK)-(Wadanjen Kopassus Brigjen TNI Jaswadi)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(JK)-(diri)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(JK)-(kegiatan proses donor darah)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(JK)-(anggota Kopassus)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(JK)-(sebuah Aula)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(JK)-(Komplek Grup)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(JK)-(2 Kopassus)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Wakil Danjen Kopassus Brigjen TNI Jaswadi)-(dan Komandan Grup)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(Wakil Danjen Kopassus Brigjen TNI Jaswadi)-(Kopassus Letkol Maruli,)]";false;false;false;false;false;true;false;OTHER;PERSON
+"[(Wakil Danjen Kopassus Brigjen TNI Jaswadi)-(kesamaan PMI dan Kopassus)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(Wakil Danjen Kopassus Brigjen TNI Jaswadi)-(merah,)]";false;false;false;false;true;true;false;OTHER;OTHER
+"[(Wakil Danjen Kopassus Brigjen TNI Jaswadi)-(baret dan logo PMI)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(Wakil Danjen Kopassus Brigjen TNI Jaswadi)-(Selain itu,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(Wakil Danjen Kopassus Brigjen TNI Jaswadi)-(Jusuf Kalla,)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(Wakil Danjen Kopassus Brigjen TNI Jaswadi)-(kesamaan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Wakil Danjen Kopassus Brigjen TNI Jaswadi)-(lainnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Wakil Danjen Kopassus Brigjen TNI Jaswadi)-(Kopassus)]";false;true;false;false;false;false;true;OTHER;PERSON
+"[(Wakil Danjen Kopassus Brigjen TNI Jaswadi)-(namanya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Wakil Danjen Kopassus Brigjen TNI Jaswadi)-(darah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Wakil Danjen Kopassus Brigjen TNI Jaswadi)-(PMI)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(Wakil Danjen Kopassus Brigjen TNI Jaswadi)-(tugasnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Wakil Danjen Kopassus Brigjen TNI Jaswadi)-(darah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Wakil Danjen Kopassus Brigjen TNI Jaswadi)-(donor)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Wakil Danjen Kopassus Brigjen TNI Jaswadi)-(keadaan normal PMI dan Kopassus)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Wakil Danjen Kopassus Brigjen TNI Jaswadi)-(persitiwa perang atau bencana," tuturnya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Wakil Danjen Kopassus Brigjen TNI Jaswadi)-(Pihaknya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Wakil Danjen Kopassus Brigjen TNI Jaswadi)-(kasih)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Wakil Danjen Kopassus Brigjen TNI Jaswadi)-(adanya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Wakil Danjen Kopassus Brigjen TNI Jaswadi)-(kegiatan donor darah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Wakil Danjen Kopassus Brigjen TNI Jaswadi)-(anggota Kopassus tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Wakil Danjen Kopassus Brigjen TNI Jaswadi)-("Darah)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Wakil Danjen Kopassus Brigjen TNI Jaswadi)-(kondisi tertentu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Wakil Danjen Kopassus Brigjen TNI Jaswadi)-(Sumbangan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(Wakil Danjen Kopassus Brigjen TNI Jaswadi)-(kantong darah ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Wakil Danjen Kopassus Brigjen TNI Jaswadi)-(Kerja sama)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(Wakil Danjen Kopassus Brigjen TNI Jaswadi)-(Jusuf Kalla)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(Wakil Danjen Kopassus Brigjen TNI Jaswadi)-(Wadanjen Kopassus Brigjen TNI Jaswadi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(Wakil Danjen Kopassus Brigjen TNI Jaswadi)-(diri)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Wakil Danjen Kopassus Brigjen TNI Jaswadi)-(kegiatan proses donor darah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Wakil Danjen Kopassus Brigjen TNI Jaswadi)-(anggota Kopassus)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Wakil Danjen Kopassus Brigjen TNI Jaswadi)-(sebuah Aula)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Wakil Danjen Kopassus Brigjen TNI Jaswadi)-(Komplek Grup)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(Wakil Danjen Kopassus Brigjen TNI Jaswadi)-(2 Kopassus)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dan Komandan Grup)-(Kopassus Letkol Maruli,)]";false;false;false;false;false;true;false;OTHER;PERSON
+"[(dan Komandan Grup)-(kesamaan PMI dan Kopassus)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(dan Komandan Grup)-(merah,)]";false;false;false;false;true;true;false;OTHER;OTHER
+"[(dan Komandan Grup)-(baret dan logo PMI)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(dan Komandan Grup)-(Selain itu,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(dan Komandan Grup)-(Jusuf Kalla,)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(dan Komandan Grup)-(kesamaan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dan Komandan Grup)-(lainnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dan Komandan Grup)-(Kopassus)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(dan Komandan Grup)-(namanya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dan Komandan Grup)-(darah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dan Komandan Grup)-(PMI)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(dan Komandan Grup)-(tugasnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dan Komandan Grup)-(darah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dan Komandan Grup)-(donor)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dan Komandan Grup)-(keadaan normal PMI dan Kopassus)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dan Komandan Grup)-(persitiwa perang atau bencana," tuturnya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(dan Komandan Grup)-(Pihaknya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dan Komandan Grup)-(kasih)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dan Komandan Grup)-(adanya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dan Komandan Grup)-(kegiatan donor darah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dan Komandan Grup)-(anggota Kopassus tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dan Komandan Grup)-("Darah)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(dan Komandan Grup)-(kondisi tertentu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dan Komandan Grup)-(Sumbangan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(dan Komandan Grup)-(kantong darah ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dan Komandan Grup)-(Kerja sama)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(dan Komandan Grup)-(Jusuf Kalla)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(dan Komandan Grup)-(Wadanjen Kopassus Brigjen TNI Jaswadi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(dan Komandan Grup)-(diri)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dan Komandan Grup)-(kegiatan proses donor darah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dan Komandan Grup)-(anggota Kopassus)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dan Komandan Grup)-(sebuah Aula)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dan Komandan Grup)-(Komplek Grup)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(dan Komandan Grup)-(2 Kopassus)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Kopassus Letkol Maruli,)-(kesamaan PMI dan Kopassus)]";false;false;false;false;false;true;false;PERSON;OTHER
+"[(Kopassus Letkol Maruli,)-(merah,)]";false;false;false;false;true;true;false;PERSON;OTHER
+"[(Kopassus Letkol Maruli,)-(baret dan logo PMI)]";false;false;false;false;false;true;false;PERSON;OTHER
+"[(Kopassus Letkol Maruli,)-(Selain itu,)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Kopassus Letkol Maruli,)-(Jusuf Kalla,)]";false;false;false;false;false;false;false;PERSON;LOCATION
+"[(Kopassus Letkol Maruli,)-(kesamaan)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Kopassus Letkol Maruli,)-(lainnya)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Kopassus Letkol Maruli,)-(Kopassus)]";false;false;false;false;false;false;true;PERSON;PERSON
+"[(Kopassus Letkol Maruli,)-(namanya)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Kopassus Letkol Maruli,)-(darah)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Kopassus Letkol Maruli,)-(PMI)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Kopassus Letkol Maruli,)-(tugasnya)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Kopassus Letkol Maruli,)-(darah)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Kopassus Letkol Maruli,)-(donor)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Kopassus Letkol Maruli,)-(keadaan normal PMI dan Kopassus)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Kopassus Letkol Maruli,)-(persitiwa perang atau bencana," tuturnya)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Kopassus Letkol Maruli,)-(Pihaknya)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Kopassus Letkol Maruli,)-(kasih)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Kopassus Letkol Maruli,)-(adanya)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Kopassus Letkol Maruli,)-(kegiatan donor darah)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Kopassus Letkol Maruli,)-(anggota Kopassus tersebut)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Kopassus Letkol Maruli,)-("Darah)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Kopassus Letkol Maruli,)-(kondisi tertentu)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Kopassus Letkol Maruli,)-(Sumbangan)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Kopassus Letkol Maruli,)-(kantong darah ini)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Kopassus Letkol Maruli,)-(Kerja sama)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Kopassus Letkol Maruli,)-(Jusuf Kalla)]";false;false;false;false;false;false;false;PERSON;LOCATION
+"[(Kopassus Letkol Maruli,)-(Wadanjen Kopassus Brigjen TNI Jaswadi)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Kopassus Letkol Maruli,)-(diri)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Kopassus Letkol Maruli,)-(kegiatan proses donor darah)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Kopassus Letkol Maruli,)-(anggota Kopassus)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Kopassus Letkol Maruli,)-(sebuah Aula)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Kopassus Letkol Maruli,)-(Komplek Grup)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Kopassus Letkol Maruli,)-(2 Kopassus)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(kesamaan PMI dan Kopassus)-(merah,)]";false;false;false;false;true;true;false;OTHER;OTHER
+"[(kesamaan PMI dan Kopassus)-(baret dan logo PMI)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(kesamaan PMI dan Kopassus)-(Selain itu,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(kesamaan PMI dan Kopassus)-(Jusuf Kalla,)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(kesamaan PMI dan Kopassus)-(kesamaan)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(kesamaan PMI dan Kopassus)-(lainnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kesamaan PMI dan Kopassus)-(Kopassus)]";false;true;false;false;false;false;true;OTHER;PERSON
+"[(kesamaan PMI dan Kopassus)-(namanya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kesamaan PMI dan Kopassus)-(darah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kesamaan PMI dan Kopassus)-(PMI)]";false;true;false;false;false;false;true;OTHER;PERSON
+"[(kesamaan PMI dan Kopassus)-(tugasnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kesamaan PMI dan Kopassus)-(darah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kesamaan PMI dan Kopassus)-(donor)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kesamaan PMI dan Kopassus)-(keadaan normal PMI dan Kopassus)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kesamaan PMI dan Kopassus)-(persitiwa perang atau bencana," tuturnya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(kesamaan PMI dan Kopassus)-(Pihaknya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kesamaan PMI dan Kopassus)-(kasih)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kesamaan PMI dan Kopassus)-(adanya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kesamaan PMI dan Kopassus)-(kegiatan donor darah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kesamaan PMI dan Kopassus)-(anggota Kopassus tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kesamaan PMI dan Kopassus)-("Darah)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(kesamaan PMI dan Kopassus)-(kondisi tertentu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kesamaan PMI dan Kopassus)-(Sumbangan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kesamaan PMI dan Kopassus)-(kantong darah ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kesamaan PMI dan Kopassus)-(Kerja sama)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kesamaan PMI dan Kopassus)-(Jusuf Kalla)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(kesamaan PMI dan Kopassus)-(Wadanjen Kopassus Brigjen TNI Jaswadi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kesamaan PMI dan Kopassus)-(diri)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kesamaan PMI dan Kopassus)-(kegiatan proses donor darah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kesamaan PMI dan Kopassus)-(anggota Kopassus)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kesamaan PMI dan Kopassus)-(sebuah Aula)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kesamaan PMI dan Kopassus)-(Komplek Grup)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kesamaan PMI dan Kopassus)-(2 Kopassus)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(merah,)-(baret dan logo PMI)]";false;false;false;true;false;true;false;OTHER;OTHER
+"[(merah,)-(Selain itu,)]";false;false;false;true;false;false;false;OTHER;PERSON
+"[(merah,)-(Jusuf Kalla,)]";false;false;false;true;false;false;false;OTHER;LOCATION
+"[(merah,)-(kesamaan)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(merah,)-(lainnya)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(merah,)-(Kopassus)]";false;false;false;true;false;false;false;OTHER;PERSON
+"[(merah,)-(namanya)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(merah,)-(darah)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(merah,)-(PMI)]";false;false;false;true;false;false;false;OTHER;PERSON
+"[(merah,)-(tugasnya)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(merah,)-(darah)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(merah,)-(donor)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(merah,)-(keadaan normal PMI dan Kopassus)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(merah,)-(persitiwa perang atau bencana," tuturnya)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(merah,)-(Pihaknya)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(merah,)-(kasih)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(merah,)-(adanya)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(merah,)-(kegiatan donor darah)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(merah,)-(anggota Kopassus tersebut)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(merah,)-("Darah)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(merah,)-(kondisi tertentu)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(merah,)-(Sumbangan)]";false;false;false;true;false;false;false;OTHER;PERSON
+"[(merah,)-(kantong darah ini)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(merah,)-(Kerja sama)]";false;false;false;true;false;false;false;OTHER;PERSON
+"[(merah,)-(Jusuf Kalla)]";false;false;false;true;false;false;false;OTHER;LOCATION
+"[(merah,)-(Wadanjen Kopassus Brigjen TNI Jaswadi)]";false;false;false;true;false;false;false;OTHER;PERSON
+"[(merah,)-(diri)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(merah,)-(kegiatan proses donor darah)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(merah,)-(anggota Kopassus)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(merah,)-(sebuah Aula)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(merah,)-(Komplek Grup)]";false;false;false;true;false;false;false;OTHER;PERSON
+"[(merah,)-(2 Kopassus)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(baret dan logo PMI)-(Selain itu,)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(baret dan logo PMI)-(Jusuf Kalla,)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(baret dan logo PMI)-(kesamaan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(baret dan logo PMI)-(lainnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(baret dan logo PMI)-(Kopassus)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(baret dan logo PMI)-(namanya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(baret dan logo PMI)-(darah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(baret dan logo PMI)-(PMI)]";false;true;false;false;false;false;true;OTHER;PERSON
+"[(baret dan logo PMI)-(tugasnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(baret dan logo PMI)-(darah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(baret dan logo PMI)-(donor)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(baret dan logo PMI)-(keadaan normal PMI dan Kopassus)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(baret dan logo PMI)-(persitiwa perang atau bencana," tuturnya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(baret dan logo PMI)-(Pihaknya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(baret dan logo PMI)-(kasih)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(baret dan logo PMI)-(adanya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(baret dan logo PMI)-(kegiatan donor darah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(baret dan logo PMI)-(anggota Kopassus tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(baret dan logo PMI)-("Darah)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(baret dan logo PMI)-(kondisi tertentu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(baret dan logo PMI)-(Sumbangan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(baret dan logo PMI)-(kantong darah ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(baret dan logo PMI)-(Kerja sama)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(baret dan logo PMI)-(Jusuf Kalla)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(baret dan logo PMI)-(Wadanjen Kopassus Brigjen TNI Jaswadi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(baret dan logo PMI)-(diri)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(baret dan logo PMI)-(kegiatan proses donor darah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(baret dan logo PMI)-(anggota Kopassus)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(baret dan logo PMI)-(sebuah Aula)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(baret dan logo PMI)-(Komplek Grup)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(baret dan logo PMI)-(2 Kopassus)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Selain itu,)-(Jusuf Kalla,)]";false;false;false;false;false;true;false;PERSON;LOCATION
+"[(Selain itu,)-(kesamaan)]";false;false;false;false;false;true;false;PERSON;OTHER
+"[(Selain itu,)-(lainnya)]";false;false;false;false;false;true;false;PERSON;OTHER
+"[(Selain itu,)-(Kopassus)]";false;false;false;false;false;true;false;PERSON;PERSON
+"[(Selain itu,)-(namanya)]";false;false;false;false;false;true;false;PERSON;OTHER
+"[(Selain itu,)-(darah)]";false;false;false;false;false;true;false;PERSON;OTHER
+"[(Selain itu,)-(PMI)]";false;false;false;false;false;true;false;PERSON;PERSON
+"[(Selain itu,)-(tugasnya)]";false;false;false;false;false;true;false;PERSON;OTHER
+"[(Selain itu,)-(darah)]";false;false;false;false;false;true;false;PERSON;OTHER
+"[(Selain itu,)-(donor)]";false;false;false;false;false;true;false;PERSON;OTHER
+"[(Selain itu,)-(keadaan normal PMI dan Kopassus)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Selain itu,)-(persitiwa perang atau bencana," tuturnya)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Selain itu,)-(Pihaknya)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Selain itu,)-(kasih)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Selain itu,)-(adanya)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Selain itu,)-(kegiatan donor darah)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Selain itu,)-(anggota Kopassus tersebut)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Selain itu,)-("Darah)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Selain itu,)-(kondisi tertentu)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Selain itu,)-(Sumbangan)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Selain itu,)-(kantong darah ini)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Selain itu,)-(Kerja sama)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Selain itu,)-(Jusuf Kalla)]";false;false;false;false;false;false;false;PERSON;LOCATION
+"[(Selain itu,)-(Wadanjen Kopassus Brigjen TNI Jaswadi)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Selain itu,)-(diri)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Selain itu,)-(kegiatan proses donor darah)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Selain itu,)-(anggota Kopassus)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Selain itu,)-(sebuah Aula)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Selain itu,)-(Komplek Grup)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Selain itu,)-(2 Kopassus)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Jusuf Kalla,)-(kesamaan)]";false;false;false;false;false;true;false;LOCATION;OTHER
+"[(Jusuf Kalla,)-(lainnya)]";false;false;false;false;false;true;false;LOCATION;OTHER
+"[(Jusuf Kalla,)-(Kopassus)]";false;false;false;false;false;true;false;LOCATION;PERSON
+"[(Jusuf Kalla,)-(namanya)]";false;false;false;false;false;true;false;LOCATION;OTHER
+"[(Jusuf Kalla,)-(darah)]";false;false;false;false;false;true;false;LOCATION;OTHER
+"[(Jusuf Kalla,)-(PMI)]";false;false;false;false;false;true;false;LOCATION;PERSON
+"[(Jusuf Kalla,)-(tugasnya)]";false;false;false;false;false;true;false;LOCATION;OTHER
+"[(Jusuf Kalla,)-(darah)]";false;false;false;false;false;true;false;LOCATION;OTHER
+"[(Jusuf Kalla,)-(donor)]";false;false;false;false;false;true;false;LOCATION;OTHER
+"[(Jusuf Kalla,)-(keadaan normal PMI dan Kopassus)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Jusuf Kalla,)-(persitiwa perang atau bencana," tuturnya)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Jusuf Kalla,)-(Pihaknya)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Jusuf Kalla,)-(kasih)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Jusuf Kalla,)-(adanya)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Jusuf Kalla,)-(kegiatan donor darah)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Jusuf Kalla,)-(anggota Kopassus tersebut)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Jusuf Kalla,)-("Darah)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Jusuf Kalla,)-(kondisi tertentu)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Jusuf Kalla,)-(Sumbangan)]";false;false;false;false;false;false;false;LOCATION;PERSON
+"[(Jusuf Kalla,)-(kantong darah ini)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Jusuf Kalla,)-(Kerja sama)]";false;false;false;false;false;false;false;LOCATION;PERSON
+"[(Jusuf Kalla,)-(Jusuf Kalla)]";false;false;false;false;false;false;true;LOCATION;LOCATION
+"[(Jusuf Kalla,)-(Wadanjen Kopassus Brigjen TNI Jaswadi)]";false;false;false;false;false;false;false;LOCATION;PERSON
+"[(Jusuf Kalla,)-(diri)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Jusuf Kalla,)-(kegiatan proses donor darah)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Jusuf Kalla,)-(anggota Kopassus)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Jusuf Kalla,)-(sebuah Aula)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Jusuf Kalla,)-(Komplek Grup)]";false;false;false;false;false;false;false;LOCATION;PERSON
+"[(Jusuf Kalla,)-(2 Kopassus)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(kesamaan)-(lainnya)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(kesamaan)-(Kopassus)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(kesamaan)-(namanya)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(kesamaan)-(darah)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(kesamaan)-(PMI)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(kesamaan)-(tugasnya)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(kesamaan)-(darah)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(kesamaan)-(donor)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(kesamaan)-(keadaan normal PMI dan Kopassus)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kesamaan)-(persitiwa perang atau bencana," tuturnya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(kesamaan)-(Pihaknya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kesamaan)-(kasih)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kesamaan)-(adanya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kesamaan)-(kegiatan donor darah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kesamaan)-(anggota Kopassus tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kesamaan)-("Darah)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(kesamaan)-(kondisi tertentu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kesamaan)-(Sumbangan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kesamaan)-(kantong darah ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kesamaan)-(Kerja sama)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kesamaan)-(Jusuf Kalla)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(kesamaan)-(Wadanjen Kopassus Brigjen TNI Jaswadi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kesamaan)-(diri)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kesamaan)-(kegiatan proses donor darah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kesamaan)-(anggota Kopassus)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kesamaan)-(sebuah Aula)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kesamaan)-(Komplek Grup)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kesamaan)-(2 Kopassus)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lainnya)-(Kopassus)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(lainnya)-(namanya)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(lainnya)-(darah)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(lainnya)-(PMI)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(lainnya)-(tugasnya)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(lainnya)-(darah)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(lainnya)-(donor)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(lainnya)-(keadaan normal PMI dan Kopassus)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lainnya)-(persitiwa perang atau bencana," tuturnya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(lainnya)-(Pihaknya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lainnya)-(kasih)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lainnya)-(adanya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lainnya)-(kegiatan donor darah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lainnya)-(anggota Kopassus tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lainnya)-("Darah)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(lainnya)-(kondisi tertentu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lainnya)-(Sumbangan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(lainnya)-(kantong darah ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lainnya)-(Kerja sama)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(lainnya)-(Jusuf Kalla)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(lainnya)-(Wadanjen Kopassus Brigjen TNI Jaswadi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(lainnya)-(diri)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lainnya)-(kegiatan proses donor darah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lainnya)-(anggota Kopassus)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lainnya)-(sebuah Aula)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lainnya)-(Komplek Grup)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(lainnya)-(2 Kopassus)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Kopassus)-(namanya)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Kopassus)-(darah)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Kopassus)-(PMI)]";false;true;false;false;false;true;false;PERSON;PERSON
+"[(Kopassus)-(tugasnya)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Kopassus)-(darah)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Kopassus)-(donor)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Kopassus)-(keadaan normal PMI dan Kopassus)]";false;true;false;false;false;false;true;PERSON;OTHER
+"[(Kopassus)-(persitiwa perang atau bencana," tuturnya)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Kopassus)-(Pihaknya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kopassus)-(kasih)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kopassus)-(adanya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kopassus)-(kegiatan donor darah)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kopassus)-(anggota Kopassus tersebut)]";false;true;false;false;false;false;true;PERSON;OTHER
+"[(Kopassus)-("Darah)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Kopassus)-(kondisi tertentu)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kopassus)-(Sumbangan)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Kopassus)-(kantong darah ini)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kopassus)-(Kerja sama)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Kopassus)-(Jusuf Kalla)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Kopassus)-(Wadanjen Kopassus Brigjen TNI Jaswadi)]";false;true;false;false;false;false;true;PERSON;PERSON
+"[(Kopassus)-(diri)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kopassus)-(kegiatan proses donor darah)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kopassus)-(anggota Kopassus)]";false;true;false;false;false;false;true;PERSON;OTHER
+"[(Kopassus)-(sebuah Aula)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kopassus)-(Komplek Grup)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Kopassus)-(2 Kopassus)]";false;true;false;false;false;false;true;PERSON;OTHER
+"[(namanya)-(darah)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(namanya)-(PMI)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(namanya)-(tugasnya)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(namanya)-(darah)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(namanya)-(donor)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(namanya)-(keadaan normal PMI dan Kopassus)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(namanya)-(persitiwa perang atau bencana," tuturnya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(namanya)-(Pihaknya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(namanya)-(kasih)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(namanya)-(adanya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(namanya)-(kegiatan donor darah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(namanya)-(anggota Kopassus tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(namanya)-("Darah)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(namanya)-(kondisi tertentu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(namanya)-(Sumbangan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(namanya)-(kantong darah ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(namanya)-(Kerja sama)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(namanya)-(Jusuf Kalla)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(namanya)-(Wadanjen Kopassus Brigjen TNI Jaswadi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(namanya)-(diri)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(namanya)-(kegiatan proses donor darah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(namanya)-(anggota Kopassus)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(namanya)-(sebuah Aula)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(namanya)-(Komplek Grup)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(namanya)-(2 Kopassus)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(darah)-(PMI)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(darah)-(tugasnya)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(darah)-(darah)]";true;true;false;false;false;true;true;OTHER;OTHER
+"[(darah)-(donor)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(darah)-(keadaan normal PMI dan Kopassus)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(darah)-(persitiwa perang atau bencana," tuturnya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(darah)-(Pihaknya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(darah)-(kasih)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(darah)-(adanya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(darah)-(kegiatan donor darah)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(darah)-(anggota Kopassus tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(darah)-("Darah)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(darah)-(kondisi tertentu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(darah)-(Sumbangan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(darah)-(kantong darah ini)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(darah)-(Kerja sama)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(darah)-(Jusuf Kalla)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(darah)-(Wadanjen Kopassus Brigjen TNI Jaswadi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(darah)-(diri)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(darah)-(kegiatan proses donor darah)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(darah)-(anggota Kopassus)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(darah)-(sebuah Aula)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(darah)-(Komplek Grup)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(darah)-(2 Kopassus)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(PMI)-(tugasnya)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(PMI)-(darah)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(PMI)-(donor)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(PMI)-(keadaan normal PMI dan Kopassus)]";false;true;false;false;false;false;true;PERSON;OTHER
+"[(PMI)-(persitiwa perang atau bencana," tuturnya)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(PMI)-(Pihaknya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(PMI)-(kasih)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(PMI)-(adanya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(PMI)-(kegiatan donor darah)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(PMI)-(anggota Kopassus tersebut)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(PMI)-("Darah)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(PMI)-(kondisi tertentu)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(PMI)-(Sumbangan)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(PMI)-(kantong darah ini)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(PMI)-(Kerja sama)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(PMI)-(Jusuf Kalla)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(PMI)-(Wadanjen Kopassus Brigjen TNI Jaswadi)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(PMI)-(diri)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(PMI)-(kegiatan proses donor darah)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(PMI)-(anggota Kopassus)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(PMI)-(sebuah Aula)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(PMI)-(Komplek Grup)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(PMI)-(2 Kopassus)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(tugasnya)-(darah)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(tugasnya)-(donor)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(tugasnya)-(keadaan normal PMI dan Kopassus)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tugasnya)-(persitiwa perang atau bencana," tuturnya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(tugasnya)-(Pihaknya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tugasnya)-(kasih)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tugasnya)-(adanya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tugasnya)-(kegiatan donor darah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tugasnya)-(anggota Kopassus tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tugasnya)-("Darah)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(tugasnya)-(kondisi tertentu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tugasnya)-(Sumbangan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(tugasnya)-(kantong darah ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tugasnya)-(Kerja sama)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(tugasnya)-(Jusuf Kalla)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(tugasnya)-(Wadanjen Kopassus Brigjen TNI Jaswadi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(tugasnya)-(diri)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tugasnya)-(kegiatan proses donor darah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tugasnya)-(anggota Kopassus)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tugasnya)-(sebuah Aula)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tugasnya)-(Komplek Grup)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(tugasnya)-(2 Kopassus)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(darah)-(donor)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(darah)-(keadaan normal PMI dan Kopassus)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(darah)-(persitiwa perang atau bencana," tuturnya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(darah)-(Pihaknya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(darah)-(kasih)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(darah)-(adanya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(darah)-(kegiatan donor darah)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(darah)-(anggota Kopassus tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(darah)-("Darah)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(darah)-(kondisi tertentu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(darah)-(Sumbangan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(darah)-(kantong darah ini)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(darah)-(Kerja sama)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(darah)-(Jusuf Kalla)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(darah)-(Wadanjen Kopassus Brigjen TNI Jaswadi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(darah)-(diri)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(darah)-(kegiatan proses donor darah)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(darah)-(anggota Kopassus)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(darah)-(sebuah Aula)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(darah)-(Komplek Grup)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(darah)-(2 Kopassus)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(donor)-(keadaan normal PMI dan Kopassus)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(donor)-(persitiwa perang atau bencana," tuturnya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(donor)-(Pihaknya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(donor)-(kasih)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(donor)-(adanya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(donor)-(kegiatan donor darah)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(donor)-(anggota Kopassus tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(donor)-("Darah)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(donor)-(kondisi tertentu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(donor)-(Sumbangan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(donor)-(kantong darah ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(donor)-(Kerja sama)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(donor)-(Jusuf Kalla)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(donor)-(Wadanjen Kopassus Brigjen TNI Jaswadi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(donor)-(diri)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(donor)-(kegiatan proses donor darah)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(donor)-(anggota Kopassus)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(donor)-(sebuah Aula)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(donor)-(Komplek Grup)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(donor)-(2 Kopassus)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keadaan normal PMI dan Kopassus)-(persitiwa perang atau bencana," tuturnya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(keadaan normal PMI dan Kopassus)-(Pihaknya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keadaan normal PMI dan Kopassus)-(kasih)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keadaan normal PMI dan Kopassus)-(adanya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keadaan normal PMI dan Kopassus)-(kegiatan donor darah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keadaan normal PMI dan Kopassus)-(anggota Kopassus tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keadaan normal PMI dan Kopassus)-("Darah)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(keadaan normal PMI dan Kopassus)-(kondisi tertentu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keadaan normal PMI dan Kopassus)-(Sumbangan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(keadaan normal PMI dan Kopassus)-(kantong darah ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keadaan normal PMI dan Kopassus)-(Kerja sama)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(keadaan normal PMI dan Kopassus)-(Jusuf Kalla)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(keadaan normal PMI dan Kopassus)-(Wadanjen Kopassus Brigjen TNI Jaswadi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(keadaan normal PMI dan Kopassus)-(diri)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keadaan normal PMI dan Kopassus)-(kegiatan proses donor darah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keadaan normal PMI dan Kopassus)-(anggota Kopassus)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keadaan normal PMI dan Kopassus)-(sebuah Aula)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keadaan normal PMI dan Kopassus)-(Komplek Grup)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(keadaan normal PMI dan Kopassus)-(2 Kopassus)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persitiwa perang atau bencana," tuturnya)-(Pihaknya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(persitiwa perang atau bencana," tuturnya)-(kasih)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(persitiwa perang atau bencana," tuturnya)-(adanya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(persitiwa perang atau bencana," tuturnya)-(kegiatan donor darah)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(persitiwa perang atau bencana," tuturnya)-(anggota Kopassus tersebut)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(persitiwa perang atau bencana," tuturnya)-("Darah)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(persitiwa perang atau bencana," tuturnya)-(kondisi tertentu)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(persitiwa perang atau bencana," tuturnya)-(Sumbangan)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(persitiwa perang atau bencana," tuturnya)-(kantong darah ini)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(persitiwa perang atau bencana," tuturnya)-(Kerja sama)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(persitiwa perang atau bencana," tuturnya)-(Jusuf Kalla)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(persitiwa perang atau bencana," tuturnya)-(Wadanjen Kopassus Brigjen TNI Jaswadi)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(persitiwa perang atau bencana," tuturnya)-(diri)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(persitiwa perang atau bencana," tuturnya)-(kegiatan proses donor darah)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(persitiwa perang atau bencana," tuturnya)-(anggota Kopassus)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(persitiwa perang atau bencana," tuturnya)-(sebuah Aula)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(persitiwa perang atau bencana," tuturnya)-(Komplek Grup)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(persitiwa perang atau bencana," tuturnya)-(2 Kopassus)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Pihaknya)-(kasih)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(Pihaknya)-(adanya)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(Pihaknya)-(kegiatan donor darah)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(Pihaknya)-(anggota Kopassus tersebut)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(Pihaknya)-("Darah)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Pihaknya)-(kondisi tertentu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Pihaknya)-(Sumbangan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(Pihaknya)-(kantong darah ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Pihaknya)-(Kerja sama)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(Pihaknya)-(Jusuf Kalla)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(Pihaknya)-(Wadanjen Kopassus Brigjen TNI Jaswadi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(Pihaknya)-(diri)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Pihaknya)-(kegiatan proses donor darah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Pihaknya)-(anggota Kopassus)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Pihaknya)-(sebuah Aula)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Pihaknya)-(Komplek Grup)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(Pihaknya)-(2 Kopassus)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kasih)-(adanya)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(kasih)-(kegiatan donor darah)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(kasih)-(anggota Kopassus tersebut)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(kasih)-("Darah)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(kasih)-(kondisi tertentu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kasih)-(Sumbangan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kasih)-(kantong darah ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kasih)-(Kerja sama)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kasih)-(Jusuf Kalla)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(kasih)-(Wadanjen Kopassus Brigjen TNI Jaswadi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kasih)-(diri)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kasih)-(kegiatan proses donor darah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kasih)-(anggota Kopassus)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kasih)-(sebuah Aula)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kasih)-(Komplek Grup)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kasih)-(2 Kopassus)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(adanya)-(kegiatan donor darah)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(adanya)-(anggota Kopassus tersebut)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(adanya)-("Darah)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(adanya)-(kondisi tertentu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(adanya)-(Sumbangan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(adanya)-(kantong darah ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(adanya)-(Kerja sama)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(adanya)-(Jusuf Kalla)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(adanya)-(Wadanjen Kopassus Brigjen TNI Jaswadi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(adanya)-(diri)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(adanya)-(kegiatan proses donor darah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(adanya)-(anggota Kopassus)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(adanya)-(sebuah Aula)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(adanya)-(Komplek Grup)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(adanya)-(2 Kopassus)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kegiatan donor darah)-(anggota Kopassus tersebut)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(kegiatan donor darah)-("Darah)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(kegiatan donor darah)-(kondisi tertentu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kegiatan donor darah)-(Sumbangan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kegiatan donor darah)-(kantong darah ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kegiatan donor darah)-(Kerja sama)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kegiatan donor darah)-(Jusuf Kalla)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(kegiatan donor darah)-(Wadanjen Kopassus Brigjen TNI Jaswadi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kegiatan donor darah)-(diri)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kegiatan donor darah)-(kegiatan proses donor darah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kegiatan donor darah)-(anggota Kopassus)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kegiatan donor darah)-(sebuah Aula)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kegiatan donor darah)-(Komplek Grup)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kegiatan donor darah)-(2 Kopassus)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(anggota Kopassus tersebut)-("Darah)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(anggota Kopassus tersebut)-(kondisi tertentu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(anggota Kopassus tersebut)-(Sumbangan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(anggota Kopassus tersebut)-(kantong darah ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(anggota Kopassus tersebut)-(Kerja sama)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(anggota Kopassus tersebut)-(Jusuf Kalla)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(anggota Kopassus tersebut)-(Wadanjen Kopassus Brigjen TNI Jaswadi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(anggota Kopassus tersebut)-(diri)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(anggota Kopassus tersebut)-(kegiatan proses donor darah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(anggota Kopassus tersebut)-(anggota Kopassus)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(anggota Kopassus tersebut)-(sebuah Aula)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(anggota Kopassus tersebut)-(Komplek Grup)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(anggota Kopassus tersebut)-(2 Kopassus)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[("Darah)-(kondisi tertentu)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[("Darah)-(Sumbangan)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[("Darah)-(kantong darah ini)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Darah)-(Kerja sama)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[("Darah)-(Jusuf Kalla)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[("Darah)-(Wadanjen Kopassus Brigjen TNI Jaswadi)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[("Darah)-(diri)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Darah)-(kegiatan proses donor darah)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Darah)-(anggota Kopassus)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Darah)-(sebuah Aula)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Darah)-(Komplek Grup)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[("Darah)-(2 Kopassus)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(kondisi tertentu)-(Sumbangan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kondisi tertentu)-(kantong darah ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kondisi tertentu)-(Kerja sama)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kondisi tertentu)-(Jusuf Kalla)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(kondisi tertentu)-(Wadanjen Kopassus Brigjen TNI Jaswadi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kondisi tertentu)-(diri)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kondisi tertentu)-(kegiatan proses donor darah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kondisi tertentu)-(anggota Kopassus)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kondisi tertentu)-(sebuah Aula)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kondisi tertentu)-(Komplek Grup)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kondisi tertentu)-(2 Kopassus)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Sumbangan)-(kantong darah ini)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Sumbangan)-(Kerja sama)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Sumbangan)-(Jusuf Kalla)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Sumbangan)-(Wadanjen Kopassus Brigjen TNI Jaswadi)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Sumbangan)-(diri)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Sumbangan)-(kegiatan proses donor darah)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Sumbangan)-(anggota Kopassus)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Sumbangan)-(sebuah Aula)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Sumbangan)-(Komplek Grup)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Sumbangan)-(2 Kopassus)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(kantong darah ini)-(Kerja sama)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kantong darah ini)-(Jusuf Kalla)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(kantong darah ini)-(Wadanjen Kopassus Brigjen TNI Jaswadi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kantong darah ini)-(diri)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kantong darah ini)-(kegiatan proses donor darah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kantong darah ini)-(anggota Kopassus)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kantong darah ini)-(sebuah Aula)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kantong darah ini)-(Komplek Grup)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kantong darah ini)-(2 Kopassus)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Kerja sama)-(Jusuf Kalla)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Kerja sama)-(Wadanjen Kopassus Brigjen TNI Jaswadi)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Kerja sama)-(diri)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kerja sama)-(kegiatan proses donor darah)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kerja sama)-(anggota Kopassus)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kerja sama)-(sebuah Aula)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kerja sama)-(Komplek Grup)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Kerja sama)-(2 Kopassus)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Jusuf Kalla)-(Wadanjen Kopassus Brigjen TNI Jaswadi)]";false;true;false;false;false;true;false;LOCATION;PERSON
+"[(Jusuf Kalla)-(diri)]";false;true;false;false;false;true;false;LOCATION;OTHER
+"[(Jusuf Kalla)-(kegiatan proses donor darah)]";false;true;false;false;false;true;false;LOCATION;OTHER
+"[(Jusuf Kalla)-(anggota Kopassus)]";false;true;false;false;false;true;false;LOCATION;OTHER
+"[(Jusuf Kalla)-(sebuah Aula)]";false;true;false;false;false;true;false;LOCATION;OTHER
+"[(Jusuf Kalla)-(Komplek Grup)]";false;true;false;false;false;true;false;LOCATION;PERSON
+"[(Jusuf Kalla)-(2 Kopassus)]";false;true;false;false;false;true;false;LOCATION;OTHER
+"[(Wadanjen Kopassus Brigjen TNI Jaswadi)-(diri)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Wadanjen Kopassus Brigjen TNI Jaswadi)-(kegiatan proses donor darah)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Wadanjen Kopassus Brigjen TNI Jaswadi)-(anggota Kopassus)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Wadanjen Kopassus Brigjen TNI Jaswadi)-(sebuah Aula)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Wadanjen Kopassus Brigjen TNI Jaswadi)-(Komplek Grup)]";false;true;false;false;false;true;false;PERSON;PERSON
+"[(Wadanjen Kopassus Brigjen TNI Jaswadi)-(2 Kopassus)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(diri)-(kegiatan proses donor darah)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(diri)-(anggota Kopassus)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(diri)-(sebuah Aula)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(diri)-(Komplek Grup)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(diri)-(2 Kopassus)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(kegiatan proses donor darah)-(anggota Kopassus)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(kegiatan proses donor darah)-(sebuah Aula)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(kegiatan proses donor darah)-(Komplek Grup)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(kegiatan proses donor darah)-(2 Kopassus)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(anggota Kopassus)-(sebuah Aula)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(anggota Kopassus)-(Komplek Grup)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(anggota Kopassus)-(2 Kopassus)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(sebuah Aula)-(Komplek Grup)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(sebuah Aula)-(2 Kopassus)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(Komplek Grup)-(2 Kopassus)]";false;true;false;false;false;true;false;PERSON;OTHER

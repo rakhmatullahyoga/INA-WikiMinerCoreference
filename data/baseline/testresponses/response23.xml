@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>SBY Instruksikan Mendikbud Investigasi Keterlambatan UN</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>Presiden Susilo Bambang Yudhoyono</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>Menteri Pendidikan dan Kebudayaan</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>Mohammad Nuh</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>informasi keterlambatan Ujian Nasional</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>11 provinsi</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>"Info keterlambatan UN</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>instruksikan Mendikbud</Mention>
+    </Entity>
+    <Entity ClusterId="9">
+        <Mention>investigasi,"</Mention>
+    </Entity>
+    <Entity ClusterId="10">
+        <Mention>Presiden</Mention>
+    </Entity>
+    <Entity ClusterId="11">
+        <Mention>akun jejaring sosial</Mention>
+    </Entity>
+    <Entity ClusterId="12">
+        <Mention>twitternya @SBYudhoyono</Mention>
+    </Entity>
+    <Entity ClusterId="13">
+        <Mention>Ahad</Mention>
+    </Entity>
+    <Entity ClusterId="14">
+        <Mention>malam</Mention>
+    </Entity>
+    <Entity ClusterId="15">
+        <Mention>dugaan keterlambatan distribusi soal Ujian Nasional</Mention>
+    </Entity>
+    <Entity ClusterId="16">
+        <Mention>pelaksanaan Ujian Nasional</Mention>
+    </Entity>
+    <Entity ClusterId="17">
+        <Mention>provinsi Indonesia</Mention>
+    </Entity>
+    <Entity ClusterId="18">
+        <Mention>Tengah</Mention>
+    </Entity>
+    <Entity ClusterId="19">
+        <Mention>Senin</Mention>
+    </Entity>
+    <Entity ClusterId="20">
+        <Mention>penundaan</Mention>
+    </Entity>
+    <Entity ClusterId="21">
+        <Mention>tiga seri kicauannya</Mention>
+    </Entity>
+    <Entity ClusterId="22">
+        <Mention>Ujian Nasional</Mention>
+    </Entity>
+    <Entity ClusterId="23">
+        <Mention>selamat</Mention>
+    </Entity>
+    <Entity ClusterId="24">
+        <Mention>pelajar</Mention>
+    </Entity>
+    <Entity ClusterId="25">
+        <Mention>"Insya Allah,</Mention>
+    </Entity>
+    <Entity ClusterId="26">
+        <Mention>lulus</Mention>
+    </Entity>
+    <Entity ClusterId="27">
+        <Mention>Ani</Mention>
+    </Entity>
+    <Entity ClusterId="28">
+        <Mention>orang tua</Mention>
+    </Entity>
+    <Entity ClusterId="29">
+        <Mention>motivasi dan doa</Mention>
+    </Entity>
+    <Entity ClusterId="30">
+        <Mention>stres</Mention>
+    </Entity>
+    <Entity ClusterId="31">
+        <Mention>Akun twitter Presiden Yudhoyono</Mention>
+    </Entity>
+    <Entity ClusterId="32">
+        <Mention>Sabtu malam</Mention>
+    </Entity>
+    <Entity ClusterId="33">
+        <Mention>sekalipun baru</Mention>
+    </Entity>
+    <Entity ClusterId="34">
+        <Mention>pengikut</Mention>
+    </Entity>
+</CoreferenceChain>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>Sriwijaya Air</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>Metrotvnews.com</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>Padang</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>SJ</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>Jakarta</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>WIB</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>Angkasa Pura II</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>Bandara Internasional Minangkabau (BIM</Mention>
+    </Entity>
+    <Entity ClusterId="9">
+        <Mention>Sriwijaya</Mention>
+    </Entity>
+    <Entity ClusterId="10">
+        <Mention>Bukittinggi</Mention>
+    </Entity>
+    <Entity ClusterId="11">
+        <Mention>Medan</Mention>
+    </Entity>
+</CoreferenceChain>

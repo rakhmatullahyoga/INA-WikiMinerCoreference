@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>DPR</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>Rusia</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>REPUBLIKA.CO.ID</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>MOSKOW --</Mention>
+        <Mention>Moskow</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>Perwakilan Rakyat</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>Edward Snowden</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>Amerika Serikat</Mention>
+        <Mention>AS</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>intelijen</Mention>
+    </Entity>
+    <Entity ClusterId="9">
+        <Mention>politik</Mention>
+    </Entity>
+    <Entity ClusterId="10">
+        <Mention>Badan Keamanan Nasional</Mention>
+        <Mention>NSA</Mention>
+    </Entity>
+    <Entity ClusterId="11">
+        <Mention>bandara Sheremetyevo</Mention>
+    </Entity>
+    <Entity ClusterId="12">
+        <Mention>visa</Mention>
+    </Entity>
+    <Entity ClusterId="13">
+        <Mention>Ekuador</Mention>
+    </Entity>
+    <Entity ClusterId="14">
+        <Mention>hubungan internasional</Mention>
+    </Entity>
+    <Entity ClusterId="15">
+        <Mention>Duma</Mention>
+    </Entity>
+    <Entity ClusterId="16">
+        <Mention>Twitter</Mention>
+    </Entity>
+    <Entity ClusterId="17">
+        <Mention>Kremlin</Mention>
+    </Entity>
+    <Entity ClusterId="18">
+        <Mention>Juru bicara Presiden</Mention>
+    </Entity>
+    <Entity ClusterId="19">
+        <Mention>Vladimir Putin</Mention>
+    </Entity>
+</CoreferenceChain>

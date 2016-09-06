@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>Jokowi</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>Centre for Strategic and International Studies</Mention>
+        <Mention>CSIS</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>Vermonte</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>Gubernur DKI Jakarta</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>Joko Widodo</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>Indonesia</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>biologis</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>Tempo</Mention>
+    </Entity>
+    <Entity ClusterId="9">
+        <Mention>reformis</Mention>
+    </Entity>
+    <Entity ClusterId="10">
+        <Mention>31</Mention>
+    </Entity>
+    <Entity ClusterId="11">
+        <Mention>provinsi</Mention>
+    </Entity>
+    <Entity ClusterId="12">
+        <Mention>Papua</Mention>
+    </Entity>
+    <Entity ClusterId="13">
+        <Mention>Papua Barat</Mention>
+    </Entity>
+    <Entity ClusterId="14">
+        <Mention>16 April</Mention>
+    </Entity>
+    <Entity ClusterId="15">
+        <Mention>presiden 2014</Mention>
+    </Entity>
+    <Entity ClusterId="16">
+        <Mention>Partai Gerindra</Mention>
+    </Entity>
+    <Entity ClusterId="17">
+        <Mention>Prabowo Subianto</Mention>
+    </Entity>
+    <Entity ClusterId="18">
+        <Mention>Ketua Umum Partai Golkar</Mention>
+    </Entity>
+    <Entity ClusterId="19">
+        <Mention>Aburizal Bakrie</Mention>
+    </Entity>
+    <Entity ClusterId="20">
+        <Mention>PDIP</Mention>
+    </Entity>
+    <Entity ClusterId="21">
+        <Mention>Megawati Soekarnoputri</Mention>
+    </Entity>
+    <Entity ClusterId="22">
+        <Mention>Wakil Presiden Jusuf Kalla</Mention>
+    </Entity>
+    <Entity ClusterId="23">
+        <Mention>Mahkamah Konstitusi</Mention>
+    </Entity>
+    <Entity ClusterId="24">
+        <Mention>Mahfud MD</Mention>
+    </Entity>
+    <Entity ClusterId="25">
+        <Mention>Hatta Rajasa</Mention>
+    </Entity>
+    <Entity ClusterId="26">
+        <Mention>1635</Mention>
+    </Entity>
+</CoreferenceChain>

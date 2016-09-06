@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>Dubes</Mention>
+        <Mention>Duta Besar</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>warga negara Indonesia</Mention>
+        <Mention>WNI</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>gempa</Mention>
+        <Mention>Gempa bumi</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>Provinsi Sichuan</Mention>
+        <Mention>Sichuan</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>RI</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>China</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>Mongolia</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>Beijing</Mention>
+    </Entity>
+    <Entity ClusterId="9">
+        <Mention>Shanghai</Mention>
+    </Entity>
+    <Entity ClusterId="10">
+        <Mention>Guangzhou</Mention>
+    </Entity>
+    <Entity ClusterId="11">
+        <Mention>desa</Mention>
+    </Entity>
+    <Entity ClusterId="12">
+        <Mention>bumi</Mention>
+    </Entity>
+    <Entity ClusterId="13">
+        <Mention>provinsi</Mention>
+    </Entity>
+    <Entity ClusterId="14">
+        <Mention>Ibu Kota</Mention>
+    </Entity>
+    <Entity ClusterId="15">
+        <Mention>Chengdu</Mention>
+    </Entity>
+    <Entity ClusterId="16">
+        <Mention>Xi Jinping</Mention>
+    </Entity>
+    <Entity ClusterId="17">
+        <Mention>Perdana Menteri</Mention>
+    </Entity>
+    <Entity ClusterId="18">
+        <Mention>Li Keqiang</Mention>
+    </Entity>
+    <Entity ClusterId="19">
+        <Mention>helikopter</Mention>
+    </Entity>
+</CoreferenceChain>

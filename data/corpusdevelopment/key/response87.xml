@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>Distrik</Mention>
+        <Mention>Papua</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>Aimas</Mention>
+        <Mention>Kabupaten Sorong</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>Metrotvnews.com</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>Sorong</Mention>
+        <Mention>kota Sorong</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>Kepolisian</Mention>
+        <Mention>kantor polisi</Mention>
+        <Mention>polisi</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>Paulus Waterpauw</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>Wit</Mention>
+        <Mention>WIT</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>Jayapura</Mention>
+    </Entity>
+    <Entity ClusterId="9">
+        <Mention>TNI</Mention>
+    </Entity>
+    <Entity ClusterId="10">
+        <Mention>Kelurahan</Mention>
+    </Entity>
+    <Entity ClusterId="11">
+        <Mention>bendera Bintang Kejora</Mention>
+    </Entity>
+    <Entity ClusterId="12">
+        <Mention>1 Mei</Mention>
+    </Entity>
+    <Entity ClusterId="13">
+        <Mention>Abner</Mention>
+    </Entity>
+</CoreferenceChain>

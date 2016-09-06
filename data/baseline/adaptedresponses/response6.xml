@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>kesehatan</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>perempuan</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>Sekretaris Jenderal PBB</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>Sekjen PBB</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>Ban</Mention>
+        <Mention>Ban Ki-moon</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>anak-anak</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>pemerintah</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>Markas PBB</Mention>
+    </Entity>
+    <Entity ClusterId="9">
+        <Mention>New York</Mention>
+    </Entity>
+    <Entity ClusterId="10">
+        <Mention>pemimpin</Mention>
+    </Entity>
+    <Entity ClusterId="11">
+        <Mention>Xinhua</Mention>
+    </Entity>
+</CoreferenceChain>

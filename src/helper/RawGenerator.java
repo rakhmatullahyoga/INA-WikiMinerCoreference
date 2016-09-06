@@ -47,15 +47,18 @@ public class RawGenerator {
     
     public void generate() {
         try {
-            ResultSet result = statement.executeQuery("SELECT * FROM `artikel` WHERE ID_ARTIKEL IN (SELECT ID_ARTIKEL FROM `artikel_kategori_verified` WHERE ID_KELAS = 3) ORDER BY RAND()");
+            ResultSet result = statement.executeQuery("SELECT * FROM `artikel` "
+                    + "WHERE ID_ARTIKEL NOT IN (SELECT ID_ARTIKEL FROM "
+                    + "`artikel_kategori_verified`) ORDER BY RAND() LIMIT 900, 100");
             int i=0;
             while(result.next()) {
-                PrintWriter writer = new PrintWriter("./data/articles/artikel"+i+".txt", "UTF-8");
+                PrintWriter writer = new PrintWriter("./data/corpusdevelopment/articles/artikel"+i+".txt", "UTF-8");
                 writer.println(result.getString("JUDUL"));
                 writer.println(result.getString("FULL_TEXT"));
                 writer.close();
                 i++;
             }
+            System.out.println("Generated "+i+" articles");
         } catch (SQLException | FileNotFoundException | UnsupportedEncodingException ex) {
             Logger.getLogger(RawGenerator.class.getName()).log(Level.SEVERE, null, ex);
         }

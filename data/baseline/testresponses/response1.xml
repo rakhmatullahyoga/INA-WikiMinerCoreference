@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>BBM Dua</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>Harga Bikin SPBU Merugi</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>Pemerintah</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>dua harga bensin</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>kebiajakan kenaikan harga bahan bakar minyak</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>BBM</Mention>
+        <Mention>harga BBM itu,</Mention>
+        <Mention>harga BBM lama,</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>seorang pengelola Stasiun Pengisian Bahan Bakar Umum</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>(SPBU</Mention>
+    </Entity>
+    <Entity ClusterId="9">
+        <Mention>kawasan Jakarta</Mention>
+    </Entity>
+    <Entity ClusterId="10">
+        <Mention>Selatan</Mention>
+    </Entity>
+    <Entity ClusterId="11">
+        <Mention>kebijakan ini</Mention>
+    </Entity>
+    <Entity ClusterId="12">
+        <Mention>pom bensin</Mention>
+    </Entity>
+    <Entity ClusterId="13">
+        <Mention>"Persentase kerugiannya</Mention>
+    </Entity>
+    <Entity ClusterId="14">
+        <Mention>45 persen,"</Mention>
+    </Entity>
+    <Entity ClusterId="15">
+        <Mention>saat</Mention>
+    </Entity>
+    <Entity ClusterId="16">
+        <Mention>Jumat</Mention>
+    </Entity>
+    <Entity ClusterId="17">
+        <Mention>26 April 2013</Mention>
+    </Entity>
+    <Entity ClusterId="18">
+        <Mention>kerugian itu</Mention>
+    </Entity>
+    <Entity ClusterId="19">
+        <Mention>angkutan umum</Mention>
+    </Entity>
+    <Entity ClusterId="20">
+        <Mention>Selain itu,</Mention>
+    </Entity>
+    <Entity ClusterId="21">
+        <Mention>SPBU tersebut</Mention>
+    </Entity>
+    <Entity ClusterId="22">
+        <Mention>pengendara sepeda motor,</Mention>
+    </Entity>
+    <Entity ClusterId="23">
+        <Mention>sore hari</Mention>
+    </Entity>
+    <Entity ClusterId="24">
+        <Mention>Pemberlakuan harga Rp</Mention>
+    </Entity>
+    <Entity ClusterId="25">
+        <Mention>6.500 per liter</Mention>
+    </Entity>
+    <Entity ClusterId="26">
+        <Mention>jumlah pelanggan BBM tersebut</Mention>
+    </Entity>
+    <Entity ClusterId="27">
+        <Mention>Artinya,</Mention>
+    </Entity>
+    <Entity ClusterId="28">
+        <Mention>pengendara motor dan angkutan</Mention>
+    </Entity>
+    <Entity ClusterId="29">
+        <Mention>4.500 per liter</Mention>
+    </Entity>
+    <Entity ClusterId="30">
+        <Mention>stok bensin</Mention>
+    </Entity>
+    <Entity ClusterId="31">
+        <Mention>harga baru</Mention>
+    </Entity>
+    <Entity ClusterId="32">
+        <Mention>solusinya,</Mention>
+    </Entity>
+    <Entity ClusterId="33">
+        <Mention>kemungkinan</Mention>
+    </Entity>
+    <Entity ClusterId="34">
+        <Mention>pengurangan jumlah pekerja</Mention>
+    </Entity>
+    <Entity ClusterId="35">
+        <Mention>"Operator</Mention>
+    </Entity>
+    <Entity ClusterId="36">
+        <Mention>ucap sumber</Mention>
+    </Entity>
+    <Entity ClusterId="37">
+        <Mention>SPBU</Mention>
+    </Entity>
+    <Entity ClusterId="38">
+        <Mention>aturan</Mention>
+    </Entity>
+    <Entity ClusterId="39">
+        <Mention>pemberlakuan dua</Mention>
+    </Entity>
+    <Entity ClusterId="40">
+        <Mention>peralatan,</Mention>
+    </Entity>
+    <Entity ClusterId="41">
+        <Mention>seperi spanduk</Mention>
+    </Entity>
+    <Entity ClusterId="42">
+        <Mention>stiker</Mention>
+    </Entity>
+    <Entity ClusterId="43">
+        <Mention>papan penanda</Mention>
+    </Entity>
+    <Entity ClusterId="44">
+        <Mention>dan papan petunjuk</Mention>
+    </Entity>
+    <Entity ClusterId="45">
+        <Mention>dua harga</Mention>
+    </Entity>
+    <Entity ClusterId="46">
+        <Mention>Ihwal pengawasan,</Mention>
+    </Entity>
+    <Entity ClusterId="47">
+        <Mention>kemugkinan penyimpangan</Mention>
+    </Entity>
+    <Entity ClusterId="48">
+        <Mention>"Sekarang</Mention>
+    </Entity>
+    <Entity ClusterId="49">
+        <Mention>mobil</Mention>
+    </Entity>
+</CoreferenceChain>

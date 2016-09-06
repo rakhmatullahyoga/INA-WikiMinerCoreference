@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>Bupati Mamuju</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>menteri pendidikan</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>Bupati Kabupaten Mamuju Provinsi Sulawesi Barat</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>Menteri Pendidikan dan Kebudayaan</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>Muhammad Nuh</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>Presiden RI</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>Ujian Nasional</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>UN</Mention>
+    </Entity>
+    <Entity ClusterId="9">
+        <Mention>Pemerintah</Mention>
+    </Entity>
+    <Entity ClusterId="10">
+        <Mention>Mamuju</Mention>
+    </Entity>
+    <Entity ClusterId="11">
+        <Mention>Drs Suhardi Duka MM,</Mention>
+    </Entity>
+    <Entity ClusterId="12">
+        <Mention>sentralisasi</Mention>
+    </Entity>
+    <Entity ClusterId="13">
+        <Mention>Mendikbud</Mention>
+    </Entity>
+    <Entity ClusterId="14">
+        <Mention>desentralisasi</Mention>
+    </Entity>
+    <Entity ClusterId="15">
+        <Mention>Indonesia</Mention>
+    </Entity>
+    <Entity ClusterId="16">
+        <Mention>Kabupaten Mamuju</Mention>
+    </Entity>
+    <Entity ClusterId="17">
+        <Mention>Provinsi</Mention>
+    </Entity>
+    <Entity ClusterId="18">
+        <Mention>Singapura</Mention>
+    </Entity>
+</CoreferenceChain>

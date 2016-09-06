@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>Persidafon</Mention>
+        <Mention>Gabus Sentani</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>Persija</Mention>
+        <Mention>Macan Kemayoran</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>Indonesia Super League (ISL</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>Stadion Utama Gelora Bung Karno</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>Jakarta</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>Asisten pelatih Persidafon</Mention>
+        <Mention>Sudirman</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>PSPS Pekanbaru</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>Persipura</Mention>
+    </Entity>
+    <Entity ClusterId="9">
+        <Mention>Persisam Samarinda</Mention>
+    </Entity>
+    <Entity ClusterId="10">
+        <Mention>Pedro Javier</Mention>
+    </Entity>
+    <Entity ClusterId="11">
+        <Mention>Robetino Pugliara</Mention>
+    </Entity>
+    <Entity ClusterId="12">
+        <Mention>Erenst Pahelerang</Mention>
+    </Entity>
+</CoreferenceChain>

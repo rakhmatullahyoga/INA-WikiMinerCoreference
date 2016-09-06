@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>pengacara</Mention>
+        <Mention>Farhat Abbas</Mention>
+        <Mention>Farhat</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>Partai Demokrat</Mention>
+        <Mention>Demokrat</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>Cina</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>Polda Metro Jaya</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>Jakarta Barat</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>Wakil Gubernur DKI Jakarta</Mention>
+        <Mention>Basuki Tjahaja Purnama</Mention>
+        <Mention>Ahok</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>Majelis Tinggi</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>Jakarta Utara</Mention>
+    </Entity>
+    <Entity ClusterId="9">
+        <Mention>Nia Daniati</Mention>
+    </Entity>
+    <Entity ClusterId="10">
+        <Mention>DPR</Mention>
+    </Entity>
+    <Entity ClusterId="11">
+        <Mention>daerah pemilihan DKI Jakarta III</Mention>
+    </Entity>
+    <Entity ClusterId="12">
+        <Mention>Kepulauan Seribu</Mention>
+    </Entity>
+    <Entity ClusterId="13">
+        <Mention>Masyarakat Betawi</Mention>
+    </Entity>
+    <Entity ClusterId="14">
+        <Mention>Anton Medan</Mention>
+    </Entity>
+    <Entity ClusterId="15">
+        <Mention>twitter</Mention>
+    </Entity>
+</CoreferenceChain>

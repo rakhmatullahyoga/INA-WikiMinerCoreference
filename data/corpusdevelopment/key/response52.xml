@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>puasa</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>Kupang</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>ANTARA News</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>pisang</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>kacang hijau</Mention>
+        <Mention>kacang ijo</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>pasar-pasar</Mention>
+        <Mention>pasar</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>Ramadhan</Mention>
+        <Mention>Ramadan</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>Bank Mandiri</Mention>
+    </Entity>
+    <Entity ClusterId="9">
+        <Mention>Kelurahan</Mention>
+    </Entity>
+    <Entity ClusterId="10">
+        <Mention>Soekarno</Mention>
+    </Entity>
+    <Entity ClusterId="11">
+        <Mention>Bupati</Mention>
+    </Entity>
+    <Entity ClusterId="12">
+        <Mention>Kota Kupang</Mention>
+    </Entity>
+    <Entity ClusterId="13">
+        <Mention>bahan pangan</Mention>
+        <Mention>makanan</Mention>
+        <Mention>Makanan</Mention>
+    </Entity>
+    <Entity ClusterId="14">
+        <Mention>jajanan</Mention>
+    </Entity>
+    <Entity ClusterId="15">
+        <Mention>kue</Mention>
+    </Entity>
+    <Entity ClusterId="16">
+        <Mention>diperdagangkan</Mention>
+    </Entity>
+    <Entity ClusterId="17">
+        <Mention>Kampung</Mention>
+    </Entity>
+    <Entity ClusterId="18">
+        <Mention>Solor</Mention>
+    </Entity>
+    <Entity ClusterId="19">
+        <Mention>Air</Mention>
+    </Entity>
+    <Entity ClusterId="20">
+        <Mention>Katolik</Mention>
+    </Entity>
+    <Entity ClusterId="21">
+        <Mention>buah</Mention>
+    </Entity>
+    <Entity ClusterId="22">
+        <Mention>Jawa Tengah</Mention>
+    </Entity>
+    <Entity ClusterId="23">
+        <Mention>mangkuk</Mention>
+    </Entity>
+    <Entity ClusterId="24">
+        <Mention>santan</Mention>
+    </Entity>
+    <Entity ClusterId="25">
+        <Mention>cokelat</Mention>
+    </Entity>
+    <Entity ClusterId="26">
+        <Mention>singkong</Mention>
+    </Entity>
+    <Entity ClusterId="27">
+        <Mention>kolang kaling</Mention>
+        <Mention>kolang-kaling</Mention>
+    </Entity>
+    <Entity ClusterId="28">
+        <Mention>kalori</Mention>
+    </Entity>
+    <Entity ClusterId="29">
+        <Mention>gula merah</Mention>
+    </Entity>
+    <Entity ClusterId="30">
+        <Mention>daun pandan</Mention>
+    </Entity>
+    <Entity ClusterId="31">
+        <Mention>Indonesia</Mention>
+    </Entity>
+    <Entity ClusterId="32">
+        <Mention>gula</Mention>
+    </Entity>
+    <Entity ClusterId="33">
+        <Mention>sering</Mention>
+    </Entity>
+</CoreferenceChain>

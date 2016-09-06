@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>Pria</Mention>
+        <Mention>pria</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>TEMPO.CO</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>Michigan--</Mention>
+        <Mention>Michigan</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>wanita</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>Amerika Serikat</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>Hari</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>Ibu</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>Troy</Mention>
+    </Entity>
+    <Entity ClusterId="9">
+        <Mention>dokter kandungan</Mention>
+    </Entity>
+    <Entity ClusterId="10">
+        <Mention>butuh</Mention>
+    </Entity>
+    <Entity ClusterId="11">
+        <Mention>bayi</Mention>
+    </Entity>
+    <Entity ClusterId="12">
+        <Mention>otot-otot</Mention>
+    </Entity>
+    <Entity ClusterId="13">
+        <Mention>istri</Mention>
+    </Entity>
+    <Entity ClusterId="14">
+        <Mention>elektroda</Mention>
+    </Entity>
+    <Entity ClusterId="15">
+        <Mention>perut</Mention>
+    </Entity>
+    <Entity ClusterId="16">
+        <Mention>perempuan</Mention>
+    </Entity>
+    <Entity ClusterId="17">
+        <Mention>muka</Mention>
+    </Entity>
+    <Entity ClusterId="18">
+        <Mention>ibu hamil</Mention>
+    </Entity>
+    <Entity ClusterId="19">
+        <Mention>tangan</Mention>
+    </Entity>
+    <Entity ClusterId="20">
+        <Mention>mau</Mention>
+    </Entity>
+    <Entity ClusterId="21">
+        <Mention>muntah</Mention>
+    </Entity>
+    <Entity ClusterId="22">
+        <Mention>persalinan</Mention>
+    </Entity>
+    <Entity ClusterId="23">
+        <Mention>nyeri</Mention>
+    </Entity>
+    <Entity ClusterId="24">
+        <Mention>SuperHero</Mention>
+    </Entity>
+</CoreferenceChain>

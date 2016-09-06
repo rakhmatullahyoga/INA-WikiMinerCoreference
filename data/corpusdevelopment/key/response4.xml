@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>REPUBLIKA.CO.ID</Mention>
+        <Mention>Republika</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>JAKARTA --</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>gambut</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>rokok</Mention>
+    </Entity>
+</CoreferenceChain>

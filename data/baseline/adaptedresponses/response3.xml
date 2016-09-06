@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>AIMI Kalbar</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>Singkawang</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>Indonesia</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>AIMI</Mention>
+        <Mention>Ketua AIMI Kalbar</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>Peraturan Pemerintah</Mention>
+        <Mention>PP</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>Dinas Kesehatan</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>Nursiah</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>Dinkes</Mention>
+    </Entity>
+    <Entity ClusterId="9">
+        <Mention>Kepala Bidang Gizi Dinkes Kalbar</Mention>
+    </Entity>
+    <Entity ClusterId="10">
+        <Mention>Kota Pontianak</Mention>
+    </Entity>
+    <Entity ClusterId="11">
+        <Mention>Perda</Mention>
+    </Entity>
+    <Entity ClusterId="12">
+        <Mention>Marsia</Mention>
+        <Mention>Marsia Dewi</Mention>
+    </Entity>
+    <Entity ClusterId="13">
+        <Mention>Peraturan Daerah</Mention>
+    </Entity>
+    <Entity ClusterId="14">
+        <Mention>Dinkes Provinsi Kalbar</Mention>
+    </Entity>
+    <Entity ClusterId="15">
+        <Mention>Pontianak</Mention>
+    </Entity>
+    <Entity ClusterId="16">
+        <Mention>air susu ibu perah</Mention>
+        <Mention>ASIP</Mention>
+    </Entity>
+    <Entity ClusterId="17">
+        <Mention>Wahana Visi Indonesia</Mention>
+        <Mention>WVI</Mention>
+    </Entity>
+</CoreferenceChain>

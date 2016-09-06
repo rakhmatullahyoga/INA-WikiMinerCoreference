@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>Napoli</Mention>
+        <Mention>NAPLES --</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>Belgia</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>REPUBLIKA.CO.ID</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>www</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>PSV Eindhoven</Mention>
+        <Mention>PSV</Mention>
+    </Entity>
+</CoreferenceChain>

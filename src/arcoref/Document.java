@@ -104,12 +104,24 @@ public class Document {
     
     public void writeRules(String path) {
         try (PrintWriter writer = new PrintWriter(path, "UTF-8")) {
-            writer.println("mentions,isStrMatch,"
-                    + "isMatchNoCasePunc,isAbbrev,isFirstPronoun,isScndPronoun,"
-                    + "isOnOneSentence,isMatchPartial,firstNameClass,"
+            writer.println("mentions;isStrMatch;"
+                    + "isMatchNoCasePunc;isAbbrev;isFirstPronoun;isScndPronoun;"
+                    + "isOnOneSentence;isMatchPartial;firstNameClass;"
                     + "scndNameClass");
             for(RuleInstance rule:ruleList) {
-                writer.println("\"[("+rule.getMention1()+")-("+rule.getMention2()+")]\","+rule);
+                writer.println("\"[("+rule.getMention1()+")-("+rule.getMention2()+")]\";"+rule);
+            }
+        } catch (FileNotFoundException | UnsupportedEncodingException ex) {
+            Logger.getLogger(Document.class.getName()).log(Level.SEVERE, null, ex);
+        }
+    }
+    
+    public void writeMentions(String path) {
+        try (PrintWriter writer = new PrintWriter(path, "UTF-8")) {
+            for(ArrayList<Mention> mentionPerSentence:mentionDocumentList) {
+                for(Mention mention:mentionPerSentence) {
+                    writer.println(mention.mentionStr);
+                }
             }
         } catch (FileNotFoundException | UnsupportedEncodingException ex) {
             Logger.getLogger(Document.class.getName()).log(Level.SEVERE, null, ex);
@@ -128,9 +140,19 @@ public class Document {
         tokenList.addAll(tagger.getToken());
     }
     
-    public String getFirstToken(String phrase) {
+    public String getAvailableToken(String phrase) {
         IndonesianSentenceTokenizer token = new IndonesianSentenceTokenizer();
         ArrayList<String> str = token.tokenizeSentenceWithCompositeWords(phrase);
+        int i=0;
+        boolean found=false;
+        while(!found&&(i<str.size())) {
+            if(tokenList.contains(str.get(i)))
+                found = true;
+            else
+                i++;
+        }
+        if(found)
+            return str.get(i);
         return str.get(0);
     }
     
@@ -170,11 +192,12 @@ public class Document {
     
     public boolean hasNPChild(TreeNode node){
         boolean found = false;
-        if(node.getChildList() == null){
+        if(node.getChildList() == null) {
             return false;
-        }else{
-            for(TreeNode child : node.getChildList()){
-                if(child.getType().equals("NP") || child.getType().equals("PRP") || hasNPChild(child)){
+        }
+        else {
+            for(TreeNode child : node.getChildList()) {
+                if(child.getType().equals("NP") || child.getType().equals("PRP") || hasNPChild(child)) {
                     found = true;
                     break;
                 }
@@ -185,19 +208,9 @@ public class Document {
     
     public ArrayList<Mention> getMention(List<TreeNode> sentenceNodes) {
         ArrayList<Mention> mentionList = new ArrayList<>();
-        for(TreeNode node : sentenceNodes){
-            if(node.getChildList() == null){
-                if((node.getType().equals("NP") || node.getType().equals("PRP")) && !hasNPChild(node)){
-                    String phrase = node.getPhrase();
-                    if(phrase.charAt(phrase.length()-1)==' ')
-                        phrase = phrase.substring(0, phrase.length()-1);
-                    int idxNE = tokenList.indexOf(getFirstToken(phrase));
-                    boolean isPronoun = node.getType().equals("PRP");
-                    mentionList.add(new Mention(phrase, NEList.get(idxNE), isPronoun));
-                }
-            }
-            else{
-                if((node.getType().equals("NP") || node.getType().equals("PRP")) && !hasNPChild(node)){
+        for(TreeNode node : sentenceNodes) {
+            if(node.getChildList() != null) {
+                if((node.getType().equals("NP") || node.getType().equals("PRP")) && !hasNPChild(node)) {
                     String phrase = node.getPhrase();
                     if(phrase.charAt(phrase.length()-1)==' ')
                         phrase = phrase.substring(0, phrase.length()-1);
@@ -207,11 +220,15 @@ public class Document {
                         splitAppositive.addAll(splitAppositive(str));
                     }
                     for(String str:splitAppositive) {
-                        int idxNE = tokenList.indexOf(getFirstToken(str));
+                        int idxNE = tokenList.indexOf(getAvailableToken(str.trim()));
                         boolean isPronoun = node.getType().equals("PRP");
-                        mentionList.add(new Mention(str, NEList.get(idxNE), isPronoun));
+                        if(idxNE!=-1)
+                            mentionList.add(new Mention(str.trim(), NEList.get(idxNE), isPronoun));
+                        else
+                            mentionList.add(new Mention(str.trim(), RuleInstance.UNKNOWN, isPronoun));
                     }
-                }else{
+                }
+                else {
                     mentionList.addAll(getMention(node.getChildList()));
                 }
             }

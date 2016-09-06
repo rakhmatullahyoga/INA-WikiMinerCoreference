@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>Bantuan Langsung Tunai</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>Raskin</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>Menteri Koordinator Bidang Kesejahteraan Rakyat</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>Menko Kesra</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>Agung Laksono</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>Jampersal</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>BBM</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>Jamkesmas</Mention>
+    </Entity>
+    <Entity ClusterId="9">
+        <Mention>Jaminan Kesehatan Masyarakat</Mention>
+    </Entity>
+    <Entity ClusterId="10">
+        <Mention>BLT</Mention>
+    </Entity>
+</CoreferenceChain>

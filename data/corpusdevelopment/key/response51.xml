@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>REPUBLIKA.CO.ID</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>JAKARTA --</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>Kejaksaan Agung</Mention>
+        <Mention>Kejagung</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>Jaksa Agung</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>Basrief Arief</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>Jakarta Selatan</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>Komisi untuk Orang Hilang dan Korban Tindak Kekerasan</Mention>
+        <Mention>Kontras</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>Agustinus</Mention>
+    </Entity>
+    <Entity ClusterId="9">
+        <Mention>dalang</Mention>
+    </Entity>
+    <Entity ClusterId="10">
+        <Mention>Mahkamah Agung (MA</Mention>
+    </Entity>
+    <Entity ClusterId="11">
+        <Mention>Tana Toraja</Mention>
+    </Entity>
+    <Entity ClusterId="12">
+        <Mention>Sulawesi Selatan</Mention>
+        <Mention>Sulsel</Mention>
+    </Entity>
+    <Entity ClusterId="13">
+        <Mention>2005</Mention>
+    </Entity>
+    <Entity ClusterId="14">
+        <Mention>otak</Mention>
+    </Entity>
+</CoreferenceChain>

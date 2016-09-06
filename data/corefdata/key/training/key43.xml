@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>mahasiswa</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>Indonesia</Mention>
+        <Mention>tanah air</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>AS</Mention>
+        <Mention>Amerika Serikat</Mention>
+        <Mention>negeri "Paman Sam</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>Duta Besar</Mention>
+        <Mention>Dubes</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>visa</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>hukum</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>Jakarta</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>Pemerintah</Mention>
+    </Entity>
+    <Entity ClusterId="9">
+        <Mention>Tokyo</Mention>
+    </Entity>
+    <Entity ClusterId="10">
+        <Mention>Jepang</Mention>
+    </Entity>
+    <Entity ClusterId="11">
+        <Mention>Seoul</Mention>
+    </Entity>
+    <Entity ClusterId="12">
+        <Mention>perguruan tinggi</Mention>
+    </Entity>
+    <Entity ClusterId="13">
+        <Mention>Korea Selatan</Mention>
+    </Entity>
+</CoreferenceChain>

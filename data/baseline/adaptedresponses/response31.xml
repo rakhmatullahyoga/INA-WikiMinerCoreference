@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>Komisi</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>politisi</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>Badan Pemeriksa Keuangan</Mention>
+        <Mention>BPK</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>provinsi</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>DPR RI</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>Partai Demokrat</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>Agus Hermanto</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>Ketua Komisi</Mention>
+    </Entity>
+    <Entity ClusterId="9">
+        <Mention>Menteri Pendidikan dan Kebudayaan</Mention>
+    </Entity>
+    <Entity ClusterId="10">
+        <Mention>Mendikbud</Mention>
+    </Entity>
+</CoreferenceChain>

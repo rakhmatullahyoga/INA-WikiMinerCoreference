@@ -4,20 +4,18 @@
         <Mention>Perdana Menteri Inggris</Mention>
         <Mention>David Cameron</Mention>
         <Mention>Dia</Mention>
+        <Mention>Joko Widodo</Mention>
     </Entity>
     <Entity ClusterId="2">
         <Mention>Jakarta</Mention>
     </Entity>
     <Entity ClusterId="3">
-        <Mention>Joko Widodo</Mention>
-    </Entity>
-    <Entity ClusterId="4">
         <Mention>Istana Negara</Mention>
     </Entity>
-    <Entity ClusterId="5">
+    <Entity ClusterId="4">
         <Mention>Presiden Jokowi</Mention>
     </Entity>
-    <Entity ClusterId="6">
+    <Entity ClusterId="5">
         <Mention>kunjungan PM Inggris</Mention>
     </Entity>
 </CoreferenceChain>

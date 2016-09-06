@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>SBY</Mention>
+        <Mention>Presiden Susilo Bambang Yudhoyono</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>Swedia</Mention>
+        <Mention>Sweden</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>Amerika Serikat</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>Stockholm</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>New York</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>RI</Mention>
+        <Mention>Indonesia</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>negara</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>Raja Swedia</Mention>
+        <Mention>Carl XVI Gustaf</Mention>
+    </Entity>
+    <Entity ClusterId="9">
+        <Mention>Internasional</Mention>
+    </Entity>
+    <Entity ClusterId="10">
+        <Mention>Perdana Menteri</Mention>
+        <Mention>Fredrik Reinfeldt</Mention>
+    </Entity>
+    <Entity ClusterId="11">
+        <Mention>Staf Khusus Presiden Bidang Hubungan Internasional</Mention>
+        <Mention>Teuku Faizasyah</Mention>
+        <Mention>Faizasyah</Mention>
+    </Entity>
+    <Entity ClusterId="12">
+        <Mention>Perserikatan Bangsa-Bangsa</Mention>
+        <Mention>PBB</Mention>
+    </Entity>
+    <Entity ClusterId="13">
+        <Mention>Sekretaris Jenderal</Mention>
+        <Mention>Ban Ki-moon</Mention>
+    </Entity>
+    <Entity ClusterId="14">
+        <Mention>Parlemen</Mention>
+    </Entity>
+    <Entity ClusterId="15">
+        <Mention>IKEA</Mention>
+    </Entity>
+</CoreferenceChain>

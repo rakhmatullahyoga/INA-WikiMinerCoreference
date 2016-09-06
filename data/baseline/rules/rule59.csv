@@ -1,0 +1,1379 @@
+mentions;isStrMatch;isMatchNoCasePunc;isAbbrev;isFirstPronoun;isScndPronoun;isOnOneSentence;isMatchPartial;firstNameClass;scndNameClass
+"[(Negosiasi Pengambilalihan Inalum)-(Menteri Koordinator Bidang Perekonomian)]";false;true;false;false;false;true;false;PERSON;PERSON
+"[(Negosiasi Pengambilalihan Inalum)-(Hatta Rajasa,)]";false;false;false;false;false;true;false;PERSON;PERSON
+"[(Negosiasi Pengambilalihan Inalum)-(negosiasi)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Negosiasi Pengambilalihan Inalum)-(pengambil alihan PT Indonesia Asahan Aluminium)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Negosiasi Pengambilalihan Inalum)-(Inalum)]";false;true;false;false;false;true;true;PERSON;PERSON
+"[(Negosiasi Pengambilalihan Inalum)-(sejumlah perbedaan,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Negosiasi Pengambilalihan Inalum)-(hasil audit)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Negosiasi Pengambilalihan Inalum)-(Badan Pengawasan Keuangan dan Pembangunan)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Negosiasi Pengambilalihan Inalum)-(BPKP)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Negosiasi Pengambilalihan Inalum)-(nilai buku Inalum)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Negosiasi Pengambilalihan Inalum)-(tutur Hatta,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Negosiasi Pengambilalihan Inalum)-(kemarin)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Negosiasi Pengambilalihan Inalum)-(Hatta)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Negosiasi Pengambilalihan Inalum)-(nilai akuisisi Inalum)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Negosiasi Pengambilalihan Inalum)-(nilainya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Negosiasi Pengambilalihan Inalum)-(negara)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Negosiasi Pengambilalihan Inalum)-("Niat)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Negosiasi Pengambilalihan Inalum)-(kita)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Negosiasi Pengambilalihan Inalum)-(Oktober nanti Inalum)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Negosiasi Pengambilalihan Inalum)-(Indonesia,")]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Negosiasi Pengambilalihan Inalum)-(Hatta)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Negosiasi Pengambilalihan Inalum)-(Menteri Keuangan Agus Martowardojo)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Negosiasi Pengambilalihan Inalum)-(pemerintah)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Negosiasi Pengambilalihan Inalum)-(alih Inalum)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Negosiasi Pengambilalihan Inalum)-(Oktober)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Negosiasi Pengambilalihan Inalum)-("Persiapannya)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Negosiasi Pengambilalihan Inalum)-(tutur Agus)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Negosiasi Pengambilalihan Inalum)-(Agus)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Negosiasi Pengambilalihan Inalum)-(APBN)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Negosiasi Pengambilalihan Inalum)-(2013)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Negosiasi Pengambilalihan Inalum)-(pemerintah)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Negosiasi Pengambilalihan Inalum)-(dana)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Negosiasi Pengambilalihan Inalum)-(Rinciannya)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Negosiasi Pengambilalihan Inalum)-(tahun anggaran 2012)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Negosiasi Pengambilalihan Inalum)-(dia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Negosiasi Pengambilalihan Inalum)-(sejumlah hal)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Negosiasi Pengambilalihan Inalum)-(Indonesia dan Jepang)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Negosiasi Pengambilalihan Inalum)-(nanti menteri perindustrian)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Negosiasi Pengambilalihan Inalum)-(MS Hidayat)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Negosiasi Pengambilalihan Inalum)-(tim Jepang.")]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Negosiasi Pengambilalihan Inalum)-(gambaran Inalum)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Negosiasi Pengambilalihan Inalum)-(kontrak kerja sama)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Negosiasi Pengambilalihan Inalum)-(Indonesia dan investor Jepang)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Negosiasi Pengambilalihan Inalum)-(Nippon Asahan Alumina)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Negosiasi Pengambilalihan Inalum)-(NAA)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Negosiasi Pengambilalihan Inalum)-(Kontrak tersebut)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Negosiasi Pengambilalihan Inalum)-(Oktober)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Negosiasi Pengambilalihan Inalum)-(Saat ini)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Negosiasi Pengambilalihan Inalum)-(58,8 persen saham Inalum)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Negosiasi Pengambilalihan Inalum)-(Jepang)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Negosiasi Pengambilalihan Inalum)-(sedangkan Indonesia)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Negosiasi Pengambilalihan Inalum)-(42 persen)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Menteri Koordinator Bidang Perekonomian)-(Hatta Rajasa,)]";false;false;false;false;false;true;false;PERSON;PERSON
+"[(Menteri Koordinator Bidang Perekonomian)-(negosiasi)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Menteri Koordinator Bidang Perekonomian)-(pengambil alihan PT Indonesia Asahan Aluminium)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Menteri Koordinator Bidang Perekonomian)-(Inalum)]";false;true;false;false;false;true;false;PERSON;PERSON
+"[(Menteri Koordinator Bidang Perekonomian)-(sejumlah perbedaan,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Menteri Koordinator Bidang Perekonomian)-(hasil audit)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Menteri Koordinator Bidang Perekonomian)-(Badan Pengawasan Keuangan dan Pembangunan)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Menteri Koordinator Bidang Perekonomian)-(BPKP)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Menteri Koordinator Bidang Perekonomian)-(nilai buku Inalum)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Menteri Koordinator Bidang Perekonomian)-(tutur Hatta,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Menteri Koordinator Bidang Perekonomian)-(kemarin)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Menteri Koordinator Bidang Perekonomian)-(Hatta)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Menteri Koordinator Bidang Perekonomian)-(nilai akuisisi Inalum)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Menteri Koordinator Bidang Perekonomian)-(nilainya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Menteri Koordinator Bidang Perekonomian)-(negara)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Menteri Koordinator Bidang Perekonomian)-("Niat)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Menteri Koordinator Bidang Perekonomian)-(kita)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Menteri Koordinator Bidang Perekonomian)-(Oktober nanti Inalum)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Menteri Koordinator Bidang Perekonomian)-(Indonesia,")]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Menteri Koordinator Bidang Perekonomian)-(Hatta)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Menteri Koordinator Bidang Perekonomian)-(Menteri Keuangan Agus Martowardojo)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Menteri Koordinator Bidang Perekonomian)-(pemerintah)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Menteri Koordinator Bidang Perekonomian)-(alih Inalum)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Menteri Koordinator Bidang Perekonomian)-(Oktober)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Menteri Koordinator Bidang Perekonomian)-("Persiapannya)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Menteri Koordinator Bidang Perekonomian)-(tutur Agus)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Menteri Koordinator Bidang Perekonomian)-(Agus)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Menteri Koordinator Bidang Perekonomian)-(APBN)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Menteri Koordinator Bidang Perekonomian)-(2013)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Menteri Koordinator Bidang Perekonomian)-(pemerintah)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Menteri Koordinator Bidang Perekonomian)-(dana)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Menteri Koordinator Bidang Perekonomian)-(Rinciannya)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Menteri Koordinator Bidang Perekonomian)-(tahun anggaran 2012)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Menteri Koordinator Bidang Perekonomian)-(dia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Menteri Koordinator Bidang Perekonomian)-(sejumlah hal)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Menteri Koordinator Bidang Perekonomian)-(Indonesia dan Jepang)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Menteri Koordinator Bidang Perekonomian)-(nanti menteri perindustrian)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Menteri Koordinator Bidang Perekonomian)-(MS Hidayat)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Menteri Koordinator Bidang Perekonomian)-(tim Jepang.")]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Menteri Koordinator Bidang Perekonomian)-(gambaran Inalum)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Menteri Koordinator Bidang Perekonomian)-(kontrak kerja sama)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Menteri Koordinator Bidang Perekonomian)-(Indonesia dan investor Jepang)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Menteri Koordinator Bidang Perekonomian)-(Nippon Asahan Alumina)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Menteri Koordinator Bidang Perekonomian)-(NAA)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Menteri Koordinator Bidang Perekonomian)-(Kontrak tersebut)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Menteri Koordinator Bidang Perekonomian)-(Oktober)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Menteri Koordinator Bidang Perekonomian)-(Saat ini)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Menteri Koordinator Bidang Perekonomian)-(58,8 persen saham Inalum)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Menteri Koordinator Bidang Perekonomian)-(Jepang)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Menteri Koordinator Bidang Perekonomian)-(sedangkan Indonesia)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Menteri Koordinator Bidang Perekonomian)-(42 persen)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hatta Rajasa,)-(negosiasi)]";false;false;false;false;false;true;false;PERSON;OTHER
+"[(Hatta Rajasa,)-(pengambil alihan PT Indonesia Asahan Aluminium)]";false;false;false;false;false;true;false;PERSON;OTHER
+"[(Hatta Rajasa,)-(Inalum)]";false;false;false;false;false;true;false;PERSON;PERSON
+"[(Hatta Rajasa,)-(sejumlah perbedaan,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Hatta Rajasa,)-(hasil audit)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Hatta Rajasa,)-(Badan Pengawasan Keuangan dan Pembangunan)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Hatta Rajasa,)-(BPKP)]";false;false;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Hatta Rajasa,)-(nilai buku Inalum)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Hatta Rajasa,)-(tutur Hatta,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Hatta Rajasa,)-(kemarin)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Hatta Rajasa,)-(Hatta)]";false;false;false;false;false;false;true;PERSON;PERSON
+"[(Hatta Rajasa,)-(nilai akuisisi Inalum)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Hatta Rajasa,)-(nilainya)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Hatta Rajasa,)-(negara)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Hatta Rajasa,)-("Niat)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Hatta Rajasa,)-(kita)]";false;false;false;false;true;false;false;PERSON;OTHER
+"[(Hatta Rajasa,)-(Oktober nanti Inalum)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Hatta Rajasa,)-(Indonesia,")]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Hatta Rajasa,)-(Hatta)]";false;false;false;false;false;false;true;PERSON;PERSON
+"[(Hatta Rajasa,)-(Menteri Keuangan Agus Martowardojo)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Hatta Rajasa,)-(pemerintah)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Hatta Rajasa,)-(alih Inalum)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Hatta Rajasa,)-(Oktober)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Hatta Rajasa,)-("Persiapannya)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Hatta Rajasa,)-(tutur Agus)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Hatta Rajasa,)-(Agus)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Hatta Rajasa,)-(APBN)]";false;false;false;false;false;false;false;PERSON;LOCATION
+"[(Hatta Rajasa,)-(2013)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Hatta Rajasa,)-(pemerintah)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Hatta Rajasa,)-(dana)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Hatta Rajasa,)-(Rinciannya)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Hatta Rajasa,)-(tahun anggaran 2012)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Hatta Rajasa,)-(dia)]";false;false;false;false;true;false;false;PERSON;OTHER
+"[(Hatta Rajasa,)-(sejumlah hal)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Hatta Rajasa,)-(Indonesia dan Jepang)]";false;false;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Hatta Rajasa,)-(nanti menteri perindustrian)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Hatta Rajasa,)-(MS Hidayat)]";false;false;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Hatta Rajasa,)-(tim Jepang.")]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Hatta Rajasa,)-(gambaran Inalum)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Hatta Rajasa,)-(kontrak kerja sama)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Hatta Rajasa,)-(Indonesia dan investor Jepang)]";false;false;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Hatta Rajasa,)-(Nippon Asahan Alumina)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Hatta Rajasa,)-(NAA)]";false;false;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Hatta Rajasa,)-(Kontrak tersebut)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Hatta Rajasa,)-(Oktober)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Hatta Rajasa,)-(Saat ini)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Hatta Rajasa,)-(58,8 persen saham Inalum)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Hatta Rajasa,)-(Jepang)]";false;false;false;false;false;false;false;PERSON;LOCATION
+"[(Hatta Rajasa,)-(sedangkan Indonesia)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Hatta Rajasa,)-(42 persen)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(negosiasi)-(pengambil alihan PT Indonesia Asahan Aluminium)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(negosiasi)-(Inalum)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(negosiasi)-(sejumlah perbedaan,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(negosiasi)-(hasil audit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(negosiasi)-(Badan Pengawasan Keuangan dan Pembangunan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(negosiasi)-(BPKP)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(negosiasi)-(nilai buku Inalum)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(negosiasi)-(tutur Hatta,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(negosiasi)-(kemarin)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(negosiasi)-(Hatta)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(negosiasi)-(nilai akuisisi Inalum)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(negosiasi)-(nilainya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(negosiasi)-(negara)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(negosiasi)-("Niat)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(negosiasi)-(kita)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(negosiasi)-(Oktober nanti Inalum)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(negosiasi)-(Indonesia,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(negosiasi)-(Hatta)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(negosiasi)-(Menteri Keuangan Agus Martowardojo)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(negosiasi)-(pemerintah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(negosiasi)-(alih Inalum)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(negosiasi)-(Oktober)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(negosiasi)-("Persiapannya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(negosiasi)-(tutur Agus)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(negosiasi)-(Agus)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(negosiasi)-(APBN)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(negosiasi)-(2013)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(negosiasi)-(pemerintah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(negosiasi)-(dana)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(negosiasi)-(Rinciannya)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(negosiasi)-(tahun anggaran 2012)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(negosiasi)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(negosiasi)-(sejumlah hal)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(negosiasi)-(Indonesia dan Jepang)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(negosiasi)-(nanti menteri perindustrian)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(negosiasi)-(MS Hidayat)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(negosiasi)-(tim Jepang.")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(negosiasi)-(gambaran Inalum)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(negosiasi)-(kontrak kerja sama)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(negosiasi)-(Indonesia dan investor Jepang)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(negosiasi)-(Nippon Asahan Alumina)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(negosiasi)-(NAA)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(negosiasi)-(Kontrak tersebut)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(negosiasi)-(Oktober)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(negosiasi)-(Saat ini)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(negosiasi)-(58,8 persen saham Inalum)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(negosiasi)-(Jepang)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(negosiasi)-(sedangkan Indonesia)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(negosiasi)-(42 persen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pengambil alihan PT Indonesia Asahan Aluminium)-(Inalum)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(pengambil alihan PT Indonesia Asahan Aluminium)-(sejumlah perbedaan,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pengambil alihan PT Indonesia Asahan Aluminium)-(hasil audit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pengambil alihan PT Indonesia Asahan Aluminium)-(Badan Pengawasan Keuangan dan Pembangunan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pengambil alihan PT Indonesia Asahan Aluminium)-(BPKP)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(pengambil alihan PT Indonesia Asahan Aluminium)-(nilai buku Inalum)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pengambil alihan PT Indonesia Asahan Aluminium)-(tutur Hatta,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pengambil alihan PT Indonesia Asahan Aluminium)-(kemarin)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pengambil alihan PT Indonesia Asahan Aluminium)-(Hatta)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pengambil alihan PT Indonesia Asahan Aluminium)-(nilai akuisisi Inalum)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pengambil alihan PT Indonesia Asahan Aluminium)-(nilainya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pengambil alihan PT Indonesia Asahan Aluminium)-(negara)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pengambil alihan PT Indonesia Asahan Aluminium)-("Niat)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pengambil alihan PT Indonesia Asahan Aluminium)-(kita)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(pengambil alihan PT Indonesia Asahan Aluminium)-(Oktober nanti Inalum)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pengambil alihan PT Indonesia Asahan Aluminium)-(Indonesia,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pengambil alihan PT Indonesia Asahan Aluminium)-(Hatta)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pengambil alihan PT Indonesia Asahan Aluminium)-(Menteri Keuangan Agus Martowardojo)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pengambil alihan PT Indonesia Asahan Aluminium)-(pemerintah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pengambil alihan PT Indonesia Asahan Aluminium)-(alih Inalum)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pengambil alihan PT Indonesia Asahan Aluminium)-(Oktober)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pengambil alihan PT Indonesia Asahan Aluminium)-("Persiapannya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pengambil alihan PT Indonesia Asahan Aluminium)-(tutur Agus)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pengambil alihan PT Indonesia Asahan Aluminium)-(Agus)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pengambil alihan PT Indonesia Asahan Aluminium)-(APBN)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(pengambil alihan PT Indonesia Asahan Aluminium)-(2013)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pengambil alihan PT Indonesia Asahan Aluminium)-(pemerintah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pengambil alihan PT Indonesia Asahan Aluminium)-(dana)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pengambil alihan PT Indonesia Asahan Aluminium)-(Rinciannya)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pengambil alihan PT Indonesia Asahan Aluminium)-(tahun anggaran 2012)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pengambil alihan PT Indonesia Asahan Aluminium)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(pengambil alihan PT Indonesia Asahan Aluminium)-(sejumlah hal)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pengambil alihan PT Indonesia Asahan Aluminium)-(Indonesia dan Jepang)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(pengambil alihan PT Indonesia Asahan Aluminium)-(nanti menteri perindustrian)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pengambil alihan PT Indonesia Asahan Aluminium)-(MS Hidayat)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(pengambil alihan PT Indonesia Asahan Aluminium)-(tim Jepang.")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pengambil alihan PT Indonesia Asahan Aluminium)-(gambaran Inalum)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pengambil alihan PT Indonesia Asahan Aluminium)-(kontrak kerja sama)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pengambil alihan PT Indonesia Asahan Aluminium)-(Indonesia dan investor Jepang)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(pengambil alihan PT Indonesia Asahan Aluminium)-(Nippon Asahan Alumina)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pengambil alihan PT Indonesia Asahan Aluminium)-(NAA)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(pengambil alihan PT Indonesia Asahan Aluminium)-(Kontrak tersebut)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pengambil alihan PT Indonesia Asahan Aluminium)-(Oktober)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pengambil alihan PT Indonesia Asahan Aluminium)-(Saat ini)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pengambil alihan PT Indonesia Asahan Aluminium)-(58,8 persen saham Inalum)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pengambil alihan PT Indonesia Asahan Aluminium)-(Jepang)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(pengambil alihan PT Indonesia Asahan Aluminium)-(sedangkan Indonesia)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pengambil alihan PT Indonesia Asahan Aluminium)-(42 persen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Inalum)-(sejumlah perbedaan,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Inalum)-(hasil audit)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Inalum)-(Badan Pengawasan Keuangan dan Pembangunan)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Inalum)-(BPKP)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Inalum)-(nilai buku Inalum)]";false;true;false;false;false;false;true;PERSON;OTHER
+"[(Inalum)-(tutur Hatta,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Inalum)-(kemarin)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Inalum)-(Hatta)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Inalum)-(nilai akuisisi Inalum)]";false;true;false;false;false;false;true;PERSON;OTHER
+"[(Inalum)-(nilainya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Inalum)-(negara)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Inalum)-("Niat)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Inalum)-(kita)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Inalum)-(Oktober nanti Inalum)]";false;true;false;false;false;false;true;PERSON;OTHER
+"[(Inalum)-(Indonesia,")]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Inalum)-(Hatta)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Inalum)-(Menteri Keuangan Agus Martowardojo)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Inalum)-(pemerintah)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Inalum)-(alih Inalum)]";false;true;false;false;false;false;true;PERSON;OTHER
+"[(Inalum)-(Oktober)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Inalum)-("Persiapannya)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Inalum)-(tutur Agus)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Inalum)-(Agus)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Inalum)-(APBN)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Inalum)-(2013)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Inalum)-(pemerintah)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Inalum)-(dana)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Inalum)-(Rinciannya)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Inalum)-(tahun anggaran 2012)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Inalum)-(dia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Inalum)-(sejumlah hal)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Inalum)-(Indonesia dan Jepang)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Inalum)-(nanti menteri perindustrian)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Inalum)-(MS Hidayat)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Inalum)-(tim Jepang.")]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Inalum)-(gambaran Inalum)]";false;true;false;false;false;false;true;PERSON;OTHER
+"[(Inalum)-(kontrak kerja sama)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Inalum)-(Indonesia dan investor Jepang)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Inalum)-(Nippon Asahan Alumina)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Inalum)-(NAA)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Inalum)-(Kontrak tersebut)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Inalum)-(Oktober)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Inalum)-(Saat ini)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Inalum)-(58,8 persen saham Inalum)]";false;true;false;false;false;false;true;PERSON;OTHER
+"[(Inalum)-(Jepang)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Inalum)-(sedangkan Indonesia)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Inalum)-(42 persen)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(sejumlah perbedaan,)-(hasil audit)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(sejumlah perbedaan,)-(Badan Pengawasan Keuangan dan Pembangunan)]";false;false;false;false;false;true;false;OTHER;PERSON
+"[(sejumlah perbedaan,)-(BPKP)]";false;false;false;false;false;true;false;OTHER;ORGANIZATION
+"[(sejumlah perbedaan,)-(nilai buku Inalum)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(sejumlah perbedaan,)-(tutur Hatta,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah perbedaan,)-(kemarin)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah perbedaan,)-(Hatta)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(sejumlah perbedaan,)-(nilai akuisisi Inalum)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah perbedaan,)-(nilainya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah perbedaan,)-(negara)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah perbedaan,)-("Niat)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah perbedaan,)-(kita)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(sejumlah perbedaan,)-(Oktober nanti Inalum)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah perbedaan,)-(Indonesia,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah perbedaan,)-(Hatta)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(sejumlah perbedaan,)-(Menteri Keuangan Agus Martowardojo)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(sejumlah perbedaan,)-(pemerintah)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah perbedaan,)-(alih Inalum)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah perbedaan,)-(Oktober)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah perbedaan,)-("Persiapannya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah perbedaan,)-(tutur Agus)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah perbedaan,)-(Agus)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(sejumlah perbedaan,)-(APBN)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(sejumlah perbedaan,)-(2013)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah perbedaan,)-(pemerintah)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah perbedaan,)-(dana)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah perbedaan,)-(Rinciannya)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(sejumlah perbedaan,)-(tahun anggaran 2012)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah perbedaan,)-(dia)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(sejumlah perbedaan,)-(sejumlah hal)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah perbedaan,)-(Indonesia dan Jepang)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(sejumlah perbedaan,)-(nanti menteri perindustrian)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah perbedaan,)-(MS Hidayat)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(sejumlah perbedaan,)-(tim Jepang.")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah perbedaan,)-(gambaran Inalum)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah perbedaan,)-(kontrak kerja sama)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah perbedaan,)-(Indonesia dan investor Jepang)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(sejumlah perbedaan,)-(Nippon Asahan Alumina)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(sejumlah perbedaan,)-(NAA)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(sejumlah perbedaan,)-(Kontrak tersebut)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(sejumlah perbedaan,)-(Oktober)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah perbedaan,)-(Saat ini)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(sejumlah perbedaan,)-(58,8 persen saham Inalum)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah perbedaan,)-(Jepang)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(sejumlah perbedaan,)-(sedangkan Indonesia)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah perbedaan,)-(42 persen)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(hasil audit)-(Badan Pengawasan Keuangan dan Pembangunan)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(hasil audit)-(BPKP)]";false;true;false;false;false;true;false;OTHER;ORGANIZATION
+"[(hasil audit)-(nilai buku Inalum)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(hasil audit)-(tutur Hatta,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(hasil audit)-(kemarin)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hasil audit)-(Hatta)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(hasil audit)-(nilai akuisisi Inalum)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hasil audit)-(nilainya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hasil audit)-(negara)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hasil audit)-("Niat)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(hasil audit)-(kita)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(hasil audit)-(Oktober nanti Inalum)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hasil audit)-(Indonesia,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(hasil audit)-(Hatta)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(hasil audit)-(Menteri Keuangan Agus Martowardojo)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(hasil audit)-(pemerintah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hasil audit)-(alih Inalum)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hasil audit)-(Oktober)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hasil audit)-("Persiapannya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(hasil audit)-(tutur Agus)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hasil audit)-(Agus)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(hasil audit)-(APBN)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(hasil audit)-(2013)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hasil audit)-(pemerintah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hasil audit)-(dana)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hasil audit)-(Rinciannya)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(hasil audit)-(tahun anggaran 2012)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hasil audit)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(hasil audit)-(sejumlah hal)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hasil audit)-(Indonesia dan Jepang)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(hasil audit)-(nanti menteri perindustrian)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hasil audit)-(MS Hidayat)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(hasil audit)-(tim Jepang.")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(hasil audit)-(gambaran Inalum)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hasil audit)-(kontrak kerja sama)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hasil audit)-(Indonesia dan investor Jepang)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(hasil audit)-(Nippon Asahan Alumina)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(hasil audit)-(NAA)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(hasil audit)-(Kontrak tersebut)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(hasil audit)-(Oktober)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hasil audit)-(Saat ini)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(hasil audit)-(58,8 persen saham Inalum)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hasil audit)-(Jepang)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(hasil audit)-(sedangkan Indonesia)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hasil audit)-(42 persen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Badan Pengawasan Keuangan dan Pembangunan)-(BPKP)]";false;true;false;false;false;true;false;PERSON;ORGANIZATION
+"[(Badan Pengawasan Keuangan dan Pembangunan)-(nilai buku Inalum)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Badan Pengawasan Keuangan dan Pembangunan)-(tutur Hatta,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Badan Pengawasan Keuangan dan Pembangunan)-(kemarin)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Badan Pengawasan Keuangan dan Pembangunan)-(Hatta)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Badan Pengawasan Keuangan dan Pembangunan)-(nilai akuisisi Inalum)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Badan Pengawasan Keuangan dan Pembangunan)-(nilainya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Badan Pengawasan Keuangan dan Pembangunan)-(negara)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Badan Pengawasan Keuangan dan Pembangunan)-("Niat)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Badan Pengawasan Keuangan dan Pembangunan)-(kita)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Badan Pengawasan Keuangan dan Pembangunan)-(Oktober nanti Inalum)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Badan Pengawasan Keuangan dan Pembangunan)-(Indonesia,")]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Badan Pengawasan Keuangan dan Pembangunan)-(Hatta)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Badan Pengawasan Keuangan dan Pembangunan)-(Menteri Keuangan Agus Martowardojo)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Badan Pengawasan Keuangan dan Pembangunan)-(pemerintah)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Badan Pengawasan Keuangan dan Pembangunan)-(alih Inalum)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Badan Pengawasan Keuangan dan Pembangunan)-(Oktober)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Badan Pengawasan Keuangan dan Pembangunan)-("Persiapannya)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Badan Pengawasan Keuangan dan Pembangunan)-(tutur Agus)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Badan Pengawasan Keuangan dan Pembangunan)-(Agus)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Badan Pengawasan Keuangan dan Pembangunan)-(APBN)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Badan Pengawasan Keuangan dan Pembangunan)-(2013)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Badan Pengawasan Keuangan dan Pembangunan)-(pemerintah)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Badan Pengawasan Keuangan dan Pembangunan)-(dana)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Badan Pengawasan Keuangan dan Pembangunan)-(Rinciannya)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Badan Pengawasan Keuangan dan Pembangunan)-(tahun anggaran 2012)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Badan Pengawasan Keuangan dan Pembangunan)-(dia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Badan Pengawasan Keuangan dan Pembangunan)-(sejumlah hal)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Badan Pengawasan Keuangan dan Pembangunan)-(Indonesia dan Jepang)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Badan Pengawasan Keuangan dan Pembangunan)-(nanti menteri perindustrian)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Badan Pengawasan Keuangan dan Pembangunan)-(MS Hidayat)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Badan Pengawasan Keuangan dan Pembangunan)-(tim Jepang.")]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Badan Pengawasan Keuangan dan Pembangunan)-(gambaran Inalum)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Badan Pengawasan Keuangan dan Pembangunan)-(kontrak kerja sama)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Badan Pengawasan Keuangan dan Pembangunan)-(Indonesia dan investor Jepang)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Badan Pengawasan Keuangan dan Pembangunan)-(Nippon Asahan Alumina)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Badan Pengawasan Keuangan dan Pembangunan)-(NAA)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Badan Pengawasan Keuangan dan Pembangunan)-(Kontrak tersebut)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Badan Pengawasan Keuangan dan Pembangunan)-(Oktober)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Badan Pengawasan Keuangan dan Pembangunan)-(Saat ini)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Badan Pengawasan Keuangan dan Pembangunan)-(58,8 persen saham Inalum)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Badan Pengawasan Keuangan dan Pembangunan)-(Jepang)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Badan Pengawasan Keuangan dan Pembangunan)-(sedangkan Indonesia)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Badan Pengawasan Keuangan dan Pembangunan)-(42 persen)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(BPKP)-(nilai buku Inalum)]";false;true;false;false;false;true;false;ORGANIZATION;OTHER
+"[(BPKP)-(tutur Hatta,)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(BPKP)-(kemarin)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(BPKP)-(Hatta)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(BPKP)-(nilai akuisisi Inalum)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(BPKP)-(nilainya)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(BPKP)-(negara)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(BPKP)-("Niat)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(BPKP)-(kita)]";false;true;false;false;true;false;false;ORGANIZATION;OTHER
+"[(BPKP)-(Oktober nanti Inalum)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(BPKP)-(Indonesia,")]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(BPKP)-(Hatta)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(BPKP)-(Menteri Keuangan Agus Martowardojo)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(BPKP)-(pemerintah)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(BPKP)-(alih Inalum)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(BPKP)-(Oktober)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(BPKP)-("Persiapannya)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(BPKP)-(tutur Agus)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(BPKP)-(Agus)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(BPKP)-(APBN)]";false;true;false;false;false;false;false;ORGANIZATION;LOCATION
+"[(BPKP)-(2013)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(BPKP)-(pemerintah)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(BPKP)-(dana)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(BPKP)-(Rinciannya)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(BPKP)-(tahun anggaran 2012)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(BPKP)-(dia)]";false;true;false;false;true;false;false;ORGANIZATION;OTHER
+"[(BPKP)-(sejumlah hal)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(BPKP)-(Indonesia dan Jepang)]";false;true;false;false;false;false;false;ORGANIZATION;ORGANIZATION
+"[(BPKP)-(nanti menteri perindustrian)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(BPKP)-(MS Hidayat)]";false;true;false;false;false;false;false;ORGANIZATION;ORGANIZATION
+"[(BPKP)-(tim Jepang.")]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(BPKP)-(gambaran Inalum)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(BPKP)-(kontrak kerja sama)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(BPKP)-(Indonesia dan investor Jepang)]";false;true;false;false;false;false;false;ORGANIZATION;ORGANIZATION
+"[(BPKP)-(Nippon Asahan Alumina)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(BPKP)-(NAA)]";false;true;false;false;false;false;false;ORGANIZATION;ORGANIZATION
+"[(BPKP)-(Kontrak tersebut)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(BPKP)-(Oktober)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(BPKP)-(Saat ini)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(BPKP)-(58,8 persen saham Inalum)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(BPKP)-(Jepang)]";false;true;false;false;false;false;false;ORGANIZATION;LOCATION
+"[(BPKP)-(sedangkan Indonesia)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(BPKP)-(42 persen)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(nilai buku Inalum)-(tutur Hatta,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(nilai buku Inalum)-(kemarin)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(nilai buku Inalum)-(Hatta)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(nilai buku Inalum)-(nilai akuisisi Inalum)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(nilai buku Inalum)-(nilainya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(nilai buku Inalum)-(negara)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(nilai buku Inalum)-("Niat)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(nilai buku Inalum)-(kita)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(nilai buku Inalum)-(Oktober nanti Inalum)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(nilai buku Inalum)-(Indonesia,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(nilai buku Inalum)-(Hatta)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(nilai buku Inalum)-(Menteri Keuangan Agus Martowardojo)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(nilai buku Inalum)-(pemerintah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(nilai buku Inalum)-(alih Inalum)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(nilai buku Inalum)-(Oktober)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(nilai buku Inalum)-("Persiapannya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(nilai buku Inalum)-(tutur Agus)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(nilai buku Inalum)-(Agus)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(nilai buku Inalum)-(APBN)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(nilai buku Inalum)-(2013)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(nilai buku Inalum)-(pemerintah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(nilai buku Inalum)-(dana)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(nilai buku Inalum)-(Rinciannya)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(nilai buku Inalum)-(tahun anggaran 2012)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(nilai buku Inalum)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(nilai buku Inalum)-(sejumlah hal)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(nilai buku Inalum)-(Indonesia dan Jepang)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(nilai buku Inalum)-(nanti menteri perindustrian)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(nilai buku Inalum)-(MS Hidayat)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(nilai buku Inalum)-(tim Jepang.")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(nilai buku Inalum)-(gambaran Inalum)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(nilai buku Inalum)-(kontrak kerja sama)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(nilai buku Inalum)-(Indonesia dan investor Jepang)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(nilai buku Inalum)-(Nippon Asahan Alumina)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(nilai buku Inalum)-(NAA)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(nilai buku Inalum)-(Kontrak tersebut)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(nilai buku Inalum)-(Oktober)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(nilai buku Inalum)-(Saat ini)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(nilai buku Inalum)-(58,8 persen saham Inalum)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(nilai buku Inalum)-(Jepang)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(nilai buku Inalum)-(sedangkan Indonesia)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(nilai buku Inalum)-(42 persen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tutur Hatta,)-(kemarin)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(tutur Hatta,)-(Hatta)]";false;false;false;false;false;false;true;OTHER;PERSON
+"[(tutur Hatta,)-(nilai akuisisi Inalum)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(tutur Hatta,)-(nilainya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(tutur Hatta,)-(negara)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(tutur Hatta,)-("Niat)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(tutur Hatta,)-(kita)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(tutur Hatta,)-(Oktober nanti Inalum)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(tutur Hatta,)-(Indonesia,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(tutur Hatta,)-(Hatta)]";false;false;false;false;false;false;true;OTHER;PERSON
+"[(tutur Hatta,)-(Menteri Keuangan Agus Martowardojo)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(tutur Hatta,)-(pemerintah)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(tutur Hatta,)-(alih Inalum)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(tutur Hatta,)-(Oktober)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(tutur Hatta,)-("Persiapannya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(tutur Hatta,)-(tutur Agus)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(tutur Hatta,)-(Agus)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(tutur Hatta,)-(APBN)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(tutur Hatta,)-(2013)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(tutur Hatta,)-(pemerintah)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(tutur Hatta,)-(dana)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(tutur Hatta,)-(Rinciannya)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(tutur Hatta,)-(tahun anggaran 2012)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(tutur Hatta,)-(dia)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(tutur Hatta,)-(sejumlah hal)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(tutur Hatta,)-(Indonesia dan Jepang)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(tutur Hatta,)-(nanti menteri perindustrian)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(tutur Hatta,)-(MS Hidayat)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(tutur Hatta,)-(tim Jepang.")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(tutur Hatta,)-(gambaran Inalum)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(tutur Hatta,)-(kontrak kerja sama)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(tutur Hatta,)-(Indonesia dan investor Jepang)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(tutur Hatta,)-(Nippon Asahan Alumina)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(tutur Hatta,)-(NAA)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(tutur Hatta,)-(Kontrak tersebut)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(tutur Hatta,)-(Oktober)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(tutur Hatta,)-(Saat ini)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(tutur Hatta,)-(58,8 persen saham Inalum)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(tutur Hatta,)-(Jepang)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(tutur Hatta,)-(sedangkan Indonesia)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(tutur Hatta,)-(42 persen)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(kemarin)-(Hatta)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kemarin)-(nilai akuisisi Inalum)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kemarin)-(nilainya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kemarin)-(negara)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kemarin)-("Niat)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(kemarin)-(kita)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(kemarin)-(Oktober nanti Inalum)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kemarin)-(Indonesia,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(kemarin)-(Hatta)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kemarin)-(Menteri Keuangan Agus Martowardojo)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kemarin)-(pemerintah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kemarin)-(alih Inalum)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kemarin)-(Oktober)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kemarin)-("Persiapannya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(kemarin)-(tutur Agus)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kemarin)-(Agus)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kemarin)-(APBN)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(kemarin)-(2013)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kemarin)-(pemerintah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kemarin)-(dana)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kemarin)-(Rinciannya)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kemarin)-(tahun anggaran 2012)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kemarin)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(kemarin)-(sejumlah hal)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kemarin)-(Indonesia dan Jepang)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(kemarin)-(nanti menteri perindustrian)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kemarin)-(MS Hidayat)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(kemarin)-(tim Jepang.")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(kemarin)-(gambaran Inalum)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kemarin)-(kontrak kerja sama)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kemarin)-(Indonesia dan investor Jepang)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(kemarin)-(Nippon Asahan Alumina)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kemarin)-(NAA)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(kemarin)-(Kontrak tersebut)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kemarin)-(Oktober)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kemarin)-(Saat ini)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kemarin)-(58,8 persen saham Inalum)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kemarin)-(Jepang)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(kemarin)-(sedangkan Indonesia)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kemarin)-(42 persen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Hatta)-(nilai akuisisi Inalum)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Hatta)-(nilainya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hatta)-(negara)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hatta)-("Niat)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Hatta)-(kita)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Hatta)-(Oktober nanti Inalum)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hatta)-(Indonesia,")]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Hatta)-(Hatta)]";true;true;false;false;false;false;true;PERSON;PERSON
+"[(Hatta)-(Menteri Keuangan Agus Martowardojo)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Hatta)-(pemerintah)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hatta)-(alih Inalum)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hatta)-(Oktober)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hatta)-("Persiapannya)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Hatta)-(tutur Agus)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hatta)-(Agus)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Hatta)-(APBN)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Hatta)-(2013)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hatta)-(pemerintah)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hatta)-(dana)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hatta)-(Rinciannya)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Hatta)-(tahun anggaran 2012)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hatta)-(dia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Hatta)-(sejumlah hal)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hatta)-(Indonesia dan Jepang)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Hatta)-(nanti menteri perindustrian)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hatta)-(MS Hidayat)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Hatta)-(tim Jepang.")]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Hatta)-(gambaran Inalum)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hatta)-(kontrak kerja sama)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hatta)-(Indonesia dan investor Jepang)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Hatta)-(Nippon Asahan Alumina)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Hatta)-(NAA)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Hatta)-(Kontrak tersebut)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Hatta)-(Oktober)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hatta)-(Saat ini)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Hatta)-(58,8 persen saham Inalum)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hatta)-(Jepang)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Hatta)-(sedangkan Indonesia)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hatta)-(42 persen)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(nilai akuisisi Inalum)-(nilainya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(nilai akuisisi Inalum)-(negara)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(nilai akuisisi Inalum)-("Niat)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(nilai akuisisi Inalum)-(kita)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(nilai akuisisi Inalum)-(Oktober nanti Inalum)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(nilai akuisisi Inalum)-(Indonesia,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(nilai akuisisi Inalum)-(Hatta)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(nilai akuisisi Inalum)-(Menteri Keuangan Agus Martowardojo)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(nilai akuisisi Inalum)-(pemerintah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(nilai akuisisi Inalum)-(alih Inalum)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(nilai akuisisi Inalum)-(Oktober)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(nilai akuisisi Inalum)-("Persiapannya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(nilai akuisisi Inalum)-(tutur Agus)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(nilai akuisisi Inalum)-(Agus)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(nilai akuisisi Inalum)-(APBN)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(nilai akuisisi Inalum)-(2013)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(nilai akuisisi Inalum)-(pemerintah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(nilai akuisisi Inalum)-(dana)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(nilai akuisisi Inalum)-(Rinciannya)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(nilai akuisisi Inalum)-(tahun anggaran 2012)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(nilai akuisisi Inalum)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(nilai akuisisi Inalum)-(sejumlah hal)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(nilai akuisisi Inalum)-(Indonesia dan Jepang)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(nilai akuisisi Inalum)-(nanti menteri perindustrian)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(nilai akuisisi Inalum)-(MS Hidayat)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(nilai akuisisi Inalum)-(tim Jepang.")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(nilai akuisisi Inalum)-(gambaran Inalum)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(nilai akuisisi Inalum)-(kontrak kerja sama)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(nilai akuisisi Inalum)-(Indonesia dan investor Jepang)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(nilai akuisisi Inalum)-(Nippon Asahan Alumina)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(nilai akuisisi Inalum)-(NAA)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(nilai akuisisi Inalum)-(Kontrak tersebut)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(nilai akuisisi Inalum)-(Oktober)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(nilai akuisisi Inalum)-(Saat ini)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(nilai akuisisi Inalum)-(58,8 persen saham Inalum)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(nilai akuisisi Inalum)-(Jepang)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(nilai akuisisi Inalum)-(sedangkan Indonesia)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(nilai akuisisi Inalum)-(42 persen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(nilainya)-(negara)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(nilainya)-("Niat)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(nilainya)-(kita)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(nilainya)-(Oktober nanti Inalum)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(nilainya)-(Indonesia,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(nilainya)-(Hatta)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(nilainya)-(Menteri Keuangan Agus Martowardojo)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(nilainya)-(pemerintah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(nilainya)-(alih Inalum)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(nilainya)-(Oktober)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(nilainya)-("Persiapannya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(nilainya)-(tutur Agus)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(nilainya)-(Agus)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(nilainya)-(APBN)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(nilainya)-(2013)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(nilainya)-(pemerintah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(nilainya)-(dana)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(nilainya)-(Rinciannya)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(nilainya)-(tahun anggaran 2012)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(nilainya)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(nilainya)-(sejumlah hal)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(nilainya)-(Indonesia dan Jepang)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(nilainya)-(nanti menteri perindustrian)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(nilainya)-(MS Hidayat)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(nilainya)-(tim Jepang.")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(nilainya)-(gambaran Inalum)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(nilainya)-(kontrak kerja sama)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(nilainya)-(Indonesia dan investor Jepang)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(nilainya)-(Nippon Asahan Alumina)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(nilainya)-(NAA)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(nilainya)-(Kontrak tersebut)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(nilainya)-(Oktober)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(nilainya)-(Saat ini)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(nilainya)-(58,8 persen saham Inalum)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(nilainya)-(Jepang)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(nilainya)-(sedangkan Indonesia)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(nilainya)-(42 persen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(negara)-("Niat)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(negara)-(kita)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(negara)-(Oktober nanti Inalum)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(negara)-(Indonesia,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(negara)-(Hatta)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(negara)-(Menteri Keuangan Agus Martowardojo)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(negara)-(pemerintah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(negara)-(alih Inalum)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(negara)-(Oktober)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(negara)-("Persiapannya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(negara)-(tutur Agus)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(negara)-(Agus)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(negara)-(APBN)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(negara)-(2013)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(negara)-(pemerintah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(negara)-(dana)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(negara)-(Rinciannya)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(negara)-(tahun anggaran 2012)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(negara)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(negara)-(sejumlah hal)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(negara)-(Indonesia dan Jepang)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(negara)-(nanti menteri perindustrian)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(negara)-(MS Hidayat)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(negara)-(tim Jepang.")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(negara)-(gambaran Inalum)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(negara)-(kontrak kerja sama)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(negara)-(Indonesia dan investor Jepang)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(negara)-(Nippon Asahan Alumina)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(negara)-(NAA)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(negara)-(Kontrak tersebut)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(negara)-(Oktober)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(negara)-(Saat ini)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(negara)-(58,8 persen saham Inalum)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(negara)-(Jepang)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(negara)-(sedangkan Indonesia)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(negara)-(42 persen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[("Niat)-(kita)]";false;false;false;false;true;true;false;OTHER;OTHER
+"[("Niat)-(Oktober nanti Inalum)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[("Niat)-(Indonesia,")]";false;false;false;false;false;true;false;OTHER;OTHER
+"[("Niat)-(Hatta)]";false;false;false;false;false;true;false;OTHER;PERSON
+"[("Niat)-(Menteri Keuangan Agus Martowardojo)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[("Niat)-(pemerintah)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Niat)-(alih Inalum)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Niat)-(Oktober)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Niat)-("Persiapannya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Niat)-(tutur Agus)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Niat)-(Agus)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[("Niat)-(APBN)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[("Niat)-(2013)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Niat)-(pemerintah)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Niat)-(dana)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Niat)-(Rinciannya)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[("Niat)-(tahun anggaran 2012)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Niat)-(dia)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[("Niat)-(sejumlah hal)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Niat)-(Indonesia dan Jepang)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[("Niat)-(nanti menteri perindustrian)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Niat)-(MS Hidayat)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[("Niat)-(tim Jepang.")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Niat)-(gambaran Inalum)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Niat)-(kontrak kerja sama)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Niat)-(Indonesia dan investor Jepang)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[("Niat)-(Nippon Asahan Alumina)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[("Niat)-(NAA)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[("Niat)-(Kontrak tersebut)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[("Niat)-(Oktober)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Niat)-(Saat ini)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[("Niat)-(58,8 persen saham Inalum)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Niat)-(Jepang)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[("Niat)-(sedangkan Indonesia)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Niat)-(42 persen)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(kita)-(Oktober nanti Inalum)]";false;true;false;true;false;true;false;OTHER;OTHER
+"[(kita)-(Indonesia,")]";false;false;false;true;false;true;false;OTHER;OTHER
+"[(kita)-(Hatta)]";false;true;false;true;false;true;false;OTHER;PERSON
+"[(kita)-(Menteri Keuangan Agus Martowardojo)]";false;true;false;true;false;false;false;OTHER;PERSON
+"[(kita)-(pemerintah)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(kita)-(alih Inalum)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(kita)-(Oktober)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(kita)-("Persiapannya)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(kita)-(tutur Agus)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(kita)-(Agus)]";false;true;false;true;false;false;false;OTHER;PERSON
+"[(kita)-(APBN)]";false;true;false;true;false;false;false;OTHER;LOCATION
+"[(kita)-(2013)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(kita)-(pemerintah)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(kita)-(dana)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(kita)-(Rinciannya)]";false;true;false;true;false;false;false;OTHER;PERSON
+"[(kita)-(tahun anggaran 2012)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(kita)-(dia)]";false;true;false;true;true;false;false;OTHER;OTHER
+"[(kita)-(sejumlah hal)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(kita)-(Indonesia dan Jepang)]";false;true;false;true;false;false;false;OTHER;ORGANIZATION
+"[(kita)-(nanti menteri perindustrian)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(kita)-(MS Hidayat)]";false;true;false;true;false;false;false;OTHER;ORGANIZATION
+"[(kita)-(tim Jepang.")]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(kita)-(gambaran Inalum)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(kita)-(kontrak kerja sama)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(kita)-(Indonesia dan investor Jepang)]";false;true;false;true;false;false;false;OTHER;ORGANIZATION
+"[(kita)-(Nippon Asahan Alumina)]";false;true;false;true;false;false;false;OTHER;PERSON
+"[(kita)-(NAA)]";false;true;false;true;false;false;false;OTHER;ORGANIZATION
+"[(kita)-(Kontrak tersebut)]";false;true;false;true;false;false;false;OTHER;PERSON
+"[(kita)-(Oktober)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(kita)-(Saat ini)]";false;true;false;true;false;false;false;OTHER;PERSON
+"[(kita)-(58,8 persen saham Inalum)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(kita)-(Jepang)]";false;true;false;true;false;false;false;OTHER;LOCATION
+"[(kita)-(sedangkan Indonesia)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(kita)-(42 persen)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Oktober nanti Inalum)-(Indonesia,")]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(Oktober nanti Inalum)-(Hatta)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(Oktober nanti Inalum)-(Menteri Keuangan Agus Martowardojo)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(Oktober nanti Inalum)-(pemerintah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Oktober nanti Inalum)-(alih Inalum)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Oktober nanti Inalum)-(Oktober)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(Oktober nanti Inalum)-("Persiapannya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Oktober nanti Inalum)-(tutur Agus)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Oktober nanti Inalum)-(Agus)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(Oktober nanti Inalum)-(APBN)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(Oktober nanti Inalum)-(2013)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Oktober nanti Inalum)-(pemerintah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Oktober nanti Inalum)-(dana)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Oktober nanti Inalum)-(Rinciannya)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(Oktober nanti Inalum)-(tahun anggaran 2012)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Oktober nanti Inalum)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(Oktober nanti Inalum)-(sejumlah hal)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Oktober nanti Inalum)-(Indonesia dan Jepang)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(Oktober nanti Inalum)-(nanti menteri perindustrian)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Oktober nanti Inalum)-(MS Hidayat)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(Oktober nanti Inalum)-(tim Jepang.")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Oktober nanti Inalum)-(gambaran Inalum)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Oktober nanti Inalum)-(kontrak kerja sama)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Oktober nanti Inalum)-(Indonesia dan investor Jepang)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(Oktober nanti Inalum)-(Nippon Asahan Alumina)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(Oktober nanti Inalum)-(NAA)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(Oktober nanti Inalum)-(Kontrak tersebut)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(Oktober nanti Inalum)-(Oktober)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(Oktober nanti Inalum)-(Saat ini)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(Oktober nanti Inalum)-(58,8 persen saham Inalum)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Oktober nanti Inalum)-(Jepang)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(Oktober nanti Inalum)-(sedangkan Indonesia)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Oktober nanti Inalum)-(42 persen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Indonesia,")-(Hatta)]";false;false;false;false;false;true;false;OTHER;PERSON
+"[(Indonesia,")-(Menteri Keuangan Agus Martowardojo)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(Indonesia,")-(pemerintah)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Indonesia,")-(alih Inalum)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Indonesia,")-(Oktober)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Indonesia,")-("Persiapannya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Indonesia,")-(tutur Agus)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Indonesia,")-(Agus)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(Indonesia,")-(APBN)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(Indonesia,")-(2013)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Indonesia,")-(pemerintah)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Indonesia,")-(dana)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Indonesia,")-(Rinciannya)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(Indonesia,")-(tahun anggaran 2012)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Indonesia,")-(dia)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(Indonesia,")-(sejumlah hal)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Indonesia,")-(Indonesia dan Jepang)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(Indonesia,")-(nanti menteri perindustrian)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Indonesia,")-(MS Hidayat)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(Indonesia,")-(tim Jepang.")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Indonesia,")-(gambaran Inalum)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Indonesia,")-(kontrak kerja sama)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Indonesia,")-(Indonesia dan investor Jepang)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(Indonesia,")-(Nippon Asahan Alumina)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(Indonesia,")-(NAA)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(Indonesia,")-(Kontrak tersebut)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(Indonesia,")-(Oktober)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Indonesia,")-(Saat ini)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(Indonesia,")-(58,8 persen saham Inalum)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Indonesia,")-(Jepang)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(Indonesia,")-(sedangkan Indonesia)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Indonesia,")-(42 persen)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Hatta)-(Menteri Keuangan Agus Martowardojo)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Hatta)-(pemerintah)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hatta)-(alih Inalum)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hatta)-(Oktober)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hatta)-("Persiapannya)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Hatta)-(tutur Agus)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hatta)-(Agus)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Hatta)-(APBN)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Hatta)-(2013)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hatta)-(pemerintah)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hatta)-(dana)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hatta)-(Rinciannya)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Hatta)-(tahun anggaran 2012)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hatta)-(dia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Hatta)-(sejumlah hal)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hatta)-(Indonesia dan Jepang)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Hatta)-(nanti menteri perindustrian)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hatta)-(MS Hidayat)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Hatta)-(tim Jepang.")]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Hatta)-(gambaran Inalum)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hatta)-(kontrak kerja sama)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hatta)-(Indonesia dan investor Jepang)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Hatta)-(Nippon Asahan Alumina)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Hatta)-(NAA)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Hatta)-(Kontrak tersebut)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Hatta)-(Oktober)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hatta)-(Saat ini)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Hatta)-(58,8 persen saham Inalum)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hatta)-(Jepang)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Hatta)-(sedangkan Indonesia)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Hatta)-(42 persen)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Menteri Keuangan Agus Martowardojo)-(pemerintah)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Menteri Keuangan Agus Martowardojo)-(alih Inalum)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Menteri Keuangan Agus Martowardojo)-(Oktober)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Menteri Keuangan Agus Martowardojo)-("Persiapannya)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Menteri Keuangan Agus Martowardojo)-(tutur Agus)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Menteri Keuangan Agus Martowardojo)-(Agus)]";false;true;false;false;false;false;true;PERSON;PERSON
+"[(Menteri Keuangan Agus Martowardojo)-(APBN)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Menteri Keuangan Agus Martowardojo)-(2013)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Menteri Keuangan Agus Martowardojo)-(pemerintah)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Menteri Keuangan Agus Martowardojo)-(dana)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Menteri Keuangan Agus Martowardojo)-(Rinciannya)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Menteri Keuangan Agus Martowardojo)-(tahun anggaran 2012)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Menteri Keuangan Agus Martowardojo)-(dia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Menteri Keuangan Agus Martowardojo)-(sejumlah hal)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Menteri Keuangan Agus Martowardojo)-(Indonesia dan Jepang)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Menteri Keuangan Agus Martowardojo)-(nanti menteri perindustrian)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Menteri Keuangan Agus Martowardojo)-(MS Hidayat)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Menteri Keuangan Agus Martowardojo)-(tim Jepang.")]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Menteri Keuangan Agus Martowardojo)-(gambaran Inalum)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Menteri Keuangan Agus Martowardojo)-(kontrak kerja sama)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Menteri Keuangan Agus Martowardojo)-(Indonesia dan investor Jepang)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Menteri Keuangan Agus Martowardojo)-(Nippon Asahan Alumina)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Menteri Keuangan Agus Martowardojo)-(NAA)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Menteri Keuangan Agus Martowardojo)-(Kontrak tersebut)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Menteri Keuangan Agus Martowardojo)-(Oktober)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Menteri Keuangan Agus Martowardojo)-(Saat ini)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Menteri Keuangan Agus Martowardojo)-(58,8 persen saham Inalum)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Menteri Keuangan Agus Martowardojo)-(Jepang)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Menteri Keuangan Agus Martowardojo)-(sedangkan Indonesia)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Menteri Keuangan Agus Martowardojo)-(42 persen)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(pemerintah)-(alih Inalum)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(pemerintah)-(Oktober)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(pemerintah)-("Persiapannya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pemerintah)-(tutur Agus)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemerintah)-(Agus)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pemerintah)-(APBN)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(pemerintah)-(2013)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemerintah)-(pemerintah)]";true;true;false;false;false;false;true;OTHER;OTHER
+"[(pemerintah)-(dana)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemerintah)-(Rinciannya)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pemerintah)-(tahun anggaran 2012)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemerintah)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(pemerintah)-(sejumlah hal)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemerintah)-(Indonesia dan Jepang)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(pemerintah)-(nanti menteri perindustrian)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemerintah)-(MS Hidayat)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(pemerintah)-(tim Jepang.")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pemerintah)-(gambaran Inalum)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemerintah)-(kontrak kerja sama)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemerintah)-(Indonesia dan investor Jepang)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(pemerintah)-(Nippon Asahan Alumina)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pemerintah)-(NAA)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(pemerintah)-(Kontrak tersebut)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pemerintah)-(Oktober)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemerintah)-(Saat ini)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pemerintah)-(58,8 persen saham Inalum)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemerintah)-(Jepang)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(pemerintah)-(sedangkan Indonesia)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemerintah)-(42 persen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(alih Inalum)-(Oktober)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(alih Inalum)-("Persiapannya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(alih Inalum)-(tutur Agus)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(alih Inalum)-(Agus)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(alih Inalum)-(APBN)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(alih Inalum)-(2013)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(alih Inalum)-(pemerintah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(alih Inalum)-(dana)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(alih Inalum)-(Rinciannya)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(alih Inalum)-(tahun anggaran 2012)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(alih Inalum)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(alih Inalum)-(sejumlah hal)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(alih Inalum)-(Indonesia dan Jepang)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(alih Inalum)-(nanti menteri perindustrian)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(alih Inalum)-(MS Hidayat)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(alih Inalum)-(tim Jepang.")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(alih Inalum)-(gambaran Inalum)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(alih Inalum)-(kontrak kerja sama)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(alih Inalum)-(Indonesia dan investor Jepang)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(alih Inalum)-(Nippon Asahan Alumina)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(alih Inalum)-(NAA)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(alih Inalum)-(Kontrak tersebut)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(alih Inalum)-(Oktober)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(alih Inalum)-(Saat ini)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(alih Inalum)-(58,8 persen saham Inalum)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(alih Inalum)-(Jepang)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(alih Inalum)-(sedangkan Indonesia)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(alih Inalum)-(42 persen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Oktober)-("Persiapannya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Oktober)-(tutur Agus)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Oktober)-(Agus)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(Oktober)-(APBN)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(Oktober)-(2013)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Oktober)-(pemerintah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Oktober)-(dana)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Oktober)-(Rinciannya)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(Oktober)-(tahun anggaran 2012)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Oktober)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(Oktober)-(sejumlah hal)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Oktober)-(Indonesia dan Jepang)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(Oktober)-(nanti menteri perindustrian)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Oktober)-(MS Hidayat)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(Oktober)-(tim Jepang.")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Oktober)-(gambaran Inalum)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Oktober)-(kontrak kerja sama)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Oktober)-(Indonesia dan investor Jepang)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(Oktober)-(Nippon Asahan Alumina)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(Oktober)-(NAA)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(Oktober)-(Kontrak tersebut)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(Oktober)-(Oktober)]";true;true;false;false;false;false;true;OTHER;OTHER
+"[(Oktober)-(Saat ini)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(Oktober)-(58,8 persen saham Inalum)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Oktober)-(Jepang)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(Oktober)-(sedangkan Indonesia)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Oktober)-(42 persen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[("Persiapannya)-(tutur Agus)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[("Persiapannya)-(Agus)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[("Persiapannya)-(APBN)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[("Persiapannya)-(2013)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Persiapannya)-(pemerintah)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Persiapannya)-(dana)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Persiapannya)-(Rinciannya)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[("Persiapannya)-(tahun anggaran 2012)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Persiapannya)-(dia)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[("Persiapannya)-(sejumlah hal)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Persiapannya)-(Indonesia dan Jepang)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[("Persiapannya)-(nanti menteri perindustrian)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Persiapannya)-(MS Hidayat)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[("Persiapannya)-(tim Jepang.")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Persiapannya)-(gambaran Inalum)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Persiapannya)-(kontrak kerja sama)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Persiapannya)-(Indonesia dan investor Jepang)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[("Persiapannya)-(Nippon Asahan Alumina)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[("Persiapannya)-(NAA)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[("Persiapannya)-(Kontrak tersebut)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[("Persiapannya)-(Oktober)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Persiapannya)-(Saat ini)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[("Persiapannya)-(58,8 persen saham Inalum)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Persiapannya)-(Jepang)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[("Persiapannya)-(sedangkan Indonesia)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Persiapannya)-(42 persen)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(tutur Agus)-(Agus)]";false;true;false;false;false;false;true;OTHER;PERSON
+"[(tutur Agus)-(APBN)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(tutur Agus)-(2013)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tutur Agus)-(pemerintah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tutur Agus)-(dana)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tutur Agus)-(Rinciannya)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(tutur Agus)-(tahun anggaran 2012)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tutur Agus)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(tutur Agus)-(sejumlah hal)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tutur Agus)-(Indonesia dan Jepang)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(tutur Agus)-(nanti menteri perindustrian)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tutur Agus)-(MS Hidayat)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(tutur Agus)-(tim Jepang.")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(tutur Agus)-(gambaran Inalum)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tutur Agus)-(kontrak kerja sama)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tutur Agus)-(Indonesia dan investor Jepang)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(tutur Agus)-(Nippon Asahan Alumina)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(tutur Agus)-(NAA)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(tutur Agus)-(Kontrak tersebut)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(tutur Agus)-(Oktober)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tutur Agus)-(Saat ini)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(tutur Agus)-(58,8 persen saham Inalum)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tutur Agus)-(Jepang)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(tutur Agus)-(sedangkan Indonesia)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tutur Agus)-(42 persen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Agus)-(APBN)]";false;true;false;false;false;true;false;PERSON;LOCATION
+"[(Agus)-(2013)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Agus)-(pemerintah)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Agus)-(dana)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Agus)-(Rinciannya)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Agus)-(tahun anggaran 2012)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Agus)-(dia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Agus)-(sejumlah hal)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Agus)-(Indonesia dan Jepang)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Agus)-(nanti menteri perindustrian)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Agus)-(MS Hidayat)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Agus)-(tim Jepang.")]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Agus)-(gambaran Inalum)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Agus)-(kontrak kerja sama)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Agus)-(Indonesia dan investor Jepang)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Agus)-(Nippon Asahan Alumina)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Agus)-(NAA)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Agus)-(Kontrak tersebut)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Agus)-(Oktober)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Agus)-(Saat ini)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Agus)-(58,8 persen saham Inalum)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Agus)-(Jepang)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Agus)-(sedangkan Indonesia)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Agus)-(42 persen)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(APBN)-(2013)]";false;true;false;false;false;true;false;LOCATION;OTHER
+"[(APBN)-(pemerintah)]";false;true;false;false;false;true;false;LOCATION;OTHER
+"[(APBN)-(dana)]";false;true;false;false;false;true;false;LOCATION;OTHER
+"[(APBN)-(Rinciannya)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(APBN)-(tahun anggaran 2012)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(APBN)-(dia)]";false;true;false;false;true;false;false;LOCATION;OTHER
+"[(APBN)-(sejumlah hal)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(APBN)-(Indonesia dan Jepang)]";false;true;false;false;false;false;false;LOCATION;ORGANIZATION
+"[(APBN)-(nanti menteri perindustrian)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(APBN)-(MS Hidayat)]";false;true;false;false;false;false;false;LOCATION;ORGANIZATION
+"[(APBN)-(tim Jepang.")]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(APBN)-(gambaran Inalum)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(APBN)-(kontrak kerja sama)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(APBN)-(Indonesia dan investor Jepang)]";false;true;false;false;false;false;false;LOCATION;ORGANIZATION
+"[(APBN)-(Nippon Asahan Alumina)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(APBN)-(NAA)]";false;true;false;false;false;false;false;LOCATION;ORGANIZATION
+"[(APBN)-(Kontrak tersebut)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(APBN)-(Oktober)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(APBN)-(Saat ini)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(APBN)-(58,8 persen saham Inalum)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(APBN)-(Jepang)]";false;true;false;false;false;false;false;LOCATION;LOCATION
+"[(APBN)-(sedangkan Indonesia)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(APBN)-(42 persen)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(2013)-(pemerintah)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(2013)-(dana)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(2013)-(Rinciannya)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(2013)-(tahun anggaran 2012)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(2013)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(2013)-(sejumlah hal)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(2013)-(Indonesia dan Jepang)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(2013)-(nanti menteri perindustrian)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(2013)-(MS Hidayat)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(2013)-(tim Jepang.")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(2013)-(gambaran Inalum)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(2013)-(kontrak kerja sama)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(2013)-(Indonesia dan investor Jepang)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(2013)-(Nippon Asahan Alumina)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(2013)-(NAA)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(2013)-(Kontrak tersebut)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(2013)-(Oktober)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(2013)-(Saat ini)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(2013)-(58,8 persen saham Inalum)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(2013)-(Jepang)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(2013)-(sedangkan Indonesia)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(2013)-(42 persen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemerintah)-(dana)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(pemerintah)-(Rinciannya)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pemerintah)-(tahun anggaran 2012)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemerintah)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(pemerintah)-(sejumlah hal)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemerintah)-(Indonesia dan Jepang)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(pemerintah)-(nanti menteri perindustrian)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemerintah)-(MS Hidayat)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(pemerintah)-(tim Jepang.")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pemerintah)-(gambaran Inalum)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemerintah)-(kontrak kerja sama)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemerintah)-(Indonesia dan investor Jepang)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(pemerintah)-(Nippon Asahan Alumina)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pemerintah)-(NAA)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(pemerintah)-(Kontrak tersebut)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pemerintah)-(Oktober)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemerintah)-(Saat ini)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pemerintah)-(58,8 persen saham Inalum)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemerintah)-(Jepang)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(pemerintah)-(sedangkan Indonesia)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemerintah)-(42 persen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dana)-(Rinciannya)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(dana)-(tahun anggaran 2012)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dana)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(dana)-(sejumlah hal)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dana)-(Indonesia dan Jepang)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(dana)-(nanti menteri perindustrian)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dana)-(MS Hidayat)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(dana)-(tim Jepang.")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(dana)-(gambaran Inalum)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dana)-(kontrak kerja sama)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dana)-(Indonesia dan investor Jepang)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(dana)-(Nippon Asahan Alumina)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(dana)-(NAA)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(dana)-(Kontrak tersebut)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(dana)-(Oktober)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dana)-(Saat ini)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(dana)-(58,8 persen saham Inalum)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dana)-(Jepang)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(dana)-(sedangkan Indonesia)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dana)-(42 persen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Rinciannya)-(tahun anggaran 2012)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Rinciannya)-(dia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Rinciannya)-(sejumlah hal)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Rinciannya)-(Indonesia dan Jepang)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Rinciannya)-(nanti menteri perindustrian)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Rinciannya)-(MS Hidayat)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Rinciannya)-(tim Jepang.")]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Rinciannya)-(gambaran Inalum)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Rinciannya)-(kontrak kerja sama)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Rinciannya)-(Indonesia dan investor Jepang)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Rinciannya)-(Nippon Asahan Alumina)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Rinciannya)-(NAA)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Rinciannya)-(Kontrak tersebut)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Rinciannya)-(Oktober)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Rinciannya)-(Saat ini)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Rinciannya)-(58,8 persen saham Inalum)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Rinciannya)-(Jepang)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Rinciannya)-(sedangkan Indonesia)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Rinciannya)-(42 persen)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(tahun anggaran 2012)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(tahun anggaran 2012)-(sejumlah hal)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tahun anggaran 2012)-(Indonesia dan Jepang)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(tahun anggaran 2012)-(nanti menteri perindustrian)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tahun anggaran 2012)-(MS Hidayat)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(tahun anggaran 2012)-(tim Jepang.")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(tahun anggaran 2012)-(gambaran Inalum)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tahun anggaran 2012)-(kontrak kerja sama)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tahun anggaran 2012)-(Indonesia dan investor Jepang)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(tahun anggaran 2012)-(Nippon Asahan Alumina)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(tahun anggaran 2012)-(NAA)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(tahun anggaran 2012)-(Kontrak tersebut)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(tahun anggaran 2012)-(Oktober)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tahun anggaran 2012)-(Saat ini)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(tahun anggaran 2012)-(58,8 persen saham Inalum)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tahun anggaran 2012)-(Jepang)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(tahun anggaran 2012)-(sedangkan Indonesia)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tahun anggaran 2012)-(42 persen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dia)-(sejumlah hal)]";false;true;false;true;false;true;false;OTHER;OTHER
+"[(dia)-(Indonesia dan Jepang)]";false;true;false;true;false;true;false;OTHER;ORGANIZATION
+"[(dia)-(nanti menteri perindustrian)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(dia)-(MS Hidayat)]";false;true;false;true;false;false;false;OTHER;ORGANIZATION
+"[(dia)-(tim Jepang.")]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(dia)-(gambaran Inalum)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(dia)-(kontrak kerja sama)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(dia)-(Indonesia dan investor Jepang)]";false;true;false;true;false;false;false;OTHER;ORGANIZATION
+"[(dia)-(Nippon Asahan Alumina)]";false;true;false;true;false;false;false;OTHER;PERSON
+"[(dia)-(NAA)]";false;true;false;true;false;false;false;OTHER;ORGANIZATION
+"[(dia)-(Kontrak tersebut)]";false;true;false;true;false;false;false;OTHER;PERSON
+"[(dia)-(Oktober)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(dia)-(Saat ini)]";false;true;false;true;false;false;false;OTHER;PERSON
+"[(dia)-(58,8 persen saham Inalum)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(dia)-(Jepang)]";false;true;false;true;false;false;false;OTHER;LOCATION
+"[(dia)-(sedangkan Indonesia)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(dia)-(42 persen)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(sejumlah hal)-(Indonesia dan Jepang)]";false;true;false;false;false;true;false;OTHER;ORGANIZATION
+"[(sejumlah hal)-(nanti menteri perindustrian)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah hal)-(MS Hidayat)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(sejumlah hal)-(tim Jepang.")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah hal)-(gambaran Inalum)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah hal)-(kontrak kerja sama)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah hal)-(Indonesia dan investor Jepang)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(sejumlah hal)-(Nippon Asahan Alumina)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(sejumlah hal)-(NAA)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(sejumlah hal)-(Kontrak tersebut)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(sejumlah hal)-(Oktober)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah hal)-(Saat ini)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(sejumlah hal)-(58,8 persen saham Inalum)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah hal)-(Jepang)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(sejumlah hal)-(sedangkan Indonesia)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah hal)-(42 persen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Indonesia dan Jepang)-(nanti menteri perindustrian)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Indonesia dan Jepang)-(MS Hidayat)]";false;true;false;false;false;false;false;ORGANIZATION;ORGANIZATION
+"[(Indonesia dan Jepang)-(tim Jepang.")]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Indonesia dan Jepang)-(gambaran Inalum)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Indonesia dan Jepang)-(kontrak kerja sama)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Indonesia dan Jepang)-(Indonesia dan investor Jepang)]";false;true;false;false;false;false;false;ORGANIZATION;ORGANIZATION
+"[(Indonesia dan Jepang)-(Nippon Asahan Alumina)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(Indonesia dan Jepang)-(NAA)]";false;true;false;false;false;false;false;ORGANIZATION;ORGANIZATION
+"[(Indonesia dan Jepang)-(Kontrak tersebut)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(Indonesia dan Jepang)-(Oktober)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Indonesia dan Jepang)-(Saat ini)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(Indonesia dan Jepang)-(58,8 persen saham Inalum)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Indonesia dan Jepang)-(Jepang)]";false;true;false;false;false;false;true;ORGANIZATION;LOCATION
+"[(Indonesia dan Jepang)-(sedangkan Indonesia)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Indonesia dan Jepang)-(42 persen)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(nanti menteri perindustrian)-(MS Hidayat)]";false;true;false;false;false;true;false;OTHER;ORGANIZATION
+"[(nanti menteri perindustrian)-(tim Jepang.")]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(nanti menteri perindustrian)-(gambaran Inalum)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(nanti menteri perindustrian)-(kontrak kerja sama)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(nanti menteri perindustrian)-(Indonesia dan investor Jepang)]";false;true;false;false;false;true;false;OTHER;ORGANIZATION
+"[(nanti menteri perindustrian)-(Nippon Asahan Alumina)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(nanti menteri perindustrian)-(NAA)]";false;true;false;false;false;true;false;OTHER;ORGANIZATION
+"[(nanti menteri perindustrian)-(Kontrak tersebut)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(nanti menteri perindustrian)-(Oktober)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(nanti menteri perindustrian)-(Saat ini)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(nanti menteri perindustrian)-(58,8 persen saham Inalum)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(nanti menteri perindustrian)-(Jepang)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(nanti menteri perindustrian)-(sedangkan Indonesia)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(nanti menteri perindustrian)-(42 persen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(MS Hidayat)-(tim Jepang.")]";false;false;false;false;false;true;false;ORGANIZATION;OTHER
+"[(MS Hidayat)-(gambaran Inalum)]";false;true;false;false;false;true;false;ORGANIZATION;OTHER
+"[(MS Hidayat)-(kontrak kerja sama)]";false;true;false;false;false;true;false;ORGANIZATION;OTHER
+"[(MS Hidayat)-(Indonesia dan investor Jepang)]";false;true;false;false;false;true;false;ORGANIZATION;ORGANIZATION
+"[(MS Hidayat)-(Nippon Asahan Alumina)]";false;true;false;false;false;true;false;ORGANIZATION;PERSON
+"[(MS Hidayat)-(NAA)]";false;true;false;false;false;true;false;ORGANIZATION;ORGANIZATION
+"[(MS Hidayat)-(Kontrak tersebut)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(MS Hidayat)-(Oktober)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(MS Hidayat)-(Saat ini)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(MS Hidayat)-(58,8 persen saham Inalum)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(MS Hidayat)-(Jepang)]";false;true;false;false;false;false;false;ORGANIZATION;LOCATION
+"[(MS Hidayat)-(sedangkan Indonesia)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(MS Hidayat)-(42 persen)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(tim Jepang.")-(gambaran Inalum)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(tim Jepang.")-(kontrak kerja sama)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(tim Jepang.")-(Indonesia dan investor Jepang)]";false;false;false;false;false;true;false;OTHER;ORGANIZATION
+"[(tim Jepang.")-(Nippon Asahan Alumina)]";false;false;false;false;false;true;false;OTHER;PERSON
+"[(tim Jepang.")-(NAA)]";false;false;false;false;false;true;false;OTHER;ORGANIZATION
+"[(tim Jepang.")-(Kontrak tersebut)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(tim Jepang.")-(Oktober)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(tim Jepang.")-(Saat ini)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(tim Jepang.")-(58,8 persen saham Inalum)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(tim Jepang.")-(Jepang)]";false;false;false;false;false;false;true;OTHER;LOCATION
+"[(tim Jepang.")-(sedangkan Indonesia)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(tim Jepang.")-(42 persen)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(gambaran Inalum)-(kontrak kerja sama)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(gambaran Inalum)-(Indonesia dan investor Jepang)]";false;true;false;false;false;true;false;OTHER;ORGANIZATION
+"[(gambaran Inalum)-(Nippon Asahan Alumina)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(gambaran Inalum)-(NAA)]";false;true;false;false;false;true;false;OTHER;ORGANIZATION
+"[(gambaran Inalum)-(Kontrak tersebut)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(gambaran Inalum)-(Oktober)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(gambaran Inalum)-(Saat ini)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(gambaran Inalum)-(58,8 persen saham Inalum)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(gambaran Inalum)-(Jepang)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(gambaran Inalum)-(sedangkan Indonesia)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(gambaran Inalum)-(42 persen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kontrak kerja sama)-(Indonesia dan investor Jepang)]";false;true;false;false;false;true;false;OTHER;ORGANIZATION
+"[(kontrak kerja sama)-(Nippon Asahan Alumina)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(kontrak kerja sama)-(NAA)]";false;true;false;false;false;true;false;OTHER;ORGANIZATION
+"[(kontrak kerja sama)-(Kontrak tersebut)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kontrak kerja sama)-(Oktober)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kontrak kerja sama)-(Saat ini)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kontrak kerja sama)-(58,8 persen saham Inalum)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kontrak kerja sama)-(Jepang)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(kontrak kerja sama)-(sedangkan Indonesia)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kontrak kerja sama)-(42 persen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Indonesia dan investor Jepang)-(Nippon Asahan Alumina)]";false;true;false;false;false;true;false;ORGANIZATION;PERSON
+"[(Indonesia dan investor Jepang)-(NAA)]";false;true;false;false;false;true;false;ORGANIZATION;ORGANIZATION
+"[(Indonesia dan investor Jepang)-(Kontrak tersebut)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(Indonesia dan investor Jepang)-(Oktober)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Indonesia dan investor Jepang)-(Saat ini)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(Indonesia dan investor Jepang)-(58,8 persen saham Inalum)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Indonesia dan investor Jepang)-(Jepang)]";false;true;false;false;false;false;true;ORGANIZATION;LOCATION
+"[(Indonesia dan investor Jepang)-(sedangkan Indonesia)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Indonesia dan investor Jepang)-(42 persen)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Nippon Asahan Alumina)-(NAA)]";false;true;true;false;false;true;false;PERSON;ORGANIZATION
+"[(Nippon Asahan Alumina)-(Kontrak tersebut)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Nippon Asahan Alumina)-(Oktober)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Nippon Asahan Alumina)-(Saat ini)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Nippon Asahan Alumina)-(58,8 persen saham Inalum)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Nippon Asahan Alumina)-(Jepang)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Nippon Asahan Alumina)-(sedangkan Indonesia)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Nippon Asahan Alumina)-(42 persen)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(NAA)-(Kontrak tersebut)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(NAA)-(Oktober)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(NAA)-(Saat ini)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(NAA)-(58,8 persen saham Inalum)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(NAA)-(Jepang)]";false;true;false;false;false;false;false;ORGANIZATION;LOCATION
+"[(NAA)-(sedangkan Indonesia)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(NAA)-(42 persen)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Kontrak tersebut)-(Oktober)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Kontrak tersebut)-(Saat ini)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Kontrak tersebut)-(58,8 persen saham Inalum)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kontrak tersebut)-(Jepang)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Kontrak tersebut)-(sedangkan Indonesia)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kontrak tersebut)-(42 persen)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Oktober)-(Saat ini)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(Oktober)-(58,8 persen saham Inalum)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Oktober)-(Jepang)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(Oktober)-(sedangkan Indonesia)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Oktober)-(42 persen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Saat ini)-(58,8 persen saham Inalum)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Saat ini)-(Jepang)]";false;true;false;false;false;true;false;PERSON;LOCATION
+"[(Saat ini)-(sedangkan Indonesia)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Saat ini)-(42 persen)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(58,8 persen saham Inalum)-(Jepang)]";false;true;false;false;false;true;false;OTHER;LOCATION
+"[(58,8 persen saham Inalum)-(sedangkan Indonesia)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(58,8 persen saham Inalum)-(42 persen)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(Jepang)-(sedangkan Indonesia)]";false;true;false;false;false;true;false;LOCATION;OTHER
+"[(Jepang)-(42 persen)]";false;true;false;false;false;true;false;LOCATION;OTHER
+"[(sedangkan Indonesia)-(42 persen)]";false;true;false;false;false;true;false;OTHER;OTHER

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>Aerosmith</Mention>
+        <Mention>Steven Tyler</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>REPUBLIKA.CO.ID</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>JAKARTA --</Mention>
+        <Mention>Jakarta</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>twitter</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>here</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>and</Mention>
+    </Entity>
+</CoreferenceChain>

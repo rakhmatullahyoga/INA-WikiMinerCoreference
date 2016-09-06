@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>Mendikbud</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>Menteri Pendidikan dan Kebudayaan</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>IPA</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>Matematika</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>Ujian Nasional</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>UN</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>Sekolah Dasar</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>SD</Mention>
+    </Entity>
+    <Entity ClusterId="9">
+        <Mention>Bahasa Indonesia</Mention>
+    </Entity>
+    <Entity ClusterId="10">
+        <Mention>Jakarta Barat</Mention>
+    </Entity>
+    <Entity ClusterId="11">
+        <Mention>pemerintah pusat</Mention>
+    </Entity>
+    <Entity ClusterId="12">
+        <Mention>Jakbar</Mention>
+    </Entity>
+    <Entity ClusterId="13">
+        <Mention>SMP</Mention>
+    </Entity>
+    <Entity ClusterId="14">
+        <Mention>SMA</Mention>
+    </Entity>
+    <Entity ClusterId="15">
+        <Mention>pemerintah provinsi</Mention>
+    </Entity>
+    <Entity ClusterId="16">
+        <Mention>Jakarta</Mention>
+    </Entity>
+    <Entity ClusterId="17">
+        <Mention>M Nuh</Mention>
+        <Mention>Nuh</Mention>
+    </Entity>
+    <Entity ClusterId="18">
+        <Mention>provinsi</Mention>
+    </Entity>
+    <Entity ClusterId="19">
+        <Mention>Kemendikbud</Mention>
+    </Entity>
+</CoreferenceChain>

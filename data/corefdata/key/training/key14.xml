@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>Korut</Mention>
+        <Mention>Korea Utara</Mention>
+        <Mention>Pyongyang</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>Korsel</Mention>
+        <Mention>Korea Selatan</Mention>
+        <Mention>Seoul</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>Kaesong</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>Semenanjung Korea</Mention>
+    </Entity>
+</CoreferenceChain>

@@ -1,0 +1,313 @@
+All detected topics:
+Provinsi (0.006604094838967271/0.19660440050245145 - 0.2711402315231447/0.3075970709323883)
+Rabu (0.006684675016243663/0.09907834101382489 - 0.23744684267838304/0.15608954429626465)
+Kamis (0.006684675016243663/0.03736920777279522 - 0.31491299565061864/0.19040516018867493)
+Guru (0.19554306172941083/0.08482142857142858 - 0.5042035226197905/0.3046690821647644)
+Pemerintah pusat (0.0035596750162436622/0.04 - 0.15449892547072028/0.05711605027318001)
+Bahasa Indonesia (0.11098116375031206/0.4152796725784447 - 0.33146360183081136/0.2534838318824768)
+Distribusi (0.0035596750162436622/0.024191276349549734 - 0.15309789582441488/0.04618998244404793)
+IPA (0.06412946682898545/0.27607361963190186 - 0.38413331723288213/0.2835320234298706)
+Kemanggisan, Palmerah, Jakarta Barat (0.0035596750162436622/0.16666666666666666 - 0.07449929081503617/0.13037875294685364)
+Kementerian Pendidikan dan Kebudayaan Republik Indonesia (0.2838971251476454/0.16666666666666666 - 0.46285450537133316/0.35324040055274963)
+Daerah Khusus Ibukota Jakarta (0.11812928426531473/0.2608898085876875 - 0.2992737500227333/0.2965373694896698)
+Adik (0.0035596750162436622/0.008168028004667444 - 0.19265240688779442/0.07185109704732895)
+Sekolah dasar (0.5973360989944245/0.12275039860792777 - 0.44143951046167806/0.383386492729187)
+Pemerintah daerah (0.0035596750162436622/0.008333333333333333 - 0.2385599569336886/0.21018841862678528)
+Rayon (0.0035596750162436622/0.14468085106382977 - 0.02762452909649738/0.022845862433314323)
+Nuh (0.0035596750162436622/0.40125391849529785 - 0.06831067266884648/0.13475719094276428)
+Papirus 75 (0.0035596750162436622/0.00792910447761194 - 0.0/0.06529697775840759)
+Bangsa (0.2773612435475926/0.010387624786401655 - 0.43833362008681964/0.299724817276001)
+Kota Administrasi Jakarta Barat (0.006684675016243663/0.26217228464419473 - 0.22135467764112512/0.2409888654947281)
+Indonesia (0.0035596750162436622/0.40647999238473137 - 0.12183948265980413/0.18645788729190826)
+Daftar Menteri Pendidikan dan Kebudayaan Indonesia (0.36038700922576483/0.04583181184583353 - 0.4214712253954873/0.3564702868461609)
+Pendidikan (0.4168287991047716/0.1110242758755434 - 0.48693715060970866/0.3872317969799042)
+Mata angin (0.008716106577388133/0.013083325954130878 - 0.32178099993768855/0.19703921675682068)
+Sekolah menengah atas (0.4574240372000098/0.10102935569958063 - 0.48678166537868234/0.4182920455932617)
+Menteri (0.04072624171252326/0.016691212567501227 - 0.34657947011970314/0.1230369284749031)
+Ujian Nasional (0.4065187706068853/0.09916669213451094 - 0.32544029316612694/0.33490610122680664)
+Ujian (0.006684675016243663/0.01252763448784083 - 0.22852223427511234/0.16336467862129211)
+Sekolah menengah pertama (0.4574240372000098/0.09997389715478987 - 0.4707243724755036/0.3989485502243042)
+Matematika (0.26092601587225434/0.33579335793357934 - 0.3826346630562057/0.26187363266944885)
+Seminari Alkitab Asia Tenggara (0.0035596750162436622/0.13043478260869565 - 0.10896183798782881/0.18002758920192719)
+Pemerintah daerah di Indonesia (0.012175302358535131/0.03914590747330961 - 0.3202204900125593/0.2140675187110901)
+Persentase (0.0035596750162436622/0.009870129870129871 - 0.1863912980006217/0.03817300871014595)
+Kalender Hijriyah (0.0035596750162436622/0.026904761904761904 - 0.18989716962555214/0.16899774968624115)
+Mohammad Nuh (0.006684675016243663/0.4398148148148148 - 0.2058585410489363/0.1977984607219696)
+Negeri (0.07971723143571112/0.009904912836767036 - 0.4031141443610671/0.17351537942886353)
+Sekolah (0.5128785826545552/0.06784463546641196 - 0.45180625521824685/0.38455304503440857)
+Kerajaan Aru (0.0035596750162436622/0.013422818791946308 - 0.07444191093461502/0.034230660647153854)
+Naskah (0.0035596750162436622/0.03431271830696528 - 0.25075948654447494/0.13906517624855042)
+Inspeksi (0.0035596750162436622/0.022988505747126436 - 0.0/0.0)
+Peserta didik (0.19268246543609896/0.029621503017004936 - 0.5014793927124588/0.2735280990600586)
+Matius 25 (0.0035596750162436622/0.008733624454148471 - 0.013781242444767383/0.06789609044790268)
+Budaya (0.09789904961752931/0.04922670690305545 - 0.4101116162844816/0.22978197038173676)
+Hari (0.011155130967632034/0.008590881545645744 - 0.3112749860791835/0.11172933876514435)
+Wilayah (0.07971723143571112/0.006205398696866274 - 0.3866526918299495/0.18017753958702087)
+Pemerintah (0.16880092273637448/0.03416681444700597 - 0.42059546275676735/0.21375301480293274)
+Kata (0.006684675016243663/0.013140775435857403 - 0.24953791755647844/0.06397657841444016)
+Lokasi (0.006684675016243663/0.005520794994479205 - 0.2500528937811163/0.08127693831920624)
+Bahan (0.0035596750162436622/0.04251012145748988 - 0.16680364041078996/0.041014570742845535)
+Mata (0.006684675016243663/0.03520931522040477 - 0.22161627177421345/0.09418874233961105)
+Bahasa (0.13028577122122295/0.022639440150407353 - 0.4647757694053894/0.2761284410953522)
+0-an (0.0035596750162436622/0.007250666272241581 - 0.3410917970331023/0.2505432963371277)
+Meter (0.0035596750162436622/0.007644553896670258 - 0.13812799568859566/0.11995549499988556)
+10-an (0.10355967501624366/0.006264791869692329 - 0.3545751808578173/0.2607136070728302)
+Bila (film) (0.0035596750162436622/0.005369127516778523 - 0.0/0.0053415447473526)
+Senin (0.020083702396203464/0.1434948979591837 - 0.277237612233652/0.19801057875156403)
+
+Topics that are probably good links:
+Sekolah dasar (0.5973360989944245/0.12275039860792777 - 0.44143951046167806/0.383386492729187)
+Sekolah (0.5128785826545552/0.06784463546641196 - 0.45180625521824685/0.38455304503440857)
+Sekolah menengah pertama (0.4574240372000098/0.09997389715478987 - 0.4707243724755036/0.3989485502243042)
+Sekolah menengah atas (0.4574240372000098/0.10102935569958063 - 0.48678166537868234/0.4182920455932617)
+Pendidikan (0.4168287991047716/0.1110242758755434 - 0.48693715060970866/0.3872317969799042)
+Ujian Nasional (0.4065187706068853/0.09916669213451094 - 0.32544029316612694/0.33490610122680664)
+Daftar Menteri Pendidikan dan Kebudayaan Indonesia (0.36038700922576483/0.04583181184583353 - 0.4214712253954873/0.3564702868461609)
+Kementerian Pendidikan dan Kebudayaan Republik Indonesia (0.2838971251476454/0.16666666666666666 - 0.46285450537133316/0.35324040055274963)
+Bangsa (0.2773612435475926/0.010387624786401655 - 0.43833362008681964/0.299724817276001)
+Matematika (0.26092601587225434/0.33579335793357934 - 0.3826346630562057/0.26187363266944885)
+Guru (0.19554306172941083/0.08482142857142858 - 0.5042035226197905/0.3046690821647644)
+Peserta didik (0.19268246543609896/0.029621503017004936 - 0.5014793927124588/0.2735280990600586)
+Pemerintah (0.16880092273637448/0.03416681444700597 - 0.42059546275676735/0.21375301480293274)
+Provinsi (0.006604094838967271/0.19660440050245145 - 0.2711402315231447/0.3075970709323883)
+Bahasa Indonesia (0.11098116375031206/0.4152796725784447 - 0.33146360183081136/0.2534838318824768)
+IPA (0.06412946682898545/0.27607361963190186 - 0.38413331723288213/0.2835320234298706)
+Kemanggisan, Palmerah, Jakarta Barat (0.0035596750162436622/0.16666666666666666 - 0.07449929081503617/0.13037875294685364)
+Daerah Khusus Ibukota Jakarta (0.11812928426531473/0.2608898085876875 - 0.2992737500227333/0.2965373694896698)
+Nuh (0.0035596750162436622/0.40125391849529785 - 0.06831067266884648/0.13475719094276428)
+Kota Administrasi Jakarta Barat (0.006684675016243663/0.26217228464419473 - 0.22135467764112512/0.2409888654947281)
+Indonesia (0.0035596750162436622/0.40647999238473137 - 0.12183948265980413/0.18645788729190826)
+Mohammad Nuh (0.006684675016243663/0.4398148148148148 - 0.2058585410489363/0.1977984607219696)
+
+Coreference log:
+Sekolah dasar - Sekolah = 0.7725543357864586
+Sekolah dasar - Sekolah menengah pertama = 0.7975961055408454
+Sekolah - Sekolah menengah pertama = 0.7215671672441357
+Sekolah dasar - Sekolah menengah atas = 0.7199333045283554
+Sekolah - Sekolah menengah atas = 0.790560669713076
+Sekolah menengah pertama - Sekolah menengah atas = 0.7565395916139718
+Sekolah dasar - Pendidikan = 0.7565628859827036
+Sekolah - Pendidikan = 0.9411554743009396
+Sekolah menengah pertama - Pendidikan = 0.6991807506947711
+Sekolah menengah atas - Pendidikan = 0.7691744584421858
+Sekolah dasar - Ujian Nasional = 0.5088383764362471
+Sekolah - Ujian Nasional = 0.3164483633205346
+Sekolah menengah pertama - Ujian Nasional = 0.568276835064381
+Sekolah menengah atas - Ujian Nasional = 0.5258858902460026
+Pendidikan - Ujian Nasional = 0.3363583822986991
+Sekolah dasar - Daftar Menteri Pendidikan dan Kebudayaan Indonesia = 0.3895296503799097
+Sekolah - Daftar Menteri Pendidikan dan Kebudayaan Indonesia = 0.34795772592140206
+Sekolah menengah pertama - Daftar Menteri Pendidikan dan Kebudayaan Indonesia = 0.39916135237026396
+Sekolah menengah atas - Daftar Menteri Pendidikan dan Kebudayaan Indonesia = 0.4094390433779993
+Pendidikan - Daftar Menteri Pendidikan dan Kebudayaan Indonesia = 0.40167868658847683
+Ujian Nasional - Daftar Menteri Pendidikan dan Kebudayaan Indonesia = 0.5723990106206697
+Sekolah dasar - Kementerian Pendidikan dan Kebudayaan Republik Indonesia = 0.4389630076442459
+Sekolah - Kementerian Pendidikan dan Kebudayaan Republik Indonesia = 0.3762921427558501
+Sekolah menengah pertama - Kementerian Pendidikan dan Kebudayaan Republik Indonesia = 0.47190869415944814
+Sekolah menengah atas - Kementerian Pendidikan dan Kebudayaan Republik Indonesia = 0.5012389972827387
+Pendidikan - Kementerian Pendidikan dan Kebudayaan Republik Indonesia = 0.40846390353291795
+Ujian Nasional - Kementerian Pendidikan dan Kebudayaan Republik Indonesia = 0.5080427000321261
+Daftar Menteri Pendidikan dan Kebudayaan Indonesia - Kementerian Pendidikan dan Kebudayaan Republik Indonesia = 0.7317505272042049
+Sekolah dasar - Bangsa = 0.0
+Sekolah - Bangsa = 0.0
+Sekolah menengah pertama - Bangsa = 0.0
+Sekolah menengah atas - Bangsa = 0.0
+Pendidikan - Bangsa = 0.0
+Ujian Nasional - Bangsa = 0.0
+Daftar Menteri Pendidikan dan Kebudayaan Indonesia - Bangsa = 0.0
+Kementerian Pendidikan dan Kebudayaan Republik Indonesia - Bangsa = 0.0
+Sekolah dasar - Matematika = 0.3417122125694969
+Sekolah - Matematika = 0.3724860342563061
+Sekolah menengah pertama - Matematika = 0.4448857894013022
+Sekolah menengah atas - Matematika = 0.39502194111786315
+Pendidikan - Matematika = 0.41431651504126965
+Ujian Nasional - Matematika = 0.44450675244033866
+Daftar Menteri Pendidikan dan Kebudayaan Indonesia - Matematika = 0.37853709473724007
+Kementerian Pendidikan dan Kebudayaan Republik Indonesia - Matematika = 0.4480378779016654
+Bangsa - Matematika = 0.0
+Sekolah dasar - Guru = 0.5679702643557778
+Sekolah - Guru = 0.5076871278166105
+Sekolah menengah pertama - Guru = 0.5592257661784693
+Sekolah menengah atas - Guru = 0.5488158495756961
+Pendidikan - Guru = 0.4621704108458311
+Ujian Nasional - Guru = 0.21870632083845454
+Daftar Menteri Pendidikan dan Kebudayaan Indonesia - Guru = 0.4675420891838671
+Kementerian Pendidikan dan Kebudayaan Republik Indonesia - Guru = 0.5681958699533585
+Bangsa - Guru = 0.0
+Matematika - Guru = 0.41480403189852244
+Sekolah dasar - Peserta didik = 0.5032115645602822
+Sekolah - Peserta didik = 0.4941993107654271
+Sekolah menengah pertama - Peserta didik = 0.5574843078843097
+Sekolah menengah atas - Peserta didik = 0.5349299163346712
+Pendidikan - Peserta didik = 0.4553927127589502
+Ujian Nasional - Peserta didik = 0.38981014863285424
+Daftar Menteri Pendidikan dan Kebudayaan Indonesia - Peserta didik = 0.44468974719078247
+Kementerian Pendidikan dan Kebudayaan Republik Indonesia - Peserta didik = 0.5012466377281438
+Bangsa - Peserta didik = 0.0
+Matematika - Peserta didik = 0.38732604284238115
+Guru - Peserta didik = 0.6673455993694213
+Sekolah dasar - Pemerintah = 0.272136956735924
+Sekolah - Pemerintah = 0.29154187379503116
+Sekolah menengah pertama - Pemerintah = 0.23094313852718606
+Sekolah menengah atas - Pemerintah = 0.3067984612991611
+Pendidikan - Pemerintah = 0.4358337117875164
+Ujian Nasional - Pemerintah = 0.2135346457277557
+Daftar Menteri Pendidikan dan Kebudayaan Indonesia - Pemerintah = 0.4170855490368601
+Kementerian Pendidikan dan Kebudayaan Republik Indonesia - Pemerintah = 0.42297578792951607
+Bangsa - Pemerintah = 0.0
+Matematika - Pemerintah = 0.38506867929774424
+Guru - Pemerintah = 0.4605852764424574
+Peserta didik - Pemerintah = 0.4862604868772856
+Sekolah dasar - Provinsi = 0.43319632027728816
+Sekolah - Provinsi = 0.6533581435965661
+Sekolah menengah pertama - Provinsi = 0.5053018945530338
+Sekolah menengah atas - Provinsi = 0.5549751211728011
+Pendidikan - Provinsi = 0.6493946602713061
+Ujian Nasional - Provinsi = 0.0995272570129051
+Daftar Menteri Pendidikan dan Kebudayaan Indonesia - Provinsi = 0.15376673550308828
+Kementerian Pendidikan dan Kebudayaan Republik Indonesia - Provinsi = 0.17831723818033396
+Bangsa - Provinsi = 0.0
+Matematika - Provinsi = 0.14571026146438326
+Guru - Provinsi = 0.19490007529048348
+Peserta didik - Provinsi = 0.22779487191099068
+Pemerintah - Provinsi = 0.25118376069964254
+Sekolah dasar - Bahasa Indonesia = 0.20641776789809074
+Sekolah - Bahasa Indonesia = 0.11903140081321328
+Sekolah menengah pertama - Bahasa Indonesia = 0.2936081956506048
+Sekolah menengah atas - Bahasa Indonesia = 0.31832139661021996
+Pendidikan - Bahasa Indonesia = 0.1915215947167569
+Ujian Nasional - Bahasa Indonesia = 0.3376193609731031
+Daftar Menteri Pendidikan dan Kebudayaan Indonesia - Bahasa Indonesia = 0.33395692083832973
+Kementerian Pendidikan dan Kebudayaan Republik Indonesia - Bahasa Indonesia = 0.36340494985115823
+Bangsa - Bahasa Indonesia = 0.0
+Matematika - Bahasa Indonesia = 0.4011584487417663
+Guru - Bahasa Indonesia = 0.34267177678686356
+Peserta didik - Bahasa Indonesia = 0.37890172855565096
+Pemerintah - Bahasa Indonesia = 0.273972912976415
+Provinsi - Bahasa Indonesia = 0.06511445416294492
+Sekolah dasar - IPA = 0.2971854261182678
+Sekolah - IPA = 0.4689869325467403
+Sekolah menengah pertama - IPA = 0.5386062264682305
+Sekolah menengah atas - IPA = 0.4904350810596523
+Pendidikan - IPA = 0.45412026190448473
+Ujian Nasional - IPA = 0.499024401600216
+Daftar Menteri Pendidikan dan Kebudayaan Indonesia - IPA = 0.38092511773459503
+Kementerian Pendidikan dan Kebudayaan Republik Indonesia - IPA = 0.4869884847943473
+Bangsa - IPA = 0.25000294885132346
+Matematika - IPA = 0.4713835255881753
+Guru - IPA = 0.50567925773226
+Peserta didik - IPA = 0.6067762884422372
+Pemerintah - IPA = 0.1798764179771255
+Provinsi - IPA = 0.30407020789835026
+Bahasa Indonesia - IPA = 0.34066540795957223
+Sekolah dasar - Kemanggisan, Palmerah, Jakarta Barat = 0.0
+Sekolah - Kemanggisan, Palmerah, Jakarta Barat = 0.0
+Sekolah menengah pertama - Kemanggisan, Palmerah, Jakarta Barat = 0.0
+Sekolah menengah atas - Kemanggisan, Palmerah, Jakarta Barat = 0.3224457321213402
+Pendidikan - Kemanggisan, Palmerah, Jakarta Barat = 0.0
+Ujian Nasional - Kemanggisan, Palmerah, Jakarta Barat = 0.5912398136043825
+Daftar Menteri Pendidikan dan Kebudayaan Indonesia - Kemanggisan, Palmerah, Jakarta Barat = 0.5530721841032864
+Kementerian Pendidikan dan Kebudayaan Republik Indonesia - Kemanggisan, Palmerah, Jakarta Barat = 0.0
+Bangsa - Kemanggisan, Palmerah, Jakarta Barat = 0.0
+Matematika - Kemanggisan, Palmerah, Jakarta Barat = 0.0
+Guru - Kemanggisan, Palmerah, Jakarta Barat = 0.0
+Peserta didik - Kemanggisan, Palmerah, Jakarta Barat = 0.0
+Pemerintah - Kemanggisan, Palmerah, Jakarta Barat = 0.0
+Provinsi - Kemanggisan, Palmerah, Jakarta Barat = 0.0
+Bahasa Indonesia - Kemanggisan, Palmerah, Jakarta Barat = 0.0
+IPA - Kemanggisan, Palmerah, Jakarta Barat = 0.0
+Sekolah dasar - Daerah Khusus Ibukota Jakarta = 0.2896276779885254
+Sekolah - Daerah Khusus Ibukota Jakarta = 0.21900046071448254
+Sekolah menengah pertama - Daerah Khusus Ibukota Jakarta = 0.36632957422430834
+Sekolah menengah atas - Daerah Khusus Ibukota Jakarta = 0.352628774038932
+Pendidikan - Daerah Khusus Ibukota Jakarta = 0.2461004864438876
+Ujian Nasional - Daerah Khusus Ibukota Jakarta = 0.3060633024588346
+Daftar Menteri Pendidikan dan Kebudayaan Indonesia - Daerah Khusus Ibukota Jakarta = 0.3223624172569767
+Kementerian Pendidikan dan Kebudayaan Republik Indonesia - Daerah Khusus Ibukota Jakarta = 0.36922514857504296
+Bangsa - Daerah Khusus Ibukota Jakarta = 0.0
+Matematika - Daerah Khusus Ibukota Jakarta = 0.14975010817071344
+Guru - Daerah Khusus Ibukota Jakarta = 0.3282211606960538
+Peserta didik - Daerah Khusus Ibukota Jakarta = 0.25605431257007616
+Pemerintah - Daerah Khusus Ibukota Jakarta = 0.21923750193039515
+Provinsi - Daerah Khusus Ibukota Jakarta = 0.2136783083586682
+Bahasa Indonesia - Daerah Khusus Ibukota Jakarta = 0.3177822814275857
+IPA - Daerah Khusus Ibukota Jakarta = 0.24683565768288684
+Kemanggisan, Palmerah, Jakarta Barat - Daerah Khusus Ibukota Jakarta = 0.2745606165384451
+Sekolah dasar - Nuh = 0.0
+Sekolah - Nuh = 0.0
+Sekolah menengah pertama - Nuh = 0.0
+Sekolah menengah atas - Nuh = 0.0
+Pendidikan - Nuh = 0.02364848515424378
+Ujian Nasional - Nuh = 0.0
+Daftar Menteri Pendidikan dan Kebudayaan Indonesia - Nuh = 0.0
+Kementerian Pendidikan dan Kebudayaan Republik Indonesia - Nuh = 0.0
+Bangsa - Nuh = 0.0
+Matematika - Nuh = 0.15243571743678663
+Guru - Nuh = 0.0
+Peserta didik - Nuh = 0.0
+Pemerintah - Nuh = 0.17153196198430176
+Provinsi - Nuh = 0.0
+Bahasa Indonesia - Nuh = 0.19532349606615307
+IPA - Nuh = 0.0
+Kemanggisan, Palmerah, Jakarta Barat - Nuh = 0.0
+Daerah Khusus Ibukota Jakarta - Nuh = 0.0
+Sekolah dasar - Kota Administrasi Jakarta Barat = 0.3387244397797242
+Sekolah - Kota Administrasi Jakarta Barat = 0.2956752789955892
+Sekolah menengah pertama - Kota Administrasi Jakarta Barat = 0.39406040544184684
+Sekolah menengah atas - Kota Administrasi Jakarta Barat = 0.372650449818815
+Pendidikan - Kota Administrasi Jakarta Barat = 0.1785732484668795
+Ujian Nasional - Kota Administrasi Jakarta Barat = 0.4336973827263718
+Daftar Menteri Pendidikan dan Kebudayaan Indonesia - Kota Administrasi Jakarta Barat = 0.4546183825250171
+Kementerian Pendidikan dan Kebudayaan Republik Indonesia - Kota Administrasi Jakarta Barat = 0.35656921030788
+Bangsa - Kota Administrasi Jakarta Barat = 0.0
+Matematika - Kota Administrasi Jakarta Barat = 0.19255398550330993
+Guru - Kota Administrasi Jakarta Barat = 0.12571035859693525
+Peserta didik - Kota Administrasi Jakarta Barat = 0.0
+Pemerintah - Kota Administrasi Jakarta Barat = 0.11992310842637421
+Provinsi - Kota Administrasi Jakarta Barat = 0.08526233728584054
+Bahasa Indonesia - Kota Administrasi Jakarta Barat = 0.1837606385890146
+IPA - Kota Administrasi Jakarta Barat = 0.32287446121773167
+Kemanggisan, Palmerah, Jakarta Barat - Kota Administrasi Jakarta Barat = 0.6361829546804411
+Daerah Khusus Ibukota Jakarta - Kota Administrasi Jakarta Barat = 0.44742093715376496
+Nuh - Kota Administrasi Jakarta Barat = 0.0
+Sekolah dasar - Indonesia = 0.22363918098710123
+Sekolah - Indonesia = 0.26481277895127253
+Sekolah menengah pertama - Indonesia = 0.21588636501417546
+Sekolah menengah atas - Indonesia = 0.220764254425171
+Pendidikan - Indonesia = 0.26234060030985096
+Ujian Nasional - Indonesia = 0.14568787999739652
+Daftar Menteri Pendidikan dan Kebudayaan Indonesia - Indonesia = 0.12783122730980145
+Kementerian Pendidikan dan Kebudayaan Republik Indonesia - Indonesia = 0.13455172592716513
+Bangsa - Indonesia = 0.0
+Matematika - Indonesia = 0.0
+Guru - Indonesia = 0.11249120631733867
+Peserta didik - Indonesia = 0.06498147691511447
+Pemerintah - Indonesia = 0.06160104811085798
+Provinsi - Indonesia = 0.33631971317253895
+Bahasa Indonesia - Indonesia = 0.04775947513912071
+IPA - Indonesia = 0.06593594163875083
+Kemanggisan, Palmerah, Jakarta Barat - Indonesia = 0.0
+Daerah Khusus Ibukota Jakarta - Indonesia = 0.2717471650958675
+Nuh - Indonesia = 0.0
+Kota Administrasi Jakarta Barat - Indonesia = 0.10174732063967162
+Sekolah dasar - Mohammad Nuh = 0.0
+Sekolah - Mohammad Nuh = 0.25373981947119484
+Sekolah menengah pertama - Mohammad Nuh = 0.0
+Sekolah menengah atas - Mohammad Nuh = 0.2686359326172465
+Pendidikan - Mohammad Nuh = 0.28809409240868467
+Ujian Nasional - Mohammad Nuh = 0.0
+Daftar Menteri Pendidikan dan Kebudayaan Indonesia - Mohammad Nuh = 0.7515545358181792
+Kementerian Pendidikan dan Kebudayaan Republik Indonesia - Mohammad Nuh = 0.6339306532006269
+Bangsa - Mohammad Nuh = 0.0
+Matematika - Mohammad Nuh = 0.0
+Guru - Mohammad Nuh = 0.418397471104891
+Peserta didik - Mohammad Nuh = 0.0
+Pemerintah - Mohammad Nuh = 0.0
+Provinsi - Mohammad Nuh = 0.23737654740790637
+Bahasa Indonesia - Mohammad Nuh = 0.19836049991903992
+IPA - Mohammad Nuh = 0.0
+Kemanggisan, Palmerah, Jakarta Barat - Mohammad Nuh = 0.0
+Daerah Khusus Ibukota Jakarta - Mohammad Nuh = 0.2986570504019356
+Nuh - Mohammad Nuh = 0.0
+Kota Administrasi Jakarta Barat - Mohammad Nuh = 0.0
+Indonesia - Mohammad Nuh = 0.12380971136461816

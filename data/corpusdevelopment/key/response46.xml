@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>Metrotvnews.com</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>Jakarta</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>Palembang</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>Babel</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>bola voli</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>Air</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>Manokwari</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>Papua</Mention>
+    </Entity>
+    <Entity ClusterId="9">
+        <Mention>Istora Senayan</Mention>
+    </Entity>
+    <Entity ClusterId="10">
+        <Mention>26 April</Mention>
+    </Entity>
+    <Entity ClusterId="11">
+        <Mention>1994</Mention>
+    </Entity>
+    <Entity ClusterId="12">
+        <Mention>block</Mention>
+    </Entity>
+    <Entity ClusterId="13">
+        <Mention>sering</Mention>
+    </Entity>
+    <Entity ClusterId="14">
+        <Mention>Bandung</Mention>
+    </Entity>
+    <Entity ClusterId="15">
+        <Mention>Pulau Panggung</Mention>
+    </Entity>
+    <Entity ClusterId="16">
+        <Mention>15 Mei</Mention>
+    </Entity>
+    <Entity ClusterId="17">
+        <Mention>1990</Mention>
+    </Entity>
+    <Entity ClusterId="18">
+        <Mention>BNI 46</Mention>
+    </Entity>
+    <Entity ClusterId="19">
+        <Mention>PLN</Mention>
+    </Entity>
+    <Entity ClusterId="20">
+        <Mention>Server</Mention>
+    </Entity>
+    <Entity ClusterId="21">
+        <Mention>Bumi</Mention>
+    </Entity>
+    <Entity ClusterId="22">
+        <Mention>Gresik</Mention>
+    </Entity>
+    <Entity ClusterId="23">
+        <Mention>Petrokimia</Mention>
+    </Entity>
+    <Entity ClusterId="24">
+        <Mention>Mashudi</Mention>
+    </Entity>
+</CoreferenceChain>

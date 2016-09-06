@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>Ahok</Mention>
+        <Mention>Wakil Gubernur DKI Jakarta</Mention>
+        <Mention>Basuki Tjahaja Purnama</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>Lembaga Pemasyarakatan</Mention>
+        <Mention>Lapas</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>UN</Mention>
+        <Mention>Ujian Nasional</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>DKI Jakarta</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>Balaikota</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>sekolah menengah atas</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>Kepala Dinas Pendidikan DKI Jakarta</Mention>
+        <Mention>Taufik</Mention>
+        <Mention>Taufik Yudi Mulyanto</Mention>
+    </Entity>
+</CoreferenceChain>

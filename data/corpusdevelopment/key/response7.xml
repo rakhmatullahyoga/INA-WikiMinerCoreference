@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>Bogor</Mention>
+        <Mention>Kota Bogor</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>Ciliwung</Mention>
+        <Mention>Sungai Ciliwung</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>TEMPO.CO</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>18 April</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>Jakarta</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>air</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>sentimeter</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>Matahari</Mention>
+    </Entity>
+    <Entity ClusterId="9">
+        <Mention>Cisarua</Mention>
+    </Entity>
+    <Entity ClusterId="10">
+        <Mention>pintu air</Mention>
+    </Entity>
+    <Entity ClusterId="11">
+        <Mention>Gadog</Mention>
+    </Entity>
+    <Entity ClusterId="12">
+        <Mention>Kampung</Mention>
+    </Entity>
+    <Entity ClusterId="13">
+        <Mention>Banjir</Mention>
+    </Entity>
+</CoreferenceChain>

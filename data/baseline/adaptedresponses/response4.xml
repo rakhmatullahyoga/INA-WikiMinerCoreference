@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>AP II</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>Angkasa Pura II</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>PT Angkasa Pura II</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>Miliar Pohon</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>Kabupaten Bintan</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>Kota Tanjung Pinang</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>Gerakan Penanaman Satu</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>Direktur SDM</Mention>
+    </Entity>
+    <Entity ClusterId="9">
+        <Mention>Direktur Keuangan</Mention>
+    </Entity>
+    <Entity ClusterId="10">
+        <Mention>Laurensius</Mention>
+        <Mention>Laurensius Manurung</Mention>
+    </Entity>
+    <Entity ClusterId="11">
+        <Mention>Hari Cahyono</Mention>
+    </Entity>
+    <Entity ClusterId="12">
+        <Mention>perwakilan Pemkab Bintan dan Pemkot Tanjungpinang</Mention>
+    </Entity>
+    <Entity ClusterId="13">
+        <Mention>Tanjungpinang</Mention>
+    </Entity>
+    <Entity ClusterId="14">
+        <Mention>Direktur Keuangan Angkasa Pura II</Mention>
+    </Entity>
+    <Entity ClusterId="15">
+        <Mention>Bintan</Mention>
+    </Entity>
+    <Entity ClusterId="16">
+        <Mention>Bandara Raja Haji Fisabilillah</Mention>
+    </Entity>
+    <Entity ClusterId="17">
+        <Mention>Posyandu</Mention>
+    </Entity>
+    <Entity ClusterId="18">
+        <Mention>mangrove</Mention>
+    </Entity>
+    <Entity ClusterId="19">
+        <Mention>Kepulauan Riau</Mention>
+    </Entity>
+    <Entity ClusterId="20">
+        <Mention>Kota Tanjungpinang</Mention>
+    </Entity>
+</CoreferenceChain>

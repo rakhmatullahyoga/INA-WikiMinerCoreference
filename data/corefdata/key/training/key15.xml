@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>Twitter</Mention>
+        <Mention>mikrobloging</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>Presiden Susilo Bambang Yudhoyono</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>Tifatul Sembiring</Mention>
+        <Mention>Menteri Komunikasi dan Informatika</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>Dahlan Iskan</Mention>
+        <Mention>Menteri Badan Usaha Milik Negara</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>BUMN</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>Menteri Koordinator Bidang Perekonomian</Mention>
+        <Mention>Hatta Rajasa</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>Menteri Pemuda dan Olahraga</Mention>
+        <Mention>Roy Suryo</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>Menteri Pertanian</Mention>
+        <Mention>Suswono</Mention>
+    </Entity>
+    <Entity ClusterId="9">
+        <Mention>Menteri Kehutanan</Mention>
+        <Mention>Zulkifli Hasan</Mention>
+    </Entity>
+    <Entity ClusterId="10">
+        <Mention>Menteri Perdagangan</Mention>
+        <Mention>Gita Wirjawan</Mention>
+    </Entity>
+</CoreferenceChain>

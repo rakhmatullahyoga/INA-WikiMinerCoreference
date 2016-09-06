@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>BBM</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>Kalsel</Mention>
+        <Mention>Kalimantan Selatan</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>Premanisme</Mention>
+        <Mention>premanisme</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>SPBU</Mention>
+        <Mention>stasiun pengisian bahan bakar umum</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>Metrotvnews.com</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>Banjarmasin</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>Kepolisian</Mention>
+        <Mention>kepolisian</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>bahan bakar minyak</Mention>
+    </Entity>
+</CoreferenceChain>

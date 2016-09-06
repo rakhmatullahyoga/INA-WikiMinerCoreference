@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>Menteri Koordinator Bidang Perekonomian</Mention>
+        <Mention>Menko Perekonomian</Mention>
+        <Mention>Hatta Rajasa</Mention>
+        <Mention>Hatta</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>APBN</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>Menteri Keuangan</Mention>
+        <Mention>Menkeu</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>Bali</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>Presiden Yudhoyono</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>mantan Menkeu</Mention>
+        <Mention>Agus Martowardojo</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>Gubernur BI</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>Pemerintah</Mention>
+    </Entity>
+    <Entity ClusterId="9">
+        <Mention>Masterplan Percepatan dan Perluasan Pembangunan Ekonomi Indonesia</Mention>
+        <Mention>MP3EI</Mention>
+    </Entity>
+    <Entity ClusterId="10">
+        <Mention>Nusa Dua</Mention>
+    </Entity>
+    <Entity ClusterId="11">
+        <Mention>Kementerian Koordinator Perekonomian</Mention>
+    </Entity>
+    <Entity ClusterId="12">
+        <Mention>BUMN</Mention>
+    </Entity>
+</CoreferenceChain>

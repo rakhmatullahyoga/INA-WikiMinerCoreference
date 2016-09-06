@@ -8,6 +8,8 @@ package helper;
 import java.io.File;
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.Set;
+import java.util.TreeSet;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import javax.xml.parsers.DocumentBuilder;
@@ -26,15 +28,15 @@ import org.w3c.dom.Element;
 import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
 import org.xml.sax.SAXException;
-import wikicoref.CoreferenceMain;
+import wikicoref.WikiCorefMain;
 
 /**
  *
  * @author rakhmatullahyoga
  */
 public class ChainHelper {
-    public static ArrayList<ArrayList<String>> readKeyChain(String path) {
-        ArrayList<ArrayList<String>> keyChain = null;
+    public static ArrayList<Set<String>> readKeyChain(String path) {
+        ArrayList<Set<String>> keyChain = null;
         try {
             File inputFile = new File(path);
             DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
@@ -45,7 +47,7 @@ public class ChainHelper {
             keyChain = new ArrayList<>();
             for(int i=0; i<nList.getLength(); i++) {
                 Node nNode = nList.item(i);
-                keyChain.add(new ArrayList<>());
+                keyChain.add(new TreeSet<>(String.CASE_INSENSITIVE_ORDER));
                 if (nNode.getNodeType() == Node.ELEMENT_NODE) {
                     Element eElement = (Element) nNode;
                     NodeList childList = eElement.getElementsByTagName("Mention");
@@ -56,12 +58,12 @@ public class ChainHelper {
                 }
             }
         } catch (ParserConfigurationException | SAXException | IOException ex) {
-            Logger.getLogger(CoreferenceMain.class.getName()).log(Level.SEVERE, null, ex);
+            Logger.getLogger(WikiCorefMain.class.getName()).log(Level.SEVERE, null, ex);
         }
         return keyChain;
     }
     
-    public static void writeCorefChain(ArrayList<ArrayList<String>> responseChain, String path) {
+    public static void writeCorefChain(ArrayList<Set<String>> responseChain, String path) {
         try {
             DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
             DocumentBuilder dBuilder = dbFactory.newDocumentBuilder();
@@ -94,11 +96,11 @@ public class ChainHelper {
             StreamResult result = new StreamResult(new File(path));
             transformer.transform(source, result);
         } catch (ParserConfigurationException ex) {
-            Logger.getLogger(CoreferenceMain.class.getName()).log(Level.SEVERE, null, ex);
+            Logger.getLogger(WikiCorefMain.class.getName()).log(Level.SEVERE, null, ex);
         } catch (TransformerConfigurationException ex) {
-            Logger.getLogger(CoreferenceMain.class.getName()).log(Level.SEVERE, null, ex);
+            Logger.getLogger(WikiCorefMain.class.getName()).log(Level.SEVERE, null, ex);
         } catch (TransformerException ex) {
-            Logger.getLogger(CoreferenceMain.class.getName()).log(Level.SEVERE, null, ex);
+            Logger.getLogger(WikiCorefMain.class.getName()).log(Level.SEVERE, null, ex);
         }
     }
 }

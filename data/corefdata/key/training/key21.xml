@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>JK</Mention>
+        <Mention>Jusuf Kalla</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>PMI</Mention>
+        <Mention>Palang Merah Indonesia</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>Kopassus</Mention>
+        <Mention>Komando Pasukan Khusus</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>donor darah</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>Kartasura, Sukoharjo</Mention>
+    </Entity>
+</CoreferenceChain>

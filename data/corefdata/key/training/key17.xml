@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>Senegal</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>Marie Pangestu</Mention>
+        <Mention>Mari Elka Pangestu</Mention>
+        <Mention>Mari</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>WTO</Mention>
+        <Mention>Organisasi Perdagangan Dunia</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>Direktur Televisi Lembaga Penyiaran Televisi dan Radio Milik Pemerintah Senegal(RTS)</Mention>
+        <Mention>RTS</Mention>
+        <Mention>Seynabou Diop</Mention>
+        <Mention>Diop</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>Kantor Berita Antara</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>Jakarta</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>Korea Selatan</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>Afrika</Mention>
+    </Entity>
+    <Entity ClusterId="9">
+        <Mention>Ghana</Mention>
+    </Entity>
+    <Entity ClusterId="10">
+        <Mention>Kenya</Mention>
+    </Entity>
+    <Entity ClusterId="11">
+        <Mention>Indonesia</Mention>
+    </Entity>
+    <Entity ClusterId="12">
+        <Mention>Meksiko</Mention>
+    </Entity>
+    <Entity ClusterId="13">
+        <Mention>Brazil</Mention>
+    </Entity>
+    <Entity ClusterId="14">
+        <Mention>Selandia Baru</Mention>
+    </Entity>
+    <Entity ClusterId="15">
+        <Mention>sekretaris jenderal</Mention>
+        <Mention>Sekjen</Mention>
+    </Entity>
+</CoreferenceChain>

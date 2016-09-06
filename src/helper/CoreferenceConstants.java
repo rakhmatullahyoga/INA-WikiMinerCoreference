@@ -11,8 +11,8 @@ package helper;
  */
 public class CoreferenceConstants {
     // coreference parameter constants
-    public static final double TOPIC_THRESHOLD = 0.25;
-    public static final double COREFERENCE_THRESHOLD = 0.65;
+    public static final double TOPIC_THRESHOLD = 0.16;
+    public static final double COREFERENCE_THRESHOLD = 0.85;
     
     // path constants
     public static final String RAW_TRAINING = "./data/corefdata/raw/training/";
@@ -21,6 +21,7 @@ public class CoreferenceConstants {
     public static final String KEY_TESTING = "./data/corefdata/key/testing/";
     
     public static final String WIKI_TRAINING = "./data/wikicoref/training/";
+    public static final String WIKI_TESTING = "./data/wikicoref/testing/";
     
     public static final String BASELINE_PATH = "./data/baseline/";
     public static final String AR_RULES = BASELINE_PATH+"rules/";

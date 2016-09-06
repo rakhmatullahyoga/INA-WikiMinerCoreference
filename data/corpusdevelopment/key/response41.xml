@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>Chelsea</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>TEMPO.CO</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>London</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>Liga Primer Inggris</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>gelandang bertahan</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>John Obi Mikel</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>Stamford Bridge</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>Nigeria</Mention>
+    </Entity>
+    <Entity ClusterId="9">
+        <Mention>Galatasaray</Mention>
+    </Entity>
+    <Entity ClusterId="10">
+        <Mention>Turki</Mention>
+    </Entity>
+    <Entity ClusterId="11">
+        <Mention>Didier Drogba</Mention>
+    </Entity>
+    <Entity ClusterId="12">
+        <Mention>Istanbul</Mention>
+    </Entity>
+    <Entity ClusterId="13">
+        <Mention>sepak bola</Mention>
+    </Entity>
+    <Entity ClusterId="14">
+        <Mention>Sky Sports</Mention>
+    </Entity>
+    <Entity ClusterId="15">
+        <Mention>2 Juli</Mention>
+    </Entity>
+    <Entity ClusterId="16">
+        <Mention>Oslo</Mention>
+    </Entity>
+    <Entity ClusterId="17">
+        <Mention>2006</Mention>
+    </Entity>
+    <Entity ClusterId="18">
+        <Mention>Liga Primer</Mention>
+        <Mention>Piala FA</Mention>
+    </Entity>
+    <Entity ClusterId="19">
+        <Mention>Jose Mourinho</Mention>
+        <Mention>Mourinho</Mention>
+    </Entity>
+</CoreferenceChain>

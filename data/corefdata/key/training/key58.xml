@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>JK</Mention>
+        <Mention>Wakil Presiden Jusuf Kalla</Mention>
+        <Mention>Jusuf Kalla</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>bahan bakar minyak</Mention>
+        <Mention>BBM</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>Bantuan Langsung Tunai</Mention>
+        <Mention>BLT</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>Nahdhatul Ulama</Mention>
+        <Mention>NU</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>Kabupaten Bantul</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>Daerah Istimewa Yogyakarta</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>Palang Merah Indonesia (PMI</Mention>
+        <Mention>PMI</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>Pondok Pesantren An Nur Ngrukem</Mention>
+    </Entity>
+</CoreferenceChain>

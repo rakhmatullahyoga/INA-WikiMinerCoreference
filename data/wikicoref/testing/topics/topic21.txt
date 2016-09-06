@@ -1,0 +1,219 @@
+All detected topics:
+Kamis (0.0035596750162436622/0.03736920777279522 - 0.24173718829956675/0.19347497820854187)
+2 (angka) (0.0035596750162436622/0.005124312013664832 - 0.16936634810560366/0.1294553577899933)
+Seminari Alkitab Asia Tenggara (0.0035596750162436622/0.13043478260869565 - 0.018274376171590903/0.06835469603538513)
+Gelanggang Olahraga Bung Karno (0.09366090010621297/0.1702127659574468 - 0.3938691373685771/0.3578825294971466)
+4 (angka) (0.0035596750162436622/0.005683324008363026 - 0.10848253017204045/0.08219118416309357)
+Tim nasional sepak bola Jerman (0.0035596750162436622/0.020942408376963352 - 0.05162765483682769/0.04327734559774399)
+Pelatih (0.016817151873555383/0.020559652074310056 - 0.28906505633542223/0.24703359603881836)
+Kota (0.0035596750162436622/0.05629474593445292 - 0.11855520117916514/0.07972975820302963)
+Kandang (0.0035596750162436622/0.02850212249848393 - 0.03524447120974765/0.047397762537002563)
+2012 (0.012175302358535131/0.04229276353714308 - 0.31217826369993645/0.21228060126304626)
+Gelora, Tanah Abang, Jakarta Pusat (0.006684675016243663/0.0136986301369863 - 0.22516531368683082/0.1958765834569931)
+Gol bunuh diri (0.0035596750162436622/0.43661971830985913 - 0.1161683595595206/0.16225089132785797)
+Pedro Rodríguez Ledesma (0.0035596750162436622/0.005889281507656066 - 0.039012203461076034/0.024402035400271416)
+Soekarno (0.026132344817155782/0.22572178477690288 - 0.29730849908565765/0.26771166920661926)
+Persipura Jayapura (0.595298473712819/0.20279720279720279 - 0.5201094028373084/0.49627459049224854)
+Stadion Utama Gelora Bung Karno (0.7616200879419998/0.76 - 0.44389802507418386/0.4587641954421997)
+Daerah Khusus Ibukota Jakarta (0.11586616440549866/0.2608898085876875 - 0.3418120488336786/0.317655086517334)
+PSPS Pekanbaru (0.4063930059704758/0.8867924528301887 - 0.3745402818990157/0.35611504316329956)
+Nimrud (0.0035596750162436622/0.014705882352941176 - 0.0/0.0)
+Bali United Pusam F.C. (0.6906552176269665/0.4850332594235033 - 0.49120319771394644/0.47563982009887695)
+Stadion (0.006684675016243663/0.09972575417601595 - 0.2283555981485997/0.27593913674354553)
+1 (angka) (0.0035596750162436622/0.005019455252918288 - 0.1058984399420791/0.034335989505052567)
+Kemayoran, Jakarta Pusat (0.0035596750162436622/0.22594142259414227 - 0.13158097152443263/0.1578400880098343)
+PSP Padang (0.101203058956374/0.15853658536585366 - 0.3531253070914806/0.4063054919242859)
+Liga Super Indonesia (0.8305586848731045/0.18947105083468718 - 0.4749910415487104/0.4604548513889313)
+Harimau (0.0035596750162436622/0.05521472392638037 - 0.07329789340840633/0.036903005093336105)
+Rumah (0.0035596750162436622/0.014401790492872086 - 0.09439225612541208/0.06448677182197571)
+Kata (0.0035596750162436622/0.013140775435857403 - 0.05762926090226579/0.00817912258207798)
+Anak (0.0035596750162436622/0.008844745713560736 - 0.10253724295285158/0.03687458857893944)
+Indonesia (0.0035596750162436622/0.40647999238473137 - 0.13426918833094664/0.16106083989143372)
+Minggu (0.011155130967632034/0.06315789473684211 - 0.2688866268325705/0.1834784895181656)
+Lebih Baik (album CJR) (0.0035596750162436622/0.09836065573770492 - 0.03118015567189711/0.016508715227246284)
+Persidafon Dafonsoro (0.2448270960170849/0.07142857142857142 - 0.41295362049345374/0.36871156096458435)
+Kota Pekanbaru (0.17609808577799513/0.48320413436692505 - 0.35598580882007325/0.3145531117916107)
+2013 (0.021103873787106563/0.1123283006016574 - 0.33242757917597787/0.23345403373241425)
+Kota Samarinda (0.05218362881004061/0.35322777101096225 - 0.3331053498162626/0.260747492313385)
+Soedirman (0.016817151873555383/0.07103825136612021 - 0.2956608112675606/0.2663147747516632)
+Liga Super Indonesia 2011–12 (0.28846680391865986/0.2 - 0.3866146696094486/0.35492002964019775)
+Gabus (0.0035596750162436622/0.30859375 - 0.004335716453016311/0.059601038694381714)
+Gol (0.0035596750162436622/0.02027027027027027 - 0.21415654261783684/0.2453547567129135)
+Sentani, Jayapura (0.0035596750162436622/0.2 - 0.08560792232472478/0.09790961444377899)
+Persija Jakarta (0.7468691705834003/0.19029374201787994 - 0.5461109192250858/0.5165113806724548)
+Bunuh diri (0.0035596750162436622/0.11631108052305575 - 0.08305962201780419/0.04454011097550392)
+
+Topics that are probably good links:
+Liga Super Indonesia (0.8305586848731045/0.18947105083468718 - 0.4749910415487104/0.4604548513889313)
+Stadion Utama Gelora Bung Karno (0.7616200879419998/0.76 - 0.44389802507418386/0.4587641954421997)
+Persija Jakarta (0.7468691705834003/0.19029374201787994 - 0.5461109192250858/0.5165113806724548)
+Bali United Pusam F.C. (0.6906552176269665/0.4850332594235033 - 0.49120319771394644/0.47563982009887695)
+Persipura Jayapura (0.595298473712819/0.20279720279720279 - 0.5201094028373084/0.49627459049224854)
+PSPS Pekanbaru (0.4063930059704758/0.8867924528301887 - 0.3745402818990157/0.35611504316329956)
+Liga Super Indonesia 2011–12 (0.28846680391865986/0.2 - 0.3866146696094486/0.35492002964019775)
+Persidafon Dafonsoro (0.2448270960170849/0.07142857142857142 - 0.41295362049345374/0.36871156096458435)
+Kota Pekanbaru (0.17609808577799513/0.48320413436692505 - 0.35598580882007325/0.3145531117916107)
+Gelanggang Olahraga Bung Karno (0.09366090010621297/0.1702127659574468 - 0.3938691373685771/0.3578825294971466)
+Gol bunuh diri (0.0035596750162436622/0.43661971830985913 - 0.1161683595595206/0.16225089132785797)
+Soekarno (0.026132344817155782/0.22572178477690288 - 0.29730849908565765/0.26771166920661926)
+Daerah Khusus Ibukota Jakarta (0.11586616440549866/0.2608898085876875 - 0.3418120488336786/0.317655086517334)
+Kemayoran, Jakarta Pusat (0.0035596750162436622/0.22594142259414227 - 0.13158097152443263/0.1578400880098343)
+Indonesia (0.0035596750162436622/0.40647999238473137 - 0.13426918833094664/0.16106083989143372)
+Kota Samarinda (0.05218362881004061/0.35322777101096225 - 0.3331053498162626/0.260747492313385)
+Gabus (0.0035596750162436622/0.30859375 - 0.004335716453016311/0.059601038694381714)
+Sentani, Jayapura (0.0035596750162436622/0.2 - 0.08560792232472478/0.09790961444377899)
+
+Coreference log:
+Liga Super Indonesia - Stadion Utama Gelora Bung Karno = 0.5434851535632985
+Liga Super Indonesia - Persija Jakarta = 0.7356216086157581
+Stadion Utama Gelora Bung Karno - Persija Jakarta = 0.7315300468548569
+Liga Super Indonesia - Bali United Pusam F.C. = 0.7313477156429684
+Stadion Utama Gelora Bung Karno - Bali United Pusam F.C. = 0.633626863322059
+Persija Jakarta - Bali United Pusam F.C. = 0.7321836100578247
+Liga Super Indonesia - Persipura Jayapura = 0.7361595748139951
+Stadion Utama Gelora Bung Karno - Persipura Jayapura = 0.7561099235864034
+Persija Jakarta - Persipura Jayapura = 0.8116202075563553
+Bali United Pusam F.C. - Persipura Jayapura = 0.7747428271328638
+Liga Super Indonesia - PSPS Pekanbaru = 0.6473657005474103
+Stadion Utama Gelora Bung Karno - PSPS Pekanbaru = 0.0
+Persija Jakarta - PSPS Pekanbaru = 0.6997169530306806
+Bali United Pusam F.C. - PSPS Pekanbaru = 0.7428256706040726
+Persipura Jayapura - PSPS Pekanbaru = 0.7632296713465972
+Liga Super Indonesia - Liga Super Indonesia 2011–12 = 0.6719273550854623
+Stadion Utama Gelora Bung Karno - Liga Super Indonesia 2011–12 = 0.0
+Persija Jakarta - Liga Super Indonesia 2011–12 = 0.6885302106260899
+Bali United Pusam F.C. - Liga Super Indonesia 2011–12 = 0.6980013515648029
+Persipura Jayapura - Liga Super Indonesia 2011–12 = 0.7008372334531001
+PSPS Pekanbaru - Liga Super Indonesia 2011–12 = 0.7406700128045987
+Liga Super Indonesia - Persidafon Dafonsoro = 0.6396233648829017
+Stadion Utama Gelora Bung Karno - Persidafon Dafonsoro = 0.0
+Persija Jakarta - Persidafon Dafonsoro = 0.6323546608991844
+Bali United Pusam F.C. - Persidafon Dafonsoro = 0.7064561590256415
+Persipura Jayapura - Persidafon Dafonsoro = 0.7071762780436905
+PSPS Pekanbaru - Persidafon Dafonsoro = 0.820004874994094
+Liga Super Indonesia 2011–12 - Persidafon Dafonsoro = 0.807867191887646
+Liga Super Indonesia - Kota Pekanbaru = 0.2998618588692853
+Stadion Utama Gelora Bung Karno - Kota Pekanbaru = 0.2844780969660421
+Persija Jakarta - Kota Pekanbaru = 0.4052109174836701
+Bali United Pusam F.C. - Kota Pekanbaru = 0.2590224867129882
+Persipura Jayapura - Kota Pekanbaru = 0.24734687135529443
+PSPS Pekanbaru - Kota Pekanbaru = 0.5429173404226267
+Liga Super Indonesia 2011–12 - Kota Pekanbaru = 0.37334606879817933
+Persidafon Dafonsoro - Kota Pekanbaru = 0.43053883487970934
+Liga Super Indonesia - Gelanggang Olahraga Bung Karno = 0.4443811726816833
+Stadion Utama Gelora Bung Karno - Gelanggang Olahraga Bung Karno = 0.728821897002708
+Persija Jakarta - Gelanggang Olahraga Bung Karno = 0.6204428808649886
+Bali United Pusam F.C. - Gelanggang Olahraga Bung Karno = 0.4835594905283407
+Persipura Jayapura - Gelanggang Olahraga Bung Karno = 0.46966007537681653
+PSPS Pekanbaru - Gelanggang Olahraga Bung Karno = 0.0
+Liga Super Indonesia 2011–12 - Gelanggang Olahraga Bung Karno = 0.0
+Persidafon Dafonsoro - Gelanggang Olahraga Bung Karno = 0.6004960494724298
+Kota Pekanbaru - Gelanggang Olahraga Bung Karno = 0.0
+Liga Super Indonesia - Gol bunuh diri = 0.29564462143207093
+Stadion Utama Gelora Bung Karno - Gol bunuh diri = 0.5743658797483968
+Persija Jakarta - Gol bunuh diri = 0.0
+Bali United Pusam F.C. - Gol bunuh diri = 0.0
+Persipura Jayapura - Gol bunuh diri = 0.0
+PSPS Pekanbaru - Gol bunuh diri = 0.0
+Liga Super Indonesia 2011–12 - Gol bunuh diri = 0.0
+Persidafon Dafonsoro - Gol bunuh diri = 0.0
+Kota Pekanbaru - Gol bunuh diri = 0.0
+Gelanggang Olahraga Bung Karno - Gol bunuh diri = 0.0
+Liga Super Indonesia - Soekarno = 0.19015868787767443
+Stadion Utama Gelora Bung Karno - Soekarno = 0.4392374467595519
+Persija Jakarta - Soekarno = 0.3472090200803216
+Bali United Pusam F.C. - Soekarno = 0.0
+Persipura Jayapura - Soekarno = 0.23780113470254471
+PSPS Pekanbaru - Soekarno = 0.0
+Liga Super Indonesia 2011–12 - Soekarno = 0.0
+Persidafon Dafonsoro - Soekarno = 0.0
+Kota Pekanbaru - Soekarno = 0.3868541779983752
+Gelanggang Olahraga Bung Karno - Soekarno = 0.47967736461324206
+Gol bunuh diri - Soekarno = 0.22036358062037342
+Liga Super Indonesia - Daerah Khusus Ibukota Jakarta = 0.1449642255111938
+Stadion Utama Gelora Bung Karno - Daerah Khusus Ibukota Jakarta = 0.4431364516562696
+Persija Jakarta - Daerah Khusus Ibukota Jakarta = 0.3244679944499529
+Bali United Pusam F.C. - Daerah Khusus Ibukota Jakarta = 0.19958848345659297
+Persipura Jayapura - Daerah Khusus Ibukota Jakarta = 0.3089074236816567
+PSPS Pekanbaru - Daerah Khusus Ibukota Jakarta = 0.20701097680520164
+Liga Super Indonesia 2011–12 - Daerah Khusus Ibukota Jakarta = 0.09566218484652156
+Persidafon Dafonsoro - Daerah Khusus Ibukota Jakarta = 0.1886412122235558
+Kota Pekanbaru - Daerah Khusus Ibukota Jakarta = 0.45108778477297695
+Gelanggang Olahraga Bung Karno - Daerah Khusus Ibukota Jakarta = 0.3903816881922163
+Gol bunuh diri - Daerah Khusus Ibukota Jakarta = 0.081013342034157
+Soekarno - Daerah Khusus Ibukota Jakarta = 0.5123103608858866
+Liga Super Indonesia - Kemayoran, Jakarta Pusat = 0.0
+Stadion Utama Gelora Bung Karno - Kemayoran, Jakarta Pusat = 0.4970627230817022
+Persija Jakarta - Kemayoran, Jakarta Pusat = 0.0
+Bali United Pusam F.C. - Kemayoran, Jakarta Pusat = 0.0
+Persipura Jayapura - Kemayoran, Jakarta Pusat = 0.44955098665478466
+PSPS Pekanbaru - Kemayoran, Jakarta Pusat = 0.0
+Liga Super Indonesia 2011–12 - Kemayoran, Jakarta Pusat = 0.0
+Persidafon Dafonsoro - Kemayoran, Jakarta Pusat = 0.0
+Kota Pekanbaru - Kemayoran, Jakarta Pusat = 0.3109044864150303
+Gelanggang Olahraga Bung Karno - Kemayoran, Jakarta Pusat = 0.0
+Gol bunuh diri - Kemayoran, Jakarta Pusat = 0.0
+Soekarno - Kemayoran, Jakarta Pusat = 0.3810564711318356
+Daerah Khusus Ibukota Jakarta - Kemayoran, Jakarta Pusat = 0.41020890738124527
+Liga Super Indonesia - Indonesia = 0.1843508845630829
+Stadion Utama Gelora Bung Karno - Indonesia = 0.13526220025407787
+Persija Jakarta - Indonesia = 0.12663035232542652
+Bali United Pusam F.C. - Indonesia = 0.14792314725782718
+Persipura Jayapura - Indonesia = 0.13287188860132504
+PSPS Pekanbaru - Indonesia = 0.1205711014912394
+Liga Super Indonesia 2011–12 - Indonesia = 0.1167619925056691
+Persidafon Dafonsoro - Indonesia = 0.14100615212585876
+Kota Pekanbaru - Indonesia = 0.17780325213887782
+Gelanggang Olahraga Bung Karno - Indonesia = 0.0940552363397753
+Gol bunuh diri - Indonesia = 0.025115348000707916
+Soekarno - Indonesia = 0.182073331180303
+Daerah Khusus Ibukota Jakarta - Indonesia = 0.2717471650958675
+Kemayoran, Jakarta Pusat - Indonesia = 0.0840124758353391
+Liga Super Indonesia - Kota Samarinda = 0.3690968250288411
+Stadion Utama Gelora Bung Karno - Kota Samarinda = 0.0
+Persija Jakarta - Kota Samarinda = 0.3510949947471699
+Bali United Pusam F.C. - Kota Samarinda = 0.5101966768025312
+Persipura Jayapura - Kota Samarinda = 0.26057444994415324
+PSPS Pekanbaru - Kota Samarinda = 0.0
+Liga Super Indonesia 2011–12 - Kota Samarinda = 0.4561022226895768
+Persidafon Dafonsoro - Kota Samarinda = 0.44184080225786715
+Kota Pekanbaru - Kota Samarinda = 0.6658044025397031
+Gelanggang Olahraga Bung Karno - Kota Samarinda = 0.34774678389115454
+Gol bunuh diri - Kota Samarinda = 0.0
+Soekarno - Kota Samarinda = 0.3155403368787043
+Daerah Khusus Ibukota Jakarta - Kota Samarinda = 0.3854985720877261
+Kemayoran, Jakarta Pusat - Kota Samarinda = 0.0
+Indonesia - Kota Samarinda = 0.14448590236803016
+Liga Super Indonesia - Gabus = 0.0
+Stadion Utama Gelora Bung Karno - Gabus = 0.0
+Persija Jakarta - Gabus = 0.0
+Bali United Pusam F.C. - Gabus = 0.0
+Persipura Jayapura - Gabus = 0.0
+PSPS Pekanbaru - Gabus = 0.0
+Liga Super Indonesia 2011–12 - Gabus = 0.0
+Persidafon Dafonsoro - Gabus = 0.0
+Kota Pekanbaru - Gabus = 0.0
+Gelanggang Olahraga Bung Karno - Gabus = 0.0
+Gol bunuh diri - Gabus = 0.0
+Soekarno - Gabus = 0.0
+Daerah Khusus Ibukota Jakarta - Gabus = 0.08492850309961619
+Kemayoran, Jakarta Pusat - Gabus = 0.0
+Indonesia - Gabus = 0.01969929046034058
+Kota Samarinda - Gabus = 0.0
+Liga Super Indonesia - Sentani, Jayapura = 0.0
+Stadion Utama Gelora Bung Karno - Sentani, Jayapura = 0.0
+Persija Jakarta - Sentani, Jayapura = 0.0
+Bali United Pusam F.C. - Sentani, Jayapura = 0.0
+Persipura Jayapura - Sentani, Jayapura = 0.0
+PSPS Pekanbaru - Sentani, Jayapura = 0.0
+Liga Super Indonesia 2011–12 - Sentani, Jayapura = 0.6668360067151267
+Persidafon Dafonsoro - Sentani, Jayapura = 0.6412851952452093
+Kota Pekanbaru - Sentani, Jayapura = 0.0
+Gelanggang Olahraga Bung Karno - Sentani, Jayapura = 0.0
+Gol bunuh diri - Sentani, Jayapura = 0.0
+Soekarno - Sentani, Jayapura = 0.0
+Daerah Khusus Ibukota Jakarta - Sentani, Jayapura = 0.2391481067484379
+Kemayoran, Jakarta Pusat - Sentani, Jayapura = 0.0
+Indonesia - Sentani, Jayapura = 0.12895291524873642
+Kota Samarinda - Sentani, Jayapura = 0.4561022226895768
+Gabus - Sentani, Jayapura = 0.0

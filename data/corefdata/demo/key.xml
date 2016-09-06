@@ -4,7 +4,6 @@
         <Mention>David Cameron</Mention>
         <Mention>Perdana Menteri Inggris</Mention>
         <Mention>PM Inggris</Mention>
-        <Mention>Dia</Mention>
     </Entity>
     <Entity ClusterId="2">
         <Mention>Jakarta</Mention>

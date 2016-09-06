@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>Jokowi</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>Hatta Rajasa</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>Peneliti</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>Centre for Strategic and International Studies</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>mantan Ketua Mahkamah Konstitusi</Mention>
+        <Mention>Mahfud MD</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>CSIS</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>mantan Wakil Presiden</Mention>
+        <Mention>Jusuf Kalla</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>Gubernur DKI Jakarta</Mention>
+    </Entity>
+    <Entity ClusterId="9">
+        <Mention>Joko Widodo</Mention>
+    </Entity>
+    <Entity ClusterId="10">
+        <Mention>Megawati Soekarnoputri</Mention>
+    </Entity>
+    <Entity ClusterId="11">
+        <Mention>Bakrie</Mention>
+    </Entity>
+    <Entity ClusterId="12">
+        <Mention>Indonesia</Mention>
+    </Entity>
+    <Entity ClusterId="13">
+        <Mention>Partai Golkar Aburizal</Mention>
+    </Entity>
+    <Entity ClusterId="14">
+        <Mention>Ketua Umum</Mention>
+    </Entity>
+    <Entity ClusterId="15">
+        <Mention>PDIP</Mention>
+    </Entity>
+    <Entity ClusterId="16">
+        <Mention>Ketua Dewan Pembina Partai Gerindra</Mention>
+        <Mention>Prabowo Subianto</Mention>
+    </Entity>
+    <Entity ClusterId="17">
+        <Mention>Philips</Mention>
+    </Entity>
+    <Entity ClusterId="18">
+        <Mention>Tempo</Mention>
+    </Entity>
+    <Entity ClusterId="19">
+        <Mention>Presiden 2014</Mention>
+    </Entity>
+    <Entity ClusterId="20">
+        <Mention>Papua Barat</Mention>
+    </Entity>
+    <Entity ClusterId="21">
+        <Mention>Papua</Mention>
+    </Entity>
+</CoreferenceChain>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>Ahok</Mention>
+        <Mention>Wakil Gubernur DKI Jakarta</Mention>
+        <Mention>Basuki Tjahaja Purnama</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>Muenchen</Mention>
+        <Mention>Bayern Muenchen</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>Jakarta</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>Barcelona</Mention>
+        <Mention>tim Catalan</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>Borussia Dortmund</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>Liga Champions</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>Nou Camp</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>wartawan</Mention>
+    </Entity>
+    <Entity ClusterId="9">
+        <Mention>Madrid</Mention>
+    </Entity>
+</CoreferenceChain>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>Ibunda Raffi Ahmad</Mention>
+        <Mention>Raffi</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>BNN</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>Amy</Mention>
+        <Mention>Amy Qanita</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>Jakarta</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>Lebak Bulus</Mention>
+    </Entity>
+</CoreferenceChain>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>Iwan Fals</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>Twitter</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>Metrotvnews.com</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>Jakarta</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>media sosial</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>penyanyi</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>hoax</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>3 September</Mention>
+    </Entity>
+    <Entity ClusterId="9">
+        <Mention>1961</Mention>
+    </Entity>
+    <Entity ClusterId="10">
+        <Mention>2 April</Mention>
+    </Entity>
+</CoreferenceChain>

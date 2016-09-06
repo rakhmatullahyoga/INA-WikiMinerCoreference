@@ -1,0 +1,273 @@
+All detected topics:
+Rabu (0.020083702396203464/0.09907834101382489 - 0.2663167043318202/0.21445609629154205)
+Gubernur (0.16046758940304112/0.0995698582125219 - 0.41591774275759447/0.28255751729011536)
+Public Broadcasting Service (0.0035596750162436622/0.1875 - 0.0546329110294605/0.030164243653416634)
+Daftar Gubernur Daerah Khusus Ibukota Jakarta (0.18874439319613912/0.21031746031746032 - 0.35024578386597105/0.3041909635066986)
+Guru (0.26046758940304116/0.07083281463961161 - 0.41572080915250476/0.294802188873291)
+Bunyi (0.0035596750162436622/0.031025086249052952 - 0.1581418773944127/0.0763227641582489)
+Negara (0.006684675016243663/0.025935585968408406 - 0.2569747439028011/0.12048711627721786)
+Daerah Khusus Ibukota Jakarta (0.7936569485291597/0.28059834012891577 - 0.4304467424727237/0.3875163495540619)
+Silalahi (0.0035596750162436622/0.03305785123966942 - 0.0/0.041399382054805756)
+Daftar Menteri Agama Indonesia (0.37699844563561935/0.21337579617834396 - 0.4342097632849423/0.33750709891319275)
+Sekretaris Negara (0.0035596750162436622/0.25057097179399335 - 0.2395760687889627/0.2601766288280487)
+Cineplex 21 Group (0.0035596750162436622/0.02100840336134454 - 0.18175708234093083/0.15135622024536133)
+Advanced Technology Attachment (0.0035596750162436622/0.05063291139240506 - 0.0/0.006783407647162676)
+Mahasiswa (0.07971723143571112/0.010309278350515464 - 0.386661686047389/0.23613634705543518)
+Kualitas (0.0035596750162436622/0.011968880909634948 - 0.1274848959348367/0.027335835620760918)
+Nuh (0.0035596750162436622/0.4012539184952978 - 0.06389716204174395/0.029121072962880135)
+Indonesia (0.0035596750162436622/0.34113582537570036 - 0.13143575008973338/0.20115536451339722)
+Daftar Menteri Pendidikan dan Kebudayaan Indonesia (0.28512943346818903/0.06992449325688445 - 0.4265367143232898/0.32469186186790466)
+Agama (0.05058032401782508/0.08831120943952803 - 0.34803969026602477/0.20152777433395386)
+Kasih (0.0035596750162436622/0.015620019126554032 - 0.08456857943457931/0.030246790498495102)
+Pendidikan (0.020083702396203464/0.1110242758755434 - 0.28275759560299735/0.1644364893436432)
+Piala Davis 2012 (0.0035596750162436622/0.011494252873563218 - 0.0/0.0)
+Penghargaan (0.006684675016243663/0.00633571854502087 - 0.23149069384058188/0.1190413236618042)
+Persatuan Guru Republik Indonesia (0.0035596750162436622/0.0979406130268199 - 0.1758068577578613/0.13258716464042664)
+Paduan suara (0.006684675016243663/0.22439478584729983 - 0.230527329221471/0.12783512473106384)
+Kesejahteraan (0.0035596750162436622/0.020539906103286387 - 0.15699660376979976/0.025337044149637222)
+Menteri (0.10378671923039987/0.016691212567501227 - 0.36009475919144635/0.19584794342517853)
+Ali bin Abi Thalib (0.0035596750162436622/0.019398907103825136 - 0.13941432524300224/0.05748964473605156)
+Istora Gelora Bung Karno (0.20355967501624367/0.3040019681810726 - 0.18286666276292832/0.2645740509033203)
+Kongres (0.0035596750162436622/0.051330798479087454 - 0.20974198834576013/0.16778767108917236)
+Manusia (0.011155130967632033/0.00749063670411985 - 0.2820708157455919/0.14038464426994324)
+Mohammad Nuh (0.18874439319613912/0.25 - 0.3576073716638447/0.3382832109928131)
+Negeri (0.006684675016243663/0.009904912836767036 - 0.2223158246549711/0.07574975490570068)
+Sekolah (0.006684675016243663/0.06784463546641196 - 0.24908851813192362/0.14990024268627167)
+Terima Kasih (album Jamrud) (0.0035596750162436622/0.07368421052631578 - 0.05327582925661512/0.03796425461769104)
+Joko Widodo (0.796841170383398/0.7654320987654321 - 0.4196141667180763/0.3983604609966278)
+Lonceng (0.0035596750162436622/0.13793103448275862 - 0.06099518197930969/0.034490711987018585)
+Bambang, Mamasa (0.0035596750162436622/0.014796547472256472 - 0.019247626188868494/0.07859430462121964)
+Tradisi (0.006684675016243663/0.028462998102466792 - 0.23000199781328998/0.10075552761554718)
+Logam paduan (0.0035596750162436622/0.005780346820809248 - 0.0069454545978053644/0.004924545995891094)
+Ketua (0.008716106577388133/0.011157295996499672 - 0.2785849374870236/0.17976005375385284)
+Gamawan Fauzi (0.41851706612085166/0.803030303030303 - 0.383280843088426/0.3333449959754944)
+Presiden (0.13852474323062558/0.1267155616876044 - 0.4502359729774188/0.38157734274864197)
+Republik (0.006684675016243663/0.027348110349226597 - 0.25741446990942585/0.16812701523303986)
+Budaya (0.011155130967632033/0.04922670690305545 - 0.292539941523178/0.14388614892959595)
+Susilo Bambang Yudhoyono (0.8671756434975553/0.3331312991200691 - 0.4796650802729772/0.49778449535369873)
+Kata (0.0035596750162436622/0.013140775435857403 - 0.10823050506392998/0.01995689794421196)
+Suryadharma Ali (0.2747779212820808/0.7096774193548387 - 0.32828112599570686/0.34437933564186096)
+Sudi Silalahi (0.10355967501624366/0.7272727272727273 - 0.1510611363160667/0.2736130356788635)
+Lebih Baik (album CJR) (0.0035596750162436622/0.09836065573770492 - 0.014614503349429268/0.01630541868507862)
+Tari (0.006684675016243663/0.04947469840182689 - 0.2521172592577615/0.13052305579185486)
+Widodo (0.0035596750162436622/0.009983361064891847 - 0.05762299978471636/0.03063388727605343)
+2013 (0.023964470080418406/0.1123283006016574 - 0.3315524782722839/0.2973805069923401)
+Takdir (0.0035596750162436622/0.009325681492109038 - 0.11841593754412089/0.04658456891775131)
+Meter (0.0035596750162436622/0.007644553896670258 - 0.0879651458581376/0.08689288794994354)
+Senayan (0.0035596750162436622/0.1590909090909091 - 0.23219998103807346/0.26257410645484924)
+Kementerian Dalam Negeri (0.006684675016243663/0.22852512155591573 - 0.29984321346613985/0.23897379636764526)
+Sekretaris (0.011155130967632033/0.02347781217750258 - 0.29972590028644575/0.1704915165901184)
+
+Topics that are probably good links:
+Susilo Bambang Yudhoyono (0.8671756434975553/0.3331312991200691 - 0.4796650802729772/0.49778449535369873)
+Joko Widodo (0.796841170383398/0.7654320987654321 - 0.4196141667180763/0.3983604609966278)
+Daerah Khusus Ibukota Jakarta (0.7936569485291597/0.28059834012891577 - 0.4304467424727237/0.3875163495540619)
+Gamawan Fauzi (0.41851706612085166/0.803030303030303 - 0.383280843088426/0.3333449959754944)
+Daftar Menteri Agama Indonesia (0.37699844563561935/0.21337579617834396 - 0.4342097632849423/0.33750709891319275)
+Daftar Menteri Pendidikan dan Kebudayaan Indonesia (0.28512943346818903/0.06992449325688445 - 0.4265367143232898/0.32469186186790466)
+Suryadharma Ali (0.2747779212820808/0.7096774193548387 - 0.32828112599570686/0.34437933564186096)
+Guru (0.26046758940304116/0.07083281463961161 - 0.41572080915250476/0.294802188873291)
+Istora Gelora Bung Karno (0.20355967501624367/0.3040019681810726 - 0.18286666276292832/0.2645740509033203)
+Daftar Gubernur Daerah Khusus Ibukota Jakarta (0.18874439319613912/0.21031746031746032 - 0.35024578386597105/0.3041909635066986)
+Mohammad Nuh (0.18874439319613912/0.25 - 0.3576073716638447/0.3382832109928131)
+Gubernur (0.16046758940304112/0.0995698582125219 - 0.41591774275759447/0.28255751729011536)
+Public Broadcasting Service (0.0035596750162436622/0.1875 - 0.0546329110294605/0.030164243653416634)
+Sekretaris Negara (0.0035596750162436622/0.25057097179399335 - 0.2395760687889627/0.2601766288280487)
+Nuh (0.0035596750162436622/0.4012539184952978 - 0.06389716204174395/0.029121072962880135)
+Indonesia (0.0035596750162436622/0.34113582537570036 - 0.13143575008973338/0.20115536451339722)
+Paduan suara (0.006684675016243663/0.22439478584729983 - 0.230527329221471/0.12783512473106384)
+Sudi Silalahi (0.10355967501624366/0.7272727272727273 - 0.1510611363160667/0.2736130356788635)
+Senayan (0.0035596750162436622/0.1590909090909091 - 0.23219998103807346/0.26257410645484924)
+Kementerian Dalam Negeri (0.006684675016243663/0.22852512155591573 - 0.29984321346613985/0.23897379636764526)
+
+Coreference log:
+Susilo Bambang Yudhoyono - Joko Widodo = 0.6658845446082924
+Susilo Bambang Yudhoyono - Daerah Khusus Ibukota Jakarta = 0.45171701771176287
+Joko Widodo - Daerah Khusus Ibukota Jakarta = 0.41043227444545005
+Susilo Bambang Yudhoyono - Gamawan Fauzi = 0.5250015220741209
+Joko Widodo - Gamawan Fauzi = 0.45199367466639395
+Daerah Khusus Ibukota Jakarta - Gamawan Fauzi = 0.2204894071696858
+Susilo Bambang Yudhoyono - Daftar Menteri Agama Indonesia = 0.5541173239892809
+Joko Widodo - Daftar Menteri Agama Indonesia = 0.3364394253511055
+Daerah Khusus Ibukota Jakarta - Daftar Menteri Agama Indonesia = 0.33336331401457453
+Gamawan Fauzi - Daftar Menteri Agama Indonesia = 0.49749980976426256
+Susilo Bambang Yudhoyono - Daftar Menteri Pendidikan dan Kebudayaan Indonesia = 0.49408707575142363
+Joko Widodo - Daftar Menteri Pendidikan dan Kebudayaan Indonesia = 0.3838412695774833
+Daerah Khusus Ibukota Jakarta - Daftar Menteri Pendidikan dan Kebudayaan Indonesia = 0.3223624172569767
+Gamawan Fauzi - Daftar Menteri Pendidikan dan Kebudayaan Indonesia = 0.5215911739762779
+Daftar Menteri Agama Indonesia - Daftar Menteri Pendidikan dan Kebudayaan Indonesia = 0.6576984490802491
+Susilo Bambang Yudhoyono - Suryadharma Ali = 0.5777788472732168
+Joko Widodo - Suryadharma Ali = 0.4278095021684233
+Daerah Khusus Ibukota Jakarta - Suryadharma Ali = 0.26855673038146044
+Gamawan Fauzi - Suryadharma Ali = 0.592578184533608
+Daftar Menteri Agama Indonesia - Suryadharma Ali = 0.7539337493026466
+Daftar Menteri Pendidikan dan Kebudayaan Indonesia - Suryadharma Ali = 0.49144493631479014
+Susilo Bambang Yudhoyono - Guru = 0.3415921670896106
+Joko Widodo - Guru = 0.2020021108161666
+Daerah Khusus Ibukota Jakarta - Guru = 0.3282211606960538
+Gamawan Fauzi - Guru = 0.4486432187406064
+Daftar Menteri Agama Indonesia - Guru = 0.4153741293672685
+Daftar Menteri Pendidikan dan Kebudayaan Indonesia - Guru = 0.4675420891838671
+Suryadharma Ali - Guru = 0.3307185097900286
+Susilo Bambang Yudhoyono - Istora Gelora Bung Karno = 0.4124787020159104
+Joko Widodo - Istora Gelora Bung Karno = 0.37158797981423874
+Daerah Khusus Ibukota Jakarta - Istora Gelora Bung Karno = 0.44921657314624486
+Gamawan Fauzi - Istora Gelora Bung Karno = 0.0
+Daftar Menteri Agama Indonesia - Istora Gelora Bung Karno = 0.0
+Daftar Menteri Pendidikan dan Kebudayaan Indonesia - Istora Gelora Bung Karno = 0.0
+Suryadharma Ali - Istora Gelora Bung Karno = 0.0
+Guru - Istora Gelora Bung Karno = 0.0
+Susilo Bambang Yudhoyono - Daftar Gubernur Daerah Khusus Ibukota Jakarta = 0.5342372098838658
+Joko Widodo - Daftar Gubernur Daerah Khusus Ibukota Jakarta = 0.7042860230643471
+Daerah Khusus Ibukota Jakarta - Daftar Gubernur Daerah Khusus Ibukota Jakarta = 0.4184099675207865
+Gamawan Fauzi - Daftar Gubernur Daerah Khusus Ibukota Jakarta = 0.6781301466546078
+Daftar Menteri Agama Indonesia - Daftar Gubernur Daerah Khusus Ibukota Jakarta = 0.5496660744901172
+Daftar Menteri Pendidikan dan Kebudayaan Indonesia - Daftar Gubernur Daerah Khusus Ibukota Jakarta = 0.0
+Suryadharma Ali - Daftar Gubernur Daerah Khusus Ibukota Jakarta = 0.0
+Guru - Daftar Gubernur Daerah Khusus Ibukota Jakarta = 0.3545838068264341
+Istora Gelora Bung Karno - Daftar Gubernur Daerah Khusus Ibukota Jakarta = 0.0
+Susilo Bambang Yudhoyono - Mohammad Nuh = 0.5802881621782646
+Joko Widodo - Mohammad Nuh = 0.519859911093368
+Daerah Khusus Ibukota Jakarta - Mohammad Nuh = 0.2986570504019356
+Gamawan Fauzi - Mohammad Nuh = 0.5742343291677601
+Daftar Menteri Agama Indonesia - Mohammad Nuh = 0.5198599110933679
+Daftar Menteri Pendidikan dan Kebudayaan Indonesia - Mohammad Nuh = 0.7515545358181792
+Suryadharma Ali - Mohammad Nuh = 0.7062878235332353
+Guru - Mohammad Nuh = 0.418397471104891
+Istora Gelora Bung Karno - Mohammad Nuh = 0.0
+Daftar Gubernur Daerah Khusus Ibukota Jakarta - Mohammad Nuh = 0.0
+Susilo Bambang Yudhoyono - Gubernur = 0.4396078375847746
+Joko Widodo - Gubernur = 0.4527754998371222
+Daerah Khusus Ibukota Jakarta - Gubernur = 0.37895291560501876
+Gamawan Fauzi - Gubernur = 0.48542021167439564
+Daftar Menteri Agama Indonesia - Gubernur = 0.4543702608087986
+Daftar Menteri Pendidikan dan Kebudayaan Indonesia - Gubernur = 0.35696400176110366
+Suryadharma Ali - Gubernur = 0.0
+Guru - Gubernur = 0.4081454093602087
+Istora Gelora Bung Karno - Gubernur = 0.3018876726336731
+Daftar Gubernur Daerah Khusus Ibukota Jakarta - Gubernur = 0.494411822622874
+Mohammad Nuh - Gubernur = 0.0
+Susilo Bambang Yudhoyono - Public Broadcasting Service = 0.0
+Joko Widodo - Public Broadcasting Service = 0.0
+Daerah Khusus Ibukota Jakarta - Public Broadcasting Service = 0.0
+Gamawan Fauzi - Public Broadcasting Service = 0.0
+Daftar Menteri Agama Indonesia - Public Broadcasting Service = 0.0
+Daftar Menteri Pendidikan dan Kebudayaan Indonesia - Public Broadcasting Service = 0.0
+Suryadharma Ali - Public Broadcasting Service = 0.0
+Guru - Public Broadcasting Service = 0.18841331220858737
+Istora Gelora Bung Karno - Public Broadcasting Service = 0.0
+Daftar Gubernur Daerah Khusus Ibukota Jakarta - Public Broadcasting Service = 0.0
+Mohammad Nuh - Public Broadcasting Service = 0.0
+Gubernur - Public Broadcasting Service = 0.0
+Susilo Bambang Yudhoyono - Sekretaris Negara = 0.4540207919229061
+Joko Widodo - Sekretaris Negara = 0.4886158312191181
+Daerah Khusus Ibukota Jakarta - Sekretaris Negara = 0.25348767918403003
+Gamawan Fauzi - Sekretaris Negara = 0.0
+Daftar Menteri Agama Indonesia - Sekretaris Negara = 0.5310808831640705
+Daftar Menteri Pendidikan dan Kebudayaan Indonesia - Sekretaris Negara = 0.4809677843473088
+Suryadharma Ali - Sekretaris Negara = 0.0
+Guru - Sekretaris Negara = 0.3169301034154285
+Istora Gelora Bung Karno - Sekretaris Negara = 0.0
+Daftar Gubernur Daerah Khusus Ibukota Jakarta - Sekretaris Negara = 0.5310808831640705
+Mohammad Nuh - Sekretaris Negara = 0.0
+Gubernur - Sekretaris Negara = 0.0
+Public Broadcasting Service - Sekretaris Negara = 0.0
+Susilo Bambang Yudhoyono - Nuh = 0.0
+Joko Widodo - Nuh = 0.0
+Daerah Khusus Ibukota Jakarta - Nuh = 0.0
+Gamawan Fauzi - Nuh = 0.0
+Daftar Menteri Agama Indonesia - Nuh = 0.0
+Daftar Menteri Pendidikan dan Kebudayaan Indonesia - Nuh = 0.0
+Suryadharma Ali - Nuh = 0.0
+Guru - Nuh = 0.0
+Istora Gelora Bung Karno - Nuh = 0.0
+Daftar Gubernur Daerah Khusus Ibukota Jakarta - Nuh = 0.0
+Mohammad Nuh - Nuh = 0.0
+Gubernur - Nuh = 0.0
+Public Broadcasting Service - Nuh = 0.0
+Sekretaris Negara - Nuh = 0.0
+Susilo Bambang Yudhoyono - Indonesia = 0.15978101495899688
+Joko Widodo - Indonesia = 0.1325561556331909
+Daerah Khusus Ibukota Jakarta - Indonesia = 0.2717471650958675
+Gamawan Fauzi - Indonesia = 0.09236365049612083
+Daftar Menteri Agama Indonesia - Indonesia = 0.10487114678690113
+Daftar Menteri Pendidikan dan Kebudayaan Indonesia - Indonesia = 0.12783122730980145
+Suryadharma Ali - Indonesia = 0.0947981051909027
+Guru - Indonesia = 0.11249120631733867
+Istora Gelora Bung Karno - Indonesia = 0.13275798358555413
+Daftar Gubernur Daerah Khusus Ibukota Jakarta - Indonesia = 0.10487114678690113
+Mohammad Nuh - Indonesia = 0.12380971136461816
+Gubernur - Indonesia = 0.06524488142179874
+Public Broadcasting Service - Indonesia = 0.0
+Sekretaris Negara - Indonesia = 0.003554826990334603
+Nuh - Indonesia = 0.0
+Susilo Bambang Yudhoyono - Paduan suara = 0.0
+Joko Widodo - Paduan suara = 0.0
+Daerah Khusus Ibukota Jakarta - Paduan suara = 0.24091282801041825
+Gamawan Fauzi - Paduan suara = 0.0
+Daftar Menteri Agama Indonesia - Paduan suara = 0.33871490689076844
+Daftar Menteri Pendidikan dan Kebudayaan Indonesia - Paduan suara = 0.4374196180365143
+Suryadharma Ali - Paduan suara = 0.0
+Guru - Paduan suara = 0.578334076914317
+Istora Gelora Bung Karno - Paduan suara = 0.37374292995122005
+Daftar Gubernur Daerah Khusus Ibukota Jakarta - Paduan suara = 0.33871490689076844
+Mohammad Nuh - Paduan suara = 0.0
+Gubernur - Paduan suara = 0.24882972712278006
+Public Broadcasting Service - Paduan suara = 0.0
+Sekretaris Negara - Paduan suara = 0.0
+Nuh - Paduan suara = 0.0
+Indonesia - Paduan suara = 0.10292197153450222
+Susilo Bambang Yudhoyono - Sudi Silalahi = 0.5439816569903576
+Joko Widodo - Sudi Silalahi = 0.0
+Daerah Khusus Ibukota Jakarta - Sudi Silalahi = 0.2552386570265387
+Gamawan Fauzi - Sudi Silalahi = 0.6324133935259222
+Daftar Menteri Agama Indonesia - Sudi Silalahi = 0.0
+Daftar Menteri Pendidikan dan Kebudayaan Indonesia - Sudi Silalahi = 0.0
+Suryadharma Ali - Sudi Silalahi = 0.709702534839227
+Guru - Sudi Silalahi = 0.0
+Istora Gelora Bung Karno - Sudi Silalahi = 0.0
+Daftar Gubernur Daerah Khusus Ibukota Jakarta - Sudi Silalahi = 0.0
+Mohammad Nuh - Sudi Silalahi = 0.670830670083441
+Gubernur - Sudi Silalahi = 0.0
+Public Broadcasting Service - Sudi Silalahi = 0.0
+Sekretaris Negara - Sudi Silalahi = 0.6914902544591348
+Nuh - Sudi Silalahi = 0.0
+Indonesia - Sudi Silalahi = 0.017414445528301292
+Paduan suara - Sudi Silalahi = 0.0
+Susilo Bambang Yudhoyono - Senayan = 0.35349846394449536
+Joko Widodo - Senayan = 0.0
+Daerah Khusus Ibukota Jakarta - Senayan = 0.4376618036353843
+Gamawan Fauzi - Senayan = 0.0
+Daftar Menteri Agama Indonesia - Senayan = 0.48481623508595173
+Daftar Menteri Pendidikan dan Kebudayaan Indonesia - Senayan = 0.0
+Suryadharma Ali - Senayan = 0.5700676982094719
+Guru - Senayan = 0.3292936687164022
+Istora Gelora Bung Karno - Senayan = 0.7092083804196687
+Daftar Gubernur Daerah Khusus Ibukota Jakarta - Senayan = 0.48481623508595173
+Mohammad Nuh - Senayan = 0.0
+Gubernur - Senayan = 0.28724212114806136
+Public Broadcasting Service - Senayan = 0.0
+Sekretaris Negara - Senayan = 0.0
+Nuh - Senayan = 0.0
+Indonesia - Senayan = 0.1345017680512406
+Paduan suara - Senayan = 0.0
+Sudi Silalahi - Senayan = 0.0
+Susilo Bambang Yudhoyono - Kementerian Dalam Negeri = 0.41626210342385095
+Joko Widodo - Kementerian Dalam Negeri = 0.5299094723322131
+Daerah Khusus Ibukota Jakarta - Kementerian Dalam Negeri = 0.35510668062245343
+Gamawan Fauzi - Kementerian Dalam Negeri = 0.7479914109238551
+Daftar Menteri Agama Indonesia - Kementerian Dalam Negeri = 0.0
+Daftar Menteri Pendidikan dan Kebudayaan Indonesia - Kementerian Dalam Negeri = 0.0
+Suryadharma Ali - Kementerian Dalam Negeri = 0.0
+Guru - Kementerian Dalam Negeri = 0.3913315553170418
+Istora Gelora Bung Karno - Kementerian Dalam Negeri = 0.0
+Daftar Gubernur Daerah Khusus Ibukota Jakarta - Kementerian Dalam Negeri = 0.5995709279980703
+Mohammad Nuh - Kementerian Dalam Negeri = 0.0
+Gubernur - Kementerian Dalam Negeri = 0.47822102471421735
+Public Broadcasting Service - Kementerian Dalam Negeri = 0.0
+Sekretaris Negara - Kementerian Dalam Negeri = 0.0
+Nuh - Kementerian Dalam Negeri = 0.0
+Indonesia - Kementerian Dalam Negeri = 0.07445620020742771
+Paduan suara - Kementerian Dalam Negeri = 0.0
+Sudi Silalahi - Kementerian Dalam Negeri = 0.0
+Senayan - Kementerian Dalam Negeri = 0.0

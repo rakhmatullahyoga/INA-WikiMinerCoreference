@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>Maung Bandung</Mention>
+        <Mention>Persib Bandung</Mention>
+        <Mention>Persib</Mention>
+        <Mention>PT Persib Bandung Bermartabat</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>striker</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>Kamerun</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>Kenji Adachihara</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>Sergio van Dijk</Mention>
+        <Mention>Sergio</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>Cimahi</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>Herman Dzumafo Epandi</Mention>
+        <Mention>Herman Dzumafo</Mention>
+        <Mention>Dzumafo</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>Persela Lamongan</Mention>
+    </Entity>
+    <Entity ClusterId="9">
+        <Mention>Airlangga</Mention>
+    </Entity>
+    <Entity ClusterId="10">
+        <Mention>Liga Super Indonesia 2013</Mention>
+    </Entity>
+    <Entity ClusterId="11">
+        <Mention>Djajang Nurjaman</Mention>
+    </Entity>
+    <Entity ClusterId="12">
+        <Mention>Persepam Pamekasan</Mention>
+    </Entity>
+    <Entity ClusterId="13">
+        <Mention>Bandung</Mention>
+    </Entity>
+    <Entity ClusterId="14">
+        <Mention>Sriwijaya FC</Mention>
+    </Entity>
+    <Entity ClusterId="15">
+        <Mention>Pelita Bandung Raya</Mention>
+    </Entity>
+    <Entity ClusterId="16">
+        <Mention>Persisam Samarinda</Mention>
+    </Entity>
+    <Entity ClusterId="17">
+        <Mention>pelatih fisik</Mention>
+        <Mention>Dino Sefrianto</Mention>
+        <Mention>Dino</Mention>
+    </Entity>
+    <Entity ClusterId="18">
+        <Mention>Mbida Messi</Mention>
+    </Entity>
+    <Entity ClusterId="19">
+        <Mention>Dokter tim Raffy Gani</Mention>
+    </Entity>
+</CoreferenceChain>

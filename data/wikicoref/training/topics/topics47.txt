@@ -1,0 +1,278 @@
+All detected topics:
+Provinsi (0.0035596750162436622/0.19660440050245148 - 0.05115204331516241/0.052875079214572906)
+Penyerang (sepak bola) (0.10855967501624368/0.48394495412844035 - 0.2469946318557501/0.25167280435562134)
+Manis (0.0035596750162436622/0.02679710761378137 - 0.07709926937967265/0.013744513504207134)
+Kamis (0.0035596750162436622/0.03736920777279522 - 0.12840128459133598/0.01394246518611908)
+Papua (0.10668467501624365/0.40413126769948354 - 0.2342509274880868/0.1516796052455902)
+Persahabatan (0.0035596750162436622/0.005405405405405406 - 0.13395321198974372/0.027664419263601303)
+Francisco Aldo Barreto Miranda (0.0035596750162436622/0.6666666666666666 - 0.18337362477285812/0.15473908185958862)
+4 (angka) (0.0035596750162436622/0.005683324008363026 - 0.12421370090224719/0.004537515342235565)
+Kota Semarang (0.006684675016243663/0.3682758620689655 - 0.24353690670158834/0.18799760937690735)
+Kapten (sepak bola) (0.0035596750162436622/0.022123893805309734 - 0.07820069286433659/0.03858110308647156)
+Militer (0.0035596750162436622/0.010800432017280691 - 0.12633843644594805/0.03517729789018631)
+Tarik, Sidoarjo (0.0035596750162436622/0.14705882352941177 - 0.0/0.0310665275901556)
+Kota (0.0035596750162436622/0.05629474593445292 - 0.10226330412871798/0.06629107147455215)
+Kelas (0.0035596750162436622/0.011436796358077726 - 0.04038914863767884/0.017647147178649902)
+Persipura Jayapura (0.859914917424948/0.3980491053661786 - 0.4448700044241707/0.5169190168380737)
+Kabupaten Gresik (0.0034790948389672714/0.205078125 - 0.19832444854337075/0.3286011219024658)
+Ibu (0.0035596750162436622/0.010373749264273101 - 0.17582384349567323/0.016822852194309235)
+Nimrud (0.0035596750162436622/0.014705882352941176 - 0.0/0.0)
+Kota Jayapura (0.642929273852066/0.330582774626096 - 0.3651246345649487/0.3433120548725128)
+Stadion (0.006684675016243663/0.09972575417601595 - 0.218926123031053/0.08999043703079224)
+Cahyono (0.0035596750162436622/0.06329113924050633 - 0.018256093774072894/0.03881929814815521)
+Advanced Technology Attachment (0.0035596750162436622/0.05063291139240506 - 0.0/0.013666888698935509)
+1 (angka) (0.0035596750162436622/0.005019455252918288 - 0.12800443743027554/0.019187042489647865)
+Pertahanan (0.0035596750162436622/0.012660991049989086 - 0.03167723721821047/0.003973322454839945)
+BIOS (0.0035596750162436622/0.5818181818181818 - 0.0/0.020682955160737038)
+Indonesia (0.0035596750162436622/0.40647999238473137 - 0.10218183969065782/0.12065991759300232)
+Jacksen Tiago (0.5759590045655619/0.875 - 0.261880602241006/0.39690569043159485)
+Kualifikasi Piala Dunia FIFA 2002 – Babak Pertama Zona Asia (0.0035596750162436622/0.044386422976501305 - 0.024148029374300987/0.0)
+Penjaga gawang (sepak bola) (0.3815993507841618/0.4075368457201728 - 0.26724102742489414/0.23545704782009125)
+Mandala (0.0035596750162436622/0.08969465648854962 - 0.10330613409324123/0.045589253306388855)
+Bola (0.0035596750162436622/0.0075903248659042605 - 0.1421959593450071/0.03391289338469505)
+Stadion Mandala (0.637162915420397/0.4827586206896552 - 0.3778636402649391/0.3843510150909424)
+Kaki (0.0035596750162436622/0.01990747231179027 - 0.1535245991488282/0.028384650126099586)
+Manu (Hindu) (0.0035596750162436622/0.21962616822429906 - 0.0/0.009240958839654922)
+Cedera (0.0035596750162436622/0.06992532247114731 - 0.1585145167353274/0.048771295696496964)
+Permainan (0.0035596750162436622/0.022616853744345786 - 0.09908119080675114/0.020974162966012955)
+Seminari Alkitab Asia Tenggara (0.0035596750162436622/0.13043478260869565 - 0.07008778432516553/0.03502942621707916)
+Gresik United (0.7645474867904077/0.855072463768116 - 0.32564715496736385/0.5108808279037476)
+Pelatih (0.006684675016243663/0.03013029315960912 - 0.2572190856650553/0.27788683772087097)
+As (0.0035596750162436622/0.06041573201734709 - 0.1308603926520039/0.04654211923480034)
+Peluang (matematika) (0.0035596750162436622/0.01582591493570722 - 0.08634355774297642/0.0)
+Arema Indonesia (0.37173729969509045/0.1 - 0.4294247072061735/0.49307891726493835)
+Wasit (sepak bola) (0.006684675016243663/0.2914485165794066 - 0.2672273170168484/0.17599500715732574)
+Mutiara (0.0035596750162436622/0.061378659112370164 - 0.09927562057891107/0.03804273530840874)
+Sandy Cheeks (0.0035596750162436622/0.04228571428571429 - 0.0/0.009918823838233948)
+Menit (0.0035596750162436622/0.03628835849975645 - 0.16010939402561739/0.02948189340531826)
+Liga Super Indonesia (0.846368786265856/0.26295175354616546 - 0.4350341646348984/0.4879303276538849)
+Tetragrammaton (0.0035596750162436622/0.14492753623188406 - 0.05725896350460877/0.0051520043052732944)
+Anak (0.0035596750162436622/0.011218704233906822 - 0.19563466805570448/0.0242790374904871)
+BoA (0.10355967501624366/0.5085227272727273 - 0.0/0.09038693457841873)
+Minggu (0.006684675016243663/0.04695820558334678 - 0.23231775568467378/0.08469268679618835)
+Kapten (0.0035596750162436622/0.08144972720187062 - 0.13862937213732912/0.046263113617897034)
+Ibu kota (0.0035596750162436622/0.20955238809702426 - 0.10623127674856042/0.052036941051483154)
+Widodo (0.0035596750162436622/0.009983361064891847 - 0.07704294559655248/0.04380219802260399)
+Kanan (0.0035596750162436622/0.006574141709276844 - 0.11542061853843669/0.043781060725450516)
+Pencetak (0.0035596750162436622/0.030612244897959183 - 0.017323292733539036/0.0)
+Unjuk rasa (0.0035596750162436622/0.019981834695731154 - 0.19825480145506433/0.0500672273337841)
+Lapangan (0.0035596750162436622/0.02688078198638506 - 0.11867633879910458/0.05105966329574585)
+Gol (0.0035596750162436622/0.020270270270270275 - 0.1693659369901461/0.10155988484621048)
+50-an (0.0035596750162436622/0.007419183889772125 - 0.08206944497137643/0.015285682864487171)
+Hitam (0.0035596750162436622/0.040349599417334306 - 0.127024313108132/0.018375292420387268)
+Daftar provinsi di Indonesia (0.0035596750162436622/0.005208333333333333 - 0.016888389669775204/0.02115456387400627)
+70-an (0.0035596750162436622/0.020855057351407715 - 0.08347661977573882/0.003234804142266512)
+
+Topics that are probably good links:
+Persipura Jayapura (0.859914917424948/0.3980491053661786 - 0.4448700044241707/0.5169190168380737)
+Liga Super Indonesia (0.846368786265856/0.26295175354616546 - 0.4350341646348984/0.4879303276538849)
+Gresik United (0.7645474867904077/0.855072463768116 - 0.32564715496736385/0.5108808279037476)
+Kota Jayapura (0.642929273852066/0.330582774626096 - 0.3651246345649487/0.3433120548725128)
+Stadion Mandala (0.637162915420397/0.4827586206896552 - 0.3778636402649391/0.3843510150909424)
+Jacksen Tiago (0.5759590045655619/0.875 - 0.261880602241006/0.39690569043159485)
+Penjaga gawang (sepak bola) (0.3815993507841618/0.4075368457201728 - 0.26724102742489414/0.23545704782009125)
+Arema Indonesia (0.37173729969509045/0.1 - 0.4294247072061735/0.49307891726493835)
+Provinsi (0.0035596750162436622/0.19660440050245148 - 0.05115204331516241/0.052875079214572906)
+Penyerang (sepak bola) (0.10855967501624368/0.48394495412844035 - 0.2469946318557501/0.25167280435562134)
+Papua (0.10668467501624365/0.40413126769948354 - 0.2342509274880868/0.1516796052455902)
+Francisco Aldo Barreto Miranda (0.0035596750162436622/0.6666666666666666 - 0.18337362477285812/0.15473908185958862)
+Kota Semarang (0.006684675016243663/0.3682758620689655 - 0.24353690670158834/0.18799760937690735)
+Kabupaten Gresik (0.0034790948389672714/0.205078125 - 0.19832444854337075/0.3286011219024658)
+BIOS (0.0035596750162436622/0.5818181818181818 - 0.0/0.020682955160737038)
+Indonesia (0.0035596750162436622/0.40647999238473137 - 0.10218183969065782/0.12065991759300232)
+Manu (Hindu) (0.0035596750162436622/0.21962616822429906 - 0.0/0.009240958839654922)
+Wasit (sepak bola) (0.006684675016243663/0.2914485165794066 - 0.2672273170168484/0.17599500715732574)
+BoA (0.10355967501624366/0.5085227272727273 - 0.0/0.09038693457841873)
+Ibu kota (0.0035596750162436622/0.20955238809702426 - 0.10623127674856042/0.052036941051483154)
+
+Coreference log:
+Persipura Jayapura - Liga Super Indonesia = 0.7361595748139951
+Persipura Jayapura - Gresik United = 0.6856344698320332
+Liga Super Indonesia - Gresik United = 0.7055832351693574
+Persipura Jayapura - Kota Jayapura = 0.6683239848848459
+Liga Super Indonesia - Kota Jayapura = 0.44628114876724867
+Gresik United - Kota Jayapura = 0.37268549324278044
+Persipura Jayapura - Stadion Mandala = 0.7308129076682104
+Liga Super Indonesia - Stadion Mandala = 0.5052601975848812
+Gresik United - Stadion Mandala = 0.5986005586759737
+Kota Jayapura - Stadion Mandala = 0.7132890056651238
+Persipura Jayapura - Jacksen Tiago = 0.6539505605579425
+Liga Super Indonesia - Jacksen Tiago = 0.5950680003823913
+Gresik United - Jacksen Tiago = 0.6835722458600402
+Kota Jayapura - Jacksen Tiago = 0.0
+Stadion Mandala - Jacksen Tiago = 0.0
+Persipura Jayapura - Penjaga gawang (sepak bola) = 0.3147694035619054
+Liga Super Indonesia - Penjaga gawang (sepak bola) = 0.4540192844058132
+Gresik United - Penjaga gawang (sepak bola) = 0.246175080336141
+Kota Jayapura - Penjaga gawang (sepak bola) = 0.10413895242477689
+Stadion Mandala - Penjaga gawang (sepak bola) = 0.3545095795231171
+Jacksen Tiago - Penjaga gawang (sepak bola) = 0.3879534859351573
+Persipura Jayapura - Arema Indonesia = 0.795276118522405
+Liga Super Indonesia - Arema Indonesia = 0.7905128737915038
+Gresik United - Arema Indonesia = 0.6948020572723218
+Kota Jayapura - Arema Indonesia = 0.5051307274383154
+Stadion Mandala - Arema Indonesia = 0.6313908231714893
+Jacksen Tiago - Arema Indonesia = 0.6031946418581255
+Penjaga gawang (sepak bola) - Arema Indonesia = 0.37768971933304885
+Persipura Jayapura - Provinsi = 0.0
+Liga Super Indonesia - Provinsi = 0.0
+Gresik United - Provinsi = 0.0
+Kota Jayapura - Provinsi = 0.1410502081973799
+Stadion Mandala - Provinsi = 0.0
+Jacksen Tiago - Provinsi = 0.0
+Penjaga gawang (sepak bola) - Provinsi = 0.0
+Arema Indonesia - Provinsi = 0.0718464587236981
+Persipura Jayapura - Penyerang (sepak bola) = 0.3963925639212543
+Liga Super Indonesia - Penyerang (sepak bola) = 0.48336480036278384
+Gresik United - Penyerang (sepak bola) = 0.35385115061210315
+Kota Jayapura - Penyerang (sepak bola) = 0.04423709323775882
+Stadion Mandala - Penyerang (sepak bola) = 0.3113487831265882
+Jacksen Tiago - Penyerang (sepak bola) = 0.34702892045633627
+Penjaga gawang (sepak bola) - Penyerang (sepak bola) = 0.3820027060257939
+Arema Indonesia - Penyerang (sepak bola) = 0.4370924876260349
+Provinsi - Penyerang (sepak bola) = 0.0
+Persipura Jayapura - Papua = 0.40059348677874596
+Liga Super Indonesia - Papua = 0.14981202457868836
+Gresik United - Papua = 0.0
+Kota Jayapura - Papua = 0.6293699297697877
+Stadion Mandala - Papua = 0.427501729750547
+Jacksen Tiago - Papua = 0.0
+Penjaga gawang (sepak bola) - Papua = 0.0
+Arema Indonesia - Papua = 0.23838440499038016
+Provinsi - Papua = 0.15942652435687854
+Penyerang (sepak bola) - Papua = 0.0
+Persipura Jayapura - Francisco Aldo Barreto Miranda = 0.6805853972547158
+Liga Super Indonesia - Francisco Aldo Barreto Miranda = 0.5950680003823913
+Gresik United - Francisco Aldo Barreto Miranda = 0.0
+Kota Jayapura - Francisco Aldo Barreto Miranda = 0.0
+Stadion Mandala - Francisco Aldo Barreto Miranda = 0.0
+Jacksen Tiago - Francisco Aldo Barreto Miranda = 0.0
+Penjaga gawang (sepak bola) - Francisco Aldo Barreto Miranda = 0.0
+Arema Indonesia - Francisco Aldo Barreto Miranda = 0.6298294785548988
+Provinsi - Francisco Aldo Barreto Miranda = 0.0
+Penyerang (sepak bola) - Francisco Aldo Barreto Miranda = 0.34702892045633627
+Papua - Francisco Aldo Barreto Miranda = 0.0
+Persipura Jayapura - Kota Semarang = 0.239707414769182
+Liga Super Indonesia - Kota Semarang = 0.21539847981175753
+Gresik United - Kota Semarang = 0.17732214979727834
+Kota Jayapura - Kota Semarang = 0.5440727877938623
+Stadion Mandala - Kota Semarang = 0.29555171553473336
+Jacksen Tiago - Kota Semarang = 0.0
+Penjaga gawang (sepak bola) - Kota Semarang = 0.0
+Arema Indonesia - Kota Semarang = 0.2765734582163182
+Provinsi - Kota Semarang = 0.28906807631749565
+Penyerang (sepak bola) - Kota Semarang = 0.0
+Papua - Kota Semarang = 0.3594026044972727
+Francisco Aldo Barreto Miranda - Kota Semarang = 0.0
+Persipura Jayapura - Kabupaten Gresik = 0.38792335119128196
+Liga Super Indonesia - Kabupaten Gresik = 0.3271536786430427
+Gresik United - Kabupaten Gresik = 0.4847893961267077
+Kota Jayapura - Kabupaten Gresik = 0.4698547620289415
+Stadion Mandala - Kabupaten Gresik = 0.0
+Jacksen Tiago - Kabupaten Gresik = 0.47997530859494275
+Penjaga gawang (sepak bola) - Kabupaten Gresik = 0.0
+Arema Indonesia - Kabupaten Gresik = 0.43562915337157027
+Provinsi - Kabupaten Gresik = 0.26294292198068536
+Penyerang (sepak bola) - Kabupaten Gresik = 0.0
+Papua - Kabupaten Gresik = 0.1693633580874827
+Francisco Aldo Barreto Miranda - Kabupaten Gresik = 0.0
+Kota Semarang - Kabupaten Gresik = 0.46341548314218706
+Persipura Jayapura - BIOS = 0.0
+Liga Super Indonesia - BIOS = 0.0
+Gresik United - BIOS = 0.0
+Kota Jayapura - BIOS = 0.0
+Stadion Mandala - BIOS = 0.0
+Jacksen Tiago - BIOS = 0.0
+Penjaga gawang (sepak bola) - BIOS = 0.0
+Arema Indonesia - BIOS = 0.0
+Provinsi - BIOS = 0.0
+Penyerang (sepak bola) - BIOS = 0.0
+Papua - BIOS = 0.0
+Francisco Aldo Barreto Miranda - BIOS = 0.0
+Kota Semarang - BIOS = 0.0
+Kabupaten Gresik - BIOS = 0.0
+Persipura Jayapura - Indonesia = 0.13287188860132504
+Liga Super Indonesia - Indonesia = 0.1843508845630829
+Gresik United - Indonesia = 0.13697221696473827
+Kota Jayapura - Indonesia = 0.14596191599338715
+Stadion Mandala - Indonesia = 0.09908567313095484
+Jacksen Tiago - Indonesia = 0.13340059927527037
+Penjaga gawang (sepak bola) - Indonesia = 0.0
+Arema Indonesia - Indonesia = 0.13583474959048758
+Provinsi - Indonesia = 0.33631971317253895
+Penyerang (sepak bola) - Indonesia = 0.0
+Papua - Indonesia = 0.2580420686227072
+Francisco Aldo Barreto Miranda - Indonesia = 0.0815889761262667
+Kota Semarang - Indonesia = 0.16891003137303628
+Kabupaten Gresik - Indonesia = 0.14377027053557445
+BIOS - Indonesia = 0.0
+Persipura Jayapura - Manu (Hindu) = 0.0
+Liga Super Indonesia - Manu (Hindu) = 0.0
+Gresik United - Manu (Hindu) = 0.0
+Kota Jayapura - Manu (Hindu) = 0.0
+Stadion Mandala - Manu (Hindu) = 0.0
+Jacksen Tiago - Manu (Hindu) = 0.0
+Penjaga gawang (sepak bola) - Manu (Hindu) = 0.0
+Arema Indonesia - Manu (Hindu) = 0.0
+Provinsi - Manu (Hindu) = 0.0
+Penyerang (sepak bola) - Manu (Hindu) = 0.0
+Papua - Manu (Hindu) = 0.0
+Francisco Aldo Barreto Miranda - Manu (Hindu) = 0.0
+Kota Semarang - Manu (Hindu) = 0.0
+Kabupaten Gresik - Manu (Hindu) = 0.0
+BIOS - Manu (Hindu) = 0.0
+Indonesia - Manu (Hindu) = 0.0
+Persipura Jayapura - Wasit (sepak bola) = 0.49694944926864815
+Liga Super Indonesia - Wasit (sepak bola) = 0.3847993129527715
+Gresik United - Wasit (sepak bola) = 0.0
+Kota Jayapura - Wasit (sepak bola) = 0.3320490026786611
+Stadion Mandala - Wasit (sepak bola) = 0.546506175133973
+Jacksen Tiago - Wasit (sepak bola) = 0.0
+Penjaga gawang (sepak bola) - Wasit (sepak bola) = 0.48849074713018636
+Arema Indonesia - Wasit (sepak bola) = 0.4796172868437333
+Provinsi - Wasit (sepak bola) = 0.0
+Penyerang (sepak bola) - Wasit (sepak bola) = 0.22783415256237904
+Papua - Wasit (sepak bola) = 0.1547168033189873
+Francisco Aldo Barreto Miranda - Wasit (sepak bola) = 0.5700024262883319
+Kota Semarang - Wasit (sepak bola) = 0.0
+Kabupaten Gresik - Wasit (sepak bola) = 0.0
+BIOS - Wasit (sepak bola) = 0.0
+Indonesia - Wasit (sepak bola) = 0.0
+Manu (Hindu) - Wasit (sepak bola) = 0.0
+Persipura Jayapura - BoA = 0.0
+Liga Super Indonesia - BoA = 0.0
+Gresik United - BoA = 0.0
+Kota Jayapura - BoA = 0.0
+Stadion Mandala - BoA = 0.0
+Jacksen Tiago - BoA = 0.0
+Penjaga gawang (sepak bola) - BoA = 0.0
+Arema Indonesia - BoA = 0.0
+Provinsi - BoA = 0.0
+Penyerang (sepak bola) - BoA = 0.0
+Papua - BoA = 0.0
+Francisco Aldo Barreto Miranda - BoA = 0.0
+Kota Semarang - BoA = 0.0
+Kabupaten Gresik - BoA = 0.0
+BIOS - BoA = 0.0
+Indonesia - BoA = 0.0
+Manu (Hindu) - BoA = 0.0
+Wasit (sepak bola) - BoA = 0.0
+Persipura Jayapura - Ibu kota = 0.0
+Liga Super Indonesia - Ibu kota = 0.14014361107518603
+Gresik United - Ibu kota = 0.0
+Kota Jayapura - Ibu kota = 0.0933619814078479
+Stadion Mandala - Ibu kota = 0.0
+Jacksen Tiago - Ibu kota = 0.0
+Penjaga gawang (sepak bola) - Ibu kota = 0.0
+Arema Indonesia - Ibu kota = 0.015014620907964016
+Provinsi - Ibu kota = 0.36400360061869286
+Penyerang (sepak bola) - Ibu kota = 0.0
+Papua - Ibu kota = 0.237921035967966
+Francisco Aldo Barreto Miranda - Ibu kota = 0.0
+Kota Semarang - Ibu kota = 0.23421870461741456
+Kabupaten Gresik - Ibu kota = 0.21069189910380093
+BIOS - Ibu kota = 0.0
+Indonesia - Ibu kota = 0.15445214836994658
+Manu (Hindu) - Ibu kota = 0.1924339329824052
+Wasit (sepak bola) - Ibu kota = 0.0
+BoA - Ibu kota = 0.0

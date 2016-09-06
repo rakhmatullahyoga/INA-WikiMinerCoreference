@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>Gempa</Mention>
+        <Mention>gempa</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>SR</Mention>
+        <Mention>skala Richter</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>Iran</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>REPUBLIKA.CO.ID</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>Pakistan</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>India</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>US Geological Survey</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>Saking</Mention>
+    </Entity>
+    <Entity ClusterId="9">
+        <Mention>New Delhi</Mention>
+    </Entity>
+    <Entity ClusterId="10">
+        <Mention>Dubai</Mention>
+    </Entity>
+    <Entity ClusterId="11">
+        <Mention>Bahrain</Mention>
+    </Entity>
+    <Entity ClusterId="12">
+        <Mention>CBC</Mention>
+    </Entity>
+    <Entity ClusterId="13">
+        <Mention>gedung-gedung pencakar langit</Mention>
+    </Entity>
+    <Entity ClusterId="14">
+        <Mention>Burj Khalifa</Mention>
+    </Entity>
+    <Entity ClusterId="15">
+        <Mention>nuklir</Mention>
+    </Entity>
+</CoreferenceChain>

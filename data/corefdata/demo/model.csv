@@ -1,0 +1,15 @@
+mentions;isStrMatch;isMatchNoCasePunc;isAbbrev;isFirstPronoun;isScndPronoun;isOnOneSentence;isMatchPartial;firstNameClass;scndNameClass;isCoref;corefSupport;corefConfidence
+"[(null)-(null)]";false;true;false;false;false;true;false;PERSON;LOCATION;false;0,083333;0,0
+"[(null)-(null)]";false;true;false;true;false;true;false;OTHER;PERSON;false;0,027778;0,0
+"[(null)-(null)]";false;true;false;false;false;false;false;PERSON;LOCATION;false;0,055556;0,0
+"[(null)-(null)]";false;true;false;false;false;false;false;LOCATION;LOCATION;false;0,027778;0,0
+"[(null)-(null)]";false;true;false;false;false;false;false;LOCATION;OTHER;false;0,166667;0,0
+"[(null)-(null)]";false;true;false;true;false;false;false;OTHER;OTHER;false;0,083333;0,333333
+"[(null)-(null)]";false;true;false;false;false;true;false;PERSON;PERSON;true;0,027778;1,0
+"[(null)-(null)]";false;true;false;false;false;false;false;PERSON;OTHER;false;0,25;0,333333
+"[(null)-(null)]";false;true;false;false;true;false;false;PERSON;OTHER;true;0,055556;1,0
+"[(null)-(null)]";false;true;false;false;true;false;false;LOCATION;OTHER;false;0,027778;0,0
+"[(null)-(null)]";false;true;false;true;false;true;false;OTHER;LOCATION;false;0,027778;0,0
+"[(null)-(null)]";false;true;false;false;false;false;false;PERSON;PERSON;false;0,055556;0,0
+"[(null)-(null)]";false;true;false;false;false;true;false;OTHER;OTHER;false;0,083333;0,0
+"[(null)-(null)]";false;true;false;false;false;false;false;LOCATION;PERSON;false;0,027778;0,0

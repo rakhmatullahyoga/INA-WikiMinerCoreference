@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>Desa</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>Majalengka</Mention>
+        <Mention>Kabupaten Majalengka</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>Jawa Barat</Mention>
+        <Mention>Jabar</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>kampung</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>geologi</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>Kepala BPBD Jabar</Mention>
+        <Mention>Sigit</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>seorang warga warga Desa Cimuncang Majalengka</Mention>
+        <Mention>Nana</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>Johan</Mention>
+        <Mention>warga lain</Mention>
+    </Entity>
+</CoreferenceChain>

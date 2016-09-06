@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>Pancasila</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>Remisi</Mention>
+        <Mention>remisi</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>Teroris</Mention>
+        <Mention>Terorisme</Mention>
+        <Mention>terorisme</Mention>
+        <Mention>teroris</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>TEMPO.CO</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>Jakarta</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>BNPT</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>15 Juli</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>SB</Mention>
+    </Entity>
+    <Entity ClusterId="9">
+        <Mention>butuh</Mention>
+    </Entity>
+    <Entity ClusterId="10">
+        <Mention>korupsi</Mention>
+    </Entity>
+    <Entity ClusterId="11">
+        <Mention>narkotika</Mention>
+    </Entity>
+    <Entity ClusterId="12">
+        <Mention>13 Juli</Mention>
+    </Entity>
+    <Entity ClusterId="13">
+        <Mention>12 November</Mention>
+    </Entity>
+</CoreferenceChain>

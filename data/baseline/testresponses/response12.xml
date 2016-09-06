@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>Truk pengangkut asbes</Mention>
+        <Mention>Truk pengangkut asbes timpa MPU</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>Tabanan</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>mobil penumpang umum</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>(MPU</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>Jalan Raya Bajera</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>Kabupaten Tabanan</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>Bali,</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>Rabu</Mention>
+    </Entity>
+    <Entity ClusterId="9">
+        <Mention>Tiga penumpang MPU</Mention>
+    </Entity>
+    <Entity ClusterId="10">
+        <Mention>luka ringan</Mention>
+    </Entity>
+    <Entity ClusterId="11">
+        <Mention>kejadian itu</Mention>
+    </Entity>
+    <Entity ClusterId="12">
+        <Mention>arus lalu</Mention>
+    </Entity>
+    <Entity ClusterId="13">
+        <Mention>lintas</Mention>
+    </Entity>
+    <Entity ClusterId="14">
+        <Mention>arah Pelabuhan Gilimanuk</Mention>
+    </Entity>
+    <Entity ClusterId="15">
+        <Mention>Kabupaten Jembrana,</Mention>
+    </Entity>
+    <Entity ClusterId="16">
+        <Mention>Denpasar dan arah</Mention>
+    </Entity>
+    <Entity ClusterId="17">
+        <Mention>beberapa jam</Mention>
+    </Entity>
+    <Entity ClusterId="18">
+        <Mention>Asbes</Mention>
+    </Entity>
+    <Entity ClusterId="19">
+        <Mention>truk</Mention>
+    </Entity>
+    <Entity ClusterId="20">
+        <Mention>polisi DK-9501-YK</Mention>
+    </Entity>
+    <Entity ClusterId="21">
+        <Mention>I Nengah Radika</Mention>
+    </Entity>
+    <Entity ClusterId="22">
+        <Mention>jalan raya</Mention>
+    </Entity>
+    <Entity ClusterId="23">
+        <Mention>Pulau Dewata itu</Mention>
+    </Entity>
+    <Entity ClusterId="24">
+        <Mention>Informasi</Mention>
+    </Entity>
+    <Entity ClusterId="25">
+        <Mention>lapangan</Mention>
+    </Entity>
+    <Entity ClusterId="26">
+        <Mention>tanjakan</Mention>
+    </Entity>
+    <Entity ClusterId="27">
+        <Mention>Akibatnya truk</Mention>
+    </Entity>
+    <Entity ClusterId="28">
+        <Mention>MPU</Mention>
+    </Entity>
+    <Entity ClusterId="29">
+        <Mention>arah Denpasar</Mention>
+    </Entity>
+    <Entity ClusterId="30">
+        <Mention>muatan</Mention>
+    </Entity>
+    <Entity ClusterId="31">
+        <Mention>tanjakan dan permukaan aspal</Mention>
+    </Entity>
+    <Entity ClusterId="32">
+        <Mention>I Ketut Sudita,</Mention>
+    </Entity>
+    <Entity ClusterId="33">
+        <Mention>pengemudi MPU</Mention>
+    </Entity>
+    <Entity ClusterId="34">
+        <Mention>hari</Mention>
+    </Entity>
+    <Entity ClusterId="35">
+        <Mention>kecelakaan</Mention>
+    </Entity>
+    <Entity ClusterId="36">
+        <Mention>tanjakan Jalan Raya Bajera</Mention>
+    </Entity>
+    <Entity ClusterId="37">
+        <Mention>Selain aspalnya</Mention>
+    </Entity>
+    <Entity ClusterId="38">
+        <Mention>akibat kondisi tanah</Mention>
+    </Entity>
+    <Entity ClusterId="39">
+        <Mention>labil</Mention>
+    </Entity>
+</CoreferenceChain>

@@ -1,0 +1,1892 @@
+mentions;isStrMatch;isMatchNoCasePunc;isAbbrev;isFirstPronoun;isScndPronoun;isOnOneSentence;isMatchPartial;firstNameClass;scndNameClass
+"[(Persija Bungkam Tuan Rumah Persiba Persija Jakarta)-(Persiba Balikpapan)]";false;true;false;false;false;true;false;PERSON;PERSON
+"[(Persija Bungkam Tuan Rumah Persiba Persija Jakarta)-(kandang)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Persija Bungkam Tuan Rumah Persiba Persija Jakarta)-(laga lanjutan Liga Super Indonesia)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Persija Bungkam Tuan Rumah Persiba Persija Jakarta)-(Bertanding)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persija Bungkam Tuan Rumah Persiba Persija Jakarta)-(Stadion Persiba)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Persija Bungkam Tuan Rumah Persiba Persija Jakarta)-(Persija sukses)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persija Bungkam Tuan Rumah Persiba Persija Jakarta)-(Persiba)]";false;true;false;false;false;false;true;PERSON;PERSON
+"[(Persija Bungkam Tuan Rumah Persiba Persija Jakarta)-(1-0 lewat gol Rudi Setiawan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija Bungkam Tuan Rumah Persiba Persija Jakarta)-(Berstatus tim tamu)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persija Bungkam Tuan Rumah Persiba Persija Jakarta)-(Persija)]";false;true;false;false;false;false;true;PERSON;PERSON
+"[(Persija Bungkam Tuan Rumah Persiba Persija Jakarta)-(tim Macan Kemayoran)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija Bungkam Tuan Rumah Persiba Persija Jakarta)-(unggul cepat)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija Bungkam Tuan Rumah Persiba Persija Jakarta)-(lewat gol cantik)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija Bungkam Tuan Rumah Persiba Persija Jakarta)-(Rudi)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persija Bungkam Tuan Rumah Persiba Persija Jakarta)-(Pertandingan)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persija Bungkam Tuan Rumah Persiba Persija Jakarta)-(menit)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija Bungkam Tuan Rumah Persiba Persija Jakarta)-(pemain gempal)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija Bungkam Tuan Rumah Persiba Persija Jakarta)-(Persija ini)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persija Bungkam Tuan Rumah Persiba Persija Jakarta)-(bola hasil umpan jauh)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija Bungkam Tuan Rumah Persiba Persija Jakarta)-(Ngurah Nanak)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persija Bungkam Tuan Rumah Persiba Persija Jakarta)-(area pertahanan Persiba)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija Bungkam Tuan Rumah Persiba Persija Jakarta)-(Rudi)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persija Bungkam Tuan Rumah Persiba Persija Jakarta)-(bola)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija Bungkam Tuan Rumah Persiba Persija Jakarta)-(gawang Persiba)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija Bungkam Tuan Rumah Persiba Persija Jakarta)-(Persija sementara)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persija Bungkam Tuan Rumah Persiba Persija Jakarta)-(unggul 1-0)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija Bungkam Tuan Rumah Persiba Persija Jakarta)-(Usaha Persiba)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persija Bungkam Tuan Rumah Persiba Persija Jakarta)-(Maulana putra)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persija Bungkam Tuan Rumah Persiba Persija Jakarta)-(wasit)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija Bungkam Tuan Rumah Persiba Persija Jakarta)-(menit 68)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija Bungkam Tuan Rumah Persiba Persija Jakarta)-(Pertengkaran)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persija Bungkam Tuan Rumah Persiba Persija Jakarta)-(Pedro Xavier)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persija Bungkam Tuan Rumah Persiba Persija Jakarta)-(wasit)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija Bungkam Tuan Rumah Persiba Persija Jakarta)-(kartu kuning kedua)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija Bungkam Tuan Rumah Persiba Persija Jakarta)-(pemain)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija Bungkam Tuan Rumah Persiba Persija Jakarta)-(Skor 1-0)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persija Bungkam Tuan Rumah Persiba Persija Jakarta)-(keunggulan Persija)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija Bungkam Tuan Rumah Persiba Persija Jakarta)-(pertandingan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija Bungkam Tuan Rumah Persiba Persija Jakarta)-(Kemenangan ini)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persija Bungkam Tuan Rumah Persiba Persija Jakarta)-(Persija)]";false;true;false;false;false;false;true;PERSON;PERSON
+"[(Persija Bungkam Tuan Rumah Persiba Persija Jakarta)-(dasar klasemen)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija Bungkam Tuan Rumah Persiba Persija Jakarta)-(pertandingan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija Bungkam Tuan Rumah Persiba Persija Jakarta)-(lainnya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija Bungkam Tuan Rumah Persiba Persija Jakarta)-(Persidafon Dafonsoro)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persija Bungkam Tuan Rumah Persiba Persija Jakarta)-(Sriwijaya FC 3-1)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persija Bungkam Tuan Rumah Persiba Persija Jakarta)-(Persija dan Persidafon)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persija Bungkam Tuan Rumah Persiba Persija Jakarta)-(12 poin)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija Bungkam Tuan Rumah Persiba Persija Jakarta)-(pertandingan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija Bungkam Tuan Rumah Persiba Persija Jakarta)-(namun persija unggul)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija Bungkam Tuan Rumah Persiba Persija Jakarta)-(selisih gol)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija Bungkam Tuan Rumah Persiba Persija Jakarta)-(Persiba)]";false;true;false;false;false;false;true;PERSON;PERSON
+"[(Persija Bungkam Tuan Rumah Persiba Persija Jakarta)-(kekalahan ini)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija Bungkam Tuan Rumah Persiba Persija Jakarta)-(mereka)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Persija Bungkam Tuan Rumah Persiba Persija Jakarta)-(peringkat 10)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija Bungkam Tuan Rumah Persiba Persija Jakarta)-(klasemen sementara)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija Bungkam Tuan Rumah Persiba Persija Jakarta)-(ISL)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Persija Bungkam Tuan Rumah Persiba Persija Jakarta)-(Tim)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persija Bungkam Tuan Rumah Persiba Persija Jakarta)-('Beruang Madu' itu)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Persija Bungkam Tuan Rumah Persiba Persija Jakarta)-(total)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija Bungkam Tuan Rumah Persiba Persija Jakarta)-(20 poin)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija Bungkam Tuan Rumah Persiba Persija Jakarta)-(17 pertandingan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persiba Balikpapan)-(kandang)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Persiba Balikpapan)-(laga lanjutan Liga Super Indonesia)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Persiba Balikpapan)-(Bertanding)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persiba Balikpapan)-(Stadion Persiba)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Persiba Balikpapan)-(Persija sukses)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persiba Balikpapan)-(Persiba)]";false;true;false;false;false;false;true;PERSON;PERSON
+"[(Persiba Balikpapan)-(1-0 lewat gol Rudi Setiawan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persiba Balikpapan)-(Berstatus tim tamu)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persiba Balikpapan)-(Persija)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persiba Balikpapan)-(tim Macan Kemayoran)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persiba Balikpapan)-(unggul cepat)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persiba Balikpapan)-(lewat gol cantik)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persiba Balikpapan)-(Rudi)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persiba Balikpapan)-(Pertandingan)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persiba Balikpapan)-(menit)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persiba Balikpapan)-(pemain gempal)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persiba Balikpapan)-(Persija ini)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persiba Balikpapan)-(bola hasil umpan jauh)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persiba Balikpapan)-(Ngurah Nanak)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persiba Balikpapan)-(area pertahanan Persiba)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persiba Balikpapan)-(Rudi)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persiba Balikpapan)-(bola)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persiba Balikpapan)-(gawang Persiba)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persiba Balikpapan)-(Persija sementara)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persiba Balikpapan)-(unggul 1-0)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persiba Balikpapan)-(Usaha Persiba)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persiba Balikpapan)-(Maulana putra)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persiba Balikpapan)-(wasit)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persiba Balikpapan)-(menit 68)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persiba Balikpapan)-(Pertengkaran)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persiba Balikpapan)-(Pedro Xavier)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persiba Balikpapan)-(wasit)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persiba Balikpapan)-(kartu kuning kedua)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persiba Balikpapan)-(pemain)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persiba Balikpapan)-(Skor 1-0)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persiba Balikpapan)-(keunggulan Persija)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persiba Balikpapan)-(pertandingan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persiba Balikpapan)-(Kemenangan ini)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persiba Balikpapan)-(Persija)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persiba Balikpapan)-(dasar klasemen)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persiba Balikpapan)-(pertandingan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persiba Balikpapan)-(lainnya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persiba Balikpapan)-(Persidafon Dafonsoro)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persiba Balikpapan)-(Sriwijaya FC 3-1)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persiba Balikpapan)-(Persija dan Persidafon)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persiba Balikpapan)-(12 poin)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persiba Balikpapan)-(pertandingan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persiba Balikpapan)-(namun persija unggul)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persiba Balikpapan)-(selisih gol)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persiba Balikpapan)-(Persiba)]";false;true;false;false;false;false;true;PERSON;PERSON
+"[(Persiba Balikpapan)-(kekalahan ini)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persiba Balikpapan)-(mereka)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Persiba Balikpapan)-(peringkat 10)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persiba Balikpapan)-(klasemen sementara)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persiba Balikpapan)-(ISL)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Persiba Balikpapan)-(Tim)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persiba Balikpapan)-('Beruang Madu' itu)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Persiba Balikpapan)-(total)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persiba Balikpapan)-(20 poin)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persiba Balikpapan)-(17 pertandingan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(kandang)-(laga lanjutan Liga Super Indonesia)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(kandang)-(Bertanding)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kandang)-(Stadion Persiba)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(kandang)-(Persija sukses)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kandang)-(Persiba)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kandang)-(1-0 lewat gol Rudi Setiawan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kandang)-(Berstatus tim tamu)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kandang)-(Persija)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kandang)-(tim Macan Kemayoran)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kandang)-(unggul cepat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kandang)-(lewat gol cantik)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kandang)-(Rudi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kandang)-(Pertandingan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kandang)-(menit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kandang)-(pemain gempal)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kandang)-(Persija ini)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kandang)-(bola hasil umpan jauh)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kandang)-(Ngurah Nanak)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kandang)-(area pertahanan Persiba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kandang)-(Rudi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kandang)-(bola)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kandang)-(gawang Persiba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kandang)-(Persija sementara)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kandang)-(unggul 1-0)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kandang)-(Usaha Persiba)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kandang)-(Maulana putra)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kandang)-(wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kandang)-(menit 68)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kandang)-(Pertengkaran)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kandang)-(Pedro Xavier)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kandang)-(wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kandang)-(kartu kuning kedua)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kandang)-(pemain)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kandang)-(Skor 1-0)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kandang)-(keunggulan Persija)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kandang)-(pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kandang)-(Kemenangan ini)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kandang)-(Persija)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kandang)-(dasar klasemen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kandang)-(pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kandang)-(lainnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kandang)-(Persidafon Dafonsoro)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kandang)-(Sriwijaya FC 3-1)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kandang)-(Persija dan Persidafon)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kandang)-(12 poin)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kandang)-(pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kandang)-(namun persija unggul)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kandang)-(selisih gol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kandang)-(Persiba)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kandang)-(kekalahan ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kandang)-(mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(kandang)-(peringkat 10)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kandang)-(klasemen sementara)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kandang)-(ISL)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(kandang)-(Tim)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kandang)-('Beruang Madu' itu)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(kandang)-(total)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kandang)-(20 poin)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kandang)-(17 pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(laga lanjutan Liga Super Indonesia)-(Bertanding)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(laga lanjutan Liga Super Indonesia)-(Stadion Persiba)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(laga lanjutan Liga Super Indonesia)-(Persija sukses)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(laga lanjutan Liga Super Indonesia)-(Persiba)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(laga lanjutan Liga Super Indonesia)-(1-0 lewat gol Rudi Setiawan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(laga lanjutan Liga Super Indonesia)-(Berstatus tim tamu)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(laga lanjutan Liga Super Indonesia)-(Persija)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(laga lanjutan Liga Super Indonesia)-(tim Macan Kemayoran)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(laga lanjutan Liga Super Indonesia)-(unggul cepat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(laga lanjutan Liga Super Indonesia)-(lewat gol cantik)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(laga lanjutan Liga Super Indonesia)-(Rudi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(laga lanjutan Liga Super Indonesia)-(Pertandingan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(laga lanjutan Liga Super Indonesia)-(menit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(laga lanjutan Liga Super Indonesia)-(pemain gempal)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(laga lanjutan Liga Super Indonesia)-(Persija ini)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(laga lanjutan Liga Super Indonesia)-(bola hasil umpan jauh)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(laga lanjutan Liga Super Indonesia)-(Ngurah Nanak)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(laga lanjutan Liga Super Indonesia)-(area pertahanan Persiba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(laga lanjutan Liga Super Indonesia)-(Rudi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(laga lanjutan Liga Super Indonesia)-(bola)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(laga lanjutan Liga Super Indonesia)-(gawang Persiba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(laga lanjutan Liga Super Indonesia)-(Persija sementara)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(laga lanjutan Liga Super Indonesia)-(unggul 1-0)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(laga lanjutan Liga Super Indonesia)-(Usaha Persiba)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(laga lanjutan Liga Super Indonesia)-(Maulana putra)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(laga lanjutan Liga Super Indonesia)-(wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(laga lanjutan Liga Super Indonesia)-(menit 68)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(laga lanjutan Liga Super Indonesia)-(Pertengkaran)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(laga lanjutan Liga Super Indonesia)-(Pedro Xavier)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(laga lanjutan Liga Super Indonesia)-(wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(laga lanjutan Liga Super Indonesia)-(kartu kuning kedua)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(laga lanjutan Liga Super Indonesia)-(pemain)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(laga lanjutan Liga Super Indonesia)-(Skor 1-0)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(laga lanjutan Liga Super Indonesia)-(keunggulan Persija)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(laga lanjutan Liga Super Indonesia)-(pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(laga lanjutan Liga Super Indonesia)-(Kemenangan ini)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(laga lanjutan Liga Super Indonesia)-(Persija)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(laga lanjutan Liga Super Indonesia)-(dasar klasemen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(laga lanjutan Liga Super Indonesia)-(pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(laga lanjutan Liga Super Indonesia)-(lainnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(laga lanjutan Liga Super Indonesia)-(Persidafon Dafonsoro)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(laga lanjutan Liga Super Indonesia)-(Sriwijaya FC 3-1)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(laga lanjutan Liga Super Indonesia)-(Persija dan Persidafon)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(laga lanjutan Liga Super Indonesia)-(12 poin)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(laga lanjutan Liga Super Indonesia)-(pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(laga lanjutan Liga Super Indonesia)-(namun persija unggul)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(laga lanjutan Liga Super Indonesia)-(selisih gol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(laga lanjutan Liga Super Indonesia)-(Persiba)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(laga lanjutan Liga Super Indonesia)-(kekalahan ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(laga lanjutan Liga Super Indonesia)-(mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(laga lanjutan Liga Super Indonesia)-(peringkat 10)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(laga lanjutan Liga Super Indonesia)-(klasemen sementara)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(laga lanjutan Liga Super Indonesia)-(ISL)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(laga lanjutan Liga Super Indonesia)-(Tim)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(laga lanjutan Liga Super Indonesia)-('Beruang Madu' itu)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(laga lanjutan Liga Super Indonesia)-(total)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(laga lanjutan Liga Super Indonesia)-(20 poin)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(laga lanjutan Liga Super Indonesia)-(17 pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Bertanding)-(Stadion Persiba)]";false;true;false;false;false;true;false;PERSON;LOCATION
+"[(Bertanding)-(Persija sukses)]";false;true;false;false;false;true;false;PERSON;PERSON
+"[(Bertanding)-(Persiba)]";false;true;false;false;false;true;false;PERSON;PERSON
+"[(Bertanding)-(1-0 lewat gol Rudi Setiawan)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Bertanding)-(Berstatus tim tamu)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Bertanding)-(Persija)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Bertanding)-(tim Macan Kemayoran)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bertanding)-(unggul cepat)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bertanding)-(lewat gol cantik)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bertanding)-(Rudi)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Bertanding)-(Pertandingan)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Bertanding)-(menit)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bertanding)-(pemain gempal)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bertanding)-(Persija ini)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Bertanding)-(bola hasil umpan jauh)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bertanding)-(Ngurah Nanak)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Bertanding)-(area pertahanan Persiba)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bertanding)-(Rudi)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Bertanding)-(bola)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bertanding)-(gawang Persiba)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bertanding)-(Persija sementara)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Bertanding)-(unggul 1-0)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bertanding)-(Usaha Persiba)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Bertanding)-(Maulana putra)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Bertanding)-(wasit)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bertanding)-(menit 68)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bertanding)-(Pertengkaran)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Bertanding)-(Pedro Xavier)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Bertanding)-(wasit)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bertanding)-(kartu kuning kedua)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bertanding)-(pemain)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bertanding)-(Skor 1-0)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Bertanding)-(keunggulan Persija)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bertanding)-(pertandingan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bertanding)-(Kemenangan ini)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Bertanding)-(Persija)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Bertanding)-(dasar klasemen)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bertanding)-(pertandingan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bertanding)-(lainnya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bertanding)-(Persidafon Dafonsoro)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Bertanding)-(Sriwijaya FC 3-1)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Bertanding)-(Persija dan Persidafon)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Bertanding)-(12 poin)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bertanding)-(pertandingan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bertanding)-(namun persija unggul)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bertanding)-(selisih gol)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bertanding)-(Persiba)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Bertanding)-(kekalahan ini)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bertanding)-(mereka)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Bertanding)-(peringkat 10)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bertanding)-(klasemen sementara)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bertanding)-(ISL)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Bertanding)-(Tim)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Bertanding)-('Beruang Madu' itu)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Bertanding)-(total)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bertanding)-(20 poin)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Bertanding)-(17 pertandingan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Stadion Persiba)-(Persija sukses)]";false;true;false;false;false;true;false;LOCATION;PERSON
+"[(Stadion Persiba)-(Persiba)]";false;true;false;false;false;true;true;LOCATION;PERSON
+"[(Stadion Persiba)-(1-0 lewat gol Rudi Setiawan)]";false;true;false;false;false;true;false;LOCATION;OTHER
+"[(Stadion Persiba)-(Berstatus tim tamu)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Stadion Persiba)-(Persija)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Stadion Persiba)-(tim Macan Kemayoran)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Stadion Persiba)-(unggul cepat)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Stadion Persiba)-(lewat gol cantik)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Stadion Persiba)-(Rudi)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Stadion Persiba)-(Pertandingan)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Stadion Persiba)-(menit)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Stadion Persiba)-(pemain gempal)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Stadion Persiba)-(Persija ini)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Stadion Persiba)-(bola hasil umpan jauh)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Stadion Persiba)-(Ngurah Nanak)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Stadion Persiba)-(area pertahanan Persiba)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Stadion Persiba)-(Rudi)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Stadion Persiba)-(bola)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Stadion Persiba)-(gawang Persiba)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Stadion Persiba)-(Persija sementara)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Stadion Persiba)-(unggul 1-0)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Stadion Persiba)-(Usaha Persiba)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Stadion Persiba)-(Maulana putra)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Stadion Persiba)-(wasit)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Stadion Persiba)-(menit 68)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Stadion Persiba)-(Pertengkaran)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Stadion Persiba)-(Pedro Xavier)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Stadion Persiba)-(wasit)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Stadion Persiba)-(kartu kuning kedua)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Stadion Persiba)-(pemain)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Stadion Persiba)-(Skor 1-0)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Stadion Persiba)-(keunggulan Persija)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Stadion Persiba)-(pertandingan)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Stadion Persiba)-(Kemenangan ini)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Stadion Persiba)-(Persija)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Stadion Persiba)-(dasar klasemen)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Stadion Persiba)-(pertandingan)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Stadion Persiba)-(lainnya)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Stadion Persiba)-(Persidafon Dafonsoro)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Stadion Persiba)-(Sriwijaya FC 3-1)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Stadion Persiba)-(Persija dan Persidafon)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Stadion Persiba)-(12 poin)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Stadion Persiba)-(pertandingan)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Stadion Persiba)-(namun persija unggul)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Stadion Persiba)-(selisih gol)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Stadion Persiba)-(Persiba)]";false;true;false;false;false;false;true;LOCATION;PERSON
+"[(Stadion Persiba)-(kekalahan ini)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Stadion Persiba)-(mereka)]";false;true;false;false;true;false;false;LOCATION;OTHER
+"[(Stadion Persiba)-(peringkat 10)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Stadion Persiba)-(klasemen sementara)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Stadion Persiba)-(ISL)]";false;true;false;false;false;false;false;LOCATION;ORGANIZATION
+"[(Stadion Persiba)-(Tim)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Stadion Persiba)-('Beruang Madu' itu)]";false;false;false;false;false;false;false;LOCATION;PERSON
+"[(Stadion Persiba)-(total)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Stadion Persiba)-(20 poin)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Stadion Persiba)-(17 pertandingan)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Persija sukses)-(Persiba)]";false;true;false;false;false;true;false;PERSON;PERSON
+"[(Persija sukses)-(1-0 lewat gol Rudi Setiawan)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Persija sukses)-(Berstatus tim tamu)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persija sukses)-(Persija)]";false;true;false;false;false;false;true;PERSON;PERSON
+"[(Persija sukses)-(tim Macan Kemayoran)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija sukses)-(unggul cepat)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija sukses)-(lewat gol cantik)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija sukses)-(Rudi)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persija sukses)-(Pertandingan)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persija sukses)-(menit)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija sukses)-(pemain gempal)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija sukses)-(Persija ini)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persija sukses)-(bola hasil umpan jauh)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija sukses)-(Ngurah Nanak)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persija sukses)-(area pertahanan Persiba)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija sukses)-(Rudi)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persija sukses)-(bola)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija sukses)-(gawang Persiba)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija sukses)-(Persija sementara)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persija sukses)-(unggul 1-0)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija sukses)-(Usaha Persiba)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persija sukses)-(Maulana putra)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persija sukses)-(wasit)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija sukses)-(menit 68)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija sukses)-(Pertengkaran)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persija sukses)-(Pedro Xavier)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persija sukses)-(wasit)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija sukses)-(kartu kuning kedua)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija sukses)-(pemain)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija sukses)-(Skor 1-0)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persija sukses)-(keunggulan Persija)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija sukses)-(pertandingan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija sukses)-(Kemenangan ini)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persija sukses)-(Persija)]";false;true;false;false;false;false;true;PERSON;PERSON
+"[(Persija sukses)-(dasar klasemen)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija sukses)-(pertandingan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija sukses)-(lainnya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija sukses)-(Persidafon Dafonsoro)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persija sukses)-(Sriwijaya FC 3-1)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persija sukses)-(Persija dan Persidafon)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persija sukses)-(12 poin)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija sukses)-(pertandingan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija sukses)-(namun persija unggul)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija sukses)-(selisih gol)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija sukses)-(Persiba)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persija sukses)-(kekalahan ini)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija sukses)-(mereka)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Persija sukses)-(peringkat 10)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija sukses)-(klasemen sementara)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija sukses)-(ISL)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Persija sukses)-(Tim)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persija sukses)-('Beruang Madu' itu)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Persija sukses)-(total)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija sukses)-(20 poin)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija sukses)-(17 pertandingan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persiba)-(1-0 lewat gol Rudi Setiawan)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Persiba)-(Berstatus tim tamu)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persiba)-(Persija)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persiba)-(tim Macan Kemayoran)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persiba)-(unggul cepat)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persiba)-(lewat gol cantik)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persiba)-(Rudi)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persiba)-(Pertandingan)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persiba)-(menit)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persiba)-(pemain gempal)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persiba)-(Persija ini)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persiba)-(bola hasil umpan jauh)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persiba)-(Ngurah Nanak)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persiba)-(area pertahanan Persiba)]";false;true;false;false;false;false;true;PERSON;OTHER
+"[(Persiba)-(Rudi)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persiba)-(bola)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persiba)-(gawang Persiba)]";false;true;false;false;false;false;true;PERSON;OTHER
+"[(Persiba)-(Persija sementara)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persiba)-(unggul 1-0)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persiba)-(Usaha Persiba)]";false;true;false;false;false;false;true;PERSON;PERSON
+"[(Persiba)-(Maulana putra)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persiba)-(wasit)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persiba)-(menit 68)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persiba)-(Pertengkaran)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persiba)-(Pedro Xavier)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persiba)-(wasit)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persiba)-(kartu kuning kedua)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persiba)-(pemain)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persiba)-(Skor 1-0)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persiba)-(keunggulan Persija)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persiba)-(pertandingan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persiba)-(Kemenangan ini)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persiba)-(Persija)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persiba)-(dasar klasemen)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persiba)-(pertandingan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persiba)-(lainnya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persiba)-(Persidafon Dafonsoro)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persiba)-(Sriwijaya FC 3-1)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persiba)-(Persija dan Persidafon)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persiba)-(12 poin)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persiba)-(pertandingan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persiba)-(namun persija unggul)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persiba)-(selisih gol)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persiba)-(Persiba)]";true;true;false;false;false;false;true;PERSON;PERSON
+"[(Persiba)-(kekalahan ini)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persiba)-(mereka)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Persiba)-(peringkat 10)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persiba)-(klasemen sementara)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persiba)-(ISL)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Persiba)-(Tim)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persiba)-('Beruang Madu' itu)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Persiba)-(total)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persiba)-(20 poin)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persiba)-(17 pertandingan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(1-0 lewat gol Rudi Setiawan)-(Berstatus tim tamu)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(1-0 lewat gol Rudi Setiawan)-(Persija)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(1-0 lewat gol Rudi Setiawan)-(tim Macan Kemayoran)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(1-0 lewat gol Rudi Setiawan)-(unggul cepat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(1-0 lewat gol Rudi Setiawan)-(lewat gol cantik)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(1-0 lewat gol Rudi Setiawan)-(Rudi)]";false;true;false;false;false;false;true;OTHER;PERSON
+"[(1-0 lewat gol Rudi Setiawan)-(Pertandingan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(1-0 lewat gol Rudi Setiawan)-(menit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(1-0 lewat gol Rudi Setiawan)-(pemain gempal)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(1-0 lewat gol Rudi Setiawan)-(Persija ini)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(1-0 lewat gol Rudi Setiawan)-(bola hasil umpan jauh)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(1-0 lewat gol Rudi Setiawan)-(Ngurah Nanak)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(1-0 lewat gol Rudi Setiawan)-(area pertahanan Persiba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(1-0 lewat gol Rudi Setiawan)-(Rudi)]";false;true;false;false;false;false;true;OTHER;PERSON
+"[(1-0 lewat gol Rudi Setiawan)-(bola)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(1-0 lewat gol Rudi Setiawan)-(gawang Persiba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(1-0 lewat gol Rudi Setiawan)-(Persija sementara)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(1-0 lewat gol Rudi Setiawan)-(unggul 1-0)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(1-0 lewat gol Rudi Setiawan)-(Usaha Persiba)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(1-0 lewat gol Rudi Setiawan)-(Maulana putra)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(1-0 lewat gol Rudi Setiawan)-(wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(1-0 lewat gol Rudi Setiawan)-(menit 68)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(1-0 lewat gol Rudi Setiawan)-(Pertengkaran)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(1-0 lewat gol Rudi Setiawan)-(Pedro Xavier)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(1-0 lewat gol Rudi Setiawan)-(wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(1-0 lewat gol Rudi Setiawan)-(kartu kuning kedua)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(1-0 lewat gol Rudi Setiawan)-(pemain)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(1-0 lewat gol Rudi Setiawan)-(Skor 1-0)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(1-0 lewat gol Rudi Setiawan)-(keunggulan Persija)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(1-0 lewat gol Rudi Setiawan)-(pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(1-0 lewat gol Rudi Setiawan)-(Kemenangan ini)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(1-0 lewat gol Rudi Setiawan)-(Persija)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(1-0 lewat gol Rudi Setiawan)-(dasar klasemen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(1-0 lewat gol Rudi Setiawan)-(pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(1-0 lewat gol Rudi Setiawan)-(lainnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(1-0 lewat gol Rudi Setiawan)-(Persidafon Dafonsoro)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(1-0 lewat gol Rudi Setiawan)-(Sriwijaya FC 3-1)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(1-0 lewat gol Rudi Setiawan)-(Persija dan Persidafon)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(1-0 lewat gol Rudi Setiawan)-(12 poin)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(1-0 lewat gol Rudi Setiawan)-(pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(1-0 lewat gol Rudi Setiawan)-(namun persija unggul)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(1-0 lewat gol Rudi Setiawan)-(selisih gol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(1-0 lewat gol Rudi Setiawan)-(Persiba)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(1-0 lewat gol Rudi Setiawan)-(kekalahan ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(1-0 lewat gol Rudi Setiawan)-(mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(1-0 lewat gol Rudi Setiawan)-(peringkat 10)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(1-0 lewat gol Rudi Setiawan)-(klasemen sementara)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(1-0 lewat gol Rudi Setiawan)-(ISL)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(1-0 lewat gol Rudi Setiawan)-(Tim)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(1-0 lewat gol Rudi Setiawan)-('Beruang Madu' itu)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(1-0 lewat gol Rudi Setiawan)-(total)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(1-0 lewat gol Rudi Setiawan)-(20 poin)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(1-0 lewat gol Rudi Setiawan)-(17 pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Berstatus tim tamu)-(Persija)]";false;true;false;false;false;true;false;PERSON;PERSON
+"[(Berstatus tim tamu)-(tim Macan Kemayoran)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Berstatus tim tamu)-(unggul cepat)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Berstatus tim tamu)-(lewat gol cantik)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Berstatus tim tamu)-(Rudi)]";false;true;false;false;false;true;false;PERSON;PERSON
+"[(Berstatus tim tamu)-(Pertandingan)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Berstatus tim tamu)-(menit)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Berstatus tim tamu)-(pemain gempal)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Berstatus tim tamu)-(Persija ini)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Berstatus tim tamu)-(bola hasil umpan jauh)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Berstatus tim tamu)-(Ngurah Nanak)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Berstatus tim tamu)-(area pertahanan Persiba)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Berstatus tim tamu)-(Rudi)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Berstatus tim tamu)-(bola)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Berstatus tim tamu)-(gawang Persiba)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Berstatus tim tamu)-(Persija sementara)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Berstatus tim tamu)-(unggul 1-0)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Berstatus tim tamu)-(Usaha Persiba)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Berstatus tim tamu)-(Maulana putra)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Berstatus tim tamu)-(wasit)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Berstatus tim tamu)-(menit 68)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Berstatus tim tamu)-(Pertengkaran)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Berstatus tim tamu)-(Pedro Xavier)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Berstatus tim tamu)-(wasit)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Berstatus tim tamu)-(kartu kuning kedua)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Berstatus tim tamu)-(pemain)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Berstatus tim tamu)-(Skor 1-0)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Berstatus tim tamu)-(keunggulan Persija)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Berstatus tim tamu)-(pertandingan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Berstatus tim tamu)-(Kemenangan ini)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Berstatus tim tamu)-(Persija)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Berstatus tim tamu)-(dasar klasemen)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Berstatus tim tamu)-(pertandingan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Berstatus tim tamu)-(lainnya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Berstatus tim tamu)-(Persidafon Dafonsoro)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Berstatus tim tamu)-(Sriwijaya FC 3-1)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Berstatus tim tamu)-(Persija dan Persidafon)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Berstatus tim tamu)-(12 poin)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Berstatus tim tamu)-(pertandingan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Berstatus tim tamu)-(namun persija unggul)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Berstatus tim tamu)-(selisih gol)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Berstatus tim tamu)-(Persiba)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Berstatus tim tamu)-(kekalahan ini)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Berstatus tim tamu)-(mereka)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Berstatus tim tamu)-(peringkat 10)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Berstatus tim tamu)-(klasemen sementara)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Berstatus tim tamu)-(ISL)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Berstatus tim tamu)-(Tim)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Berstatus tim tamu)-('Beruang Madu' itu)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Berstatus tim tamu)-(total)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Berstatus tim tamu)-(20 poin)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Berstatus tim tamu)-(17 pertandingan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija)-(tim Macan Kemayoran)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Persija)-(unggul cepat)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Persija)-(lewat gol cantik)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Persija)-(Rudi)]";false;true;false;false;false;true;false;PERSON;PERSON
+"[(Persija)-(Pertandingan)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persija)-(menit)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija)-(pemain gempal)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija)-(Persija ini)]";false;true;false;false;false;false;true;PERSON;PERSON
+"[(Persija)-(bola hasil umpan jauh)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija)-(Ngurah Nanak)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persija)-(area pertahanan Persiba)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija)-(Rudi)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persija)-(bola)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija)-(gawang Persiba)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija)-(Persija sementara)]";false;true;false;false;false;false;true;PERSON;PERSON
+"[(Persija)-(unggul 1-0)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija)-(Usaha Persiba)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persija)-(Maulana putra)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persija)-(wasit)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija)-(menit 68)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija)-(Pertengkaran)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persija)-(Pedro Xavier)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persija)-(wasit)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija)-(kartu kuning kedua)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija)-(pemain)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija)-(Skor 1-0)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persija)-(keunggulan Persija)]";false;true;false;false;false;false;true;PERSON;OTHER
+"[(Persija)-(pertandingan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija)-(Kemenangan ini)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persija)-(Persija)]";true;true;false;false;false;false;true;PERSON;PERSON
+"[(Persija)-(dasar klasemen)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija)-(pertandingan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija)-(lainnya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija)-(Persidafon Dafonsoro)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persija)-(Sriwijaya FC 3-1)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persija)-(Persija dan Persidafon)]";false;true;false;false;false;false;true;PERSON;PERSON
+"[(Persija)-(12 poin)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija)-(pertandingan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija)-(namun persija unggul)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija)-(selisih gol)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija)-(Persiba)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persija)-(kekalahan ini)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija)-(mereka)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Persija)-(peringkat 10)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija)-(klasemen sementara)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija)-(ISL)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Persija)-(Tim)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persija)-('Beruang Madu' itu)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Persija)-(total)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija)-(20 poin)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija)-(17 pertandingan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(tim Macan Kemayoran)-(unggul cepat)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(tim Macan Kemayoran)-(lewat gol cantik)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(tim Macan Kemayoran)-(Rudi)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(tim Macan Kemayoran)-(Pertandingan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(tim Macan Kemayoran)-(menit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tim Macan Kemayoran)-(pemain gempal)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tim Macan Kemayoran)-(Persija ini)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(tim Macan Kemayoran)-(bola hasil umpan jauh)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tim Macan Kemayoran)-(Ngurah Nanak)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(tim Macan Kemayoran)-(area pertahanan Persiba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tim Macan Kemayoran)-(Rudi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(tim Macan Kemayoran)-(bola)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tim Macan Kemayoran)-(gawang Persiba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tim Macan Kemayoran)-(Persija sementara)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(tim Macan Kemayoran)-(unggul 1-0)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tim Macan Kemayoran)-(Usaha Persiba)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(tim Macan Kemayoran)-(Maulana putra)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(tim Macan Kemayoran)-(wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tim Macan Kemayoran)-(menit 68)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tim Macan Kemayoran)-(Pertengkaran)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(tim Macan Kemayoran)-(Pedro Xavier)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(tim Macan Kemayoran)-(wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tim Macan Kemayoran)-(kartu kuning kedua)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tim Macan Kemayoran)-(pemain)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tim Macan Kemayoran)-(Skor 1-0)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(tim Macan Kemayoran)-(keunggulan Persija)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tim Macan Kemayoran)-(pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tim Macan Kemayoran)-(Kemenangan ini)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(tim Macan Kemayoran)-(Persija)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(tim Macan Kemayoran)-(dasar klasemen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tim Macan Kemayoran)-(pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tim Macan Kemayoran)-(lainnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tim Macan Kemayoran)-(Persidafon Dafonsoro)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(tim Macan Kemayoran)-(Sriwijaya FC 3-1)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(tim Macan Kemayoran)-(Persija dan Persidafon)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(tim Macan Kemayoran)-(12 poin)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tim Macan Kemayoran)-(pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tim Macan Kemayoran)-(namun persija unggul)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tim Macan Kemayoran)-(selisih gol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tim Macan Kemayoran)-(Persiba)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(tim Macan Kemayoran)-(kekalahan ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tim Macan Kemayoran)-(mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(tim Macan Kemayoran)-(peringkat 10)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tim Macan Kemayoran)-(klasemen sementara)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tim Macan Kemayoran)-(ISL)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(tim Macan Kemayoran)-(Tim)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(tim Macan Kemayoran)-('Beruang Madu' itu)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(tim Macan Kemayoran)-(total)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tim Macan Kemayoran)-(20 poin)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tim Macan Kemayoran)-(17 pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(unggul cepat)-(lewat gol cantik)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(unggul cepat)-(Rudi)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(unggul cepat)-(Pertandingan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(unggul cepat)-(menit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(unggul cepat)-(pemain gempal)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(unggul cepat)-(Persija ini)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(unggul cepat)-(bola hasil umpan jauh)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(unggul cepat)-(Ngurah Nanak)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(unggul cepat)-(area pertahanan Persiba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(unggul cepat)-(Rudi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(unggul cepat)-(bola)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(unggul cepat)-(gawang Persiba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(unggul cepat)-(Persija sementara)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(unggul cepat)-(unggul 1-0)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(unggul cepat)-(Usaha Persiba)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(unggul cepat)-(Maulana putra)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(unggul cepat)-(wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(unggul cepat)-(menit 68)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(unggul cepat)-(Pertengkaran)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(unggul cepat)-(Pedro Xavier)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(unggul cepat)-(wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(unggul cepat)-(kartu kuning kedua)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(unggul cepat)-(pemain)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(unggul cepat)-(Skor 1-0)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(unggul cepat)-(keunggulan Persija)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(unggul cepat)-(pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(unggul cepat)-(Kemenangan ini)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(unggul cepat)-(Persija)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(unggul cepat)-(dasar klasemen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(unggul cepat)-(pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(unggul cepat)-(lainnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(unggul cepat)-(Persidafon Dafonsoro)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(unggul cepat)-(Sriwijaya FC 3-1)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(unggul cepat)-(Persija dan Persidafon)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(unggul cepat)-(12 poin)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(unggul cepat)-(pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(unggul cepat)-(namun persija unggul)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(unggul cepat)-(selisih gol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(unggul cepat)-(Persiba)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(unggul cepat)-(kekalahan ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(unggul cepat)-(mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(unggul cepat)-(peringkat 10)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(unggul cepat)-(klasemen sementara)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(unggul cepat)-(ISL)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(unggul cepat)-(Tim)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(unggul cepat)-('Beruang Madu' itu)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(unggul cepat)-(total)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(unggul cepat)-(20 poin)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(unggul cepat)-(17 pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lewat gol cantik)-(Rudi)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(lewat gol cantik)-(Pertandingan)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(lewat gol cantik)-(menit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lewat gol cantik)-(pemain gempal)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lewat gol cantik)-(Persija ini)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(lewat gol cantik)-(bola hasil umpan jauh)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lewat gol cantik)-(Ngurah Nanak)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(lewat gol cantik)-(area pertahanan Persiba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lewat gol cantik)-(Rudi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(lewat gol cantik)-(bola)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lewat gol cantik)-(gawang Persiba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lewat gol cantik)-(Persija sementara)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(lewat gol cantik)-(unggul 1-0)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lewat gol cantik)-(Usaha Persiba)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(lewat gol cantik)-(Maulana putra)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(lewat gol cantik)-(wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lewat gol cantik)-(menit 68)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lewat gol cantik)-(Pertengkaran)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(lewat gol cantik)-(Pedro Xavier)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(lewat gol cantik)-(wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lewat gol cantik)-(kartu kuning kedua)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lewat gol cantik)-(pemain)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lewat gol cantik)-(Skor 1-0)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(lewat gol cantik)-(keunggulan Persija)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lewat gol cantik)-(pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lewat gol cantik)-(Kemenangan ini)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(lewat gol cantik)-(Persija)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(lewat gol cantik)-(dasar klasemen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lewat gol cantik)-(pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lewat gol cantik)-(lainnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lewat gol cantik)-(Persidafon Dafonsoro)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(lewat gol cantik)-(Sriwijaya FC 3-1)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(lewat gol cantik)-(Persija dan Persidafon)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(lewat gol cantik)-(12 poin)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lewat gol cantik)-(pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lewat gol cantik)-(namun persija unggul)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lewat gol cantik)-(selisih gol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lewat gol cantik)-(Persiba)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(lewat gol cantik)-(kekalahan ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lewat gol cantik)-(mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(lewat gol cantik)-(peringkat 10)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lewat gol cantik)-(klasemen sementara)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lewat gol cantik)-(ISL)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(lewat gol cantik)-(Tim)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(lewat gol cantik)-('Beruang Madu' itu)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(lewat gol cantik)-(total)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lewat gol cantik)-(20 poin)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lewat gol cantik)-(17 pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Rudi)-(Pertandingan)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Rudi)-(menit)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Rudi)-(pemain gempal)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Rudi)-(Persija ini)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Rudi)-(bola hasil umpan jauh)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Rudi)-(Ngurah Nanak)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Rudi)-(area pertahanan Persiba)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Rudi)-(Rudi)]";true;true;false;false;false;false;true;PERSON;PERSON
+"[(Rudi)-(bola)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Rudi)-(gawang Persiba)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Rudi)-(Persija sementara)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Rudi)-(unggul 1-0)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Rudi)-(Usaha Persiba)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Rudi)-(Maulana putra)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Rudi)-(wasit)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Rudi)-(menit 68)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Rudi)-(Pertengkaran)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Rudi)-(Pedro Xavier)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Rudi)-(wasit)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Rudi)-(kartu kuning kedua)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Rudi)-(pemain)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Rudi)-(Skor 1-0)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Rudi)-(keunggulan Persija)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Rudi)-(pertandingan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Rudi)-(Kemenangan ini)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Rudi)-(Persija)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Rudi)-(dasar klasemen)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Rudi)-(pertandingan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Rudi)-(lainnya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Rudi)-(Persidafon Dafonsoro)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Rudi)-(Sriwijaya FC 3-1)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Rudi)-(Persija dan Persidafon)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Rudi)-(12 poin)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Rudi)-(pertandingan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Rudi)-(namun persija unggul)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Rudi)-(selisih gol)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Rudi)-(Persiba)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Rudi)-(kekalahan ini)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Rudi)-(mereka)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Rudi)-(peringkat 10)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Rudi)-(klasemen sementara)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Rudi)-(ISL)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Rudi)-(Tim)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Rudi)-('Beruang Madu' itu)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Rudi)-(total)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Rudi)-(20 poin)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Rudi)-(17 pertandingan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pertandingan)-(menit)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Pertandingan)-(pemain gempal)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Pertandingan)-(Persija ini)]";false;true;false;false;false;true;false;PERSON;PERSON
+"[(Pertandingan)-(bola hasil umpan jauh)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Pertandingan)-(Ngurah Nanak)]";false;true;false;false;false;true;false;PERSON;PERSON
+"[(Pertandingan)-(area pertahanan Persiba)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Pertandingan)-(Rudi)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Pertandingan)-(bola)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pertandingan)-(gawang Persiba)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pertandingan)-(Persija sementara)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Pertandingan)-(unggul 1-0)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pertandingan)-(Usaha Persiba)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Pertandingan)-(Maulana putra)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Pertandingan)-(wasit)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pertandingan)-(menit 68)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pertandingan)-(Pertengkaran)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Pertandingan)-(Pedro Xavier)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Pertandingan)-(wasit)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pertandingan)-(kartu kuning kedua)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pertandingan)-(pemain)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pertandingan)-(Skor 1-0)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Pertandingan)-(keunggulan Persija)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pertandingan)-(pertandingan)]";true;true;false;false;false;false;false;PERSON;OTHER
+"[(Pertandingan)-(Kemenangan ini)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Pertandingan)-(Persija)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Pertandingan)-(dasar klasemen)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pertandingan)-(pertandingan)]";true;true;false;false;false;false;false;PERSON;OTHER
+"[(Pertandingan)-(lainnya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pertandingan)-(Persidafon Dafonsoro)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Pertandingan)-(Sriwijaya FC 3-1)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Pertandingan)-(Persija dan Persidafon)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Pertandingan)-(12 poin)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pertandingan)-(pertandingan)]";true;true;false;false;false;false;false;PERSON;OTHER
+"[(Pertandingan)-(namun persija unggul)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pertandingan)-(selisih gol)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pertandingan)-(Persiba)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Pertandingan)-(kekalahan ini)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pertandingan)-(mereka)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Pertandingan)-(peringkat 10)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pertandingan)-(klasemen sementara)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pertandingan)-(ISL)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Pertandingan)-(Tim)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Pertandingan)-('Beruang Madu' itu)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Pertandingan)-(total)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pertandingan)-(20 poin)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pertandingan)-(17 pertandingan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(menit)-(pemain gempal)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(menit)-(Persija ini)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(menit)-(bola hasil umpan jauh)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(menit)-(Ngurah Nanak)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(menit)-(area pertahanan Persiba)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(menit)-(Rudi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(menit)-(bola)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(menit)-(gawang Persiba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(menit)-(Persija sementara)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(menit)-(unggul 1-0)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(menit)-(Usaha Persiba)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(menit)-(Maulana putra)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(menit)-(wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(menit)-(menit 68)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(menit)-(Pertengkaran)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(menit)-(Pedro Xavier)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(menit)-(wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(menit)-(kartu kuning kedua)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(menit)-(pemain)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(menit)-(Skor 1-0)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(menit)-(keunggulan Persija)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(menit)-(pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(menit)-(Kemenangan ini)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(menit)-(Persija)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(menit)-(dasar klasemen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(menit)-(pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(menit)-(lainnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(menit)-(Persidafon Dafonsoro)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(menit)-(Sriwijaya FC 3-1)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(menit)-(Persija dan Persidafon)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(menit)-(12 poin)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(menit)-(pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(menit)-(namun persija unggul)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(menit)-(selisih gol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(menit)-(Persiba)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(menit)-(kekalahan ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(menit)-(mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(menit)-(peringkat 10)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(menit)-(klasemen sementara)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(menit)-(ISL)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(menit)-(Tim)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(menit)-('Beruang Madu' itu)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(menit)-(total)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(menit)-(20 poin)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(menit)-(17 pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemain gempal)-(Persija ini)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(pemain gempal)-(bola hasil umpan jauh)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(pemain gempal)-(Ngurah Nanak)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(pemain gempal)-(area pertahanan Persiba)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(pemain gempal)-(Rudi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pemain gempal)-(bola)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemain gempal)-(gawang Persiba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemain gempal)-(Persija sementara)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pemain gempal)-(unggul 1-0)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemain gempal)-(Usaha Persiba)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pemain gempal)-(Maulana putra)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pemain gempal)-(wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemain gempal)-(menit 68)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemain gempal)-(Pertengkaran)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pemain gempal)-(Pedro Xavier)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pemain gempal)-(wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemain gempal)-(kartu kuning kedua)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemain gempal)-(pemain)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(pemain gempal)-(Skor 1-0)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pemain gempal)-(keunggulan Persija)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemain gempal)-(pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemain gempal)-(Kemenangan ini)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pemain gempal)-(Persija)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pemain gempal)-(dasar klasemen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemain gempal)-(pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemain gempal)-(lainnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemain gempal)-(Persidafon Dafonsoro)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pemain gempal)-(Sriwijaya FC 3-1)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pemain gempal)-(Persija dan Persidafon)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pemain gempal)-(12 poin)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemain gempal)-(pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemain gempal)-(namun persija unggul)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemain gempal)-(selisih gol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemain gempal)-(Persiba)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pemain gempal)-(kekalahan ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemain gempal)-(mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(pemain gempal)-(peringkat 10)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemain gempal)-(klasemen sementara)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemain gempal)-(ISL)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(pemain gempal)-(Tim)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pemain gempal)-('Beruang Madu' itu)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(pemain gempal)-(total)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemain gempal)-(20 poin)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemain gempal)-(17 pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Persija ini)-(bola hasil umpan jauh)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Persija ini)-(Ngurah Nanak)]";false;true;false;false;false;true;false;PERSON;PERSON
+"[(Persija ini)-(area pertahanan Persiba)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Persija ini)-(Rudi)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persija ini)-(bola)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija ini)-(gawang Persiba)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija ini)-(Persija sementara)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persija ini)-(unggul 1-0)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija ini)-(Usaha Persiba)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persija ini)-(Maulana putra)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persija ini)-(wasit)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija ini)-(menit 68)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija ini)-(Pertengkaran)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persija ini)-(Pedro Xavier)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persija ini)-(wasit)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija ini)-(kartu kuning kedua)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija ini)-(pemain)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija ini)-(Skor 1-0)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persija ini)-(keunggulan Persija)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija ini)-(pertandingan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija ini)-(Kemenangan ini)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persija ini)-(Persija)]";false;true;false;false;false;false;true;PERSON;PERSON
+"[(Persija ini)-(dasar klasemen)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija ini)-(pertandingan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija ini)-(lainnya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija ini)-(Persidafon Dafonsoro)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persija ini)-(Sriwijaya FC 3-1)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persija ini)-(Persija dan Persidafon)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persija ini)-(12 poin)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija ini)-(pertandingan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija ini)-(namun persija unggul)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija ini)-(selisih gol)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija ini)-(Persiba)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persija ini)-(kekalahan ini)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija ini)-(mereka)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Persija ini)-(peringkat 10)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija ini)-(klasemen sementara)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija ini)-(ISL)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Persija ini)-(Tim)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persija ini)-('Beruang Madu' itu)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Persija ini)-(total)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija ini)-(20 poin)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija ini)-(17 pertandingan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(bola hasil umpan jauh)-(Ngurah Nanak)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(bola hasil umpan jauh)-(area pertahanan Persiba)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(bola hasil umpan jauh)-(Rudi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(bola hasil umpan jauh)-(bola)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(bola hasil umpan jauh)-(gawang Persiba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bola hasil umpan jauh)-(Persija sementara)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(bola hasil umpan jauh)-(unggul 1-0)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bola hasil umpan jauh)-(Usaha Persiba)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(bola hasil umpan jauh)-(Maulana putra)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(bola hasil umpan jauh)-(wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bola hasil umpan jauh)-(menit 68)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bola hasil umpan jauh)-(Pertengkaran)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(bola hasil umpan jauh)-(Pedro Xavier)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(bola hasil umpan jauh)-(wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bola hasil umpan jauh)-(kartu kuning kedua)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bola hasil umpan jauh)-(pemain)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bola hasil umpan jauh)-(Skor 1-0)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(bola hasil umpan jauh)-(keunggulan Persija)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bola hasil umpan jauh)-(pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bola hasil umpan jauh)-(Kemenangan ini)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(bola hasil umpan jauh)-(Persija)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(bola hasil umpan jauh)-(dasar klasemen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bola hasil umpan jauh)-(pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bola hasil umpan jauh)-(lainnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bola hasil umpan jauh)-(Persidafon Dafonsoro)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(bola hasil umpan jauh)-(Sriwijaya FC 3-1)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(bola hasil umpan jauh)-(Persija dan Persidafon)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(bola hasil umpan jauh)-(12 poin)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bola hasil umpan jauh)-(pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bola hasil umpan jauh)-(namun persija unggul)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bola hasil umpan jauh)-(selisih gol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bola hasil umpan jauh)-(Persiba)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(bola hasil umpan jauh)-(kekalahan ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bola hasil umpan jauh)-(mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(bola hasil umpan jauh)-(peringkat 10)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bola hasil umpan jauh)-(klasemen sementara)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bola hasil umpan jauh)-(ISL)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(bola hasil umpan jauh)-(Tim)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(bola hasil umpan jauh)-('Beruang Madu' itu)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(bola hasil umpan jauh)-(total)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bola hasil umpan jauh)-(20 poin)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bola hasil umpan jauh)-(17 pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Ngurah Nanak)-(area pertahanan Persiba)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Ngurah Nanak)-(Rudi)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Ngurah Nanak)-(bola)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ngurah Nanak)-(gawang Persiba)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ngurah Nanak)-(Persija sementara)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Ngurah Nanak)-(unggul 1-0)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ngurah Nanak)-(Usaha Persiba)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Ngurah Nanak)-(Maulana putra)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Ngurah Nanak)-(wasit)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ngurah Nanak)-(menit 68)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ngurah Nanak)-(Pertengkaran)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Ngurah Nanak)-(Pedro Xavier)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Ngurah Nanak)-(wasit)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ngurah Nanak)-(kartu kuning kedua)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ngurah Nanak)-(pemain)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ngurah Nanak)-(Skor 1-0)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Ngurah Nanak)-(keunggulan Persija)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ngurah Nanak)-(pertandingan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ngurah Nanak)-(Kemenangan ini)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Ngurah Nanak)-(Persija)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Ngurah Nanak)-(dasar klasemen)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ngurah Nanak)-(pertandingan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ngurah Nanak)-(lainnya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ngurah Nanak)-(Persidafon Dafonsoro)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Ngurah Nanak)-(Sriwijaya FC 3-1)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Ngurah Nanak)-(Persija dan Persidafon)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Ngurah Nanak)-(12 poin)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ngurah Nanak)-(pertandingan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ngurah Nanak)-(namun persija unggul)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ngurah Nanak)-(selisih gol)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ngurah Nanak)-(Persiba)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Ngurah Nanak)-(kekalahan ini)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ngurah Nanak)-(mereka)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Ngurah Nanak)-(peringkat 10)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ngurah Nanak)-(klasemen sementara)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ngurah Nanak)-(ISL)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Ngurah Nanak)-(Tim)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Ngurah Nanak)-('Beruang Madu' itu)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Ngurah Nanak)-(total)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ngurah Nanak)-(20 poin)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ngurah Nanak)-(17 pertandingan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(area pertahanan Persiba)-(Rudi)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(area pertahanan Persiba)-(bola)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(area pertahanan Persiba)-(gawang Persiba)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(area pertahanan Persiba)-(Persija sementara)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(area pertahanan Persiba)-(unggul 1-0)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(area pertahanan Persiba)-(Usaha Persiba)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(area pertahanan Persiba)-(Maulana putra)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(area pertahanan Persiba)-(wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(area pertahanan Persiba)-(menit 68)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(area pertahanan Persiba)-(Pertengkaran)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(area pertahanan Persiba)-(Pedro Xavier)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(area pertahanan Persiba)-(wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(area pertahanan Persiba)-(kartu kuning kedua)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(area pertahanan Persiba)-(pemain)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(area pertahanan Persiba)-(Skor 1-0)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(area pertahanan Persiba)-(keunggulan Persija)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(area pertahanan Persiba)-(pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(area pertahanan Persiba)-(Kemenangan ini)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(area pertahanan Persiba)-(Persija)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(area pertahanan Persiba)-(dasar klasemen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(area pertahanan Persiba)-(pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(area pertahanan Persiba)-(lainnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(area pertahanan Persiba)-(Persidafon Dafonsoro)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(area pertahanan Persiba)-(Sriwijaya FC 3-1)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(area pertahanan Persiba)-(Persija dan Persidafon)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(area pertahanan Persiba)-(12 poin)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(area pertahanan Persiba)-(pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(area pertahanan Persiba)-(namun persija unggul)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(area pertahanan Persiba)-(selisih gol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(area pertahanan Persiba)-(Persiba)]";false;true;false;false;false;false;true;OTHER;PERSON
+"[(area pertahanan Persiba)-(kekalahan ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(area pertahanan Persiba)-(mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(area pertahanan Persiba)-(peringkat 10)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(area pertahanan Persiba)-(klasemen sementara)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(area pertahanan Persiba)-(ISL)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(area pertahanan Persiba)-(Tim)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(area pertahanan Persiba)-('Beruang Madu' itu)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(area pertahanan Persiba)-(total)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(area pertahanan Persiba)-(20 poin)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(area pertahanan Persiba)-(17 pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Rudi)-(bola)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Rudi)-(gawang Persiba)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Rudi)-(Persija sementara)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Rudi)-(unggul 1-0)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Rudi)-(Usaha Persiba)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Rudi)-(Maulana putra)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Rudi)-(wasit)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Rudi)-(menit 68)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Rudi)-(Pertengkaran)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Rudi)-(Pedro Xavier)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Rudi)-(wasit)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Rudi)-(kartu kuning kedua)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Rudi)-(pemain)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Rudi)-(Skor 1-0)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Rudi)-(keunggulan Persija)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Rudi)-(pertandingan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Rudi)-(Kemenangan ini)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Rudi)-(Persija)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Rudi)-(dasar klasemen)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Rudi)-(pertandingan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Rudi)-(lainnya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Rudi)-(Persidafon Dafonsoro)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Rudi)-(Sriwijaya FC 3-1)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Rudi)-(Persija dan Persidafon)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Rudi)-(12 poin)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Rudi)-(pertandingan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Rudi)-(namun persija unggul)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Rudi)-(selisih gol)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Rudi)-(Persiba)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Rudi)-(kekalahan ini)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Rudi)-(mereka)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Rudi)-(peringkat 10)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Rudi)-(klasemen sementara)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Rudi)-(ISL)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Rudi)-(Tim)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Rudi)-('Beruang Madu' itu)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Rudi)-(total)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Rudi)-(20 poin)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Rudi)-(17 pertandingan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(bola)-(gawang Persiba)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(bola)-(Persija sementara)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(bola)-(unggul 1-0)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bola)-(Usaha Persiba)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(bola)-(Maulana putra)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(bola)-(wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bola)-(menit 68)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bola)-(Pertengkaran)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(bola)-(Pedro Xavier)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(bola)-(wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bola)-(kartu kuning kedua)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bola)-(pemain)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bola)-(Skor 1-0)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(bola)-(keunggulan Persija)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bola)-(pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bola)-(Kemenangan ini)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(bola)-(Persija)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(bola)-(dasar klasemen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bola)-(pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bola)-(lainnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bola)-(Persidafon Dafonsoro)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(bola)-(Sriwijaya FC 3-1)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(bola)-(Persija dan Persidafon)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(bola)-(12 poin)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bola)-(pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bola)-(namun persija unggul)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bola)-(selisih gol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bola)-(Persiba)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(bola)-(kekalahan ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bola)-(mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(bola)-(peringkat 10)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bola)-(klasemen sementara)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bola)-(ISL)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(bola)-(Tim)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(bola)-('Beruang Madu' itu)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(bola)-(total)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bola)-(20 poin)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bola)-(17 pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(gawang Persiba)-(Persija sementara)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(gawang Persiba)-(unggul 1-0)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(gawang Persiba)-(Usaha Persiba)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(gawang Persiba)-(Maulana putra)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(gawang Persiba)-(wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(gawang Persiba)-(menit 68)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(gawang Persiba)-(Pertengkaran)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(gawang Persiba)-(Pedro Xavier)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(gawang Persiba)-(wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(gawang Persiba)-(kartu kuning kedua)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(gawang Persiba)-(pemain)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(gawang Persiba)-(Skor 1-0)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(gawang Persiba)-(keunggulan Persija)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(gawang Persiba)-(pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(gawang Persiba)-(Kemenangan ini)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(gawang Persiba)-(Persija)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(gawang Persiba)-(dasar klasemen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(gawang Persiba)-(pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(gawang Persiba)-(lainnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(gawang Persiba)-(Persidafon Dafonsoro)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(gawang Persiba)-(Sriwijaya FC 3-1)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(gawang Persiba)-(Persija dan Persidafon)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(gawang Persiba)-(12 poin)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(gawang Persiba)-(pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(gawang Persiba)-(namun persija unggul)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(gawang Persiba)-(selisih gol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(gawang Persiba)-(Persiba)]";false;true;false;false;false;false;true;OTHER;PERSON
+"[(gawang Persiba)-(kekalahan ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(gawang Persiba)-(mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(gawang Persiba)-(peringkat 10)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(gawang Persiba)-(klasemen sementara)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(gawang Persiba)-(ISL)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(gawang Persiba)-(Tim)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(gawang Persiba)-('Beruang Madu' itu)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(gawang Persiba)-(total)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(gawang Persiba)-(20 poin)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(gawang Persiba)-(17 pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Persija sementara)-(unggul 1-0)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Persija sementara)-(Usaha Persiba)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persija sementara)-(Maulana putra)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persija sementara)-(wasit)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija sementara)-(menit 68)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija sementara)-(Pertengkaran)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persija sementara)-(Pedro Xavier)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persija sementara)-(wasit)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija sementara)-(kartu kuning kedua)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija sementara)-(pemain)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija sementara)-(Skor 1-0)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persija sementara)-(keunggulan Persija)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija sementara)-(pertandingan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija sementara)-(Kemenangan ini)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persija sementara)-(Persija)]";false;true;false;false;false;false;true;PERSON;PERSON
+"[(Persija sementara)-(dasar klasemen)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija sementara)-(pertandingan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija sementara)-(lainnya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija sementara)-(Persidafon Dafonsoro)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persija sementara)-(Sriwijaya FC 3-1)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persija sementara)-(Persija dan Persidafon)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persija sementara)-(12 poin)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija sementara)-(pertandingan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija sementara)-(namun persija unggul)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija sementara)-(selisih gol)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija sementara)-(Persiba)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persija sementara)-(kekalahan ini)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija sementara)-(mereka)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Persija sementara)-(peringkat 10)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija sementara)-(klasemen sementara)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija sementara)-(ISL)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Persija sementara)-(Tim)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persija sementara)-('Beruang Madu' itu)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Persija sementara)-(total)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija sementara)-(20 poin)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija sementara)-(17 pertandingan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(unggul 1-0)-(Usaha Persiba)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(unggul 1-0)-(Maulana putra)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(unggul 1-0)-(wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(unggul 1-0)-(menit 68)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(unggul 1-0)-(Pertengkaran)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(unggul 1-0)-(Pedro Xavier)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(unggul 1-0)-(wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(unggul 1-0)-(kartu kuning kedua)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(unggul 1-0)-(pemain)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(unggul 1-0)-(Skor 1-0)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(unggul 1-0)-(keunggulan Persija)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(unggul 1-0)-(pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(unggul 1-0)-(Kemenangan ini)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(unggul 1-0)-(Persija)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(unggul 1-0)-(dasar klasemen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(unggul 1-0)-(pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(unggul 1-0)-(lainnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(unggul 1-0)-(Persidafon Dafonsoro)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(unggul 1-0)-(Sriwijaya FC 3-1)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(unggul 1-0)-(Persija dan Persidafon)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(unggul 1-0)-(12 poin)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(unggul 1-0)-(pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(unggul 1-0)-(namun persija unggul)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(unggul 1-0)-(selisih gol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(unggul 1-0)-(Persiba)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(unggul 1-0)-(kekalahan ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(unggul 1-0)-(mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(unggul 1-0)-(peringkat 10)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(unggul 1-0)-(klasemen sementara)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(unggul 1-0)-(ISL)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(unggul 1-0)-(Tim)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(unggul 1-0)-('Beruang Madu' itu)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(unggul 1-0)-(total)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(unggul 1-0)-(20 poin)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(unggul 1-0)-(17 pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Usaha Persiba)-(Maulana putra)]";false;true;false;false;false;true;false;PERSON;PERSON
+"[(Usaha Persiba)-(wasit)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Usaha Persiba)-(menit 68)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Usaha Persiba)-(Pertengkaran)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Usaha Persiba)-(Pedro Xavier)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Usaha Persiba)-(wasit)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Usaha Persiba)-(kartu kuning kedua)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Usaha Persiba)-(pemain)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Usaha Persiba)-(Skor 1-0)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Usaha Persiba)-(keunggulan Persija)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Usaha Persiba)-(pertandingan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Usaha Persiba)-(Kemenangan ini)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Usaha Persiba)-(Persija)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Usaha Persiba)-(dasar klasemen)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Usaha Persiba)-(pertandingan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Usaha Persiba)-(lainnya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Usaha Persiba)-(Persidafon Dafonsoro)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Usaha Persiba)-(Sriwijaya FC 3-1)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Usaha Persiba)-(Persija dan Persidafon)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Usaha Persiba)-(12 poin)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Usaha Persiba)-(pertandingan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Usaha Persiba)-(namun persija unggul)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Usaha Persiba)-(selisih gol)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Usaha Persiba)-(Persiba)]";false;true;false;false;false;false;true;PERSON;PERSON
+"[(Usaha Persiba)-(kekalahan ini)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Usaha Persiba)-(mereka)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Usaha Persiba)-(peringkat 10)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Usaha Persiba)-(klasemen sementara)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Usaha Persiba)-(ISL)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Usaha Persiba)-(Tim)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Usaha Persiba)-('Beruang Madu' itu)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Usaha Persiba)-(total)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Usaha Persiba)-(20 poin)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Usaha Persiba)-(17 pertandingan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Maulana putra)-(wasit)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Maulana putra)-(menit 68)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Maulana putra)-(Pertengkaran)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Maulana putra)-(Pedro Xavier)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Maulana putra)-(wasit)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Maulana putra)-(kartu kuning kedua)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Maulana putra)-(pemain)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Maulana putra)-(Skor 1-0)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Maulana putra)-(keunggulan Persija)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Maulana putra)-(pertandingan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Maulana putra)-(Kemenangan ini)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Maulana putra)-(Persija)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Maulana putra)-(dasar klasemen)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Maulana putra)-(pertandingan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Maulana putra)-(lainnya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Maulana putra)-(Persidafon Dafonsoro)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Maulana putra)-(Sriwijaya FC 3-1)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Maulana putra)-(Persija dan Persidafon)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Maulana putra)-(12 poin)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Maulana putra)-(pertandingan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Maulana putra)-(namun persija unggul)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Maulana putra)-(selisih gol)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Maulana putra)-(Persiba)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Maulana putra)-(kekalahan ini)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Maulana putra)-(mereka)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Maulana putra)-(peringkat 10)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Maulana putra)-(klasemen sementara)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Maulana putra)-(ISL)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Maulana putra)-(Tim)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Maulana putra)-('Beruang Madu' itu)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Maulana putra)-(total)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Maulana putra)-(20 poin)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Maulana putra)-(17 pertandingan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(wasit)-(menit 68)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(wasit)-(Pertengkaran)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(wasit)-(Pedro Xavier)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(wasit)-(wasit)]";true;true;false;false;false;false;true;OTHER;OTHER
+"[(wasit)-(kartu kuning kedua)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit)-(pemain)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit)-(Skor 1-0)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(wasit)-(keunggulan Persija)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit)-(pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit)-(Kemenangan ini)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(wasit)-(Persija)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(wasit)-(dasar klasemen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit)-(pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit)-(lainnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit)-(Persidafon Dafonsoro)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(wasit)-(Sriwijaya FC 3-1)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(wasit)-(Persija dan Persidafon)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(wasit)-(12 poin)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit)-(pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit)-(namun persija unggul)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit)-(selisih gol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit)-(Persiba)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(wasit)-(kekalahan ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit)-(mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(wasit)-(peringkat 10)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit)-(klasemen sementara)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit)-(ISL)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(wasit)-(Tim)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(wasit)-('Beruang Madu' itu)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(wasit)-(total)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit)-(20 poin)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit)-(17 pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(menit 68)-(Pertengkaran)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(menit 68)-(Pedro Xavier)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(menit 68)-(wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(menit 68)-(kartu kuning kedua)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(menit 68)-(pemain)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(menit 68)-(Skor 1-0)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(menit 68)-(keunggulan Persija)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(menit 68)-(pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(menit 68)-(Kemenangan ini)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(menit 68)-(Persija)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(menit 68)-(dasar klasemen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(menit 68)-(pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(menit 68)-(lainnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(menit 68)-(Persidafon Dafonsoro)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(menit 68)-(Sriwijaya FC 3-1)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(menit 68)-(Persija dan Persidafon)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(menit 68)-(12 poin)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(menit 68)-(pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(menit 68)-(namun persija unggul)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(menit 68)-(selisih gol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(menit 68)-(Persiba)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(menit 68)-(kekalahan ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(menit 68)-(mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(menit 68)-(peringkat 10)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(menit 68)-(klasemen sementara)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(menit 68)-(ISL)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(menit 68)-(Tim)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(menit 68)-('Beruang Madu' itu)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(menit 68)-(total)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(menit 68)-(20 poin)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(menit 68)-(17 pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Pertengkaran)-(Pedro Xavier)]";false;true;false;false;false;true;false;PERSON;PERSON
+"[(Pertengkaran)-(wasit)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Pertengkaran)-(kartu kuning kedua)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Pertengkaran)-(pemain)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Pertengkaran)-(Skor 1-0)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Pertengkaran)-(keunggulan Persija)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pertengkaran)-(pertandingan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pertengkaran)-(Kemenangan ini)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Pertengkaran)-(Persija)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Pertengkaran)-(dasar klasemen)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pertengkaran)-(pertandingan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pertengkaran)-(lainnya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pertengkaran)-(Persidafon Dafonsoro)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Pertengkaran)-(Sriwijaya FC 3-1)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Pertengkaran)-(Persija dan Persidafon)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Pertengkaran)-(12 poin)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pertengkaran)-(pertandingan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pertengkaran)-(namun persija unggul)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pertengkaran)-(selisih gol)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pertengkaran)-(Persiba)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Pertengkaran)-(kekalahan ini)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pertengkaran)-(mereka)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Pertengkaran)-(peringkat 10)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pertengkaran)-(klasemen sementara)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pertengkaran)-(ISL)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Pertengkaran)-(Tim)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Pertengkaran)-('Beruang Madu' itu)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Pertengkaran)-(total)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pertengkaran)-(20 poin)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pertengkaran)-(17 pertandingan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pedro Xavier)-(wasit)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Pedro Xavier)-(kartu kuning kedua)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Pedro Xavier)-(pemain)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Pedro Xavier)-(Skor 1-0)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Pedro Xavier)-(keunggulan Persija)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pedro Xavier)-(pertandingan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pedro Xavier)-(Kemenangan ini)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Pedro Xavier)-(Persija)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Pedro Xavier)-(dasar klasemen)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pedro Xavier)-(pertandingan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pedro Xavier)-(lainnya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pedro Xavier)-(Persidafon Dafonsoro)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Pedro Xavier)-(Sriwijaya FC 3-1)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Pedro Xavier)-(Persija dan Persidafon)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Pedro Xavier)-(12 poin)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pedro Xavier)-(pertandingan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pedro Xavier)-(namun persija unggul)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pedro Xavier)-(selisih gol)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pedro Xavier)-(Persiba)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Pedro Xavier)-(kekalahan ini)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pedro Xavier)-(mereka)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Pedro Xavier)-(peringkat 10)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pedro Xavier)-(klasemen sementara)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pedro Xavier)-(ISL)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Pedro Xavier)-(Tim)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Pedro Xavier)-('Beruang Madu' itu)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Pedro Xavier)-(total)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pedro Xavier)-(20 poin)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pedro Xavier)-(17 pertandingan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(wasit)-(kartu kuning kedua)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(wasit)-(pemain)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(wasit)-(Skor 1-0)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(wasit)-(keunggulan Persija)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit)-(pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit)-(Kemenangan ini)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(wasit)-(Persija)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(wasit)-(dasar klasemen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit)-(pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit)-(lainnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit)-(Persidafon Dafonsoro)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(wasit)-(Sriwijaya FC 3-1)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(wasit)-(Persija dan Persidafon)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(wasit)-(12 poin)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit)-(pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit)-(namun persija unggul)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit)-(selisih gol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit)-(Persiba)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(wasit)-(kekalahan ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit)-(mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(wasit)-(peringkat 10)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit)-(klasemen sementara)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit)-(ISL)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(wasit)-(Tim)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(wasit)-('Beruang Madu' itu)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(wasit)-(total)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit)-(20 poin)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit)-(17 pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kartu kuning kedua)-(pemain)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(kartu kuning kedua)-(Skor 1-0)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kartu kuning kedua)-(keunggulan Persija)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kartu kuning kedua)-(pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kartu kuning kedua)-(Kemenangan ini)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kartu kuning kedua)-(Persija)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kartu kuning kedua)-(dasar klasemen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kartu kuning kedua)-(pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kartu kuning kedua)-(lainnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kartu kuning kedua)-(Persidafon Dafonsoro)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kartu kuning kedua)-(Sriwijaya FC 3-1)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kartu kuning kedua)-(Persija dan Persidafon)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kartu kuning kedua)-(12 poin)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kartu kuning kedua)-(pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kartu kuning kedua)-(namun persija unggul)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kartu kuning kedua)-(selisih gol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kartu kuning kedua)-(Persiba)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kartu kuning kedua)-(kekalahan ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kartu kuning kedua)-(mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(kartu kuning kedua)-(peringkat 10)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kartu kuning kedua)-(klasemen sementara)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kartu kuning kedua)-(ISL)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(kartu kuning kedua)-(Tim)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kartu kuning kedua)-('Beruang Madu' itu)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(kartu kuning kedua)-(total)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kartu kuning kedua)-(20 poin)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kartu kuning kedua)-(17 pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemain)-(Skor 1-0)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pemain)-(keunggulan Persija)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemain)-(pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemain)-(Kemenangan ini)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pemain)-(Persija)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pemain)-(dasar klasemen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemain)-(pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemain)-(lainnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemain)-(Persidafon Dafonsoro)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pemain)-(Sriwijaya FC 3-1)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pemain)-(Persija dan Persidafon)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pemain)-(12 poin)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemain)-(pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemain)-(namun persija unggul)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemain)-(selisih gol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemain)-(Persiba)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pemain)-(kekalahan ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemain)-(mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(pemain)-(peringkat 10)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemain)-(klasemen sementara)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemain)-(ISL)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(pemain)-(Tim)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pemain)-('Beruang Madu' itu)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(pemain)-(total)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemain)-(20 poin)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemain)-(17 pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Skor 1-0)-(keunggulan Persija)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Skor 1-0)-(pertandingan)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Skor 1-0)-(Kemenangan ini)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Skor 1-0)-(Persija)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Skor 1-0)-(dasar klasemen)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Skor 1-0)-(pertandingan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Skor 1-0)-(lainnya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Skor 1-0)-(Persidafon Dafonsoro)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Skor 1-0)-(Sriwijaya FC 3-1)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Skor 1-0)-(Persija dan Persidafon)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Skor 1-0)-(12 poin)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Skor 1-0)-(pertandingan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Skor 1-0)-(namun persija unggul)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Skor 1-0)-(selisih gol)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Skor 1-0)-(Persiba)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Skor 1-0)-(kekalahan ini)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Skor 1-0)-(mereka)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Skor 1-0)-(peringkat 10)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Skor 1-0)-(klasemen sementara)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Skor 1-0)-(ISL)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Skor 1-0)-(Tim)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Skor 1-0)-('Beruang Madu' itu)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Skor 1-0)-(total)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Skor 1-0)-(20 poin)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Skor 1-0)-(17 pertandingan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(keunggulan Persija)-(pertandingan)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(keunggulan Persija)-(Kemenangan ini)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(keunggulan Persija)-(Persija)]";false;true;false;false;false;false;true;OTHER;PERSON
+"[(keunggulan Persija)-(dasar klasemen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keunggulan Persija)-(pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keunggulan Persija)-(lainnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keunggulan Persija)-(Persidafon Dafonsoro)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(keunggulan Persija)-(Sriwijaya FC 3-1)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(keunggulan Persija)-(Persija dan Persidafon)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(keunggulan Persija)-(12 poin)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keunggulan Persija)-(pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keunggulan Persija)-(namun persija unggul)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keunggulan Persija)-(selisih gol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keunggulan Persija)-(Persiba)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(keunggulan Persija)-(kekalahan ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keunggulan Persija)-(mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(keunggulan Persija)-(peringkat 10)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keunggulan Persija)-(klasemen sementara)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keunggulan Persija)-(ISL)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(keunggulan Persija)-(Tim)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(keunggulan Persija)-('Beruang Madu' itu)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(keunggulan Persija)-(total)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keunggulan Persija)-(20 poin)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keunggulan Persija)-(17 pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pertandingan)-(Kemenangan ini)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pertandingan)-(Persija)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pertandingan)-(dasar klasemen)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pertandingan)-(pertandingan)]";true;true;false;false;false;false;true;OTHER;OTHER
+"[(pertandingan)-(lainnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pertandingan)-(Persidafon Dafonsoro)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pertandingan)-(Sriwijaya FC 3-1)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pertandingan)-(Persija dan Persidafon)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pertandingan)-(12 poin)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pertandingan)-(pertandingan)]";true;true;false;false;false;false;true;OTHER;OTHER
+"[(pertandingan)-(namun persija unggul)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pertandingan)-(selisih gol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pertandingan)-(Persiba)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pertandingan)-(kekalahan ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pertandingan)-(mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(pertandingan)-(peringkat 10)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pertandingan)-(klasemen sementara)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pertandingan)-(ISL)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(pertandingan)-(Tim)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pertandingan)-('Beruang Madu' itu)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(pertandingan)-(total)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pertandingan)-(20 poin)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pertandingan)-(17 pertandingan)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(Kemenangan ini)-(Persija)]";false;true;false;false;false;true;false;PERSON;PERSON
+"[(Kemenangan ini)-(dasar klasemen)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Kemenangan ini)-(pertandingan)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Kemenangan ini)-(lainnya)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Kemenangan ini)-(Persidafon Dafonsoro)]";false;true;false;false;false;true;false;PERSON;PERSON
+"[(Kemenangan ini)-(Sriwijaya FC 3-1)]";false;true;false;false;false;true;false;PERSON;PERSON
+"[(Kemenangan ini)-(Persija dan Persidafon)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Kemenangan ini)-(12 poin)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kemenangan ini)-(pertandingan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kemenangan ini)-(namun persija unggul)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kemenangan ini)-(selisih gol)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kemenangan ini)-(Persiba)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Kemenangan ini)-(kekalahan ini)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kemenangan ini)-(mereka)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Kemenangan ini)-(peringkat 10)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kemenangan ini)-(klasemen sementara)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kemenangan ini)-(ISL)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Kemenangan ini)-(Tim)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Kemenangan ini)-('Beruang Madu' itu)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Kemenangan ini)-(total)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kemenangan ini)-(20 poin)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Kemenangan ini)-(17 pertandingan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija)-(dasar klasemen)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Persija)-(pertandingan)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Persija)-(lainnya)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Persija)-(Persidafon Dafonsoro)]";false;true;false;false;false;true;false;PERSON;PERSON
+"[(Persija)-(Sriwijaya FC 3-1)]";false;true;false;false;false;true;false;PERSON;PERSON
+"[(Persija)-(Persija dan Persidafon)]";false;true;false;false;false;false;true;PERSON;PERSON
+"[(Persija)-(12 poin)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija)-(pertandingan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija)-(namun persija unggul)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija)-(selisih gol)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija)-(Persiba)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persija)-(kekalahan ini)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija)-(mereka)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Persija)-(peringkat 10)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija)-(klasemen sementara)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija)-(ISL)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Persija)-(Tim)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persija)-('Beruang Madu' itu)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Persija)-(total)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija)-(20 poin)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija)-(17 pertandingan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(dasar klasemen)-(pertandingan)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(dasar klasemen)-(lainnya)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(dasar klasemen)-(Persidafon Dafonsoro)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(dasar klasemen)-(Sriwijaya FC 3-1)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(dasar klasemen)-(Persija dan Persidafon)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(dasar klasemen)-(12 poin)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dasar klasemen)-(pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dasar klasemen)-(namun persija unggul)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dasar klasemen)-(selisih gol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dasar klasemen)-(Persiba)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(dasar klasemen)-(kekalahan ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dasar klasemen)-(mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(dasar klasemen)-(peringkat 10)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dasar klasemen)-(klasemen sementara)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dasar klasemen)-(ISL)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(dasar klasemen)-(Tim)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(dasar klasemen)-('Beruang Madu' itu)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(dasar klasemen)-(total)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dasar klasemen)-(20 poin)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dasar klasemen)-(17 pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pertandingan)-(lainnya)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(pertandingan)-(Persidafon Dafonsoro)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(pertandingan)-(Sriwijaya FC 3-1)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(pertandingan)-(Persija dan Persidafon)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pertandingan)-(12 poin)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pertandingan)-(pertandingan)]";true;true;false;false;false;false;true;OTHER;OTHER
+"[(pertandingan)-(namun persija unggul)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pertandingan)-(selisih gol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pertandingan)-(Persiba)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pertandingan)-(kekalahan ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pertandingan)-(mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(pertandingan)-(peringkat 10)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pertandingan)-(klasemen sementara)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pertandingan)-(ISL)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(pertandingan)-(Tim)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pertandingan)-('Beruang Madu' itu)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(pertandingan)-(total)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pertandingan)-(20 poin)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pertandingan)-(17 pertandingan)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(lainnya)-(Persidafon Dafonsoro)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(lainnya)-(Sriwijaya FC 3-1)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(lainnya)-(Persija dan Persidafon)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(lainnya)-(12 poin)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lainnya)-(pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lainnya)-(namun persija unggul)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lainnya)-(selisih gol)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lainnya)-(Persiba)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(lainnya)-(kekalahan ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lainnya)-(mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(lainnya)-(peringkat 10)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lainnya)-(klasemen sementara)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lainnya)-(ISL)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(lainnya)-(Tim)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(lainnya)-('Beruang Madu' itu)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(lainnya)-(total)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lainnya)-(20 poin)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lainnya)-(17 pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Persidafon Dafonsoro)-(Sriwijaya FC 3-1)]";false;true;false;false;false;true;false;PERSON;PERSON
+"[(Persidafon Dafonsoro)-(Persija dan Persidafon)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persidafon Dafonsoro)-(12 poin)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persidafon Dafonsoro)-(pertandingan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persidafon Dafonsoro)-(namun persija unggul)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persidafon Dafonsoro)-(selisih gol)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persidafon Dafonsoro)-(Persiba)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persidafon Dafonsoro)-(kekalahan ini)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persidafon Dafonsoro)-(mereka)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Persidafon Dafonsoro)-(peringkat 10)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persidafon Dafonsoro)-(klasemen sementara)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persidafon Dafonsoro)-(ISL)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Persidafon Dafonsoro)-(Tim)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persidafon Dafonsoro)-('Beruang Madu' itu)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Persidafon Dafonsoro)-(total)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persidafon Dafonsoro)-(20 poin)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persidafon Dafonsoro)-(17 pertandingan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Sriwijaya FC 3-1)-(Persija dan Persidafon)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Sriwijaya FC 3-1)-(12 poin)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Sriwijaya FC 3-1)-(pertandingan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Sriwijaya FC 3-1)-(namun persija unggul)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Sriwijaya FC 3-1)-(selisih gol)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Sriwijaya FC 3-1)-(Persiba)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Sriwijaya FC 3-1)-(kekalahan ini)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Sriwijaya FC 3-1)-(mereka)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Sriwijaya FC 3-1)-(peringkat 10)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Sriwijaya FC 3-1)-(klasemen sementara)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Sriwijaya FC 3-1)-(ISL)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Sriwijaya FC 3-1)-(Tim)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Sriwijaya FC 3-1)-('Beruang Madu' itu)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Sriwijaya FC 3-1)-(total)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Sriwijaya FC 3-1)-(20 poin)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Sriwijaya FC 3-1)-(17 pertandingan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija dan Persidafon)-(12 poin)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Persija dan Persidafon)-(pertandingan)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Persija dan Persidafon)-(namun persija unggul)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Persija dan Persidafon)-(selisih gol)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Persija dan Persidafon)-(Persiba)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persija dan Persidafon)-(kekalahan ini)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija dan Persidafon)-(mereka)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Persija dan Persidafon)-(peringkat 10)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija dan Persidafon)-(klasemen sementara)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija dan Persidafon)-(ISL)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Persija dan Persidafon)-(Tim)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persija dan Persidafon)-('Beruang Madu' itu)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Persija dan Persidafon)-(total)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija dan Persidafon)-(20 poin)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persija dan Persidafon)-(17 pertandingan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(12 poin)-(pertandingan)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(12 poin)-(namun persija unggul)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(12 poin)-(selisih gol)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(12 poin)-(Persiba)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(12 poin)-(kekalahan ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(12 poin)-(mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(12 poin)-(peringkat 10)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(12 poin)-(klasemen sementara)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(12 poin)-(ISL)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(12 poin)-(Tim)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(12 poin)-('Beruang Madu' itu)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(12 poin)-(total)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(12 poin)-(20 poin)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(12 poin)-(17 pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pertandingan)-(namun persija unggul)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(pertandingan)-(selisih gol)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(pertandingan)-(Persiba)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pertandingan)-(kekalahan ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pertandingan)-(mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(pertandingan)-(peringkat 10)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pertandingan)-(klasemen sementara)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pertandingan)-(ISL)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(pertandingan)-(Tim)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pertandingan)-('Beruang Madu' itu)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(pertandingan)-(total)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pertandingan)-(20 poin)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pertandingan)-(17 pertandingan)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(namun persija unggul)-(selisih gol)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(namun persija unggul)-(Persiba)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(namun persija unggul)-(kekalahan ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(namun persija unggul)-(mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(namun persija unggul)-(peringkat 10)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(namun persija unggul)-(klasemen sementara)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(namun persija unggul)-(ISL)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(namun persija unggul)-(Tim)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(namun persija unggul)-('Beruang Madu' itu)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(namun persija unggul)-(total)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(namun persija unggul)-(20 poin)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(namun persija unggul)-(17 pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(selisih gol)-(Persiba)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(selisih gol)-(kekalahan ini)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(selisih gol)-(mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(selisih gol)-(peringkat 10)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(selisih gol)-(klasemen sementara)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(selisih gol)-(ISL)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(selisih gol)-(Tim)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(selisih gol)-('Beruang Madu' itu)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(selisih gol)-(total)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(selisih gol)-(20 poin)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(selisih gol)-(17 pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Persiba)-(kekalahan ini)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Persiba)-(mereka)]";false;true;false;false;true;true;false;PERSON;OTHER
+"[(Persiba)-(peringkat 10)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Persiba)-(klasemen sementara)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Persiba)-(ISL)]";false;true;false;false;false;true;false;PERSON;ORGANIZATION
+"[(Persiba)-(Tim)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Persiba)-('Beruang Madu' itu)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Persiba)-(total)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persiba)-(20 poin)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Persiba)-(17 pertandingan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(kekalahan ini)-(mereka)]";false;true;false;false;true;true;false;OTHER;OTHER
+"[(kekalahan ini)-(peringkat 10)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(kekalahan ini)-(klasemen sementara)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(kekalahan ini)-(ISL)]";false;true;false;false;false;true;false;OTHER;ORGANIZATION
+"[(kekalahan ini)-(Tim)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kekalahan ini)-('Beruang Madu' itu)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(kekalahan ini)-(total)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kekalahan ini)-(20 poin)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kekalahan ini)-(17 pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(mereka)-(peringkat 10)]";false;true;false;true;false;true;false;OTHER;OTHER
+"[(mereka)-(klasemen sementara)]";false;true;false;true;false;true;false;OTHER;OTHER
+"[(mereka)-(ISL)]";false;true;false;true;false;true;false;OTHER;ORGANIZATION
+"[(mereka)-(Tim)]";false;true;false;true;false;false;false;OTHER;PERSON
+"[(mereka)-('Beruang Madu' itu)]";false;false;false;true;false;false;false;OTHER;PERSON
+"[(mereka)-(total)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(mereka)-(20 poin)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(mereka)-(17 pertandingan)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(peringkat 10)-(klasemen sementara)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(peringkat 10)-(ISL)]";false;true;false;false;false;true;false;OTHER;ORGANIZATION
+"[(peringkat 10)-(Tim)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(peringkat 10)-('Beruang Madu' itu)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(peringkat 10)-(total)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(peringkat 10)-(20 poin)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(peringkat 10)-(17 pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(klasemen sementara)-(ISL)]";false;true;false;false;false;true;false;OTHER;ORGANIZATION
+"[(klasemen sementara)-(Tim)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(klasemen sementara)-('Beruang Madu' itu)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(klasemen sementara)-(total)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(klasemen sementara)-(20 poin)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(klasemen sementara)-(17 pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(ISL)-(Tim)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(ISL)-('Beruang Madu' itu)]";false;false;false;false;false;false;false;ORGANIZATION;PERSON
+"[(ISL)-(total)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(ISL)-(20 poin)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(ISL)-(17 pertandingan)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Tim)-('Beruang Madu' itu)]";false;false;false;false;false;true;false;PERSON;PERSON
+"[(Tim)-(total)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Tim)-(20 poin)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Tim)-(17 pertandingan)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[('Beruang Madu' itu)-(total)]";false;false;false;false;false;true;false;PERSON;OTHER
+"[('Beruang Madu' itu)-(20 poin)]";false;false;false;false;false;true;false;PERSON;OTHER
+"[('Beruang Madu' itu)-(17 pertandingan)]";false;false;false;false;false;true;false;PERSON;OTHER
+"[(total)-(20 poin)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(total)-(17 pertandingan)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(20 poin)-(17 pertandingan)]";false;true;false;false;false;true;false;OTHER;OTHER

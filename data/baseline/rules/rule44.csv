@@ -1,0 +1,1432 @@
+mentions;isStrMatch;isMatchNoCasePunc;isAbbrev;isFirstPronoun;isScndPronoun;isOnOneSentence;isMatchPartial;firstNameClass;scndNameClass
+"[(Ahmadinejad: Iran-Turki)-(kepentingan)]";false;false;false;false;false;true;false;PERSON;OTHER
+"[(Ahmadinejad: Iran-Turki)-(Presiden Iran Mahmoud Ahmadinejad,)]";false;false;false;false;false;true;false;PERSON;OTHER
+"[(Ahmadinejad: Iran-Turki)-(Sabtu)]";false;false;false;false;false;true;false;PERSON;OTHER
+"[(Ahmadinejad: Iran-Turki)-(menteri pembangunan Turki)]";false;false;false;false;false;true;false;PERSON;OTHER
+"[(Ahmadinejad: Iran-Turki)-(Iran dan Turki)]";false;false;false;false;false;true;false;PERSON;LOCATION
+"[(Ahmadinejad: Iran-Turki)-(kepentingan bersama)]";false;false;false;false;false;true;false;PERSON;OTHER
+"[(Ahmadinejad: Iran-Turki)-("Iran dan Turki)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Ahmadinejad: Iran-Turki)-(negara besar)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Ahmadinejad: Iran-Turki)-(bakat)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Ahmadinejad: Iran-Turki)-(perkembangan hubungan)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Ahmadinejad: Iran-Turki)-(unbtuk kepenting)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Ahmadinejad: Iran-Turki)-(negara)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Ahmadinejad: Iran-Turki)-(wilayah ini,")]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Ahmadinejad: Iran-Turki)-(Ahmadinejad)]";false;false;false;false;false;false;true;PERSON;PERSON
+"[(Ahmadinejad: Iran-Turki)-("Musuh bersama")]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Ahmadinejad: Iran-Turki)-(negara)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Ahmadinejad: Iran-Turki)-(perluasan hubungan)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Ahmadinejad: Iran-Turki)-(negara,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Ahmadinejad: Iran-Turki)-(mereka,)]";false;false;false;false;true;false;false;PERSON;OTHER
+"[(Ahmadinejad: Iran-Turki)-(Ahmadinejad)]";false;false;false;false;false;false;true;PERSON;PERSON
+"[(Ahmadinejad: Iran-Turki)-(Press TV)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Ahmadinejad: Iran-Turki)-(Menteri Pembangunan Turki Cevdet Yilmaz)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Ahmadinejad: Iran-Turki)-(perluasan hubungan Iran-Turki)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Ahmadinejad: Iran-Turki)-(masa pemerintahan Ahmadinejad,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Ahmadinejad: Iran-Turki)-(laporan Xinhua)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Ahmadinejad: Iran-Turki)-(Jakarta)]";false;false;false;false;false;false;false;PERSON;LOCATION
+"[(Ahmadinejad: Iran-Turki)-(Ahad malam)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Ahmadinejad: Iran-Turki)-(Yilmaz)]";false;false;false;false;false;false;false;PERSON;LOCATION
+"[(Ahmadinejad: Iran-Turki)-(negaranya)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Ahmadinejad: Iran-Turki)-(kerja sama)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Ahmadinejad: Iran-Turki)-(Republik Islam)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Ahmadinejad: Iran-Turki)-(Menteri Turki)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Ahmadinejad: Iran-Turki)-(Teheran dan Ankara)]";false;false;false;false;false;false;false;PERSON;LOCATION
+"[(Ahmadinejad: Iran-Turki)-(kepentingan)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Ahmadinejad: Iran-Turki)-(masalah regional)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Ahmadinejad: Iran-Turki)-(kami)]";false;false;false;false;true;false;false;PERSON;OTHER
+"[(Ahmadinejad: Iran-Turki)-(perbedaan pendapat)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Ahmadinejad: Iran-Turki)-(masalah)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Ahmadinejad: Iran-Turki)-(Turki)]";false;false;false;false;false;false;true;PERSON;LOCATION
+"[(Ahmadinejad: Iran-Turki)-(masa depan dan nasib)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Ahmadinejad: Iran-Turki)-(bersama,")]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Ahmadinejad: Iran-Turki)-(Press TV)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Ahmadinejad: Iran-Turki)-(Turki)]";false;false;false;false;false;false;true;PERSON;LOCATION
+"[(Ahmadinejad: Iran-Turki)-(volume transaksi perdagangan)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Ahmadinejad: Iran-Turki)-(Iran)]";false;false;false;false;false;false;true;PERSON;LOCATION
+"[(Ahmadinejad: Iran-Turki)-(dolar AS)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Ahmadinejad: Iran-Turki)-(jumlahnya)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Ahmadinejad: Iran-Turki)-(saat ini,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Ahmadinejad: Iran-Turki)-(miliar dolar,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Ahmadinejad: Iran-Turki)-(Yilmaz,)]";false;false;false;false;false;false;false;PERSON;LOCATION
+"[(Ahmadinejad: Iran-Turki)-(satu delegasi ekonomi)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Ahmadinejad: Iran-Turki)-(kunjungan tiga-hari)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Ahmadinejad: Iran-Turki)-(Iran)]";false;false;false;false;false;false;true;PERSON;LOCATION
+"[(kepentingan)-(Presiden Iran Mahmoud Ahmadinejad,)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(kepentingan)-(Sabtu)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(kepentingan)-(menteri pembangunan Turki)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(kepentingan)-(Iran dan Turki)]";false;true;false;false;false;true;false;OTHER;LOCATION
+"[(kepentingan)-(kepentingan bersama)]";false;true;false;false;false;true;true;OTHER;OTHER
+"[(kepentingan)-("Iran dan Turki)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(kepentingan)-(negara besar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kepentingan)-(bakat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kepentingan)-(perkembangan hubungan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kepentingan)-(unbtuk kepenting)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kepentingan)-(negara)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kepentingan)-(wilayah ini,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(kepentingan)-(Ahmadinejad)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kepentingan)-("Musuh bersama")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(kepentingan)-(negara)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kepentingan)-(perluasan hubungan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kepentingan)-(negara,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(kepentingan)-(mereka,)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(kepentingan)-(Ahmadinejad)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kepentingan)-(Press TV)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kepentingan)-(Menteri Pembangunan Turki Cevdet Yilmaz)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kepentingan)-(perluasan hubungan Iran-Turki)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kepentingan)-(masa pemerintahan Ahmadinejad,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(kepentingan)-(laporan Xinhua)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kepentingan)-(Jakarta)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(kepentingan)-(Ahad malam)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kepentingan)-(Yilmaz)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(kepentingan)-(negaranya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kepentingan)-(kerja sama)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kepentingan)-(Republik Islam)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kepentingan)-(Menteri Turki)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kepentingan)-(Teheran dan Ankara)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(kepentingan)-(kepentingan)]";true;true;false;false;false;false;true;OTHER;OTHER
+"[(kepentingan)-(masalah regional)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kepentingan)-(kami)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(kepentingan)-(perbedaan pendapat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kepentingan)-(masalah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kepentingan)-(Turki)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(kepentingan)-(masa depan dan nasib)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kepentingan)-(bersama,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(kepentingan)-(Press TV)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kepentingan)-(Turki)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(kepentingan)-(volume transaksi perdagangan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kepentingan)-(Iran)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(kepentingan)-(dolar AS)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kepentingan)-(jumlahnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kepentingan)-(saat ini,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(kepentingan)-(miliar dolar,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(kepentingan)-(Yilmaz,)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(kepentingan)-(satu delegasi ekonomi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kepentingan)-(kunjungan tiga-hari)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kepentingan)-(Iran)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(Presiden Iran Mahmoud Ahmadinejad,)-(Sabtu)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(Presiden Iran Mahmoud Ahmadinejad,)-(menteri pembangunan Turki)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(Presiden Iran Mahmoud Ahmadinejad,)-(Iran dan Turki)]";false;false;false;false;false;true;false;OTHER;LOCATION
+"[(Presiden Iran Mahmoud Ahmadinejad,)-(kepentingan bersama)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(Presiden Iran Mahmoud Ahmadinejad,)-("Iran dan Turki)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Presiden Iran Mahmoud Ahmadinejad,)-(negara besar)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Presiden Iran Mahmoud Ahmadinejad,)-(bakat)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Presiden Iran Mahmoud Ahmadinejad,)-(perkembangan hubungan)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Presiden Iran Mahmoud Ahmadinejad,)-(unbtuk kepenting)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Presiden Iran Mahmoud Ahmadinejad,)-(negara)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Presiden Iran Mahmoud Ahmadinejad,)-(wilayah ini,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Presiden Iran Mahmoud Ahmadinejad,)-(Ahmadinejad)]";false;false;false;false;false;false;true;OTHER;PERSON
+"[(Presiden Iran Mahmoud Ahmadinejad,)-("Musuh bersama")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Presiden Iran Mahmoud Ahmadinejad,)-(negara)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Presiden Iran Mahmoud Ahmadinejad,)-(perluasan hubungan)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Presiden Iran Mahmoud Ahmadinejad,)-(negara,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Presiden Iran Mahmoud Ahmadinejad,)-(mereka,)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(Presiden Iran Mahmoud Ahmadinejad,)-(Ahmadinejad)]";false;false;false;false;false;false;true;OTHER;PERSON
+"[(Presiden Iran Mahmoud Ahmadinejad,)-(Press TV)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(Presiden Iran Mahmoud Ahmadinejad,)-(Menteri Pembangunan Turki Cevdet Yilmaz)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(Presiden Iran Mahmoud Ahmadinejad,)-(perluasan hubungan Iran-Turki)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Presiden Iran Mahmoud Ahmadinejad,)-(masa pemerintahan Ahmadinejad,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Presiden Iran Mahmoud Ahmadinejad,)-(laporan Xinhua)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Presiden Iran Mahmoud Ahmadinejad,)-(Jakarta)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(Presiden Iran Mahmoud Ahmadinejad,)-(Ahad malam)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(Presiden Iran Mahmoud Ahmadinejad,)-(Yilmaz)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(Presiden Iran Mahmoud Ahmadinejad,)-(negaranya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Presiden Iran Mahmoud Ahmadinejad,)-(kerja sama)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Presiden Iran Mahmoud Ahmadinejad,)-(Republik Islam)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(Presiden Iran Mahmoud Ahmadinejad,)-(Menteri Turki)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(Presiden Iran Mahmoud Ahmadinejad,)-(Teheran dan Ankara)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(Presiden Iran Mahmoud Ahmadinejad,)-(kepentingan)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Presiden Iran Mahmoud Ahmadinejad,)-(masalah regional)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Presiden Iran Mahmoud Ahmadinejad,)-(kami)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(Presiden Iran Mahmoud Ahmadinejad,)-(perbedaan pendapat)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Presiden Iran Mahmoud Ahmadinejad,)-(masalah)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Presiden Iran Mahmoud Ahmadinejad,)-(Turki)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(Presiden Iran Mahmoud Ahmadinejad,)-(masa depan dan nasib)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Presiden Iran Mahmoud Ahmadinejad,)-(bersama,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Presiden Iran Mahmoud Ahmadinejad,)-(Press TV)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(Presiden Iran Mahmoud Ahmadinejad,)-(Turki)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(Presiden Iran Mahmoud Ahmadinejad,)-(volume transaksi perdagangan)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Presiden Iran Mahmoud Ahmadinejad,)-(Iran)]";false;false;false;false;false;false;true;OTHER;LOCATION
+"[(Presiden Iran Mahmoud Ahmadinejad,)-(dolar AS)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Presiden Iran Mahmoud Ahmadinejad,)-(jumlahnya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Presiden Iran Mahmoud Ahmadinejad,)-(saat ini,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Presiden Iran Mahmoud Ahmadinejad,)-(miliar dolar,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Presiden Iran Mahmoud Ahmadinejad,)-(Yilmaz,)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(Presiden Iran Mahmoud Ahmadinejad,)-(satu delegasi ekonomi)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Presiden Iran Mahmoud Ahmadinejad,)-(kunjungan tiga-hari)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Presiden Iran Mahmoud Ahmadinejad,)-(Iran)]";false;false;false;false;false;false;true;OTHER;LOCATION
+"[(Sabtu)-(menteri pembangunan Turki)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(Sabtu)-(Iran dan Turki)]";false;true;false;false;false;true;false;OTHER;LOCATION
+"[(Sabtu)-(kepentingan bersama)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(Sabtu)-("Iran dan Turki)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Sabtu)-(negara besar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Sabtu)-(bakat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Sabtu)-(perkembangan hubungan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Sabtu)-(unbtuk kepenting)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Sabtu)-(negara)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Sabtu)-(wilayah ini,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Sabtu)-(Ahmadinejad)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(Sabtu)-("Musuh bersama")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Sabtu)-(negara)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Sabtu)-(perluasan hubungan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Sabtu)-(negara,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Sabtu)-(mereka,)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(Sabtu)-(Ahmadinejad)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(Sabtu)-(Press TV)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(Sabtu)-(Menteri Pembangunan Turki Cevdet Yilmaz)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(Sabtu)-(perluasan hubungan Iran-Turki)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Sabtu)-(masa pemerintahan Ahmadinejad,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Sabtu)-(laporan Xinhua)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Sabtu)-(Jakarta)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(Sabtu)-(Ahad malam)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(Sabtu)-(Yilmaz)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(Sabtu)-(negaranya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Sabtu)-(kerja sama)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Sabtu)-(Republik Islam)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(Sabtu)-(Menteri Turki)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(Sabtu)-(Teheran dan Ankara)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(Sabtu)-(kepentingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Sabtu)-(masalah regional)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Sabtu)-(kami)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(Sabtu)-(perbedaan pendapat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Sabtu)-(masalah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Sabtu)-(Turki)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(Sabtu)-(masa depan dan nasib)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Sabtu)-(bersama,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Sabtu)-(Press TV)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(Sabtu)-(Turki)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(Sabtu)-(volume transaksi perdagangan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Sabtu)-(Iran)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(Sabtu)-(dolar AS)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Sabtu)-(jumlahnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Sabtu)-(saat ini,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Sabtu)-(miliar dolar,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Sabtu)-(Yilmaz,)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(Sabtu)-(satu delegasi ekonomi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Sabtu)-(kunjungan tiga-hari)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Sabtu)-(Iran)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(menteri pembangunan Turki)-(Iran dan Turki)]";false;true;false;false;false;true;false;OTHER;LOCATION
+"[(menteri pembangunan Turki)-(kepentingan bersama)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(menteri pembangunan Turki)-("Iran dan Turki)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(menteri pembangunan Turki)-(negara besar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(menteri pembangunan Turki)-(bakat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(menteri pembangunan Turki)-(perkembangan hubungan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(menteri pembangunan Turki)-(unbtuk kepenting)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(menteri pembangunan Turki)-(negara)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(menteri pembangunan Turki)-(wilayah ini,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(menteri pembangunan Turki)-(Ahmadinejad)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(menteri pembangunan Turki)-("Musuh bersama")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(menteri pembangunan Turki)-(negara)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(menteri pembangunan Turki)-(perluasan hubungan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(menteri pembangunan Turki)-(negara,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(menteri pembangunan Turki)-(mereka,)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(menteri pembangunan Turki)-(Ahmadinejad)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(menteri pembangunan Turki)-(Press TV)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(menteri pembangunan Turki)-(Menteri Pembangunan Turki Cevdet Yilmaz)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(menteri pembangunan Turki)-(perluasan hubungan Iran-Turki)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(menteri pembangunan Turki)-(masa pemerintahan Ahmadinejad,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(menteri pembangunan Turki)-(laporan Xinhua)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(menteri pembangunan Turki)-(Jakarta)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(menteri pembangunan Turki)-(Ahad malam)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(menteri pembangunan Turki)-(Yilmaz)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(menteri pembangunan Turki)-(negaranya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(menteri pembangunan Turki)-(kerja sama)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(menteri pembangunan Turki)-(Republik Islam)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(menteri pembangunan Turki)-(Menteri Turki)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(menteri pembangunan Turki)-(Teheran dan Ankara)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(menteri pembangunan Turki)-(kepentingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(menteri pembangunan Turki)-(masalah regional)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(menteri pembangunan Turki)-(kami)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(menteri pembangunan Turki)-(perbedaan pendapat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(menteri pembangunan Turki)-(masalah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(menteri pembangunan Turki)-(Turki)]";false;true;false;false;false;false;true;OTHER;LOCATION
+"[(menteri pembangunan Turki)-(masa depan dan nasib)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(menteri pembangunan Turki)-(bersama,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(menteri pembangunan Turki)-(Press TV)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(menteri pembangunan Turki)-(Turki)]";false;true;false;false;false;false;true;OTHER;LOCATION
+"[(menteri pembangunan Turki)-(volume transaksi perdagangan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(menteri pembangunan Turki)-(Iran)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(menteri pembangunan Turki)-(dolar AS)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(menteri pembangunan Turki)-(jumlahnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(menteri pembangunan Turki)-(saat ini,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(menteri pembangunan Turki)-(miliar dolar,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(menteri pembangunan Turki)-(Yilmaz,)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(menteri pembangunan Turki)-(satu delegasi ekonomi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(menteri pembangunan Turki)-(kunjungan tiga-hari)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(menteri pembangunan Turki)-(Iran)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(Iran dan Turki)-(kepentingan bersama)]";false;true;false;false;false;true;false;LOCATION;OTHER
+"[(Iran dan Turki)-("Iran dan Turki)]";false;false;false;false;false;false;true;LOCATION;OTHER
+"[(Iran dan Turki)-(negara besar)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Iran dan Turki)-(bakat)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Iran dan Turki)-(perkembangan hubungan)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Iran dan Turki)-(unbtuk kepenting)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Iran dan Turki)-(negara)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Iran dan Turki)-(wilayah ini,")]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Iran dan Turki)-(Ahmadinejad)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Iran dan Turki)-("Musuh bersama")]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Iran dan Turki)-(negara)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Iran dan Turki)-(perluasan hubungan)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Iran dan Turki)-(negara,)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Iran dan Turki)-(mereka,)]";false;false;false;false;true;false;false;LOCATION;OTHER
+"[(Iran dan Turki)-(Ahmadinejad)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Iran dan Turki)-(Press TV)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Iran dan Turki)-(Menteri Pembangunan Turki Cevdet Yilmaz)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Iran dan Turki)-(perluasan hubungan Iran-Turki)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Iran dan Turki)-(masa pemerintahan Ahmadinejad,)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Iran dan Turki)-(laporan Xinhua)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Iran dan Turki)-(Jakarta)]";false;true;false;false;false;false;false;LOCATION;LOCATION
+"[(Iran dan Turki)-(Ahad malam)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Iran dan Turki)-(Yilmaz)]";false;true;false;false;false;false;false;LOCATION;LOCATION
+"[(Iran dan Turki)-(negaranya)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Iran dan Turki)-(kerja sama)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Iran dan Turki)-(Republik Islam)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Iran dan Turki)-(Menteri Turki)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Iran dan Turki)-(Teheran dan Ankara)]";false;true;false;false;false;false;false;LOCATION;LOCATION
+"[(Iran dan Turki)-(kepentingan)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Iran dan Turki)-(masalah regional)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Iran dan Turki)-(kami)]";false;true;false;false;true;false;false;LOCATION;OTHER
+"[(Iran dan Turki)-(perbedaan pendapat)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Iran dan Turki)-(masalah)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Iran dan Turki)-(Turki)]";false;true;false;false;false;false;true;LOCATION;LOCATION
+"[(Iran dan Turki)-(masa depan dan nasib)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Iran dan Turki)-(bersama,")]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Iran dan Turki)-(Press TV)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Iran dan Turki)-(Turki)]";false;true;false;false;false;false;true;LOCATION;LOCATION
+"[(Iran dan Turki)-(volume transaksi perdagangan)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Iran dan Turki)-(Iran)]";false;true;false;false;false;false;true;LOCATION;LOCATION
+"[(Iran dan Turki)-(dolar AS)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Iran dan Turki)-(jumlahnya)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Iran dan Turki)-(saat ini,)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Iran dan Turki)-(miliar dolar,)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Iran dan Turki)-(Yilmaz,)]";false;false;false;false;false;false;false;LOCATION;LOCATION
+"[(Iran dan Turki)-(satu delegasi ekonomi)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Iran dan Turki)-(kunjungan tiga-hari)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Iran dan Turki)-(Iran)]";false;true;false;false;false;false;true;LOCATION;LOCATION
+"[(kepentingan bersama)-("Iran dan Turki)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(kepentingan bersama)-(negara besar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kepentingan bersama)-(bakat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kepentingan bersama)-(perkembangan hubungan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kepentingan bersama)-(unbtuk kepenting)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kepentingan bersama)-(negara)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kepentingan bersama)-(wilayah ini,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(kepentingan bersama)-(Ahmadinejad)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kepentingan bersama)-("Musuh bersama")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(kepentingan bersama)-(negara)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kepentingan bersama)-(perluasan hubungan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kepentingan bersama)-(negara,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(kepentingan bersama)-(mereka,)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(kepentingan bersama)-(Ahmadinejad)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kepentingan bersama)-(Press TV)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kepentingan bersama)-(Menteri Pembangunan Turki Cevdet Yilmaz)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kepentingan bersama)-(perluasan hubungan Iran-Turki)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kepentingan bersama)-(masa pemerintahan Ahmadinejad,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(kepentingan bersama)-(laporan Xinhua)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kepentingan bersama)-(Jakarta)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(kepentingan bersama)-(Ahad malam)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kepentingan bersama)-(Yilmaz)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(kepentingan bersama)-(negaranya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kepentingan bersama)-(kerja sama)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kepentingan bersama)-(Republik Islam)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kepentingan bersama)-(Menteri Turki)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kepentingan bersama)-(Teheran dan Ankara)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(kepentingan bersama)-(kepentingan)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(kepentingan bersama)-(masalah regional)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kepentingan bersama)-(kami)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(kepentingan bersama)-(perbedaan pendapat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kepentingan bersama)-(masalah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kepentingan bersama)-(Turki)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(kepentingan bersama)-(masa depan dan nasib)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kepentingan bersama)-(bersama,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(kepentingan bersama)-(Press TV)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kepentingan bersama)-(Turki)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(kepentingan bersama)-(volume transaksi perdagangan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kepentingan bersama)-(Iran)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(kepentingan bersama)-(dolar AS)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kepentingan bersama)-(jumlahnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kepentingan bersama)-(saat ini,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(kepentingan bersama)-(miliar dolar,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(kepentingan bersama)-(Yilmaz,)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(kepentingan bersama)-(satu delegasi ekonomi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kepentingan bersama)-(kunjungan tiga-hari)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kepentingan bersama)-(Iran)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[("Iran dan Turki)-(negara besar)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[("Iran dan Turki)-(bakat)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[("Iran dan Turki)-(perkembangan hubungan)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[("Iran dan Turki)-(unbtuk kepenting)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[("Iran dan Turki)-(negara)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[("Iran dan Turki)-(wilayah ini,")]";false;false;false;false;false;true;false;OTHER;OTHER
+"[("Iran dan Turki)-(Ahmadinejad)]";false;false;false;false;false;true;false;OTHER;PERSON
+"[("Iran dan Turki)-("Musuh bersama")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Iran dan Turki)-(negara)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Iran dan Turki)-(perluasan hubungan)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Iran dan Turki)-(negara,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Iran dan Turki)-(mereka,)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[("Iran dan Turki)-(Ahmadinejad)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[("Iran dan Turki)-(Press TV)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[("Iran dan Turki)-(Menteri Pembangunan Turki Cevdet Yilmaz)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[("Iran dan Turki)-(perluasan hubungan Iran-Turki)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Iran dan Turki)-(masa pemerintahan Ahmadinejad,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Iran dan Turki)-(laporan Xinhua)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Iran dan Turki)-(Jakarta)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[("Iran dan Turki)-(Ahad malam)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[("Iran dan Turki)-(Yilmaz)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[("Iran dan Turki)-(negaranya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Iran dan Turki)-(kerja sama)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Iran dan Turki)-(Republik Islam)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[("Iran dan Turki)-(Menteri Turki)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[("Iran dan Turki)-(Teheran dan Ankara)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[("Iran dan Turki)-(kepentingan)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Iran dan Turki)-(masalah regional)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Iran dan Turki)-(kami)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[("Iran dan Turki)-(perbedaan pendapat)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Iran dan Turki)-(masalah)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Iran dan Turki)-(Turki)]";false;false;false;false;false;false;true;OTHER;LOCATION
+"[("Iran dan Turki)-(masa depan dan nasib)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Iran dan Turki)-(bersama,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Iran dan Turki)-(Press TV)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[("Iran dan Turki)-(Turki)]";false;false;false;false;false;false;true;OTHER;LOCATION
+"[("Iran dan Turki)-(volume transaksi perdagangan)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Iran dan Turki)-(Iran)]";false;false;false;false;false;false;true;OTHER;LOCATION
+"[("Iran dan Turki)-(dolar AS)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Iran dan Turki)-(jumlahnya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Iran dan Turki)-(saat ini,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Iran dan Turki)-(miliar dolar,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Iran dan Turki)-(Yilmaz,)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[("Iran dan Turki)-(satu delegasi ekonomi)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Iran dan Turki)-(kunjungan tiga-hari)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Iran dan Turki)-(Iran)]";false;false;false;false;false;false;true;OTHER;LOCATION
+"[(negara besar)-(bakat)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(negara besar)-(perkembangan hubungan)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(negara besar)-(unbtuk kepenting)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(negara besar)-(negara)]";false;true;false;false;false;true;true;OTHER;OTHER
+"[(negara besar)-(wilayah ini,")]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(negara besar)-(Ahmadinejad)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(negara besar)-("Musuh bersama")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(negara besar)-(negara)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(negara besar)-(perluasan hubungan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(negara besar)-(negara,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(negara besar)-(mereka,)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(negara besar)-(Ahmadinejad)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(negara besar)-(Press TV)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(negara besar)-(Menteri Pembangunan Turki Cevdet Yilmaz)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(negara besar)-(perluasan hubungan Iran-Turki)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(negara besar)-(masa pemerintahan Ahmadinejad,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(negara besar)-(laporan Xinhua)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(negara besar)-(Jakarta)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(negara besar)-(Ahad malam)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(negara besar)-(Yilmaz)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(negara besar)-(negaranya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(negara besar)-(kerja sama)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(negara besar)-(Republik Islam)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(negara besar)-(Menteri Turki)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(negara besar)-(Teheran dan Ankara)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(negara besar)-(kepentingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(negara besar)-(masalah regional)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(negara besar)-(kami)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(negara besar)-(perbedaan pendapat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(negara besar)-(masalah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(negara besar)-(Turki)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(negara besar)-(masa depan dan nasib)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(negara besar)-(bersama,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(negara besar)-(Press TV)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(negara besar)-(Turki)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(negara besar)-(volume transaksi perdagangan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(negara besar)-(Iran)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(negara besar)-(dolar AS)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(negara besar)-(jumlahnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(negara besar)-(saat ini,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(negara besar)-(miliar dolar,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(negara besar)-(Yilmaz,)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(negara besar)-(satu delegasi ekonomi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(negara besar)-(kunjungan tiga-hari)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(negara besar)-(Iran)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(bakat)-(perkembangan hubungan)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(bakat)-(unbtuk kepenting)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(bakat)-(negara)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(bakat)-(wilayah ini,")]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(bakat)-(Ahmadinejad)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(bakat)-("Musuh bersama")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(bakat)-(negara)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bakat)-(perluasan hubungan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bakat)-(negara,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(bakat)-(mereka,)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(bakat)-(Ahmadinejad)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(bakat)-(Press TV)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(bakat)-(Menteri Pembangunan Turki Cevdet Yilmaz)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(bakat)-(perluasan hubungan Iran-Turki)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bakat)-(masa pemerintahan Ahmadinejad,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(bakat)-(laporan Xinhua)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bakat)-(Jakarta)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(bakat)-(Ahad malam)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(bakat)-(Yilmaz)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(bakat)-(negaranya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bakat)-(kerja sama)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bakat)-(Republik Islam)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(bakat)-(Menteri Turki)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(bakat)-(Teheran dan Ankara)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(bakat)-(kepentingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bakat)-(masalah regional)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bakat)-(kami)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(bakat)-(perbedaan pendapat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bakat)-(masalah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bakat)-(Turki)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(bakat)-(masa depan dan nasib)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bakat)-(bersama,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(bakat)-(Press TV)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(bakat)-(Turki)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(bakat)-(volume transaksi perdagangan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bakat)-(Iran)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(bakat)-(dolar AS)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bakat)-(jumlahnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bakat)-(saat ini,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(bakat)-(miliar dolar,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(bakat)-(Yilmaz,)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(bakat)-(satu delegasi ekonomi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bakat)-(kunjungan tiga-hari)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bakat)-(Iran)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(perkembangan hubungan)-(unbtuk kepenting)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(perkembangan hubungan)-(negara)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(perkembangan hubungan)-(wilayah ini,")]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(perkembangan hubungan)-(Ahmadinejad)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(perkembangan hubungan)-("Musuh bersama")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(perkembangan hubungan)-(negara)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(perkembangan hubungan)-(perluasan hubungan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(perkembangan hubungan)-(negara,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(perkembangan hubungan)-(mereka,)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(perkembangan hubungan)-(Ahmadinejad)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(perkembangan hubungan)-(Press TV)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(perkembangan hubungan)-(Menteri Pembangunan Turki Cevdet Yilmaz)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(perkembangan hubungan)-(perluasan hubungan Iran-Turki)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(perkembangan hubungan)-(masa pemerintahan Ahmadinejad,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(perkembangan hubungan)-(laporan Xinhua)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(perkembangan hubungan)-(Jakarta)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(perkembangan hubungan)-(Ahad malam)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(perkembangan hubungan)-(Yilmaz)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(perkembangan hubungan)-(negaranya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(perkembangan hubungan)-(kerja sama)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(perkembangan hubungan)-(Republik Islam)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(perkembangan hubungan)-(Menteri Turki)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(perkembangan hubungan)-(Teheran dan Ankara)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(perkembangan hubungan)-(kepentingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(perkembangan hubungan)-(masalah regional)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(perkembangan hubungan)-(kami)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(perkembangan hubungan)-(perbedaan pendapat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(perkembangan hubungan)-(masalah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(perkembangan hubungan)-(Turki)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(perkembangan hubungan)-(masa depan dan nasib)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(perkembangan hubungan)-(bersama,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(perkembangan hubungan)-(Press TV)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(perkembangan hubungan)-(Turki)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(perkembangan hubungan)-(volume transaksi perdagangan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(perkembangan hubungan)-(Iran)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(perkembangan hubungan)-(dolar AS)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(perkembangan hubungan)-(jumlahnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(perkembangan hubungan)-(saat ini,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(perkembangan hubungan)-(miliar dolar,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(perkembangan hubungan)-(Yilmaz,)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(perkembangan hubungan)-(satu delegasi ekonomi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(perkembangan hubungan)-(kunjungan tiga-hari)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(perkembangan hubungan)-(Iran)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(unbtuk kepenting)-(negara)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(unbtuk kepenting)-(wilayah ini,")]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(unbtuk kepenting)-(Ahmadinejad)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(unbtuk kepenting)-("Musuh bersama")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(unbtuk kepenting)-(negara)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(unbtuk kepenting)-(perluasan hubungan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(unbtuk kepenting)-(negara,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(unbtuk kepenting)-(mereka,)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(unbtuk kepenting)-(Ahmadinejad)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(unbtuk kepenting)-(Press TV)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(unbtuk kepenting)-(Menteri Pembangunan Turki Cevdet Yilmaz)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(unbtuk kepenting)-(perluasan hubungan Iran-Turki)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(unbtuk kepenting)-(masa pemerintahan Ahmadinejad,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(unbtuk kepenting)-(laporan Xinhua)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(unbtuk kepenting)-(Jakarta)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(unbtuk kepenting)-(Ahad malam)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(unbtuk kepenting)-(Yilmaz)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(unbtuk kepenting)-(negaranya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(unbtuk kepenting)-(kerja sama)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(unbtuk kepenting)-(Republik Islam)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(unbtuk kepenting)-(Menteri Turki)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(unbtuk kepenting)-(Teheran dan Ankara)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(unbtuk kepenting)-(kepentingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(unbtuk kepenting)-(masalah regional)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(unbtuk kepenting)-(kami)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(unbtuk kepenting)-(perbedaan pendapat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(unbtuk kepenting)-(masalah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(unbtuk kepenting)-(Turki)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(unbtuk kepenting)-(masa depan dan nasib)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(unbtuk kepenting)-(bersama,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(unbtuk kepenting)-(Press TV)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(unbtuk kepenting)-(Turki)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(unbtuk kepenting)-(volume transaksi perdagangan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(unbtuk kepenting)-(Iran)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(unbtuk kepenting)-(dolar AS)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(unbtuk kepenting)-(jumlahnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(unbtuk kepenting)-(saat ini,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(unbtuk kepenting)-(miliar dolar,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(unbtuk kepenting)-(Yilmaz,)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(unbtuk kepenting)-(satu delegasi ekonomi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(unbtuk kepenting)-(kunjungan tiga-hari)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(unbtuk kepenting)-(Iran)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(negara)-(wilayah ini,")]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(negara)-(Ahmadinejad)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(negara)-("Musuh bersama")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(negara)-(negara)]";true;true;false;false;false;false;true;OTHER;OTHER
+"[(negara)-(perluasan hubungan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(negara)-(negara,)]";false;false;false;false;false;false;true;OTHER;OTHER
+"[(negara)-(mereka,)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(negara)-(Ahmadinejad)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(negara)-(Press TV)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(negara)-(Menteri Pembangunan Turki Cevdet Yilmaz)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(negara)-(perluasan hubungan Iran-Turki)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(negara)-(masa pemerintahan Ahmadinejad,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(negara)-(laporan Xinhua)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(negara)-(Jakarta)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(negara)-(Ahad malam)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(negara)-(Yilmaz)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(negara)-(negaranya)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(negara)-(kerja sama)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(negara)-(Republik Islam)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(negara)-(Menteri Turki)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(negara)-(Teheran dan Ankara)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(negara)-(kepentingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(negara)-(masalah regional)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(negara)-(kami)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(negara)-(perbedaan pendapat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(negara)-(masalah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(negara)-(Turki)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(negara)-(masa depan dan nasib)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(negara)-(bersama,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(negara)-(Press TV)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(negara)-(Turki)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(negara)-(volume transaksi perdagangan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(negara)-(Iran)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(negara)-(dolar AS)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(negara)-(jumlahnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(negara)-(saat ini,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(negara)-(miliar dolar,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(negara)-(Yilmaz,)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(negara)-(satu delegasi ekonomi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(negara)-(kunjungan tiga-hari)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(negara)-(Iran)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(wilayah ini,")-(Ahmadinejad)]";false;false;false;false;false;true;false;OTHER;PERSON
+"[(wilayah ini,")-("Musuh bersama")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(wilayah ini,")-(negara)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(wilayah ini,")-(perluasan hubungan)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(wilayah ini,")-(negara,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(wilayah ini,")-(mereka,)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(wilayah ini,")-(Ahmadinejad)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(wilayah ini,")-(Press TV)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(wilayah ini,")-(Menteri Pembangunan Turki Cevdet Yilmaz)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(wilayah ini,")-(perluasan hubungan Iran-Turki)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(wilayah ini,")-(masa pemerintahan Ahmadinejad,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(wilayah ini,")-(laporan Xinhua)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(wilayah ini,")-(Jakarta)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(wilayah ini,")-(Ahad malam)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(wilayah ini,")-(Yilmaz)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(wilayah ini,")-(negaranya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(wilayah ini,")-(kerja sama)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(wilayah ini,")-(Republik Islam)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(wilayah ini,")-(Menteri Turki)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(wilayah ini,")-(Teheran dan Ankara)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(wilayah ini,")-(kepentingan)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(wilayah ini,")-(masalah regional)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(wilayah ini,")-(kami)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(wilayah ini,")-(perbedaan pendapat)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(wilayah ini,")-(masalah)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(wilayah ini,")-(Turki)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(wilayah ini,")-(masa depan dan nasib)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(wilayah ini,")-(bersama,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(wilayah ini,")-(Press TV)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(wilayah ini,")-(Turki)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(wilayah ini,")-(volume transaksi perdagangan)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(wilayah ini,")-(Iran)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(wilayah ini,")-(dolar AS)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(wilayah ini,")-(jumlahnya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(wilayah ini,")-(saat ini,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(wilayah ini,")-(miliar dolar,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(wilayah ini,")-(Yilmaz,)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(wilayah ini,")-(satu delegasi ekonomi)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(wilayah ini,")-(kunjungan tiga-hari)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(wilayah ini,")-(Iran)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(Ahmadinejad)-("Musuh bersama")]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Ahmadinejad)-(negara)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ahmadinejad)-(perluasan hubungan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ahmadinejad)-(negara,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Ahmadinejad)-(mereka,)]";false;false;false;false;true;false;false;PERSON;OTHER
+"[(Ahmadinejad)-(Ahmadinejad)]";true;true;false;false;false;false;true;PERSON;PERSON
+"[(Ahmadinejad)-(Press TV)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Ahmadinejad)-(Menteri Pembangunan Turki Cevdet Yilmaz)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Ahmadinejad)-(perluasan hubungan Iran-Turki)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ahmadinejad)-(masa pemerintahan Ahmadinejad,)]";false;false;false;false;false;false;true;PERSON;OTHER
+"[(Ahmadinejad)-(laporan Xinhua)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ahmadinejad)-(Jakarta)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Ahmadinejad)-(Ahad malam)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Ahmadinejad)-(Yilmaz)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Ahmadinejad)-(negaranya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ahmadinejad)-(kerja sama)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ahmadinejad)-(Republik Islam)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Ahmadinejad)-(Menteri Turki)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Ahmadinejad)-(Teheran dan Ankara)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Ahmadinejad)-(kepentingan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ahmadinejad)-(masalah regional)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ahmadinejad)-(kami)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Ahmadinejad)-(perbedaan pendapat)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ahmadinejad)-(masalah)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ahmadinejad)-(Turki)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Ahmadinejad)-(masa depan dan nasib)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ahmadinejad)-(bersama,")]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Ahmadinejad)-(Press TV)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Ahmadinejad)-(Turki)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Ahmadinejad)-(volume transaksi perdagangan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ahmadinejad)-(Iran)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Ahmadinejad)-(dolar AS)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ahmadinejad)-(jumlahnya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ahmadinejad)-(saat ini,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Ahmadinejad)-(miliar dolar,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Ahmadinejad)-(Yilmaz,)]";false;false;false;false;false;false;false;PERSON;LOCATION
+"[(Ahmadinejad)-(satu delegasi ekonomi)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ahmadinejad)-(kunjungan tiga-hari)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ahmadinejad)-(Iran)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[("Musuh bersama")-(negara)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[("Musuh bersama")-(perluasan hubungan)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[("Musuh bersama")-(negara,)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[("Musuh bersama")-(mereka,)]";false;false;false;false;true;true;false;OTHER;OTHER
+"[("Musuh bersama")-(Ahmadinejad)]";false;false;false;false;false;true;false;OTHER;PERSON
+"[("Musuh bersama")-(Press TV)]";false;false;false;false;false;true;false;OTHER;PERSON
+"[("Musuh bersama")-(Menteri Pembangunan Turki Cevdet Yilmaz)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[("Musuh bersama")-(perluasan hubungan Iran-Turki)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Musuh bersama")-(masa pemerintahan Ahmadinejad,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Musuh bersama")-(laporan Xinhua)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Musuh bersama")-(Jakarta)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[("Musuh bersama")-(Ahad malam)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[("Musuh bersama")-(Yilmaz)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[("Musuh bersama")-(negaranya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Musuh bersama")-(kerja sama)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Musuh bersama")-(Republik Islam)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[("Musuh bersama")-(Menteri Turki)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[("Musuh bersama")-(Teheran dan Ankara)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[("Musuh bersama")-(kepentingan)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Musuh bersama")-(masalah regional)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Musuh bersama")-(kami)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[("Musuh bersama")-(perbedaan pendapat)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Musuh bersama")-(masalah)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Musuh bersama")-(Turki)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[("Musuh bersama")-(masa depan dan nasib)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Musuh bersama")-(bersama,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Musuh bersama")-(Press TV)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[("Musuh bersama")-(Turki)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[("Musuh bersama")-(volume transaksi perdagangan)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Musuh bersama")-(Iran)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[("Musuh bersama")-(dolar AS)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Musuh bersama")-(jumlahnya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Musuh bersama")-(saat ini,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Musuh bersama")-(miliar dolar,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Musuh bersama")-(Yilmaz,)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[("Musuh bersama")-(satu delegasi ekonomi)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Musuh bersama")-(kunjungan tiga-hari)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Musuh bersama")-(Iran)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(negara)-(perluasan hubungan)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(negara)-(negara,)]";false;false;false;false;false;true;true;OTHER;OTHER
+"[(negara)-(mereka,)]";false;false;false;false;true;true;false;OTHER;OTHER
+"[(negara)-(Ahmadinejad)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(negara)-(Press TV)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(negara)-(Menteri Pembangunan Turki Cevdet Yilmaz)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(negara)-(perluasan hubungan Iran-Turki)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(negara)-(masa pemerintahan Ahmadinejad,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(negara)-(laporan Xinhua)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(negara)-(Jakarta)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(negara)-(Ahad malam)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(negara)-(Yilmaz)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(negara)-(negaranya)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(negara)-(kerja sama)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(negara)-(Republik Islam)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(negara)-(Menteri Turki)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(negara)-(Teheran dan Ankara)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(negara)-(kepentingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(negara)-(masalah regional)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(negara)-(kami)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(negara)-(perbedaan pendapat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(negara)-(masalah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(negara)-(Turki)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(negara)-(masa depan dan nasib)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(negara)-(bersama,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(negara)-(Press TV)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(negara)-(Turki)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(negara)-(volume transaksi perdagangan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(negara)-(Iran)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(negara)-(dolar AS)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(negara)-(jumlahnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(negara)-(saat ini,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(negara)-(miliar dolar,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(negara)-(Yilmaz,)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(negara)-(satu delegasi ekonomi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(negara)-(kunjungan tiga-hari)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(negara)-(Iran)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(perluasan hubungan)-(negara,)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(perluasan hubungan)-(mereka,)]";false;false;false;false;true;true;false;OTHER;OTHER
+"[(perluasan hubungan)-(Ahmadinejad)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(perluasan hubungan)-(Press TV)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(perluasan hubungan)-(Menteri Pembangunan Turki Cevdet Yilmaz)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(perluasan hubungan)-(perluasan hubungan Iran-Turki)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(perluasan hubungan)-(masa pemerintahan Ahmadinejad,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(perluasan hubungan)-(laporan Xinhua)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(perluasan hubungan)-(Jakarta)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(perluasan hubungan)-(Ahad malam)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(perluasan hubungan)-(Yilmaz)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(perluasan hubungan)-(negaranya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(perluasan hubungan)-(kerja sama)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(perluasan hubungan)-(Republik Islam)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(perluasan hubungan)-(Menteri Turki)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(perluasan hubungan)-(Teheran dan Ankara)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(perluasan hubungan)-(kepentingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(perluasan hubungan)-(masalah regional)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(perluasan hubungan)-(kami)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(perluasan hubungan)-(perbedaan pendapat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(perluasan hubungan)-(masalah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(perluasan hubungan)-(Turki)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(perluasan hubungan)-(masa depan dan nasib)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(perluasan hubungan)-(bersama,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(perluasan hubungan)-(Press TV)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(perluasan hubungan)-(Turki)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(perluasan hubungan)-(volume transaksi perdagangan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(perluasan hubungan)-(Iran)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(perluasan hubungan)-(dolar AS)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(perluasan hubungan)-(jumlahnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(perluasan hubungan)-(saat ini,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(perluasan hubungan)-(miliar dolar,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(perluasan hubungan)-(Yilmaz,)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(perluasan hubungan)-(satu delegasi ekonomi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(perluasan hubungan)-(kunjungan tiga-hari)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(perluasan hubungan)-(Iran)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(negara,)-(mereka,)]";false;false;false;false;true;true;false;OTHER;OTHER
+"[(negara,)-(Ahmadinejad)]";false;false;false;false;false;true;false;OTHER;PERSON
+"[(negara,)-(Press TV)]";false;false;false;false;false;true;false;OTHER;PERSON
+"[(negara,)-(Menteri Pembangunan Turki Cevdet Yilmaz)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(negara,)-(perluasan hubungan Iran-Turki)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(negara,)-(masa pemerintahan Ahmadinejad,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(negara,)-(laporan Xinhua)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(negara,)-(Jakarta)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(negara,)-(Ahad malam)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(negara,)-(Yilmaz)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(negara,)-(negaranya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(negara,)-(kerja sama)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(negara,)-(Republik Islam)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(negara,)-(Menteri Turki)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(negara,)-(Teheran dan Ankara)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(negara,)-(kepentingan)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(negara,)-(masalah regional)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(negara,)-(kami)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(negara,)-(perbedaan pendapat)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(negara,)-(masalah)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(negara,)-(Turki)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(negara,)-(masa depan dan nasib)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(negara,)-(bersama,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(negara,)-(Press TV)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(negara,)-(Turki)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(negara,)-(volume transaksi perdagangan)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(negara,)-(Iran)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(negara,)-(dolar AS)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(negara,)-(jumlahnya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(negara,)-(saat ini,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(negara,)-(miliar dolar,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(negara,)-(Yilmaz,)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(negara,)-(satu delegasi ekonomi)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(negara,)-(kunjungan tiga-hari)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(negara,)-(Iran)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(mereka,)-(Ahmadinejad)]";false;false;false;true;false;true;false;OTHER;PERSON
+"[(mereka,)-(Press TV)]";false;false;false;true;false;true;false;OTHER;PERSON
+"[(mereka,)-(Menteri Pembangunan Turki Cevdet Yilmaz)]";false;false;false;true;false;false;false;OTHER;PERSON
+"[(mereka,)-(perluasan hubungan Iran-Turki)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(mereka,)-(masa pemerintahan Ahmadinejad,)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(mereka,)-(laporan Xinhua)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(mereka,)-(Jakarta)]";false;false;false;true;false;false;false;OTHER;LOCATION
+"[(mereka,)-(Ahad malam)]";false;false;false;true;false;false;false;OTHER;PERSON
+"[(mereka,)-(Yilmaz)]";false;false;false;true;false;false;false;OTHER;LOCATION
+"[(mereka,)-(negaranya)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(mereka,)-(kerja sama)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(mereka,)-(Republik Islam)]";false;false;false;true;false;false;false;OTHER;PERSON
+"[(mereka,)-(Menteri Turki)]";false;false;false;true;false;false;false;OTHER;PERSON
+"[(mereka,)-(Teheran dan Ankara)]";false;false;false;true;false;false;false;OTHER;LOCATION
+"[(mereka,)-(kepentingan)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(mereka,)-(masalah regional)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(mereka,)-(kami)]";false;false;false;true;true;false;false;OTHER;OTHER
+"[(mereka,)-(perbedaan pendapat)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(mereka,)-(masalah)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(mereka,)-(Turki)]";false;false;false;true;false;false;false;OTHER;LOCATION
+"[(mereka,)-(masa depan dan nasib)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(mereka,)-(bersama,")]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(mereka,)-(Press TV)]";false;false;false;true;false;false;false;OTHER;PERSON
+"[(mereka,)-(Turki)]";false;false;false;true;false;false;false;OTHER;LOCATION
+"[(mereka,)-(volume transaksi perdagangan)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(mereka,)-(Iran)]";false;false;false;true;false;false;false;OTHER;LOCATION
+"[(mereka,)-(dolar AS)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(mereka,)-(jumlahnya)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(mereka,)-(saat ini,)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(mereka,)-(miliar dolar,)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(mereka,)-(Yilmaz,)]";false;false;false;true;false;false;false;OTHER;LOCATION
+"[(mereka,)-(satu delegasi ekonomi)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(mereka,)-(kunjungan tiga-hari)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(mereka,)-(Iran)]";false;false;false;true;false;false;false;OTHER;LOCATION
+"[(Ahmadinejad)-(Press TV)]";false;true;false;false;false;true;false;PERSON;PERSON
+"[(Ahmadinejad)-(Menteri Pembangunan Turki Cevdet Yilmaz)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Ahmadinejad)-(perluasan hubungan Iran-Turki)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ahmadinejad)-(masa pemerintahan Ahmadinejad,)]";false;false;false;false;false;false;true;PERSON;OTHER
+"[(Ahmadinejad)-(laporan Xinhua)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ahmadinejad)-(Jakarta)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Ahmadinejad)-(Ahad malam)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Ahmadinejad)-(Yilmaz)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Ahmadinejad)-(negaranya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ahmadinejad)-(kerja sama)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ahmadinejad)-(Republik Islam)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Ahmadinejad)-(Menteri Turki)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Ahmadinejad)-(Teheran dan Ankara)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Ahmadinejad)-(kepentingan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ahmadinejad)-(masalah regional)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ahmadinejad)-(kami)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Ahmadinejad)-(perbedaan pendapat)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ahmadinejad)-(masalah)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ahmadinejad)-(Turki)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Ahmadinejad)-(masa depan dan nasib)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ahmadinejad)-(bersama,")]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Ahmadinejad)-(Press TV)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Ahmadinejad)-(Turki)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Ahmadinejad)-(volume transaksi perdagangan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ahmadinejad)-(Iran)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Ahmadinejad)-(dolar AS)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ahmadinejad)-(jumlahnya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ahmadinejad)-(saat ini,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Ahmadinejad)-(miliar dolar,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Ahmadinejad)-(Yilmaz,)]";false;false;false;false;false;false;false;PERSON;LOCATION
+"[(Ahmadinejad)-(satu delegasi ekonomi)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ahmadinejad)-(kunjungan tiga-hari)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ahmadinejad)-(Iran)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Press TV)-(Menteri Pembangunan Turki Cevdet Yilmaz)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Press TV)-(perluasan hubungan Iran-Turki)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Press TV)-(masa pemerintahan Ahmadinejad,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Press TV)-(laporan Xinhua)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Press TV)-(Jakarta)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Press TV)-(Ahad malam)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Press TV)-(Yilmaz)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Press TV)-(negaranya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Press TV)-(kerja sama)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Press TV)-(Republik Islam)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Press TV)-(Menteri Turki)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Press TV)-(Teheran dan Ankara)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Press TV)-(kepentingan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Press TV)-(masalah regional)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Press TV)-(kami)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Press TV)-(perbedaan pendapat)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Press TV)-(masalah)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Press TV)-(Turki)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Press TV)-(masa depan dan nasib)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Press TV)-(bersama,")]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Press TV)-(Press TV)]";true;true;false;false;false;false;true;PERSON;PERSON
+"[(Press TV)-(Turki)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Press TV)-(volume transaksi perdagangan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Press TV)-(Iran)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Press TV)-(dolar AS)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Press TV)-(jumlahnya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Press TV)-(saat ini,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Press TV)-(miliar dolar,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Press TV)-(Yilmaz,)]";false;false;false;false;false;false;false;PERSON;LOCATION
+"[(Press TV)-(satu delegasi ekonomi)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Press TV)-(kunjungan tiga-hari)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Press TV)-(Iran)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Menteri Pembangunan Turki Cevdet Yilmaz)-(perluasan hubungan Iran-Turki)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Menteri Pembangunan Turki Cevdet Yilmaz)-(masa pemerintahan Ahmadinejad,)]";false;false;false;false;false;true;false;PERSON;OTHER
+"[(Menteri Pembangunan Turki Cevdet Yilmaz)-(laporan Xinhua)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Menteri Pembangunan Turki Cevdet Yilmaz)-(Jakarta)]";false;true;false;false;false;true;false;PERSON;LOCATION
+"[(Menteri Pembangunan Turki Cevdet Yilmaz)-(Ahad malam)]";false;true;false;false;false;true;false;PERSON;PERSON
+"[(Menteri Pembangunan Turki Cevdet Yilmaz)-(Yilmaz)]";false;true;false;false;false;false;true;PERSON;LOCATION
+"[(Menteri Pembangunan Turki Cevdet Yilmaz)-(negaranya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Menteri Pembangunan Turki Cevdet Yilmaz)-(kerja sama)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Menteri Pembangunan Turki Cevdet Yilmaz)-(Republik Islam)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Menteri Pembangunan Turki Cevdet Yilmaz)-(Menteri Turki)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Menteri Pembangunan Turki Cevdet Yilmaz)-(Teheran dan Ankara)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Menteri Pembangunan Turki Cevdet Yilmaz)-(kepentingan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Menteri Pembangunan Turki Cevdet Yilmaz)-(masalah regional)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Menteri Pembangunan Turki Cevdet Yilmaz)-(kami)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Menteri Pembangunan Turki Cevdet Yilmaz)-(perbedaan pendapat)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Menteri Pembangunan Turki Cevdet Yilmaz)-(masalah)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Menteri Pembangunan Turki Cevdet Yilmaz)-(Turki)]";false;true;false;false;false;false;true;PERSON;LOCATION
+"[(Menteri Pembangunan Turki Cevdet Yilmaz)-(masa depan dan nasib)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Menteri Pembangunan Turki Cevdet Yilmaz)-(bersama,")]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Menteri Pembangunan Turki Cevdet Yilmaz)-(Press TV)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Menteri Pembangunan Turki Cevdet Yilmaz)-(Turki)]";false;true;false;false;false;false;true;PERSON;LOCATION
+"[(Menteri Pembangunan Turki Cevdet Yilmaz)-(volume transaksi perdagangan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Menteri Pembangunan Turki Cevdet Yilmaz)-(Iran)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Menteri Pembangunan Turki Cevdet Yilmaz)-(dolar AS)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Menteri Pembangunan Turki Cevdet Yilmaz)-(jumlahnya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Menteri Pembangunan Turki Cevdet Yilmaz)-(saat ini,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Menteri Pembangunan Turki Cevdet Yilmaz)-(miliar dolar,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Menteri Pembangunan Turki Cevdet Yilmaz)-(Yilmaz,)]";false;false;false;false;false;false;false;PERSON;LOCATION
+"[(Menteri Pembangunan Turki Cevdet Yilmaz)-(satu delegasi ekonomi)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Menteri Pembangunan Turki Cevdet Yilmaz)-(kunjungan tiga-hari)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Menteri Pembangunan Turki Cevdet Yilmaz)-(Iran)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(perluasan hubungan Iran-Turki)-(masa pemerintahan Ahmadinejad,)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(perluasan hubungan Iran-Turki)-(laporan Xinhua)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(perluasan hubungan Iran-Turki)-(Jakarta)]";false;true;false;false;false;true;false;OTHER;LOCATION
+"[(perluasan hubungan Iran-Turki)-(Ahad malam)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(perluasan hubungan Iran-Turki)-(Yilmaz)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(perluasan hubungan Iran-Turki)-(negaranya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(perluasan hubungan Iran-Turki)-(kerja sama)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(perluasan hubungan Iran-Turki)-(Republik Islam)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(perluasan hubungan Iran-Turki)-(Menteri Turki)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(perluasan hubungan Iran-Turki)-(Teheran dan Ankara)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(perluasan hubungan Iran-Turki)-(kepentingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(perluasan hubungan Iran-Turki)-(masalah regional)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(perluasan hubungan Iran-Turki)-(kami)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(perluasan hubungan Iran-Turki)-(perbedaan pendapat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(perluasan hubungan Iran-Turki)-(masalah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(perluasan hubungan Iran-Turki)-(Turki)]";false;true;false;false;false;false;true;OTHER;LOCATION
+"[(perluasan hubungan Iran-Turki)-(masa depan dan nasib)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(perluasan hubungan Iran-Turki)-(bersama,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(perluasan hubungan Iran-Turki)-(Press TV)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(perluasan hubungan Iran-Turki)-(Turki)]";false;true;false;false;false;false;true;OTHER;LOCATION
+"[(perluasan hubungan Iran-Turki)-(volume transaksi perdagangan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(perluasan hubungan Iran-Turki)-(Iran)]";false;true;false;false;false;false;true;OTHER;LOCATION
+"[(perluasan hubungan Iran-Turki)-(dolar AS)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(perluasan hubungan Iran-Turki)-(jumlahnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(perluasan hubungan Iran-Turki)-(saat ini,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(perluasan hubungan Iran-Turki)-(miliar dolar,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(perluasan hubungan Iran-Turki)-(Yilmaz,)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(perluasan hubungan Iran-Turki)-(satu delegasi ekonomi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(perluasan hubungan Iran-Turki)-(kunjungan tiga-hari)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(perluasan hubungan Iran-Turki)-(Iran)]";false;true;false;false;false;false;true;OTHER;LOCATION
+"[(masa pemerintahan Ahmadinejad,)-(laporan Xinhua)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(masa pemerintahan Ahmadinejad,)-(Jakarta)]";false;false;false;false;false;true;false;OTHER;LOCATION
+"[(masa pemerintahan Ahmadinejad,)-(Ahad malam)]";false;false;false;false;false;true;false;OTHER;PERSON
+"[(masa pemerintahan Ahmadinejad,)-(Yilmaz)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(masa pemerintahan Ahmadinejad,)-(negaranya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(masa pemerintahan Ahmadinejad,)-(kerja sama)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(masa pemerintahan Ahmadinejad,)-(Republik Islam)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(masa pemerintahan Ahmadinejad,)-(Menteri Turki)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(masa pemerintahan Ahmadinejad,)-(Teheran dan Ankara)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(masa pemerintahan Ahmadinejad,)-(kepentingan)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(masa pemerintahan Ahmadinejad,)-(masalah regional)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(masa pemerintahan Ahmadinejad,)-(kami)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(masa pemerintahan Ahmadinejad,)-(perbedaan pendapat)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(masa pemerintahan Ahmadinejad,)-(masalah)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(masa pemerintahan Ahmadinejad,)-(Turki)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(masa pemerintahan Ahmadinejad,)-(masa depan dan nasib)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(masa pemerintahan Ahmadinejad,)-(bersama,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(masa pemerintahan Ahmadinejad,)-(Press TV)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(masa pemerintahan Ahmadinejad,)-(Turki)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(masa pemerintahan Ahmadinejad,)-(volume transaksi perdagangan)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(masa pemerintahan Ahmadinejad,)-(Iran)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(masa pemerintahan Ahmadinejad,)-(dolar AS)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(masa pemerintahan Ahmadinejad,)-(jumlahnya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(masa pemerintahan Ahmadinejad,)-(saat ini,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(masa pemerintahan Ahmadinejad,)-(miliar dolar,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(masa pemerintahan Ahmadinejad,)-(Yilmaz,)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(masa pemerintahan Ahmadinejad,)-(satu delegasi ekonomi)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(masa pemerintahan Ahmadinejad,)-(kunjungan tiga-hari)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(masa pemerintahan Ahmadinejad,)-(Iran)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(laporan Xinhua)-(Jakarta)]";false;true;false;false;false;true;false;OTHER;LOCATION
+"[(laporan Xinhua)-(Ahad malam)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(laporan Xinhua)-(Yilmaz)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(laporan Xinhua)-(negaranya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(laporan Xinhua)-(kerja sama)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(laporan Xinhua)-(Republik Islam)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(laporan Xinhua)-(Menteri Turki)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(laporan Xinhua)-(Teheran dan Ankara)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(laporan Xinhua)-(kepentingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(laporan Xinhua)-(masalah regional)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(laporan Xinhua)-(kami)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(laporan Xinhua)-(perbedaan pendapat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(laporan Xinhua)-(masalah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(laporan Xinhua)-(Turki)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(laporan Xinhua)-(masa depan dan nasib)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(laporan Xinhua)-(bersama,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(laporan Xinhua)-(Press TV)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(laporan Xinhua)-(Turki)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(laporan Xinhua)-(volume transaksi perdagangan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(laporan Xinhua)-(Iran)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(laporan Xinhua)-(dolar AS)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(laporan Xinhua)-(jumlahnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(laporan Xinhua)-(saat ini,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(laporan Xinhua)-(miliar dolar,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(laporan Xinhua)-(Yilmaz,)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(laporan Xinhua)-(satu delegasi ekonomi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(laporan Xinhua)-(kunjungan tiga-hari)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(laporan Xinhua)-(Iran)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(Jakarta)-(Ahad malam)]";false;true;false;false;false;true;false;LOCATION;PERSON
+"[(Jakarta)-(Yilmaz)]";false;true;false;false;false;false;false;LOCATION;LOCATION
+"[(Jakarta)-(negaranya)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jakarta)-(kerja sama)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jakarta)-(Republik Islam)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Jakarta)-(Menteri Turki)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Jakarta)-(Teheran dan Ankara)]";false;true;false;false;false;false;false;LOCATION;LOCATION
+"[(Jakarta)-(kepentingan)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jakarta)-(masalah regional)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jakarta)-(kami)]";false;true;false;false;true;false;false;LOCATION;OTHER
+"[(Jakarta)-(perbedaan pendapat)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jakarta)-(masalah)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jakarta)-(Turki)]";false;true;false;false;false;false;false;LOCATION;LOCATION
+"[(Jakarta)-(masa depan dan nasib)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jakarta)-(bersama,")]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Jakarta)-(Press TV)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Jakarta)-(Turki)]";false;true;false;false;false;false;false;LOCATION;LOCATION
+"[(Jakarta)-(volume transaksi perdagangan)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jakarta)-(Iran)]";false;true;false;false;false;false;false;LOCATION;LOCATION
+"[(Jakarta)-(dolar AS)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jakarta)-(jumlahnya)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jakarta)-(saat ini,)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Jakarta)-(miliar dolar,)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Jakarta)-(Yilmaz,)]";false;false;false;false;false;false;false;LOCATION;LOCATION
+"[(Jakarta)-(satu delegasi ekonomi)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jakarta)-(kunjungan tiga-hari)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jakarta)-(Iran)]";false;true;false;false;false;false;false;LOCATION;LOCATION
+"[(Ahad malam)-(Yilmaz)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Ahad malam)-(negaranya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ahad malam)-(kerja sama)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ahad malam)-(Republik Islam)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Ahad malam)-(Menteri Turki)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Ahad malam)-(Teheran dan Ankara)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Ahad malam)-(kepentingan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ahad malam)-(masalah regional)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ahad malam)-(kami)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Ahad malam)-(perbedaan pendapat)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ahad malam)-(masalah)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ahad malam)-(Turki)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Ahad malam)-(masa depan dan nasib)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ahad malam)-(bersama,")]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Ahad malam)-(Press TV)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Ahad malam)-(Turki)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Ahad malam)-(volume transaksi perdagangan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ahad malam)-(Iran)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Ahad malam)-(dolar AS)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ahad malam)-(jumlahnya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ahad malam)-(saat ini,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Ahad malam)-(miliar dolar,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Ahad malam)-(Yilmaz,)]";false;false;false;false;false;false;false;PERSON;LOCATION
+"[(Ahad malam)-(satu delegasi ekonomi)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ahad malam)-(kunjungan tiga-hari)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ahad malam)-(Iran)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Yilmaz)-(negaranya)]";false;true;false;false;false;true;false;LOCATION;OTHER
+"[(Yilmaz)-(kerja sama)]";false;true;false;false;false;true;false;LOCATION;OTHER
+"[(Yilmaz)-(Republik Islam)]";false;true;false;false;false;true;false;LOCATION;PERSON
+"[(Yilmaz)-(Menteri Turki)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Yilmaz)-(Teheran dan Ankara)]";false;true;false;false;false;false;false;LOCATION;LOCATION
+"[(Yilmaz)-(kepentingan)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Yilmaz)-(masalah regional)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Yilmaz)-(kami)]";false;true;false;false;true;false;false;LOCATION;OTHER
+"[(Yilmaz)-(perbedaan pendapat)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Yilmaz)-(masalah)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Yilmaz)-(Turki)]";false;true;false;false;false;false;false;LOCATION;LOCATION
+"[(Yilmaz)-(masa depan dan nasib)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Yilmaz)-(bersama,")]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Yilmaz)-(Press TV)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Yilmaz)-(Turki)]";false;true;false;false;false;false;false;LOCATION;LOCATION
+"[(Yilmaz)-(volume transaksi perdagangan)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Yilmaz)-(Iran)]";false;true;false;false;false;false;false;LOCATION;LOCATION
+"[(Yilmaz)-(dolar AS)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Yilmaz)-(jumlahnya)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Yilmaz)-(saat ini,)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Yilmaz)-(miliar dolar,)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Yilmaz)-(Yilmaz,)]";false;false;false;false;false;false;true;LOCATION;LOCATION
+"[(Yilmaz)-(satu delegasi ekonomi)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Yilmaz)-(kunjungan tiga-hari)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Yilmaz)-(Iran)]";false;true;false;false;false;false;false;LOCATION;LOCATION
+"[(negaranya)-(kerja sama)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(negaranya)-(Republik Islam)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(negaranya)-(Menteri Turki)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(negaranya)-(Teheran dan Ankara)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(negaranya)-(kepentingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(negaranya)-(masalah regional)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(negaranya)-(kami)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(negaranya)-(perbedaan pendapat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(negaranya)-(masalah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(negaranya)-(Turki)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(negaranya)-(masa depan dan nasib)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(negaranya)-(bersama,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(negaranya)-(Press TV)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(negaranya)-(Turki)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(negaranya)-(volume transaksi perdagangan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(negaranya)-(Iran)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(negaranya)-(dolar AS)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(negaranya)-(jumlahnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(negaranya)-(saat ini,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(negaranya)-(miliar dolar,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(negaranya)-(Yilmaz,)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(negaranya)-(satu delegasi ekonomi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(negaranya)-(kunjungan tiga-hari)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(negaranya)-(Iran)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(kerja sama)-(Republik Islam)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(kerja sama)-(Menteri Turki)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kerja sama)-(Teheran dan Ankara)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(kerja sama)-(kepentingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kerja sama)-(masalah regional)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kerja sama)-(kami)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(kerja sama)-(perbedaan pendapat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kerja sama)-(masalah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kerja sama)-(Turki)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(kerja sama)-(masa depan dan nasib)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kerja sama)-(bersama,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(kerja sama)-(Press TV)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kerja sama)-(Turki)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(kerja sama)-(volume transaksi perdagangan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kerja sama)-(Iran)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(kerja sama)-(dolar AS)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kerja sama)-(jumlahnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kerja sama)-(saat ini,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(kerja sama)-(miliar dolar,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(kerja sama)-(Yilmaz,)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(kerja sama)-(satu delegasi ekonomi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kerja sama)-(kunjungan tiga-hari)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kerja sama)-(Iran)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(Republik Islam)-(Menteri Turki)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Republik Islam)-(Teheran dan Ankara)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Republik Islam)-(kepentingan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Republik Islam)-(masalah regional)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Republik Islam)-(kami)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Republik Islam)-(perbedaan pendapat)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Republik Islam)-(masalah)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Republik Islam)-(Turki)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Republik Islam)-(masa depan dan nasib)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Republik Islam)-(bersama,")]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Republik Islam)-(Press TV)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Republik Islam)-(Turki)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Republik Islam)-(volume transaksi perdagangan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Republik Islam)-(Iran)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Republik Islam)-(dolar AS)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Republik Islam)-(jumlahnya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Republik Islam)-(saat ini,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Republik Islam)-(miliar dolar,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Republik Islam)-(Yilmaz,)]";false;false;false;false;false;false;false;PERSON;LOCATION
+"[(Republik Islam)-(satu delegasi ekonomi)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Republik Islam)-(kunjungan tiga-hari)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Republik Islam)-(Iran)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Menteri Turki)-(Teheran dan Ankara)]";false;true;false;false;false;true;false;PERSON;LOCATION
+"[(Menteri Turki)-(kepentingan)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Menteri Turki)-(masalah regional)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Menteri Turki)-(kami)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Menteri Turki)-(perbedaan pendapat)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Menteri Turki)-(masalah)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Menteri Turki)-(Turki)]";false;true;false;false;false;false;true;PERSON;LOCATION
+"[(Menteri Turki)-(masa depan dan nasib)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Menteri Turki)-(bersama,")]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Menteri Turki)-(Press TV)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Menteri Turki)-(Turki)]";false;true;false;false;false;false;true;PERSON;LOCATION
+"[(Menteri Turki)-(volume transaksi perdagangan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Menteri Turki)-(Iran)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Menteri Turki)-(dolar AS)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Menteri Turki)-(jumlahnya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Menteri Turki)-(saat ini,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Menteri Turki)-(miliar dolar,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Menteri Turki)-(Yilmaz,)]";false;false;false;false;false;false;false;PERSON;LOCATION
+"[(Menteri Turki)-(satu delegasi ekonomi)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Menteri Turki)-(kunjungan tiga-hari)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Menteri Turki)-(Iran)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Teheran dan Ankara)-(kepentingan)]";false;true;false;false;false;true;false;LOCATION;OTHER
+"[(Teheran dan Ankara)-(masalah regional)]";false;true;false;false;false;true;false;LOCATION;OTHER
+"[(Teheran dan Ankara)-(kami)]";false;true;false;false;true;false;false;LOCATION;OTHER
+"[(Teheran dan Ankara)-(perbedaan pendapat)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Teheran dan Ankara)-(masalah)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Teheran dan Ankara)-(Turki)]";false;true;false;false;false;false;false;LOCATION;LOCATION
+"[(Teheran dan Ankara)-(masa depan dan nasib)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Teheran dan Ankara)-(bersama,")]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Teheran dan Ankara)-(Press TV)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Teheran dan Ankara)-(Turki)]";false;true;false;false;false;false;false;LOCATION;LOCATION
+"[(Teheran dan Ankara)-(volume transaksi perdagangan)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Teheran dan Ankara)-(Iran)]";false;true;false;false;false;false;false;LOCATION;LOCATION
+"[(Teheran dan Ankara)-(dolar AS)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Teheran dan Ankara)-(jumlahnya)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Teheran dan Ankara)-(saat ini,)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Teheran dan Ankara)-(miliar dolar,)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Teheran dan Ankara)-(Yilmaz,)]";false;false;false;false;false;false;false;LOCATION;LOCATION
+"[(Teheran dan Ankara)-(satu delegasi ekonomi)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Teheran dan Ankara)-(kunjungan tiga-hari)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Teheran dan Ankara)-(Iran)]";false;true;false;false;false;false;false;LOCATION;LOCATION
+"[(kepentingan)-(masalah regional)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(kepentingan)-(kami)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(kepentingan)-(perbedaan pendapat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kepentingan)-(masalah)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kepentingan)-(Turki)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(kepentingan)-(masa depan dan nasib)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kepentingan)-(bersama,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(kepentingan)-(Press TV)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kepentingan)-(Turki)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(kepentingan)-(volume transaksi perdagangan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kepentingan)-(Iran)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(kepentingan)-(dolar AS)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kepentingan)-(jumlahnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kepentingan)-(saat ini,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(kepentingan)-(miliar dolar,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(kepentingan)-(Yilmaz,)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(kepentingan)-(satu delegasi ekonomi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kepentingan)-(kunjungan tiga-hari)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kepentingan)-(Iran)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(masalah regional)-(kami)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(masalah regional)-(perbedaan pendapat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(masalah regional)-(masalah)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(masalah regional)-(Turki)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(masalah regional)-(masa depan dan nasib)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(masalah regional)-(bersama,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(masalah regional)-(Press TV)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(masalah regional)-(Turki)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(masalah regional)-(volume transaksi perdagangan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(masalah regional)-(Iran)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(masalah regional)-(dolar AS)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(masalah regional)-(jumlahnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(masalah regional)-(saat ini,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(masalah regional)-(miliar dolar,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(masalah regional)-(Yilmaz,)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(masalah regional)-(satu delegasi ekonomi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(masalah regional)-(kunjungan tiga-hari)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(masalah regional)-(Iran)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(kami)-(perbedaan pendapat)]";false;true;false;true;false;true;false;OTHER;OTHER
+"[(kami)-(masalah)]";false;true;false;true;false;true;false;OTHER;OTHER
+"[(kami)-(Turki)]";false;true;false;true;false;true;false;OTHER;LOCATION
+"[(kami)-(masa depan dan nasib)]";false;true;false;true;false;true;false;OTHER;OTHER
+"[(kami)-(bersama,")]";false;false;false;true;false;true;false;OTHER;OTHER
+"[(kami)-(Press TV)]";false;true;false;true;false;true;false;OTHER;PERSON
+"[(kami)-(Turki)]";false;true;false;true;false;false;false;OTHER;LOCATION
+"[(kami)-(volume transaksi perdagangan)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(kami)-(Iran)]";false;true;false;true;false;false;false;OTHER;LOCATION
+"[(kami)-(dolar AS)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(kami)-(jumlahnya)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(kami)-(saat ini,)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(kami)-(miliar dolar,)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(kami)-(Yilmaz,)]";false;false;false;true;false;false;false;OTHER;LOCATION
+"[(kami)-(satu delegasi ekonomi)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(kami)-(kunjungan tiga-hari)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(kami)-(Iran)]";false;true;false;true;false;false;false;OTHER;LOCATION
+"[(perbedaan pendapat)-(masalah)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(perbedaan pendapat)-(Turki)]";false;true;false;false;false;true;false;OTHER;LOCATION
+"[(perbedaan pendapat)-(masa depan dan nasib)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(perbedaan pendapat)-(bersama,")]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(perbedaan pendapat)-(Press TV)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(perbedaan pendapat)-(Turki)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(perbedaan pendapat)-(volume transaksi perdagangan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(perbedaan pendapat)-(Iran)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(perbedaan pendapat)-(dolar AS)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(perbedaan pendapat)-(jumlahnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(perbedaan pendapat)-(saat ini,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(perbedaan pendapat)-(miliar dolar,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(perbedaan pendapat)-(Yilmaz,)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(perbedaan pendapat)-(satu delegasi ekonomi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(perbedaan pendapat)-(kunjungan tiga-hari)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(perbedaan pendapat)-(Iran)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(masalah)-(Turki)]";false;true;false;false;false;true;false;OTHER;LOCATION
+"[(masalah)-(masa depan dan nasib)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(masalah)-(bersama,")]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(masalah)-(Press TV)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(masalah)-(Turki)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(masalah)-(volume transaksi perdagangan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(masalah)-(Iran)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(masalah)-(dolar AS)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(masalah)-(jumlahnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(masalah)-(saat ini,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(masalah)-(miliar dolar,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(masalah)-(Yilmaz,)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(masalah)-(satu delegasi ekonomi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(masalah)-(kunjungan tiga-hari)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(masalah)-(Iran)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(Turki)-(masa depan dan nasib)]";false;true;false;false;false;true;false;LOCATION;OTHER
+"[(Turki)-(bersama,")]";false;false;false;false;false;true;false;LOCATION;OTHER
+"[(Turki)-(Press TV)]";false;true;false;false;false;true;false;LOCATION;PERSON
+"[(Turki)-(Turki)]";true;true;false;false;false;false;true;LOCATION;LOCATION
+"[(Turki)-(volume transaksi perdagangan)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Turki)-(Iran)]";false;true;false;false;false;false;false;LOCATION;LOCATION
+"[(Turki)-(dolar AS)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Turki)-(jumlahnya)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Turki)-(saat ini,)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Turki)-(miliar dolar,)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Turki)-(Yilmaz,)]";false;false;false;false;false;false;false;LOCATION;LOCATION
+"[(Turki)-(satu delegasi ekonomi)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Turki)-(kunjungan tiga-hari)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Turki)-(Iran)]";false;true;false;false;false;false;false;LOCATION;LOCATION
+"[(masa depan dan nasib)-(bersama,")]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(masa depan dan nasib)-(Press TV)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(masa depan dan nasib)-(Turki)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(masa depan dan nasib)-(volume transaksi perdagangan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(masa depan dan nasib)-(Iran)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(masa depan dan nasib)-(dolar AS)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(masa depan dan nasib)-(jumlahnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(masa depan dan nasib)-(saat ini,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(masa depan dan nasib)-(miliar dolar,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(masa depan dan nasib)-(Yilmaz,)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(masa depan dan nasib)-(satu delegasi ekonomi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(masa depan dan nasib)-(kunjungan tiga-hari)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(masa depan dan nasib)-(Iran)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(bersama,")-(Press TV)]";false;false;false;false;false;true;false;OTHER;PERSON
+"[(bersama,")-(Turki)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(bersama,")-(volume transaksi perdagangan)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(bersama,")-(Iran)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(bersama,")-(dolar AS)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(bersama,")-(jumlahnya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(bersama,")-(saat ini,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(bersama,")-(miliar dolar,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(bersama,")-(Yilmaz,)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(bersama,")-(satu delegasi ekonomi)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(bersama,")-(kunjungan tiga-hari)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(bersama,")-(Iran)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(Press TV)-(Turki)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Press TV)-(volume transaksi perdagangan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Press TV)-(Iran)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Press TV)-(dolar AS)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Press TV)-(jumlahnya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Press TV)-(saat ini,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Press TV)-(miliar dolar,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Press TV)-(Yilmaz,)]";false;false;false;false;false;false;false;PERSON;LOCATION
+"[(Press TV)-(satu delegasi ekonomi)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Press TV)-(kunjungan tiga-hari)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Press TV)-(Iran)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Turki)-(volume transaksi perdagangan)]";false;true;false;false;false;true;false;LOCATION;OTHER
+"[(Turki)-(Iran)]";false;true;false;false;false;true;false;LOCATION;LOCATION
+"[(Turki)-(dolar AS)]";false;true;false;false;false;true;false;LOCATION;OTHER
+"[(Turki)-(jumlahnya)]";false;true;false;false;false;true;false;LOCATION;OTHER
+"[(Turki)-(saat ini,)]";false;false;false;false;false;true;false;LOCATION;OTHER
+"[(Turki)-(miliar dolar,)]";false;false;false;false;false;true;false;LOCATION;OTHER
+"[(Turki)-(Yilmaz,)]";false;false;false;false;false;true;false;LOCATION;LOCATION
+"[(Turki)-(satu delegasi ekonomi)]";false;true;false;false;false;true;false;LOCATION;OTHER
+"[(Turki)-(kunjungan tiga-hari)]";false;true;false;false;false;true;false;LOCATION;OTHER
+"[(Turki)-(Iran)]";false;true;false;false;false;true;false;LOCATION;LOCATION
+"[(volume transaksi perdagangan)-(Iran)]";false;true;false;false;false;true;false;OTHER;LOCATION
+"[(volume transaksi perdagangan)-(dolar AS)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(volume transaksi perdagangan)-(jumlahnya)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(volume transaksi perdagangan)-(saat ini,)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(volume transaksi perdagangan)-(miliar dolar,)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(volume transaksi perdagangan)-(Yilmaz,)]";false;false;false;false;false;true;false;OTHER;LOCATION
+"[(volume transaksi perdagangan)-(satu delegasi ekonomi)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(volume transaksi perdagangan)-(kunjungan tiga-hari)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(volume transaksi perdagangan)-(Iran)]";false;true;false;false;false;true;false;OTHER;LOCATION
+"[(Iran)-(dolar AS)]";false;true;false;false;false;true;false;LOCATION;OTHER
+"[(Iran)-(jumlahnya)]";false;true;false;false;false;true;false;LOCATION;OTHER
+"[(Iran)-(saat ini,)]";false;false;false;false;false;true;false;LOCATION;OTHER
+"[(Iran)-(miliar dolar,)]";false;false;false;false;false;true;false;LOCATION;OTHER
+"[(Iran)-(Yilmaz,)]";false;false;false;false;false;true;false;LOCATION;LOCATION
+"[(Iran)-(satu delegasi ekonomi)]";false;true;false;false;false;true;false;LOCATION;OTHER
+"[(Iran)-(kunjungan tiga-hari)]";false;true;false;false;false;true;false;LOCATION;OTHER
+"[(Iran)-(Iran)]";true;true;false;false;false;true;true;LOCATION;LOCATION
+"[(dolar AS)-(jumlahnya)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(dolar AS)-(saat ini,)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(dolar AS)-(miliar dolar,)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(dolar AS)-(Yilmaz,)]";false;false;false;false;false;true;false;OTHER;LOCATION
+"[(dolar AS)-(satu delegasi ekonomi)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(dolar AS)-(kunjungan tiga-hari)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(dolar AS)-(Iran)]";false;true;false;false;false;true;false;OTHER;LOCATION
+"[(jumlahnya)-(saat ini,)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(jumlahnya)-(miliar dolar,)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(jumlahnya)-(Yilmaz,)]";false;false;false;false;false;true;false;OTHER;LOCATION
+"[(jumlahnya)-(satu delegasi ekonomi)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(jumlahnya)-(kunjungan tiga-hari)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(jumlahnya)-(Iran)]";false;true;false;false;false;true;false;OTHER;LOCATION
+"[(saat ini,)-(miliar dolar,)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(saat ini,)-(Yilmaz,)]";false;false;false;false;false;true;false;OTHER;LOCATION
+"[(saat ini,)-(satu delegasi ekonomi)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(saat ini,)-(kunjungan tiga-hari)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(saat ini,)-(Iran)]";false;false;false;false;false;true;false;OTHER;LOCATION
+"[(miliar dolar,)-(Yilmaz,)]";false;false;false;false;false;true;false;OTHER;LOCATION
+"[(miliar dolar,)-(satu delegasi ekonomi)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(miliar dolar,)-(kunjungan tiga-hari)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(miliar dolar,)-(Iran)]";false;false;false;false;false;true;false;OTHER;LOCATION
+"[(Yilmaz,)-(satu delegasi ekonomi)]";false;false;false;false;false;true;false;LOCATION;OTHER
+"[(Yilmaz,)-(kunjungan tiga-hari)]";false;false;false;false;false;true;false;LOCATION;OTHER
+"[(Yilmaz,)-(Iran)]";false;false;false;false;false;true;false;LOCATION;LOCATION
+"[(satu delegasi ekonomi)-(kunjungan tiga-hari)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(satu delegasi ekonomi)-(Iran)]";false;true;false;false;false;true;false;OTHER;LOCATION
+"[(kunjungan tiga-hari)-(Iran)]";false;true;false;false;false;true;false;OTHER;LOCATION

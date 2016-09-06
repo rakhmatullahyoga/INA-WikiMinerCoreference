@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>Aceh Selatan</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>Aceh Barat Daya</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>Partai Hati Nurani Rakyat</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>Aceh Singkil</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>Hanura</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>Banda Aceh</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>Kabupaten Aceh Selatan</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>Jalan Teungku Imum Lueng Bata</Mention>
+    </Entity>
+    <Entity ClusterId="9">
+        <Mention>Kantor DPD Partai Hanura Aceh</Mention>
+    </Entity>
+    <Entity ClusterId="10">
+        <Mention>Kluet</Mention>
+    </Entity>
+    <Entity ClusterId="11">
+        <Mention>Wakil Ketua DPD Partai Hanura Aceh</Mention>
+    </Entity>
+    <Entity ClusterId="12">
+        <Mention>Mahfud</Mention>
+        <Mention>Mahfud Mudji Budiman</Mention>
+    </Entity>
+    <Entity ClusterId="13">
+        <Mention>Bakongan</Mention>
+    </Entity>
+    <Entity ClusterId="14">
+        <Mention>Trumon</Mention>
+    </Entity>
+    <Entity ClusterId="15">
+        <Mention>Kecamatan Kotafajar</Mention>
+    </Entity>
+</CoreferenceChain>

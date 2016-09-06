@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>Aisyiyah</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>Jateng</Mention>
+        <Mention>Jawa Tengah</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>Tuberkulosis</Mention>
+        <Mention>TBC</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>Dokter</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>Kota Semarang</Mention>
+        <Mention>Semarang</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>Kabupaten Kebumen</Mention>
+        <Mention>Kebumen</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>Tegal</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>Demak</Mention>
+    </Entity>
+    <Entity ClusterId="9">
+        <Mention>Kendal</Mention>
+    </Entity>
+    <Entity ClusterId="10">
+        <Mention>Sri Rahayu</Mention>
+    </Entity>
+    <Entity ClusterId="11">
+        <Mention>Indonesia</Mention>
+    </Entity>
+    <Entity ClusterId="12">
+        <Mention>Kesehatan</Mention>
+    </Entity>
+    <Entity ClusterId="13">
+        <Mention>puskesmas</Mention>
+    </Entity>
+    <Entity ClusterId="14">
+        <Mention>Islam</Mention>
+    </Entity>
+    <Entity ClusterId="15">
+        <Mention>Sultan Agung</Mention>
+    </Entity>
+    <Entity ClusterId="16">
+        <Mention>Wakil Gubernur Jateng</Mention>
+        <Mention>Rustriningsih</Mention>
+    </Entity>
+    <Entity ClusterId="17">
+        <Mention>Tim Sub Recipient</Mention>
+        <Mention>SR</Mention>
+    </Entity>
+    <Entity ClusterId="18">
+        <Mention>Kepala Dinas Kesehatan Jateng</Mention>
+        <Mention>Dokter Anung Sugihantono</Mention>
+    </Entity>
+    <Entity ClusterId="19">
+        <Mention>Kepala Tim SR</Mention>
+        <Mention>Sri</Mention>
+        <Mention>Sri Rahayu</Mention>
+    </Entity>
+    <Entity ClusterId="20">
+        <Mention>Perkumpulan Pemberantasan Tuberkulosis Indonesia</Mention>
+        <Mention>PPTI</Mention>
+    </Entity>
+</CoreferenceChain>

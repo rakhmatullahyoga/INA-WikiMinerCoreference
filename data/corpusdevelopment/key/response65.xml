@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>OJK</Mention>
+        <Mention>ojk</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>Keuangan</Mention>
+        <Mention>keuangan</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>Produk</Mention>
+        <Mention>produk</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>REPUBLIKA.CO.ID</Mention>
+        <Mention>Republika</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>JAKARTA --</Mention>
+        <Mention>Jakarta</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>program</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>nasional</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>Jasa</Mention>
+        <Mention>jasa</Mention>
+    </Entity>
+    <Entity ClusterId="9">
+        <Mention>provinsi</Mention>
+    </Entity>
+    <Entity ClusterId="10">
+        <Mention>Indonesia</Mention>
+    </Entity>
+    <Entity ClusterId="11">
+        <Mention>Konsumen</Mention>
+        <Mention>konsumen</Mention>
+    </Entity>
+    <Entity ClusterId="12">
+        <Mention>sosialisasi</Mention>
+    </Entity>
+    <Entity ClusterId="13">
+        <Mention>masyarakat</Mention>
+    </Entity>
+    <Entity ClusterId="14">
+        <Mention>investasi</Mention>
+    </Entity>
+    <Entity ClusterId="15">
+        <Mention>perbankan</Mention>
+    </Entity>
+    <Entity ClusterId="16">
+        <Mention>asuransi</Mention>
+    </Entity>
+    <Entity ClusterId="17">
+        <Mention>dana pensiun</Mention>
+    </Entity>
+    <Entity ClusterId="18">
+        <Mention>teknologi</Mention>
+    </Entity>
+    <Entity ClusterId="19">
+        <Mention>sistem</Mention>
+    </Entity>
+    <Entity ClusterId="20">
+        <Mention>call center</Mention>
+    </Entity>
+    <Entity ClusterId="21">
+        <Mention>HYPERLINK</Mention>
+    </Entity>
+    <Entity ClusterId="22">
+        <Mention>informasi</Mention>
+    </Entity>
+    <Entity ClusterId="23">
+        <Mention>market</Mention>
+    </Entity>
+    <Entity ClusterId="24">
+        <Mention>perusahaan-perusahaan</Mention>
+    </Entity>
+</CoreferenceChain>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>Metrotvnews.com</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>Jakarta</Mention>
+        <Mention>DKI</Mention>
+        <Mention>DKI Jakarta</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>Sungai Ciliwung</Mention>
+        <Mention>sungai Ciliwung</Mention>
+        <Mention>Kali Ciliwung</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>Cisadane</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>Kali Angke</Mention>
+        <Mention>Kali Pesanggrahan</Mention>
+        <Mention>Kali Sunter</Mention>
+        <Mention>Kali Krukut</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>banjir</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>pintu air</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>Manggarai</Mention>
+    </Entity>
+    <Entity ClusterId="9">
+        <Mention>Karet</Mention>
+    </Entity>
+    <Entity ClusterId="10">
+        <Mention>Kanal Banjir Barat</Mention>
+    </Entity>
+    <Entity ClusterId="11">
+        <Mention>JEDI</Mention>
+    </Entity>
+    <Entity ClusterId="12">
+        <Mention>Grogol</Mention>
+    </Entity>
+    <Entity ClusterId="13">
+        <Mention>Kali Baru</Mention>
+        <Mention>Kali Baru Timur</Mention>
+    </Entity>
+    <Entity ClusterId="14">
+        <Mention>Buaran</Mention>
+    </Entity>
+    <Entity ClusterId="15">
+        <Mention>Cakung</Mention>
+    </Entity>
+    <Entity ClusterId="16">
+        <Mention>Bank Dunia</Mention>
+    </Entity>
+    <Entity ClusterId="17">
+        <Mention>Basuki Tjahaja Purnama</Mention>
+        <Mention>Ahok</Mention>
+    </Entity>
+    <Entity ClusterId="18">
+        <Mention>mau</Mention>
+    </Entity>
+</CoreferenceChain>

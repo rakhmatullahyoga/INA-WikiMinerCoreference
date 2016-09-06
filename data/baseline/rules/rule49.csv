@@ -1,0 +1,2146 @@
+mentions;isStrMatch;isMatchNoCasePunc;isAbbrev;isFirstPronoun;isScndPronoun;isOnOneSentence;isMatchPartial;firstNameClass;scndNameClass
+"[(Laga PBR)-(Vs Persiwa Diwarnai Pemukulan Wasit Pertandingan)]";false;true;false;false;false;true;false;PERSON;ORGANIZATION
+"[(Laga PBR)-(Pelita Bandung Raya)]";false;true;false;false;false;true;false;PERSON;PERSON
+"[(Laga PBR)-(Persiwa Wamena)]";false;true;false;false;false;true;false;PERSON;ORGANIZATION
+"[(Laga PBR)-(laga lanjutan Liga Super Indonesia)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Laga PBR)-(ISL)]";false;true;false;false;false;true;false;PERSON;ORGANIZATION
+"[(Laga PBR)-(Stadion Siliwangi)]";false;true;false;false;false;true;false;PERSON;LOCATION
+"[(Laga PBR)-(Bandung)]";false;true;false;false;false;true;false;PERSON;LOCATION
+"[(Laga PBR)-(Jawa Barat)]";false;true;false;false;false;true;false;PERSON;LOCATION
+"[(Laga PBR)-(Ahad)]";false;true;false;false;false;true;false;PERSON;PERSON
+"[(Laga PBR)-(keributan)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Laga PBR)-(Pemain dan wasit)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Laga PBR)-(Keributan itu)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Laga PBR)-(saat wasit Muhaimin)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Laga PBR)-(hadiah tendangan penalti kedua)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Laga PBR)-(kalinya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Laga PBR)-(Pelita Bandung Raya)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Laga PBR)-(PBR)]";false;true;false;false;false;false;true;PERSON;ORGANIZATION
+"[(Laga PBR)-(Sebelumnya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Laga PBR)-(pemain Persiwa Ok John)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Laga PBR)-(Mijo Dadic)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Laga PBR)-(kotak penalti)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Laga PBR)-(keputusan wasit,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Laga PBR)-(sejumlah pemain Persiwa)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Laga PBR)-(wasit)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Laga PBR)-(saat wasit)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Laga PBR)-(tiba-tiba striker Persiwa Peter Rumaroppen langsung)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Laga PBR)-(wajah Muhaimin)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Laga PBR)-(lengannya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Laga PBR)-(Akibatnya wajah Muhaimin)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Laga PBR)-(wasit)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Laga PBR)-(petugas)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Laga PBR)-(lapangan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Laga PBR)-(suasana)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Laga PBR)-(wasit Muhaimin)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Laga PBR)-(merah)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Laga PBR)-(Peter)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Laga PBR)-(aksi pemukulan terhadapnya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Laga PBR)-(merah)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Laga PBR)-(wasit)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Laga PBR)-(Persiwa)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Laga PBR)-(laga ini,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Laga PBR)-(reaksi negatif)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Laga PBR)-(sejumlah pendukung Persiwa)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Laga PBR)-(Mereka)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Laga PBR)-(kegaduhan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Laga PBR)-(bangku VIP Stadion Siliwangi,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Laga PBR)-(tribun)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Laga PBR)-(wasit)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Laga PBR)-(aksi tersebut)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Laga PBR)-(polisi,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Laga PBR)-(adu)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Laga PBR)-(mulut dan dorong)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Laga PBR)-(pendukung Persiwa dan polisi)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Laga PBR)-(Keributan baru)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Laga PBR)-(pendukung Persiwa)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Laga PBR)-(lainnya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Laga PBR)-(temannya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Laga PBR)-(keputusan wasit)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Laga PBR)-(Aksi protes)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Laga PBR)-(pemukulan tersebut)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Laga PBR)-(pertandingan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Laga PBR)-(10 menit)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Laga PBR)-(Pertandingan)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Laga PBR)-(kemenangan tipis)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Laga PBR)-(PBR,)]";false;false;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Vs Persiwa Diwarnai Pemukulan Wasit Pertandingan)-(Pelita Bandung Raya)]";false;true;false;false;false;true;false;ORGANIZATION;PERSON
+"[(Vs Persiwa Diwarnai Pemukulan Wasit Pertandingan)-(Persiwa Wamena)]";false;true;false;false;false;true;false;ORGANIZATION;ORGANIZATION
+"[(Vs Persiwa Diwarnai Pemukulan Wasit Pertandingan)-(laga lanjutan Liga Super Indonesia)]";false;true;false;false;false;true;false;ORGANIZATION;OTHER
+"[(Vs Persiwa Diwarnai Pemukulan Wasit Pertandingan)-(ISL)]";false;true;false;false;false;true;false;ORGANIZATION;ORGANIZATION
+"[(Vs Persiwa Diwarnai Pemukulan Wasit Pertandingan)-(Stadion Siliwangi)]";false;true;false;false;false;true;false;ORGANIZATION;LOCATION
+"[(Vs Persiwa Diwarnai Pemukulan Wasit Pertandingan)-(Bandung)]";false;true;false;false;false;true;false;ORGANIZATION;LOCATION
+"[(Vs Persiwa Diwarnai Pemukulan Wasit Pertandingan)-(Jawa Barat)]";false;true;false;false;false;true;false;ORGANIZATION;LOCATION
+"[(Vs Persiwa Diwarnai Pemukulan Wasit Pertandingan)-(Ahad)]";false;true;false;false;false;true;false;ORGANIZATION;PERSON
+"[(Vs Persiwa Diwarnai Pemukulan Wasit Pertandingan)-(keributan)]";false;true;false;false;false;true;false;ORGANIZATION;OTHER
+"[(Vs Persiwa Diwarnai Pemukulan Wasit Pertandingan)-(Pemain dan wasit)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(Vs Persiwa Diwarnai Pemukulan Wasit Pertandingan)-(Keributan itu)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(Vs Persiwa Diwarnai Pemukulan Wasit Pertandingan)-(saat wasit Muhaimin)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Vs Persiwa Diwarnai Pemukulan Wasit Pertandingan)-(hadiah tendangan penalti kedua)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Vs Persiwa Diwarnai Pemukulan Wasit Pertandingan)-(kalinya)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Vs Persiwa Diwarnai Pemukulan Wasit Pertandingan)-(Pelita Bandung Raya)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(Vs Persiwa Diwarnai Pemukulan Wasit Pertandingan)-(PBR)]";false;true;false;false;false;false;false;ORGANIZATION;ORGANIZATION
+"[(Vs Persiwa Diwarnai Pemukulan Wasit Pertandingan)-(Sebelumnya)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Vs Persiwa Diwarnai Pemukulan Wasit Pertandingan)-(pemain Persiwa Ok John)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Vs Persiwa Diwarnai Pemukulan Wasit Pertandingan)-(Mijo Dadic)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(Vs Persiwa Diwarnai Pemukulan Wasit Pertandingan)-(kotak penalti)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Vs Persiwa Diwarnai Pemukulan Wasit Pertandingan)-(keputusan wasit,)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Vs Persiwa Diwarnai Pemukulan Wasit Pertandingan)-(sejumlah pemain Persiwa)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Vs Persiwa Diwarnai Pemukulan Wasit Pertandingan)-(wasit)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Vs Persiwa Diwarnai Pemukulan Wasit Pertandingan)-(saat wasit)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Vs Persiwa Diwarnai Pemukulan Wasit Pertandingan)-(tiba-tiba striker Persiwa Peter Rumaroppen langsung)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Vs Persiwa Diwarnai Pemukulan Wasit Pertandingan)-(wajah Muhaimin)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Vs Persiwa Diwarnai Pemukulan Wasit Pertandingan)-(lengannya)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Vs Persiwa Diwarnai Pemukulan Wasit Pertandingan)-(Akibatnya wajah Muhaimin)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(Vs Persiwa Diwarnai Pemukulan Wasit Pertandingan)-(wasit)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Vs Persiwa Diwarnai Pemukulan Wasit Pertandingan)-(petugas)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Vs Persiwa Diwarnai Pemukulan Wasit Pertandingan)-(lapangan)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Vs Persiwa Diwarnai Pemukulan Wasit Pertandingan)-(suasana)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Vs Persiwa Diwarnai Pemukulan Wasit Pertandingan)-(wasit Muhaimin)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Vs Persiwa Diwarnai Pemukulan Wasit Pertandingan)-(merah)]";false;true;false;false;true;false;false;ORGANIZATION;OTHER
+"[(Vs Persiwa Diwarnai Pemukulan Wasit Pertandingan)-(Peter)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(Vs Persiwa Diwarnai Pemukulan Wasit Pertandingan)-(aksi pemukulan terhadapnya)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Vs Persiwa Diwarnai Pemukulan Wasit Pertandingan)-(merah)]";false;true;false;false;true;false;false;ORGANIZATION;OTHER
+"[(Vs Persiwa Diwarnai Pemukulan Wasit Pertandingan)-(wasit)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Vs Persiwa Diwarnai Pemukulan Wasit Pertandingan)-(Persiwa)]";false;true;false;false;false;false;true;ORGANIZATION;ORGANIZATION
+"[(Vs Persiwa Diwarnai Pemukulan Wasit Pertandingan)-(laga ini,)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Vs Persiwa Diwarnai Pemukulan Wasit Pertandingan)-(reaksi negatif)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Vs Persiwa Diwarnai Pemukulan Wasit Pertandingan)-(sejumlah pendukung Persiwa)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Vs Persiwa Diwarnai Pemukulan Wasit Pertandingan)-(Mereka)]";false;true;false;false;true;false;false;ORGANIZATION;OTHER
+"[(Vs Persiwa Diwarnai Pemukulan Wasit Pertandingan)-(kegaduhan)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Vs Persiwa Diwarnai Pemukulan Wasit Pertandingan)-(bangku VIP Stadion Siliwangi,)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Vs Persiwa Diwarnai Pemukulan Wasit Pertandingan)-(tribun)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Vs Persiwa Diwarnai Pemukulan Wasit Pertandingan)-(wasit)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Vs Persiwa Diwarnai Pemukulan Wasit Pertandingan)-(aksi tersebut)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Vs Persiwa Diwarnai Pemukulan Wasit Pertandingan)-(polisi,)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Vs Persiwa Diwarnai Pemukulan Wasit Pertandingan)-(adu)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Vs Persiwa Diwarnai Pemukulan Wasit Pertandingan)-(mulut dan dorong)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Vs Persiwa Diwarnai Pemukulan Wasit Pertandingan)-(pendukung Persiwa dan polisi)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Vs Persiwa Diwarnai Pemukulan Wasit Pertandingan)-(Keributan baru)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(Vs Persiwa Diwarnai Pemukulan Wasit Pertandingan)-(pendukung Persiwa)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Vs Persiwa Diwarnai Pemukulan Wasit Pertandingan)-(lainnya)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Vs Persiwa Diwarnai Pemukulan Wasit Pertandingan)-(temannya)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Vs Persiwa Diwarnai Pemukulan Wasit Pertandingan)-(keputusan wasit)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Vs Persiwa Diwarnai Pemukulan Wasit Pertandingan)-(Aksi protes)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(Vs Persiwa Diwarnai Pemukulan Wasit Pertandingan)-(pemukulan tersebut)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Vs Persiwa Diwarnai Pemukulan Wasit Pertandingan)-(pertandingan)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Vs Persiwa Diwarnai Pemukulan Wasit Pertandingan)-(10 menit)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Vs Persiwa Diwarnai Pemukulan Wasit Pertandingan)-(Pertandingan)]";false;true;false;false;false;false;true;ORGANIZATION;ORGANIZATION
+"[(Vs Persiwa Diwarnai Pemukulan Wasit Pertandingan)-(kemenangan tipis)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Vs Persiwa Diwarnai Pemukulan Wasit Pertandingan)-(PBR,)]";false;false;false;false;false;false;false;ORGANIZATION;ORGANIZATION
+"[(Pelita Bandung Raya)-(Persiwa Wamena)]";false;true;false;false;false;true;false;PERSON;ORGANIZATION
+"[(Pelita Bandung Raya)-(laga lanjutan Liga Super Indonesia)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Pelita Bandung Raya)-(ISL)]";false;true;false;false;false;true;false;PERSON;ORGANIZATION
+"[(Pelita Bandung Raya)-(Stadion Siliwangi)]";false;true;false;false;false;true;false;PERSON;LOCATION
+"[(Pelita Bandung Raya)-(Bandung)]";false;true;false;false;false;true;true;PERSON;LOCATION
+"[(Pelita Bandung Raya)-(Jawa Barat)]";false;true;false;false;false;true;false;PERSON;LOCATION
+"[(Pelita Bandung Raya)-(Ahad)]";false;true;false;false;false;true;false;PERSON;PERSON
+"[(Pelita Bandung Raya)-(keributan)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Pelita Bandung Raya)-(Pemain dan wasit)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Pelita Bandung Raya)-(Keributan itu)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Pelita Bandung Raya)-(saat wasit Muhaimin)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pelita Bandung Raya)-(hadiah tendangan penalti kedua)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pelita Bandung Raya)-(kalinya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pelita Bandung Raya)-(Pelita Bandung Raya)]";true;true;false;false;false;false;true;PERSON;PERSON
+"[(Pelita Bandung Raya)-(PBR)]";false;true;true;false;false;false;false;PERSON;ORGANIZATION
+"[(Pelita Bandung Raya)-(Sebelumnya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pelita Bandung Raya)-(pemain Persiwa Ok John)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pelita Bandung Raya)-(Mijo Dadic)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Pelita Bandung Raya)-(kotak penalti)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pelita Bandung Raya)-(keputusan wasit,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Pelita Bandung Raya)-(sejumlah pemain Persiwa)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pelita Bandung Raya)-(wasit)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pelita Bandung Raya)-(saat wasit)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pelita Bandung Raya)-(tiba-tiba striker Persiwa Peter Rumaroppen langsung)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pelita Bandung Raya)-(wajah Muhaimin)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pelita Bandung Raya)-(lengannya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pelita Bandung Raya)-(Akibatnya wajah Muhaimin)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Pelita Bandung Raya)-(wasit)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pelita Bandung Raya)-(petugas)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pelita Bandung Raya)-(lapangan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pelita Bandung Raya)-(suasana)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pelita Bandung Raya)-(wasit Muhaimin)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pelita Bandung Raya)-(merah)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Pelita Bandung Raya)-(Peter)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Pelita Bandung Raya)-(aksi pemukulan terhadapnya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pelita Bandung Raya)-(merah)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Pelita Bandung Raya)-(wasit)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pelita Bandung Raya)-(Persiwa)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Pelita Bandung Raya)-(laga ini,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Pelita Bandung Raya)-(reaksi negatif)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pelita Bandung Raya)-(sejumlah pendukung Persiwa)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pelita Bandung Raya)-(Mereka)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Pelita Bandung Raya)-(kegaduhan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pelita Bandung Raya)-(bangku VIP Stadion Siliwangi,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Pelita Bandung Raya)-(tribun)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pelita Bandung Raya)-(wasit)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pelita Bandung Raya)-(aksi tersebut)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pelita Bandung Raya)-(polisi,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Pelita Bandung Raya)-(adu)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pelita Bandung Raya)-(mulut dan dorong)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pelita Bandung Raya)-(pendukung Persiwa dan polisi)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pelita Bandung Raya)-(Keributan baru)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Pelita Bandung Raya)-(pendukung Persiwa)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pelita Bandung Raya)-(lainnya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pelita Bandung Raya)-(temannya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pelita Bandung Raya)-(keputusan wasit)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pelita Bandung Raya)-(Aksi protes)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Pelita Bandung Raya)-(pemukulan tersebut)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pelita Bandung Raya)-(pertandingan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pelita Bandung Raya)-(10 menit)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pelita Bandung Raya)-(Pertandingan)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Pelita Bandung Raya)-(kemenangan tipis)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pelita Bandung Raya)-(PBR,)]";false;false;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Persiwa Wamena)-(laga lanjutan Liga Super Indonesia)]";false;true;false;false;false;true;false;ORGANIZATION;OTHER
+"[(Persiwa Wamena)-(ISL)]";false;true;false;false;false;true;false;ORGANIZATION;ORGANIZATION
+"[(Persiwa Wamena)-(Stadion Siliwangi)]";false;true;false;false;false;true;false;ORGANIZATION;LOCATION
+"[(Persiwa Wamena)-(Bandung)]";false;true;false;false;false;true;false;ORGANIZATION;LOCATION
+"[(Persiwa Wamena)-(Jawa Barat)]";false;true;false;false;false;true;false;ORGANIZATION;LOCATION
+"[(Persiwa Wamena)-(Ahad)]";false;true;false;false;false;true;false;ORGANIZATION;PERSON
+"[(Persiwa Wamena)-(keributan)]";false;true;false;false;false;true;false;ORGANIZATION;OTHER
+"[(Persiwa Wamena)-(Pemain dan wasit)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(Persiwa Wamena)-(Keributan itu)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(Persiwa Wamena)-(saat wasit Muhaimin)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Persiwa Wamena)-(hadiah tendangan penalti kedua)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Persiwa Wamena)-(kalinya)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Persiwa Wamena)-(Pelita Bandung Raya)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(Persiwa Wamena)-(PBR)]";false;true;false;false;false;false;false;ORGANIZATION;ORGANIZATION
+"[(Persiwa Wamena)-(Sebelumnya)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Persiwa Wamena)-(pemain Persiwa Ok John)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Persiwa Wamena)-(Mijo Dadic)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(Persiwa Wamena)-(kotak penalti)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Persiwa Wamena)-(keputusan wasit,)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Persiwa Wamena)-(sejumlah pemain Persiwa)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Persiwa Wamena)-(wasit)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Persiwa Wamena)-(saat wasit)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Persiwa Wamena)-(tiba-tiba striker Persiwa Peter Rumaroppen langsung)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Persiwa Wamena)-(wajah Muhaimin)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Persiwa Wamena)-(lengannya)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Persiwa Wamena)-(Akibatnya wajah Muhaimin)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(Persiwa Wamena)-(wasit)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Persiwa Wamena)-(petugas)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Persiwa Wamena)-(lapangan)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Persiwa Wamena)-(suasana)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Persiwa Wamena)-(wasit Muhaimin)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Persiwa Wamena)-(merah)]";false;true;false;false;true;false;false;ORGANIZATION;OTHER
+"[(Persiwa Wamena)-(Peter)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(Persiwa Wamena)-(aksi pemukulan terhadapnya)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Persiwa Wamena)-(merah)]";false;true;false;false;true;false;false;ORGANIZATION;OTHER
+"[(Persiwa Wamena)-(wasit)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Persiwa Wamena)-(Persiwa)]";false;true;false;false;false;false;true;ORGANIZATION;ORGANIZATION
+"[(Persiwa Wamena)-(laga ini,)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Persiwa Wamena)-(reaksi negatif)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Persiwa Wamena)-(sejumlah pendukung Persiwa)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Persiwa Wamena)-(Mereka)]";false;true;false;false;true;false;false;ORGANIZATION;OTHER
+"[(Persiwa Wamena)-(kegaduhan)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Persiwa Wamena)-(bangku VIP Stadion Siliwangi,)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Persiwa Wamena)-(tribun)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Persiwa Wamena)-(wasit)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Persiwa Wamena)-(aksi tersebut)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Persiwa Wamena)-(polisi,)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Persiwa Wamena)-(adu)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Persiwa Wamena)-(mulut dan dorong)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Persiwa Wamena)-(pendukung Persiwa dan polisi)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Persiwa Wamena)-(Keributan baru)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(Persiwa Wamena)-(pendukung Persiwa)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Persiwa Wamena)-(lainnya)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Persiwa Wamena)-(temannya)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Persiwa Wamena)-(keputusan wasit)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Persiwa Wamena)-(Aksi protes)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(Persiwa Wamena)-(pemukulan tersebut)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Persiwa Wamena)-(pertandingan)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Persiwa Wamena)-(10 menit)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Persiwa Wamena)-(Pertandingan)]";false;true;false;false;false;false;false;ORGANIZATION;ORGANIZATION
+"[(Persiwa Wamena)-(kemenangan tipis)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Persiwa Wamena)-(PBR,)]";false;false;false;false;false;false;false;ORGANIZATION;ORGANIZATION
+"[(laga lanjutan Liga Super Indonesia)-(ISL)]";false;true;false;false;false;true;false;OTHER;ORGANIZATION
+"[(laga lanjutan Liga Super Indonesia)-(Stadion Siliwangi)]";false;true;false;false;false;true;false;OTHER;LOCATION
+"[(laga lanjutan Liga Super Indonesia)-(Bandung)]";false;true;false;false;false;true;false;OTHER;LOCATION
+"[(laga lanjutan Liga Super Indonesia)-(Jawa Barat)]";false;true;false;false;false;true;false;OTHER;LOCATION
+"[(laga lanjutan Liga Super Indonesia)-(Ahad)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(laga lanjutan Liga Super Indonesia)-(keributan)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(laga lanjutan Liga Super Indonesia)-(Pemain dan wasit)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(laga lanjutan Liga Super Indonesia)-(Keributan itu)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(laga lanjutan Liga Super Indonesia)-(saat wasit Muhaimin)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(laga lanjutan Liga Super Indonesia)-(hadiah tendangan penalti kedua)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(laga lanjutan Liga Super Indonesia)-(kalinya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(laga lanjutan Liga Super Indonesia)-(Pelita Bandung Raya)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(laga lanjutan Liga Super Indonesia)-(PBR)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(laga lanjutan Liga Super Indonesia)-(Sebelumnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(laga lanjutan Liga Super Indonesia)-(pemain Persiwa Ok John)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(laga lanjutan Liga Super Indonesia)-(Mijo Dadic)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(laga lanjutan Liga Super Indonesia)-(kotak penalti)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(laga lanjutan Liga Super Indonesia)-(keputusan wasit,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(laga lanjutan Liga Super Indonesia)-(sejumlah pemain Persiwa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(laga lanjutan Liga Super Indonesia)-(wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(laga lanjutan Liga Super Indonesia)-(saat wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(laga lanjutan Liga Super Indonesia)-(tiba-tiba striker Persiwa Peter Rumaroppen langsung)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(laga lanjutan Liga Super Indonesia)-(wajah Muhaimin)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(laga lanjutan Liga Super Indonesia)-(lengannya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(laga lanjutan Liga Super Indonesia)-(Akibatnya wajah Muhaimin)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(laga lanjutan Liga Super Indonesia)-(wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(laga lanjutan Liga Super Indonesia)-(petugas)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(laga lanjutan Liga Super Indonesia)-(lapangan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(laga lanjutan Liga Super Indonesia)-(suasana)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(laga lanjutan Liga Super Indonesia)-(wasit Muhaimin)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(laga lanjutan Liga Super Indonesia)-(merah)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(laga lanjutan Liga Super Indonesia)-(Peter)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(laga lanjutan Liga Super Indonesia)-(aksi pemukulan terhadapnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(laga lanjutan Liga Super Indonesia)-(merah)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(laga lanjutan Liga Super Indonesia)-(wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(laga lanjutan Liga Super Indonesia)-(Persiwa)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(laga lanjutan Liga Super Indonesia)-(laga ini,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(laga lanjutan Liga Super Indonesia)-(reaksi negatif)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(laga lanjutan Liga Super Indonesia)-(sejumlah pendukung Persiwa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(laga lanjutan Liga Super Indonesia)-(Mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(laga lanjutan Liga Super Indonesia)-(kegaduhan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(laga lanjutan Liga Super Indonesia)-(bangku VIP Stadion Siliwangi,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(laga lanjutan Liga Super Indonesia)-(tribun)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(laga lanjutan Liga Super Indonesia)-(wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(laga lanjutan Liga Super Indonesia)-(aksi tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(laga lanjutan Liga Super Indonesia)-(polisi,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(laga lanjutan Liga Super Indonesia)-(adu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(laga lanjutan Liga Super Indonesia)-(mulut dan dorong)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(laga lanjutan Liga Super Indonesia)-(pendukung Persiwa dan polisi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(laga lanjutan Liga Super Indonesia)-(Keributan baru)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(laga lanjutan Liga Super Indonesia)-(pendukung Persiwa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(laga lanjutan Liga Super Indonesia)-(lainnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(laga lanjutan Liga Super Indonesia)-(temannya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(laga lanjutan Liga Super Indonesia)-(keputusan wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(laga lanjutan Liga Super Indonesia)-(Aksi protes)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(laga lanjutan Liga Super Indonesia)-(pemukulan tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(laga lanjutan Liga Super Indonesia)-(pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(laga lanjutan Liga Super Indonesia)-(10 menit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(laga lanjutan Liga Super Indonesia)-(Pertandingan)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(laga lanjutan Liga Super Indonesia)-(kemenangan tipis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(laga lanjutan Liga Super Indonesia)-(PBR,)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(ISL)-(Stadion Siliwangi)]";false;true;false;false;false;true;false;ORGANIZATION;LOCATION
+"[(ISL)-(Bandung)]";false;true;false;false;false;true;false;ORGANIZATION;LOCATION
+"[(ISL)-(Jawa Barat)]";false;true;false;false;false;true;false;ORGANIZATION;LOCATION
+"[(ISL)-(Ahad)]";false;true;false;false;false;true;false;ORGANIZATION;PERSON
+"[(ISL)-(keributan)]";false;true;false;false;false;true;false;ORGANIZATION;OTHER
+"[(ISL)-(Pemain dan wasit)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(ISL)-(Keributan itu)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(ISL)-(saat wasit Muhaimin)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(ISL)-(hadiah tendangan penalti kedua)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(ISL)-(kalinya)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(ISL)-(Pelita Bandung Raya)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(ISL)-(PBR)]";false;true;false;false;false;false;false;ORGANIZATION;ORGANIZATION
+"[(ISL)-(Sebelumnya)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(ISL)-(pemain Persiwa Ok John)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(ISL)-(Mijo Dadic)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(ISL)-(kotak penalti)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(ISL)-(keputusan wasit,)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(ISL)-(sejumlah pemain Persiwa)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(ISL)-(wasit)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(ISL)-(saat wasit)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(ISL)-(tiba-tiba striker Persiwa Peter Rumaroppen langsung)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(ISL)-(wajah Muhaimin)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(ISL)-(lengannya)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(ISL)-(Akibatnya wajah Muhaimin)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(ISL)-(wasit)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(ISL)-(petugas)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(ISL)-(lapangan)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(ISL)-(suasana)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(ISL)-(wasit Muhaimin)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(ISL)-(merah)]";false;true;false;false;true;false;false;ORGANIZATION;OTHER
+"[(ISL)-(Peter)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(ISL)-(aksi pemukulan terhadapnya)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(ISL)-(merah)]";false;true;false;false;true;false;false;ORGANIZATION;OTHER
+"[(ISL)-(wasit)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(ISL)-(Persiwa)]";false;true;false;false;false;false;false;ORGANIZATION;ORGANIZATION
+"[(ISL)-(laga ini,)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(ISL)-(reaksi negatif)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(ISL)-(sejumlah pendukung Persiwa)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(ISL)-(Mereka)]";false;true;false;false;true;false;false;ORGANIZATION;OTHER
+"[(ISL)-(kegaduhan)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(ISL)-(bangku VIP Stadion Siliwangi,)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(ISL)-(tribun)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(ISL)-(wasit)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(ISL)-(aksi tersebut)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(ISL)-(polisi,)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(ISL)-(adu)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(ISL)-(mulut dan dorong)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(ISL)-(pendukung Persiwa dan polisi)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(ISL)-(Keributan baru)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(ISL)-(pendukung Persiwa)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(ISL)-(lainnya)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(ISL)-(temannya)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(ISL)-(keputusan wasit)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(ISL)-(Aksi protes)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(ISL)-(pemukulan tersebut)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(ISL)-(pertandingan)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(ISL)-(10 menit)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(ISL)-(Pertandingan)]";false;true;false;false;false;false;false;ORGANIZATION;ORGANIZATION
+"[(ISL)-(kemenangan tipis)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(ISL)-(PBR,)]";false;false;false;false;false;false;false;ORGANIZATION;ORGANIZATION
+"[(Stadion Siliwangi)-(Bandung)]";false;true;false;false;false;true;false;LOCATION;LOCATION
+"[(Stadion Siliwangi)-(Jawa Barat)]";false;true;false;false;false;true;false;LOCATION;LOCATION
+"[(Stadion Siliwangi)-(Ahad)]";false;true;false;false;false;true;false;LOCATION;PERSON
+"[(Stadion Siliwangi)-(keributan)]";false;true;false;false;false;true;false;LOCATION;OTHER
+"[(Stadion Siliwangi)-(Pemain dan wasit)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Stadion Siliwangi)-(Keributan itu)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Stadion Siliwangi)-(saat wasit Muhaimin)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Stadion Siliwangi)-(hadiah tendangan penalti kedua)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Stadion Siliwangi)-(kalinya)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Stadion Siliwangi)-(Pelita Bandung Raya)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Stadion Siliwangi)-(PBR)]";false;true;false;false;false;false;false;LOCATION;ORGANIZATION
+"[(Stadion Siliwangi)-(Sebelumnya)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Stadion Siliwangi)-(pemain Persiwa Ok John)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Stadion Siliwangi)-(Mijo Dadic)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Stadion Siliwangi)-(kotak penalti)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Stadion Siliwangi)-(keputusan wasit,)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Stadion Siliwangi)-(sejumlah pemain Persiwa)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Stadion Siliwangi)-(wasit)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Stadion Siliwangi)-(saat wasit)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Stadion Siliwangi)-(tiba-tiba striker Persiwa Peter Rumaroppen langsung)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Stadion Siliwangi)-(wajah Muhaimin)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Stadion Siliwangi)-(lengannya)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Stadion Siliwangi)-(Akibatnya wajah Muhaimin)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Stadion Siliwangi)-(wasit)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Stadion Siliwangi)-(petugas)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Stadion Siliwangi)-(lapangan)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Stadion Siliwangi)-(suasana)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Stadion Siliwangi)-(wasit Muhaimin)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Stadion Siliwangi)-(merah)]";false;true;false;false;true;false;false;LOCATION;OTHER
+"[(Stadion Siliwangi)-(Peter)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Stadion Siliwangi)-(aksi pemukulan terhadapnya)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Stadion Siliwangi)-(merah)]";false;true;false;false;true;false;false;LOCATION;OTHER
+"[(Stadion Siliwangi)-(wasit)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Stadion Siliwangi)-(Persiwa)]";false;true;false;false;false;false;false;LOCATION;ORGANIZATION
+"[(Stadion Siliwangi)-(laga ini,)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Stadion Siliwangi)-(reaksi negatif)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Stadion Siliwangi)-(sejumlah pendukung Persiwa)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Stadion Siliwangi)-(Mereka)]";false;true;false;false;true;false;false;LOCATION;OTHER
+"[(Stadion Siliwangi)-(kegaduhan)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Stadion Siliwangi)-(bangku VIP Stadion Siliwangi,)]";false;false;false;false;false;false;true;LOCATION;OTHER
+"[(Stadion Siliwangi)-(tribun)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Stadion Siliwangi)-(wasit)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Stadion Siliwangi)-(aksi tersebut)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Stadion Siliwangi)-(polisi,)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Stadion Siliwangi)-(adu)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Stadion Siliwangi)-(mulut dan dorong)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Stadion Siliwangi)-(pendukung Persiwa dan polisi)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Stadion Siliwangi)-(Keributan baru)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Stadion Siliwangi)-(pendukung Persiwa)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Stadion Siliwangi)-(lainnya)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Stadion Siliwangi)-(temannya)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Stadion Siliwangi)-(keputusan wasit)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Stadion Siliwangi)-(Aksi protes)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Stadion Siliwangi)-(pemukulan tersebut)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Stadion Siliwangi)-(pertandingan)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Stadion Siliwangi)-(10 menit)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Stadion Siliwangi)-(Pertandingan)]";false;true;false;false;false;false;false;LOCATION;ORGANIZATION
+"[(Stadion Siliwangi)-(kemenangan tipis)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Stadion Siliwangi)-(PBR,)]";false;false;false;false;false;false;false;LOCATION;ORGANIZATION
+"[(Bandung)-(Jawa Barat)]";false;true;false;false;false;true;false;LOCATION;LOCATION
+"[(Bandung)-(Ahad)]";false;true;false;false;false;true;false;LOCATION;PERSON
+"[(Bandung)-(keributan)]";false;true;false;false;false;true;false;LOCATION;OTHER
+"[(Bandung)-(Pemain dan wasit)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Bandung)-(Keributan itu)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Bandung)-(saat wasit Muhaimin)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Bandung)-(hadiah tendangan penalti kedua)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Bandung)-(kalinya)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Bandung)-(Pelita Bandung Raya)]";false;true;false;false;false;false;true;LOCATION;PERSON
+"[(Bandung)-(PBR)]";false;true;false;false;false;false;false;LOCATION;ORGANIZATION
+"[(Bandung)-(Sebelumnya)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Bandung)-(pemain Persiwa Ok John)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Bandung)-(Mijo Dadic)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Bandung)-(kotak penalti)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Bandung)-(keputusan wasit,)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Bandung)-(sejumlah pemain Persiwa)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Bandung)-(wasit)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Bandung)-(saat wasit)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Bandung)-(tiba-tiba striker Persiwa Peter Rumaroppen langsung)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Bandung)-(wajah Muhaimin)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Bandung)-(lengannya)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Bandung)-(Akibatnya wajah Muhaimin)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Bandung)-(wasit)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Bandung)-(petugas)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Bandung)-(lapangan)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Bandung)-(suasana)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Bandung)-(wasit Muhaimin)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Bandung)-(merah)]";false;true;false;false;true;false;false;LOCATION;OTHER
+"[(Bandung)-(Peter)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Bandung)-(aksi pemukulan terhadapnya)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Bandung)-(merah)]";false;true;false;false;true;false;false;LOCATION;OTHER
+"[(Bandung)-(wasit)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Bandung)-(Persiwa)]";false;true;false;false;false;false;false;LOCATION;ORGANIZATION
+"[(Bandung)-(laga ini,)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Bandung)-(reaksi negatif)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Bandung)-(sejumlah pendukung Persiwa)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Bandung)-(Mereka)]";false;true;false;false;true;false;false;LOCATION;OTHER
+"[(Bandung)-(kegaduhan)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Bandung)-(bangku VIP Stadion Siliwangi,)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Bandung)-(tribun)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Bandung)-(wasit)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Bandung)-(aksi tersebut)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Bandung)-(polisi,)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Bandung)-(adu)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Bandung)-(mulut dan dorong)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Bandung)-(pendukung Persiwa dan polisi)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Bandung)-(Keributan baru)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Bandung)-(pendukung Persiwa)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Bandung)-(lainnya)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Bandung)-(temannya)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Bandung)-(keputusan wasit)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Bandung)-(Aksi protes)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Bandung)-(pemukulan tersebut)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Bandung)-(pertandingan)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Bandung)-(10 menit)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Bandung)-(Pertandingan)]";false;true;false;false;false;false;false;LOCATION;ORGANIZATION
+"[(Bandung)-(kemenangan tipis)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Bandung)-(PBR,)]";false;false;false;false;false;false;false;LOCATION;ORGANIZATION
+"[(Jawa Barat)-(Ahad)]";false;true;false;false;false;true;false;LOCATION;PERSON
+"[(Jawa Barat)-(keributan)]";false;true;false;false;false;true;false;LOCATION;OTHER
+"[(Jawa Barat)-(Pemain dan wasit)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Jawa Barat)-(Keributan itu)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Jawa Barat)-(saat wasit Muhaimin)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa Barat)-(hadiah tendangan penalti kedua)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa Barat)-(kalinya)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa Barat)-(Pelita Bandung Raya)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Jawa Barat)-(PBR)]";false;true;false;false;false;false;false;LOCATION;ORGANIZATION
+"[(Jawa Barat)-(Sebelumnya)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa Barat)-(pemain Persiwa Ok John)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa Barat)-(Mijo Dadic)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Jawa Barat)-(kotak penalti)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa Barat)-(keputusan wasit,)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa Barat)-(sejumlah pemain Persiwa)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa Barat)-(wasit)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa Barat)-(saat wasit)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa Barat)-(tiba-tiba striker Persiwa Peter Rumaroppen langsung)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa Barat)-(wajah Muhaimin)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa Barat)-(lengannya)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa Barat)-(Akibatnya wajah Muhaimin)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Jawa Barat)-(wasit)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa Barat)-(petugas)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa Barat)-(lapangan)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa Barat)-(suasana)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa Barat)-(wasit Muhaimin)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa Barat)-(merah)]";false;true;false;false;true;false;false;LOCATION;OTHER
+"[(Jawa Barat)-(Peter)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Jawa Barat)-(aksi pemukulan terhadapnya)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa Barat)-(merah)]";false;true;false;false;true;false;false;LOCATION;OTHER
+"[(Jawa Barat)-(wasit)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa Barat)-(Persiwa)]";false;true;false;false;false;false;false;LOCATION;ORGANIZATION
+"[(Jawa Barat)-(laga ini,)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa Barat)-(reaksi negatif)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa Barat)-(sejumlah pendukung Persiwa)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa Barat)-(Mereka)]";false;true;false;false;true;false;false;LOCATION;OTHER
+"[(Jawa Barat)-(kegaduhan)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa Barat)-(bangku VIP Stadion Siliwangi,)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa Barat)-(tribun)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa Barat)-(wasit)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa Barat)-(aksi tersebut)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa Barat)-(polisi,)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa Barat)-(adu)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa Barat)-(mulut dan dorong)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa Barat)-(pendukung Persiwa dan polisi)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa Barat)-(Keributan baru)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Jawa Barat)-(pendukung Persiwa)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa Barat)-(lainnya)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa Barat)-(temannya)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa Barat)-(keputusan wasit)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa Barat)-(Aksi protes)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Jawa Barat)-(pemukulan tersebut)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa Barat)-(pertandingan)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa Barat)-(10 menit)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa Barat)-(Pertandingan)]";false;true;false;false;false;false;false;LOCATION;ORGANIZATION
+"[(Jawa Barat)-(kemenangan tipis)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jawa Barat)-(PBR,)]";false;false;false;false;false;false;false;LOCATION;ORGANIZATION
+"[(Ahad)-(keributan)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Ahad)-(Pemain dan wasit)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Ahad)-(Keributan itu)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Ahad)-(saat wasit Muhaimin)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ahad)-(hadiah tendangan penalti kedua)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ahad)-(kalinya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ahad)-(Pelita Bandung Raya)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Ahad)-(PBR)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Ahad)-(Sebelumnya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ahad)-(pemain Persiwa Ok John)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ahad)-(Mijo Dadic)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Ahad)-(kotak penalti)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ahad)-(keputusan wasit,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Ahad)-(sejumlah pemain Persiwa)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ahad)-(wasit)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ahad)-(saat wasit)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ahad)-(tiba-tiba striker Persiwa Peter Rumaroppen langsung)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ahad)-(wajah Muhaimin)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ahad)-(lengannya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ahad)-(Akibatnya wajah Muhaimin)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Ahad)-(wasit)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ahad)-(petugas)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ahad)-(lapangan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ahad)-(suasana)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ahad)-(wasit Muhaimin)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ahad)-(merah)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Ahad)-(Peter)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Ahad)-(aksi pemukulan terhadapnya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ahad)-(merah)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Ahad)-(wasit)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ahad)-(Persiwa)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Ahad)-(laga ini,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Ahad)-(reaksi negatif)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ahad)-(sejumlah pendukung Persiwa)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ahad)-(Mereka)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Ahad)-(kegaduhan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ahad)-(bangku VIP Stadion Siliwangi,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Ahad)-(tribun)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ahad)-(wasit)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ahad)-(aksi tersebut)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ahad)-(polisi,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Ahad)-(adu)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ahad)-(mulut dan dorong)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ahad)-(pendukung Persiwa dan polisi)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ahad)-(Keributan baru)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Ahad)-(pendukung Persiwa)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ahad)-(lainnya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ahad)-(temannya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ahad)-(keputusan wasit)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ahad)-(Aksi protes)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Ahad)-(pemukulan tersebut)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ahad)-(pertandingan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ahad)-(10 menit)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ahad)-(Pertandingan)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Ahad)-(kemenangan tipis)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ahad)-(PBR,)]";false;false;false;false;false;false;false;PERSON;ORGANIZATION
+"[(keributan)-(Pemain dan wasit)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(keributan)-(Keributan itu)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(keributan)-(saat wasit Muhaimin)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keributan)-(hadiah tendangan penalti kedua)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keributan)-(kalinya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keributan)-(Pelita Bandung Raya)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(keributan)-(PBR)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(keributan)-(Sebelumnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keributan)-(pemain Persiwa Ok John)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keributan)-(Mijo Dadic)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(keributan)-(kotak penalti)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keributan)-(keputusan wasit,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(keributan)-(sejumlah pemain Persiwa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keributan)-(wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keributan)-(saat wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keributan)-(tiba-tiba striker Persiwa Peter Rumaroppen langsung)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keributan)-(wajah Muhaimin)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keributan)-(lengannya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keributan)-(Akibatnya wajah Muhaimin)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(keributan)-(wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keributan)-(petugas)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keributan)-(lapangan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keributan)-(suasana)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keributan)-(wasit Muhaimin)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keributan)-(merah)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(keributan)-(Peter)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(keributan)-(aksi pemukulan terhadapnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keributan)-(merah)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(keributan)-(wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keributan)-(Persiwa)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(keributan)-(laga ini,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(keributan)-(reaksi negatif)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keributan)-(sejumlah pendukung Persiwa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keributan)-(Mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(keributan)-(kegaduhan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keributan)-(bangku VIP Stadion Siliwangi,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(keributan)-(tribun)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keributan)-(wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keributan)-(aksi tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keributan)-(polisi,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(keributan)-(adu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keributan)-(mulut dan dorong)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keributan)-(pendukung Persiwa dan polisi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keributan)-(Keributan baru)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(keributan)-(pendukung Persiwa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keributan)-(lainnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keributan)-(temannya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keributan)-(keputusan wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keributan)-(Aksi protes)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(keributan)-(pemukulan tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keributan)-(pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keributan)-(10 menit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keributan)-(Pertandingan)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(keributan)-(kemenangan tipis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keributan)-(PBR,)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(Pemain dan wasit)-(Keributan itu)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Pemain dan wasit)-(saat wasit Muhaimin)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pemain dan wasit)-(hadiah tendangan penalti kedua)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pemain dan wasit)-(kalinya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pemain dan wasit)-(Pelita Bandung Raya)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Pemain dan wasit)-(PBR)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Pemain dan wasit)-(Sebelumnya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pemain dan wasit)-(pemain Persiwa Ok John)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pemain dan wasit)-(Mijo Dadic)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Pemain dan wasit)-(kotak penalti)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pemain dan wasit)-(keputusan wasit,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Pemain dan wasit)-(sejumlah pemain Persiwa)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pemain dan wasit)-(wasit)]";false;true;false;false;false;false;true;PERSON;OTHER
+"[(Pemain dan wasit)-(saat wasit)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pemain dan wasit)-(tiba-tiba striker Persiwa Peter Rumaroppen langsung)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pemain dan wasit)-(wajah Muhaimin)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pemain dan wasit)-(lengannya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pemain dan wasit)-(Akibatnya wajah Muhaimin)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Pemain dan wasit)-(wasit)]";false;true;false;false;false;false;true;PERSON;OTHER
+"[(Pemain dan wasit)-(petugas)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pemain dan wasit)-(lapangan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pemain dan wasit)-(suasana)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pemain dan wasit)-(wasit Muhaimin)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pemain dan wasit)-(merah)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Pemain dan wasit)-(Peter)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Pemain dan wasit)-(aksi pemukulan terhadapnya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pemain dan wasit)-(merah)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Pemain dan wasit)-(wasit)]";false;true;false;false;false;false;true;PERSON;OTHER
+"[(Pemain dan wasit)-(Persiwa)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Pemain dan wasit)-(laga ini,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Pemain dan wasit)-(reaksi negatif)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pemain dan wasit)-(sejumlah pendukung Persiwa)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pemain dan wasit)-(Mereka)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Pemain dan wasit)-(kegaduhan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pemain dan wasit)-(bangku VIP Stadion Siliwangi,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Pemain dan wasit)-(tribun)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pemain dan wasit)-(wasit)]";false;true;false;false;false;false;true;PERSON;OTHER
+"[(Pemain dan wasit)-(aksi tersebut)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pemain dan wasit)-(polisi,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Pemain dan wasit)-(adu)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pemain dan wasit)-(mulut dan dorong)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pemain dan wasit)-(pendukung Persiwa dan polisi)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pemain dan wasit)-(Keributan baru)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Pemain dan wasit)-(pendukung Persiwa)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pemain dan wasit)-(lainnya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pemain dan wasit)-(temannya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pemain dan wasit)-(keputusan wasit)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pemain dan wasit)-(Aksi protes)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Pemain dan wasit)-(pemukulan tersebut)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pemain dan wasit)-(pertandingan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pemain dan wasit)-(10 menit)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pemain dan wasit)-(Pertandingan)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Pemain dan wasit)-(kemenangan tipis)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pemain dan wasit)-(PBR,)]";false;false;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Keributan itu)-(saat wasit Muhaimin)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Keributan itu)-(hadiah tendangan penalti kedua)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Keributan itu)-(kalinya)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Keributan itu)-(Pelita Bandung Raya)]";false;true;false;false;false;true;false;PERSON;PERSON
+"[(Keributan itu)-(PBR)]";false;true;false;false;false;true;false;PERSON;ORGANIZATION
+"[(Keributan itu)-(Sebelumnya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Keributan itu)-(pemain Persiwa Ok John)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Keributan itu)-(Mijo Dadic)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Keributan itu)-(kotak penalti)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Keributan itu)-(keputusan wasit,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Keributan itu)-(sejumlah pemain Persiwa)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Keributan itu)-(wasit)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Keributan itu)-(saat wasit)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Keributan itu)-(tiba-tiba striker Persiwa Peter Rumaroppen langsung)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Keributan itu)-(wajah Muhaimin)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Keributan itu)-(lengannya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Keributan itu)-(Akibatnya wajah Muhaimin)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Keributan itu)-(wasit)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Keributan itu)-(petugas)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Keributan itu)-(lapangan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Keributan itu)-(suasana)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Keributan itu)-(wasit Muhaimin)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Keributan itu)-(merah)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Keributan itu)-(Peter)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Keributan itu)-(aksi pemukulan terhadapnya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Keributan itu)-(merah)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Keributan itu)-(wasit)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Keributan itu)-(Persiwa)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Keributan itu)-(laga ini,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Keributan itu)-(reaksi negatif)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Keributan itu)-(sejumlah pendukung Persiwa)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Keributan itu)-(Mereka)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Keributan itu)-(kegaduhan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Keributan itu)-(bangku VIP Stadion Siliwangi,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Keributan itu)-(tribun)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Keributan itu)-(wasit)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Keributan itu)-(aksi tersebut)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Keributan itu)-(polisi,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Keributan itu)-(adu)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Keributan itu)-(mulut dan dorong)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Keributan itu)-(pendukung Persiwa dan polisi)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Keributan itu)-(Keributan baru)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Keributan itu)-(pendukung Persiwa)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Keributan itu)-(lainnya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Keributan itu)-(temannya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Keributan itu)-(keputusan wasit)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Keributan itu)-(Aksi protes)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Keributan itu)-(pemukulan tersebut)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Keributan itu)-(pertandingan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Keributan itu)-(10 menit)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Keributan itu)-(Pertandingan)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Keributan itu)-(kemenangan tipis)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Keributan itu)-(PBR,)]";false;false;false;false;false;false;false;PERSON;ORGANIZATION
+"[(saat wasit Muhaimin)-(hadiah tendangan penalti kedua)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(saat wasit Muhaimin)-(kalinya)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(saat wasit Muhaimin)-(Pelita Bandung Raya)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(saat wasit Muhaimin)-(PBR)]";false;true;false;false;false;true;false;OTHER;ORGANIZATION
+"[(saat wasit Muhaimin)-(Sebelumnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(saat wasit Muhaimin)-(pemain Persiwa Ok John)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(saat wasit Muhaimin)-(Mijo Dadic)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(saat wasit Muhaimin)-(kotak penalti)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(saat wasit Muhaimin)-(keputusan wasit,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(saat wasit Muhaimin)-(sejumlah pemain Persiwa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(saat wasit Muhaimin)-(wasit)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(saat wasit Muhaimin)-(saat wasit)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(saat wasit Muhaimin)-(tiba-tiba striker Persiwa Peter Rumaroppen langsung)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(saat wasit Muhaimin)-(wajah Muhaimin)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(saat wasit Muhaimin)-(lengannya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(saat wasit Muhaimin)-(Akibatnya wajah Muhaimin)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(saat wasit Muhaimin)-(wasit)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(saat wasit Muhaimin)-(petugas)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(saat wasit Muhaimin)-(lapangan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(saat wasit Muhaimin)-(suasana)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(saat wasit Muhaimin)-(wasit Muhaimin)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(saat wasit Muhaimin)-(merah)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(saat wasit Muhaimin)-(Peter)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(saat wasit Muhaimin)-(aksi pemukulan terhadapnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(saat wasit Muhaimin)-(merah)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(saat wasit Muhaimin)-(wasit)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(saat wasit Muhaimin)-(Persiwa)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(saat wasit Muhaimin)-(laga ini,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(saat wasit Muhaimin)-(reaksi negatif)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(saat wasit Muhaimin)-(sejumlah pendukung Persiwa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(saat wasit Muhaimin)-(Mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(saat wasit Muhaimin)-(kegaduhan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(saat wasit Muhaimin)-(bangku VIP Stadion Siliwangi,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(saat wasit Muhaimin)-(tribun)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(saat wasit Muhaimin)-(wasit)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(saat wasit Muhaimin)-(aksi tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(saat wasit Muhaimin)-(polisi,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(saat wasit Muhaimin)-(adu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(saat wasit Muhaimin)-(mulut dan dorong)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(saat wasit Muhaimin)-(pendukung Persiwa dan polisi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(saat wasit Muhaimin)-(Keributan baru)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(saat wasit Muhaimin)-(pendukung Persiwa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(saat wasit Muhaimin)-(lainnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(saat wasit Muhaimin)-(temannya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(saat wasit Muhaimin)-(keputusan wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(saat wasit Muhaimin)-(Aksi protes)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(saat wasit Muhaimin)-(pemukulan tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(saat wasit Muhaimin)-(pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(saat wasit Muhaimin)-(10 menit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(saat wasit Muhaimin)-(Pertandingan)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(saat wasit Muhaimin)-(kemenangan tipis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(saat wasit Muhaimin)-(PBR,)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(hadiah tendangan penalti kedua)-(kalinya)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(hadiah tendangan penalti kedua)-(Pelita Bandung Raya)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(hadiah tendangan penalti kedua)-(PBR)]";false;true;false;false;false;true;false;OTHER;ORGANIZATION
+"[(hadiah tendangan penalti kedua)-(Sebelumnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hadiah tendangan penalti kedua)-(pemain Persiwa Ok John)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hadiah tendangan penalti kedua)-(Mijo Dadic)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(hadiah tendangan penalti kedua)-(kotak penalti)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hadiah tendangan penalti kedua)-(keputusan wasit,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(hadiah tendangan penalti kedua)-(sejumlah pemain Persiwa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hadiah tendangan penalti kedua)-(wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hadiah tendangan penalti kedua)-(saat wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hadiah tendangan penalti kedua)-(tiba-tiba striker Persiwa Peter Rumaroppen langsung)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hadiah tendangan penalti kedua)-(wajah Muhaimin)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hadiah tendangan penalti kedua)-(lengannya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hadiah tendangan penalti kedua)-(Akibatnya wajah Muhaimin)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(hadiah tendangan penalti kedua)-(wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hadiah tendangan penalti kedua)-(petugas)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hadiah tendangan penalti kedua)-(lapangan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hadiah tendangan penalti kedua)-(suasana)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hadiah tendangan penalti kedua)-(wasit Muhaimin)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hadiah tendangan penalti kedua)-(merah)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(hadiah tendangan penalti kedua)-(Peter)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(hadiah tendangan penalti kedua)-(aksi pemukulan terhadapnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hadiah tendangan penalti kedua)-(merah)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(hadiah tendangan penalti kedua)-(wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hadiah tendangan penalti kedua)-(Persiwa)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(hadiah tendangan penalti kedua)-(laga ini,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(hadiah tendangan penalti kedua)-(reaksi negatif)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hadiah tendangan penalti kedua)-(sejumlah pendukung Persiwa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hadiah tendangan penalti kedua)-(Mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(hadiah tendangan penalti kedua)-(kegaduhan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hadiah tendangan penalti kedua)-(bangku VIP Stadion Siliwangi,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(hadiah tendangan penalti kedua)-(tribun)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hadiah tendangan penalti kedua)-(wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hadiah tendangan penalti kedua)-(aksi tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hadiah tendangan penalti kedua)-(polisi,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(hadiah tendangan penalti kedua)-(adu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hadiah tendangan penalti kedua)-(mulut dan dorong)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hadiah tendangan penalti kedua)-(pendukung Persiwa dan polisi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hadiah tendangan penalti kedua)-(Keributan baru)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(hadiah tendangan penalti kedua)-(pendukung Persiwa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hadiah tendangan penalti kedua)-(lainnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hadiah tendangan penalti kedua)-(temannya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hadiah tendangan penalti kedua)-(keputusan wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hadiah tendangan penalti kedua)-(Aksi protes)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(hadiah tendangan penalti kedua)-(pemukulan tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hadiah tendangan penalti kedua)-(pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hadiah tendangan penalti kedua)-(10 menit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hadiah tendangan penalti kedua)-(Pertandingan)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(hadiah tendangan penalti kedua)-(kemenangan tipis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(hadiah tendangan penalti kedua)-(PBR,)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(kalinya)-(Pelita Bandung Raya)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(kalinya)-(PBR)]";false;true;false;false;false;true;false;OTHER;ORGANIZATION
+"[(kalinya)-(Sebelumnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kalinya)-(pemain Persiwa Ok John)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kalinya)-(Mijo Dadic)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kalinya)-(kotak penalti)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kalinya)-(keputusan wasit,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(kalinya)-(sejumlah pemain Persiwa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kalinya)-(wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kalinya)-(saat wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kalinya)-(tiba-tiba striker Persiwa Peter Rumaroppen langsung)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kalinya)-(wajah Muhaimin)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kalinya)-(lengannya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kalinya)-(Akibatnya wajah Muhaimin)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kalinya)-(wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kalinya)-(petugas)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kalinya)-(lapangan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kalinya)-(suasana)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kalinya)-(wasit Muhaimin)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kalinya)-(merah)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(kalinya)-(Peter)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kalinya)-(aksi pemukulan terhadapnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kalinya)-(merah)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(kalinya)-(wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kalinya)-(Persiwa)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(kalinya)-(laga ini,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(kalinya)-(reaksi negatif)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kalinya)-(sejumlah pendukung Persiwa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kalinya)-(Mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(kalinya)-(kegaduhan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kalinya)-(bangku VIP Stadion Siliwangi,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(kalinya)-(tribun)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kalinya)-(wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kalinya)-(aksi tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kalinya)-(polisi,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(kalinya)-(adu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kalinya)-(mulut dan dorong)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kalinya)-(pendukung Persiwa dan polisi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kalinya)-(Keributan baru)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kalinya)-(pendukung Persiwa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kalinya)-(lainnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kalinya)-(temannya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kalinya)-(keputusan wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kalinya)-(Aksi protes)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kalinya)-(pemukulan tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kalinya)-(pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kalinya)-(10 menit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kalinya)-(Pertandingan)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(kalinya)-(kemenangan tipis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kalinya)-(PBR,)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(Pelita Bandung Raya)-(PBR)]";false;true;true;false;false;true;false;PERSON;ORGANIZATION
+"[(Pelita Bandung Raya)-(Sebelumnya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pelita Bandung Raya)-(pemain Persiwa Ok John)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pelita Bandung Raya)-(Mijo Dadic)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Pelita Bandung Raya)-(kotak penalti)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pelita Bandung Raya)-(keputusan wasit,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Pelita Bandung Raya)-(sejumlah pemain Persiwa)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pelita Bandung Raya)-(wasit)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pelita Bandung Raya)-(saat wasit)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pelita Bandung Raya)-(tiba-tiba striker Persiwa Peter Rumaroppen langsung)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pelita Bandung Raya)-(wajah Muhaimin)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pelita Bandung Raya)-(lengannya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pelita Bandung Raya)-(Akibatnya wajah Muhaimin)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Pelita Bandung Raya)-(wasit)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pelita Bandung Raya)-(petugas)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pelita Bandung Raya)-(lapangan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pelita Bandung Raya)-(suasana)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pelita Bandung Raya)-(wasit Muhaimin)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pelita Bandung Raya)-(merah)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Pelita Bandung Raya)-(Peter)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Pelita Bandung Raya)-(aksi pemukulan terhadapnya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pelita Bandung Raya)-(merah)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Pelita Bandung Raya)-(wasit)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pelita Bandung Raya)-(Persiwa)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Pelita Bandung Raya)-(laga ini,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Pelita Bandung Raya)-(reaksi negatif)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pelita Bandung Raya)-(sejumlah pendukung Persiwa)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pelita Bandung Raya)-(Mereka)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Pelita Bandung Raya)-(kegaduhan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pelita Bandung Raya)-(bangku VIP Stadion Siliwangi,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Pelita Bandung Raya)-(tribun)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pelita Bandung Raya)-(wasit)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pelita Bandung Raya)-(aksi tersebut)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pelita Bandung Raya)-(polisi,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Pelita Bandung Raya)-(adu)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pelita Bandung Raya)-(mulut dan dorong)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pelita Bandung Raya)-(pendukung Persiwa dan polisi)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pelita Bandung Raya)-(Keributan baru)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Pelita Bandung Raya)-(pendukung Persiwa)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pelita Bandung Raya)-(lainnya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pelita Bandung Raya)-(temannya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pelita Bandung Raya)-(keputusan wasit)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pelita Bandung Raya)-(Aksi protes)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Pelita Bandung Raya)-(pemukulan tersebut)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pelita Bandung Raya)-(pertandingan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pelita Bandung Raya)-(10 menit)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pelita Bandung Raya)-(Pertandingan)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Pelita Bandung Raya)-(kemenangan tipis)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Pelita Bandung Raya)-(PBR,)]";false;false;false;false;false;false;false;PERSON;ORGANIZATION
+"[(PBR)-(Sebelumnya)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PBR)-(pemain Persiwa Ok John)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PBR)-(Mijo Dadic)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(PBR)-(kotak penalti)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PBR)-(keputusan wasit,)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PBR)-(sejumlah pemain Persiwa)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PBR)-(wasit)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PBR)-(saat wasit)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PBR)-(tiba-tiba striker Persiwa Peter Rumaroppen langsung)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PBR)-(wajah Muhaimin)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PBR)-(lengannya)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PBR)-(Akibatnya wajah Muhaimin)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(PBR)-(wasit)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PBR)-(petugas)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PBR)-(lapangan)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PBR)-(suasana)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PBR)-(wasit Muhaimin)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PBR)-(merah)]";false;true;false;false;true;false;false;ORGANIZATION;OTHER
+"[(PBR)-(Peter)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(PBR)-(aksi pemukulan terhadapnya)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PBR)-(merah)]";false;true;false;false;true;false;false;ORGANIZATION;OTHER
+"[(PBR)-(wasit)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PBR)-(Persiwa)]";false;true;false;false;false;false;false;ORGANIZATION;ORGANIZATION
+"[(PBR)-(laga ini,)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PBR)-(reaksi negatif)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PBR)-(sejumlah pendukung Persiwa)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PBR)-(Mereka)]";false;true;false;false;true;false;false;ORGANIZATION;OTHER
+"[(PBR)-(kegaduhan)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PBR)-(bangku VIP Stadion Siliwangi,)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PBR)-(tribun)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PBR)-(wasit)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PBR)-(aksi tersebut)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PBR)-(polisi,)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PBR)-(adu)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PBR)-(mulut dan dorong)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PBR)-(pendukung Persiwa dan polisi)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PBR)-(Keributan baru)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(PBR)-(pendukung Persiwa)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PBR)-(lainnya)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PBR)-(temannya)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PBR)-(keputusan wasit)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PBR)-(Aksi protes)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(PBR)-(pemukulan tersebut)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PBR)-(pertandingan)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PBR)-(10 menit)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PBR)-(Pertandingan)]";false;true;false;false;false;false;false;ORGANIZATION;ORGANIZATION
+"[(PBR)-(kemenangan tipis)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PBR)-(PBR,)]";false;false;false;false;false;false;true;ORGANIZATION;ORGANIZATION
+"[(Sebelumnya)-(pemain Persiwa Ok John)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(Sebelumnya)-(Mijo Dadic)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(Sebelumnya)-(kotak penalti)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(Sebelumnya)-(keputusan wasit,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Sebelumnya)-(sejumlah pemain Persiwa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Sebelumnya)-(wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Sebelumnya)-(saat wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Sebelumnya)-(tiba-tiba striker Persiwa Peter Rumaroppen langsung)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Sebelumnya)-(wajah Muhaimin)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Sebelumnya)-(lengannya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Sebelumnya)-(Akibatnya wajah Muhaimin)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(Sebelumnya)-(wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Sebelumnya)-(petugas)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Sebelumnya)-(lapangan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Sebelumnya)-(suasana)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Sebelumnya)-(wasit Muhaimin)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Sebelumnya)-(merah)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(Sebelumnya)-(Peter)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(Sebelumnya)-(aksi pemukulan terhadapnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Sebelumnya)-(merah)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(Sebelumnya)-(wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Sebelumnya)-(Persiwa)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(Sebelumnya)-(laga ini,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Sebelumnya)-(reaksi negatif)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Sebelumnya)-(sejumlah pendukung Persiwa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Sebelumnya)-(Mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(Sebelumnya)-(kegaduhan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Sebelumnya)-(bangku VIP Stadion Siliwangi,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Sebelumnya)-(tribun)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Sebelumnya)-(wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Sebelumnya)-(aksi tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Sebelumnya)-(polisi,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Sebelumnya)-(adu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Sebelumnya)-(mulut dan dorong)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Sebelumnya)-(pendukung Persiwa dan polisi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Sebelumnya)-(Keributan baru)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(Sebelumnya)-(pendukung Persiwa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Sebelumnya)-(lainnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Sebelumnya)-(temannya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Sebelumnya)-(keputusan wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Sebelumnya)-(Aksi protes)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(Sebelumnya)-(pemukulan tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Sebelumnya)-(pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Sebelumnya)-(10 menit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Sebelumnya)-(Pertandingan)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(Sebelumnya)-(kemenangan tipis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Sebelumnya)-(PBR,)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(pemain Persiwa Ok John)-(Mijo Dadic)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(pemain Persiwa Ok John)-(kotak penalti)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(pemain Persiwa Ok John)-(keputusan wasit,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pemain Persiwa Ok John)-(sejumlah pemain Persiwa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemain Persiwa Ok John)-(wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemain Persiwa Ok John)-(saat wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemain Persiwa Ok John)-(tiba-tiba striker Persiwa Peter Rumaroppen langsung)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemain Persiwa Ok John)-(wajah Muhaimin)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemain Persiwa Ok John)-(lengannya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemain Persiwa Ok John)-(Akibatnya wajah Muhaimin)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pemain Persiwa Ok John)-(wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemain Persiwa Ok John)-(petugas)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemain Persiwa Ok John)-(lapangan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemain Persiwa Ok John)-(suasana)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemain Persiwa Ok John)-(wasit Muhaimin)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemain Persiwa Ok John)-(merah)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(pemain Persiwa Ok John)-(Peter)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pemain Persiwa Ok John)-(aksi pemukulan terhadapnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemain Persiwa Ok John)-(merah)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(pemain Persiwa Ok John)-(wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemain Persiwa Ok John)-(Persiwa)]";false;true;false;false;false;false;true;OTHER;ORGANIZATION
+"[(pemain Persiwa Ok John)-(laga ini,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pemain Persiwa Ok John)-(reaksi negatif)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemain Persiwa Ok John)-(sejumlah pendukung Persiwa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemain Persiwa Ok John)-(Mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(pemain Persiwa Ok John)-(kegaduhan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemain Persiwa Ok John)-(bangku VIP Stadion Siliwangi,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pemain Persiwa Ok John)-(tribun)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemain Persiwa Ok John)-(wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemain Persiwa Ok John)-(aksi tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemain Persiwa Ok John)-(polisi,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pemain Persiwa Ok John)-(adu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemain Persiwa Ok John)-(mulut dan dorong)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemain Persiwa Ok John)-(pendukung Persiwa dan polisi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemain Persiwa Ok John)-(Keributan baru)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pemain Persiwa Ok John)-(pendukung Persiwa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemain Persiwa Ok John)-(lainnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemain Persiwa Ok John)-(temannya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemain Persiwa Ok John)-(keputusan wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemain Persiwa Ok John)-(Aksi protes)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pemain Persiwa Ok John)-(pemukulan tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemain Persiwa Ok John)-(pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemain Persiwa Ok John)-(10 menit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemain Persiwa Ok John)-(Pertandingan)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(pemain Persiwa Ok John)-(kemenangan tipis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemain Persiwa Ok John)-(PBR,)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(Mijo Dadic)-(kotak penalti)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Mijo Dadic)-(keputusan wasit,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Mijo Dadic)-(sejumlah pemain Persiwa)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Mijo Dadic)-(wasit)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Mijo Dadic)-(saat wasit)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Mijo Dadic)-(tiba-tiba striker Persiwa Peter Rumaroppen langsung)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Mijo Dadic)-(wajah Muhaimin)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Mijo Dadic)-(lengannya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Mijo Dadic)-(Akibatnya wajah Muhaimin)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Mijo Dadic)-(wasit)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Mijo Dadic)-(petugas)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Mijo Dadic)-(lapangan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Mijo Dadic)-(suasana)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Mijo Dadic)-(wasit Muhaimin)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Mijo Dadic)-(merah)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Mijo Dadic)-(Peter)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Mijo Dadic)-(aksi pemukulan terhadapnya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Mijo Dadic)-(merah)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Mijo Dadic)-(wasit)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Mijo Dadic)-(Persiwa)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Mijo Dadic)-(laga ini,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Mijo Dadic)-(reaksi negatif)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Mijo Dadic)-(sejumlah pendukung Persiwa)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Mijo Dadic)-(Mereka)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Mijo Dadic)-(kegaduhan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Mijo Dadic)-(bangku VIP Stadion Siliwangi,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Mijo Dadic)-(tribun)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Mijo Dadic)-(wasit)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Mijo Dadic)-(aksi tersebut)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Mijo Dadic)-(polisi,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Mijo Dadic)-(adu)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Mijo Dadic)-(mulut dan dorong)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Mijo Dadic)-(pendukung Persiwa dan polisi)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Mijo Dadic)-(Keributan baru)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Mijo Dadic)-(pendukung Persiwa)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Mijo Dadic)-(lainnya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Mijo Dadic)-(temannya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Mijo Dadic)-(keputusan wasit)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Mijo Dadic)-(Aksi protes)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Mijo Dadic)-(pemukulan tersebut)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Mijo Dadic)-(pertandingan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Mijo Dadic)-(10 menit)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Mijo Dadic)-(Pertandingan)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Mijo Dadic)-(kemenangan tipis)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Mijo Dadic)-(PBR,)]";false;false;false;false;false;false;false;PERSON;ORGANIZATION
+"[(kotak penalti)-(keputusan wasit,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(kotak penalti)-(sejumlah pemain Persiwa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kotak penalti)-(wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kotak penalti)-(saat wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kotak penalti)-(tiba-tiba striker Persiwa Peter Rumaroppen langsung)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kotak penalti)-(wajah Muhaimin)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kotak penalti)-(lengannya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kotak penalti)-(Akibatnya wajah Muhaimin)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kotak penalti)-(wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kotak penalti)-(petugas)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kotak penalti)-(lapangan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kotak penalti)-(suasana)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kotak penalti)-(wasit Muhaimin)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kotak penalti)-(merah)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(kotak penalti)-(Peter)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kotak penalti)-(aksi pemukulan terhadapnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kotak penalti)-(merah)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(kotak penalti)-(wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kotak penalti)-(Persiwa)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(kotak penalti)-(laga ini,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(kotak penalti)-(reaksi negatif)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kotak penalti)-(sejumlah pendukung Persiwa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kotak penalti)-(Mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(kotak penalti)-(kegaduhan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kotak penalti)-(bangku VIP Stadion Siliwangi,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(kotak penalti)-(tribun)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kotak penalti)-(wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kotak penalti)-(aksi tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kotak penalti)-(polisi,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(kotak penalti)-(adu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kotak penalti)-(mulut dan dorong)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kotak penalti)-(pendukung Persiwa dan polisi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kotak penalti)-(Keributan baru)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kotak penalti)-(pendukung Persiwa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kotak penalti)-(lainnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kotak penalti)-(temannya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kotak penalti)-(keputusan wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kotak penalti)-(Aksi protes)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kotak penalti)-(pemukulan tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kotak penalti)-(pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kotak penalti)-(10 menit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kotak penalti)-(Pertandingan)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(kotak penalti)-(kemenangan tipis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kotak penalti)-(PBR,)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(keputusan wasit,)-(sejumlah pemain Persiwa)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(keputusan wasit,)-(wasit)]";false;false;false;false;false;true;true;OTHER;OTHER
+"[(keputusan wasit,)-(saat wasit)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(keputusan wasit,)-(tiba-tiba striker Persiwa Peter Rumaroppen langsung)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(keputusan wasit,)-(wajah Muhaimin)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(keputusan wasit,)-(lengannya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(keputusan wasit,)-(Akibatnya wajah Muhaimin)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(keputusan wasit,)-(wasit)]";false;false;false;false;false;false;true;OTHER;OTHER
+"[(keputusan wasit,)-(petugas)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(keputusan wasit,)-(lapangan)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(keputusan wasit,)-(suasana)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(keputusan wasit,)-(wasit Muhaimin)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(keputusan wasit,)-(merah)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(keputusan wasit,)-(Peter)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(keputusan wasit,)-(aksi pemukulan terhadapnya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(keputusan wasit,)-(merah)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(keputusan wasit,)-(wasit)]";false;false;false;false;false;false;true;OTHER;OTHER
+"[(keputusan wasit,)-(Persiwa)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(keputusan wasit,)-(laga ini,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(keputusan wasit,)-(reaksi negatif)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(keputusan wasit,)-(sejumlah pendukung Persiwa)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(keputusan wasit,)-(Mereka)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(keputusan wasit,)-(kegaduhan)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(keputusan wasit,)-(bangku VIP Stadion Siliwangi,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(keputusan wasit,)-(tribun)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(keputusan wasit,)-(wasit)]";false;false;false;false;false;false;true;OTHER;OTHER
+"[(keputusan wasit,)-(aksi tersebut)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(keputusan wasit,)-(polisi,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(keputusan wasit,)-(adu)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(keputusan wasit,)-(mulut dan dorong)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(keputusan wasit,)-(pendukung Persiwa dan polisi)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(keputusan wasit,)-(Keributan baru)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(keputusan wasit,)-(pendukung Persiwa)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(keputusan wasit,)-(lainnya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(keputusan wasit,)-(temannya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(keputusan wasit,)-(keputusan wasit)]";false;false;false;false;false;false;true;OTHER;OTHER
+"[(keputusan wasit,)-(Aksi protes)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(keputusan wasit,)-(pemukulan tersebut)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(keputusan wasit,)-(pertandingan)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(keputusan wasit,)-(10 menit)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(keputusan wasit,)-(Pertandingan)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(keputusan wasit,)-(kemenangan tipis)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(keputusan wasit,)-(PBR,)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(sejumlah pemain Persiwa)-(wasit)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(sejumlah pemain Persiwa)-(saat wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah pemain Persiwa)-(tiba-tiba striker Persiwa Peter Rumaroppen langsung)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah pemain Persiwa)-(wajah Muhaimin)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah pemain Persiwa)-(lengannya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah pemain Persiwa)-(Akibatnya wajah Muhaimin)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(sejumlah pemain Persiwa)-(wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah pemain Persiwa)-(petugas)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah pemain Persiwa)-(lapangan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah pemain Persiwa)-(suasana)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah pemain Persiwa)-(wasit Muhaimin)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah pemain Persiwa)-(merah)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(sejumlah pemain Persiwa)-(Peter)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(sejumlah pemain Persiwa)-(aksi pemukulan terhadapnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah pemain Persiwa)-(merah)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(sejumlah pemain Persiwa)-(wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah pemain Persiwa)-(Persiwa)]";false;true;false;false;false;false;true;OTHER;ORGANIZATION
+"[(sejumlah pemain Persiwa)-(laga ini,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah pemain Persiwa)-(reaksi negatif)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah pemain Persiwa)-(sejumlah pendukung Persiwa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah pemain Persiwa)-(Mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(sejumlah pemain Persiwa)-(kegaduhan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah pemain Persiwa)-(bangku VIP Stadion Siliwangi,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah pemain Persiwa)-(tribun)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah pemain Persiwa)-(wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah pemain Persiwa)-(aksi tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah pemain Persiwa)-(polisi,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah pemain Persiwa)-(adu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah pemain Persiwa)-(mulut dan dorong)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah pemain Persiwa)-(pendukung Persiwa dan polisi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah pemain Persiwa)-(Keributan baru)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(sejumlah pemain Persiwa)-(pendukung Persiwa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah pemain Persiwa)-(lainnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah pemain Persiwa)-(temannya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah pemain Persiwa)-(keputusan wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah pemain Persiwa)-(Aksi protes)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(sejumlah pemain Persiwa)-(pemukulan tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah pemain Persiwa)-(pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah pemain Persiwa)-(10 menit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah pemain Persiwa)-(Pertandingan)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(sejumlah pemain Persiwa)-(kemenangan tipis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah pemain Persiwa)-(PBR,)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(wasit)-(saat wasit)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(wasit)-(tiba-tiba striker Persiwa Peter Rumaroppen langsung)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit)-(wajah Muhaimin)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit)-(lengannya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit)-(Akibatnya wajah Muhaimin)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(wasit)-(wasit)]";true;true;false;false;false;false;true;OTHER;OTHER
+"[(wasit)-(petugas)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit)-(lapangan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit)-(suasana)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit)-(wasit Muhaimin)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(wasit)-(merah)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(wasit)-(Peter)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(wasit)-(aksi pemukulan terhadapnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit)-(merah)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(wasit)-(wasit)]";true;true;false;false;false;false;true;OTHER;OTHER
+"[(wasit)-(Persiwa)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(wasit)-(laga ini,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(wasit)-(reaksi negatif)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit)-(sejumlah pendukung Persiwa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit)-(Mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(wasit)-(kegaduhan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit)-(bangku VIP Stadion Siliwangi,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(wasit)-(tribun)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit)-(wasit)]";true;true;false;false;false;false;true;OTHER;OTHER
+"[(wasit)-(aksi tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit)-(polisi,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(wasit)-(adu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit)-(mulut dan dorong)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit)-(pendukung Persiwa dan polisi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit)-(Keributan baru)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(wasit)-(pendukung Persiwa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit)-(lainnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit)-(temannya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit)-(keputusan wasit)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(wasit)-(Aksi protes)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(wasit)-(pemukulan tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit)-(pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit)-(10 menit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit)-(Pertandingan)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(wasit)-(kemenangan tipis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit)-(PBR,)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(saat wasit)-(tiba-tiba striker Persiwa Peter Rumaroppen langsung)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(saat wasit)-(wajah Muhaimin)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(saat wasit)-(lengannya)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(saat wasit)-(Akibatnya wajah Muhaimin)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(saat wasit)-(wasit)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(saat wasit)-(petugas)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(saat wasit)-(lapangan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(saat wasit)-(suasana)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(saat wasit)-(wasit Muhaimin)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(saat wasit)-(merah)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(saat wasit)-(Peter)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(saat wasit)-(aksi pemukulan terhadapnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(saat wasit)-(merah)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(saat wasit)-(wasit)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(saat wasit)-(Persiwa)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(saat wasit)-(laga ini,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(saat wasit)-(reaksi negatif)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(saat wasit)-(sejumlah pendukung Persiwa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(saat wasit)-(Mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(saat wasit)-(kegaduhan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(saat wasit)-(bangku VIP Stadion Siliwangi,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(saat wasit)-(tribun)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(saat wasit)-(wasit)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(saat wasit)-(aksi tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(saat wasit)-(polisi,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(saat wasit)-(adu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(saat wasit)-(mulut dan dorong)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(saat wasit)-(pendukung Persiwa dan polisi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(saat wasit)-(Keributan baru)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(saat wasit)-(pendukung Persiwa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(saat wasit)-(lainnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(saat wasit)-(temannya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(saat wasit)-(keputusan wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(saat wasit)-(Aksi protes)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(saat wasit)-(pemukulan tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(saat wasit)-(pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(saat wasit)-(10 menit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(saat wasit)-(Pertandingan)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(saat wasit)-(kemenangan tipis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(saat wasit)-(PBR,)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(tiba-tiba striker Persiwa Peter Rumaroppen langsung)-(wajah Muhaimin)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(tiba-tiba striker Persiwa Peter Rumaroppen langsung)-(lengannya)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(tiba-tiba striker Persiwa Peter Rumaroppen langsung)-(Akibatnya wajah Muhaimin)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(tiba-tiba striker Persiwa Peter Rumaroppen langsung)-(wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tiba-tiba striker Persiwa Peter Rumaroppen langsung)-(petugas)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tiba-tiba striker Persiwa Peter Rumaroppen langsung)-(lapangan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tiba-tiba striker Persiwa Peter Rumaroppen langsung)-(suasana)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tiba-tiba striker Persiwa Peter Rumaroppen langsung)-(wasit Muhaimin)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tiba-tiba striker Persiwa Peter Rumaroppen langsung)-(merah)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(tiba-tiba striker Persiwa Peter Rumaroppen langsung)-(Peter)]";false;true;false;false;false;false;true;OTHER;PERSON
+"[(tiba-tiba striker Persiwa Peter Rumaroppen langsung)-(aksi pemukulan terhadapnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tiba-tiba striker Persiwa Peter Rumaroppen langsung)-(merah)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(tiba-tiba striker Persiwa Peter Rumaroppen langsung)-(wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tiba-tiba striker Persiwa Peter Rumaroppen langsung)-(Persiwa)]";false;true;false;false;false;false;true;OTHER;ORGANIZATION
+"[(tiba-tiba striker Persiwa Peter Rumaroppen langsung)-(laga ini,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(tiba-tiba striker Persiwa Peter Rumaroppen langsung)-(reaksi negatif)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tiba-tiba striker Persiwa Peter Rumaroppen langsung)-(sejumlah pendukung Persiwa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tiba-tiba striker Persiwa Peter Rumaroppen langsung)-(Mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(tiba-tiba striker Persiwa Peter Rumaroppen langsung)-(kegaduhan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tiba-tiba striker Persiwa Peter Rumaroppen langsung)-(bangku VIP Stadion Siliwangi,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(tiba-tiba striker Persiwa Peter Rumaroppen langsung)-(tribun)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tiba-tiba striker Persiwa Peter Rumaroppen langsung)-(wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tiba-tiba striker Persiwa Peter Rumaroppen langsung)-(aksi tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tiba-tiba striker Persiwa Peter Rumaroppen langsung)-(polisi,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(tiba-tiba striker Persiwa Peter Rumaroppen langsung)-(adu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tiba-tiba striker Persiwa Peter Rumaroppen langsung)-(mulut dan dorong)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tiba-tiba striker Persiwa Peter Rumaroppen langsung)-(pendukung Persiwa dan polisi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tiba-tiba striker Persiwa Peter Rumaroppen langsung)-(Keributan baru)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(tiba-tiba striker Persiwa Peter Rumaroppen langsung)-(pendukung Persiwa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tiba-tiba striker Persiwa Peter Rumaroppen langsung)-(lainnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tiba-tiba striker Persiwa Peter Rumaroppen langsung)-(temannya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tiba-tiba striker Persiwa Peter Rumaroppen langsung)-(keputusan wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tiba-tiba striker Persiwa Peter Rumaroppen langsung)-(Aksi protes)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(tiba-tiba striker Persiwa Peter Rumaroppen langsung)-(pemukulan tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tiba-tiba striker Persiwa Peter Rumaroppen langsung)-(pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tiba-tiba striker Persiwa Peter Rumaroppen langsung)-(10 menit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tiba-tiba striker Persiwa Peter Rumaroppen langsung)-(Pertandingan)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(tiba-tiba striker Persiwa Peter Rumaroppen langsung)-(kemenangan tipis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tiba-tiba striker Persiwa Peter Rumaroppen langsung)-(PBR,)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(wajah Muhaimin)-(lengannya)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(wajah Muhaimin)-(Akibatnya wajah Muhaimin)]";false;true;false;false;false;false;true;OTHER;PERSON
+"[(wajah Muhaimin)-(wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wajah Muhaimin)-(petugas)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wajah Muhaimin)-(lapangan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wajah Muhaimin)-(suasana)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wajah Muhaimin)-(wasit Muhaimin)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wajah Muhaimin)-(merah)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(wajah Muhaimin)-(Peter)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(wajah Muhaimin)-(aksi pemukulan terhadapnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wajah Muhaimin)-(merah)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(wajah Muhaimin)-(wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wajah Muhaimin)-(Persiwa)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(wajah Muhaimin)-(laga ini,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(wajah Muhaimin)-(reaksi negatif)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wajah Muhaimin)-(sejumlah pendukung Persiwa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wajah Muhaimin)-(Mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(wajah Muhaimin)-(kegaduhan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wajah Muhaimin)-(bangku VIP Stadion Siliwangi,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(wajah Muhaimin)-(tribun)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wajah Muhaimin)-(wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wajah Muhaimin)-(aksi tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wajah Muhaimin)-(polisi,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(wajah Muhaimin)-(adu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wajah Muhaimin)-(mulut dan dorong)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wajah Muhaimin)-(pendukung Persiwa dan polisi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wajah Muhaimin)-(Keributan baru)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(wajah Muhaimin)-(pendukung Persiwa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wajah Muhaimin)-(lainnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wajah Muhaimin)-(temannya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wajah Muhaimin)-(keputusan wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wajah Muhaimin)-(Aksi protes)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(wajah Muhaimin)-(pemukulan tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wajah Muhaimin)-(pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wajah Muhaimin)-(10 menit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wajah Muhaimin)-(Pertandingan)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(wajah Muhaimin)-(kemenangan tipis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wajah Muhaimin)-(PBR,)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(lengannya)-(Akibatnya wajah Muhaimin)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(lengannya)-(wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lengannya)-(petugas)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lengannya)-(lapangan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lengannya)-(suasana)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lengannya)-(wasit Muhaimin)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lengannya)-(merah)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(lengannya)-(Peter)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(lengannya)-(aksi pemukulan terhadapnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lengannya)-(merah)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(lengannya)-(wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lengannya)-(Persiwa)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(lengannya)-(laga ini,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(lengannya)-(reaksi negatif)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lengannya)-(sejumlah pendukung Persiwa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lengannya)-(Mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(lengannya)-(kegaduhan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lengannya)-(bangku VIP Stadion Siliwangi,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(lengannya)-(tribun)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lengannya)-(wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lengannya)-(aksi tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lengannya)-(polisi,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(lengannya)-(adu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lengannya)-(mulut dan dorong)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lengannya)-(pendukung Persiwa dan polisi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lengannya)-(Keributan baru)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(lengannya)-(pendukung Persiwa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lengannya)-(lainnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lengannya)-(temannya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lengannya)-(keputusan wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lengannya)-(Aksi protes)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(lengannya)-(pemukulan tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lengannya)-(pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lengannya)-(10 menit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lengannya)-(Pertandingan)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(lengannya)-(kemenangan tipis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lengannya)-(PBR,)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(Akibatnya wajah Muhaimin)-(wasit)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Akibatnya wajah Muhaimin)-(petugas)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Akibatnya wajah Muhaimin)-(lapangan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Akibatnya wajah Muhaimin)-(suasana)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Akibatnya wajah Muhaimin)-(wasit Muhaimin)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Akibatnya wajah Muhaimin)-(merah)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Akibatnya wajah Muhaimin)-(Peter)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Akibatnya wajah Muhaimin)-(aksi pemukulan terhadapnya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Akibatnya wajah Muhaimin)-(merah)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Akibatnya wajah Muhaimin)-(wasit)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Akibatnya wajah Muhaimin)-(Persiwa)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Akibatnya wajah Muhaimin)-(laga ini,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Akibatnya wajah Muhaimin)-(reaksi negatif)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Akibatnya wajah Muhaimin)-(sejumlah pendukung Persiwa)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Akibatnya wajah Muhaimin)-(Mereka)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Akibatnya wajah Muhaimin)-(kegaduhan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Akibatnya wajah Muhaimin)-(bangku VIP Stadion Siliwangi,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Akibatnya wajah Muhaimin)-(tribun)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Akibatnya wajah Muhaimin)-(wasit)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Akibatnya wajah Muhaimin)-(aksi tersebut)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Akibatnya wajah Muhaimin)-(polisi,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Akibatnya wajah Muhaimin)-(adu)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Akibatnya wajah Muhaimin)-(mulut dan dorong)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Akibatnya wajah Muhaimin)-(pendukung Persiwa dan polisi)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Akibatnya wajah Muhaimin)-(Keributan baru)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Akibatnya wajah Muhaimin)-(pendukung Persiwa)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Akibatnya wajah Muhaimin)-(lainnya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Akibatnya wajah Muhaimin)-(temannya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Akibatnya wajah Muhaimin)-(keputusan wasit)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Akibatnya wajah Muhaimin)-(Aksi protes)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Akibatnya wajah Muhaimin)-(pemukulan tersebut)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Akibatnya wajah Muhaimin)-(pertandingan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Akibatnya wajah Muhaimin)-(10 menit)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Akibatnya wajah Muhaimin)-(Pertandingan)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Akibatnya wajah Muhaimin)-(kemenangan tipis)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Akibatnya wajah Muhaimin)-(PBR,)]";false;false;false;false;false;false;false;PERSON;ORGANIZATION
+"[(wasit)-(petugas)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(wasit)-(lapangan)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(wasit)-(suasana)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(wasit)-(wasit Muhaimin)]";false;true;false;false;false;true;true;OTHER;OTHER
+"[(wasit)-(merah)]";false;true;false;false;true;true;false;OTHER;OTHER
+"[(wasit)-(Peter)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(wasit)-(aksi pemukulan terhadapnya)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(wasit)-(merah)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(wasit)-(wasit)]";true;true;false;false;false;false;true;OTHER;OTHER
+"[(wasit)-(Persiwa)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(wasit)-(laga ini,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(wasit)-(reaksi negatif)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit)-(sejumlah pendukung Persiwa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit)-(Mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(wasit)-(kegaduhan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit)-(bangku VIP Stadion Siliwangi,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(wasit)-(tribun)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit)-(wasit)]";true;true;false;false;false;false;true;OTHER;OTHER
+"[(wasit)-(aksi tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit)-(polisi,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(wasit)-(adu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit)-(mulut dan dorong)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit)-(pendukung Persiwa dan polisi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit)-(Keributan baru)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(wasit)-(pendukung Persiwa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit)-(lainnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit)-(temannya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit)-(keputusan wasit)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(wasit)-(Aksi protes)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(wasit)-(pemukulan tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit)-(pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit)-(10 menit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit)-(Pertandingan)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(wasit)-(kemenangan tipis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit)-(PBR,)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(petugas)-(lapangan)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(petugas)-(suasana)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(petugas)-(wasit Muhaimin)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(petugas)-(merah)]";false;true;false;false;true;true;false;OTHER;OTHER
+"[(petugas)-(Peter)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(petugas)-(aksi pemukulan terhadapnya)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(petugas)-(merah)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(petugas)-(wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(petugas)-(Persiwa)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(petugas)-(laga ini,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(petugas)-(reaksi negatif)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(petugas)-(sejumlah pendukung Persiwa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(petugas)-(Mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(petugas)-(kegaduhan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(petugas)-(bangku VIP Stadion Siliwangi,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(petugas)-(tribun)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(petugas)-(wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(petugas)-(aksi tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(petugas)-(polisi,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(petugas)-(adu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(petugas)-(mulut dan dorong)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(petugas)-(pendukung Persiwa dan polisi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(petugas)-(Keributan baru)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(petugas)-(pendukung Persiwa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(petugas)-(lainnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(petugas)-(temannya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(petugas)-(keputusan wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(petugas)-(Aksi protes)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(petugas)-(pemukulan tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(petugas)-(pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(petugas)-(10 menit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(petugas)-(Pertandingan)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(petugas)-(kemenangan tipis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(petugas)-(PBR,)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(lapangan)-(suasana)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(lapangan)-(wasit Muhaimin)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(lapangan)-(merah)]";false;true;false;false;true;true;false;OTHER;OTHER
+"[(lapangan)-(Peter)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(lapangan)-(aksi pemukulan terhadapnya)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(lapangan)-(merah)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(lapangan)-(wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lapangan)-(Persiwa)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(lapangan)-(laga ini,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(lapangan)-(reaksi negatif)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lapangan)-(sejumlah pendukung Persiwa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lapangan)-(Mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(lapangan)-(kegaduhan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lapangan)-(bangku VIP Stadion Siliwangi,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(lapangan)-(tribun)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lapangan)-(wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lapangan)-(aksi tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lapangan)-(polisi,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(lapangan)-(adu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lapangan)-(mulut dan dorong)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lapangan)-(pendukung Persiwa dan polisi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lapangan)-(Keributan baru)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(lapangan)-(pendukung Persiwa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lapangan)-(lainnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lapangan)-(temannya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lapangan)-(keputusan wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lapangan)-(Aksi protes)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(lapangan)-(pemukulan tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lapangan)-(pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lapangan)-(10 menit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lapangan)-(Pertandingan)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(lapangan)-(kemenangan tipis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lapangan)-(PBR,)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(suasana)-(wasit Muhaimin)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(suasana)-(merah)]";false;true;false;false;true;true;false;OTHER;OTHER
+"[(suasana)-(Peter)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(suasana)-(aksi pemukulan terhadapnya)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(suasana)-(merah)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(suasana)-(wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(suasana)-(Persiwa)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(suasana)-(laga ini,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(suasana)-(reaksi negatif)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(suasana)-(sejumlah pendukung Persiwa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(suasana)-(Mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(suasana)-(kegaduhan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(suasana)-(bangku VIP Stadion Siliwangi,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(suasana)-(tribun)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(suasana)-(wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(suasana)-(aksi tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(suasana)-(polisi,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(suasana)-(adu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(suasana)-(mulut dan dorong)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(suasana)-(pendukung Persiwa dan polisi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(suasana)-(Keributan baru)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(suasana)-(pendukung Persiwa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(suasana)-(lainnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(suasana)-(temannya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(suasana)-(keputusan wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(suasana)-(Aksi protes)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(suasana)-(pemukulan tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(suasana)-(pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(suasana)-(10 menit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(suasana)-(Pertandingan)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(suasana)-(kemenangan tipis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(suasana)-(PBR,)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(wasit Muhaimin)-(merah)]";false;true;false;false;true;true;false;OTHER;OTHER
+"[(wasit Muhaimin)-(Peter)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(wasit Muhaimin)-(aksi pemukulan terhadapnya)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(wasit Muhaimin)-(merah)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(wasit Muhaimin)-(wasit)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(wasit Muhaimin)-(Persiwa)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(wasit Muhaimin)-(laga ini,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(wasit Muhaimin)-(reaksi negatif)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit Muhaimin)-(sejumlah pendukung Persiwa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit Muhaimin)-(Mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(wasit Muhaimin)-(kegaduhan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit Muhaimin)-(bangku VIP Stadion Siliwangi,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(wasit Muhaimin)-(tribun)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit Muhaimin)-(wasit)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(wasit Muhaimin)-(aksi tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit Muhaimin)-(polisi,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(wasit Muhaimin)-(adu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit Muhaimin)-(mulut dan dorong)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit Muhaimin)-(pendukung Persiwa dan polisi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit Muhaimin)-(Keributan baru)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(wasit Muhaimin)-(pendukung Persiwa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit Muhaimin)-(lainnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit Muhaimin)-(temannya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit Muhaimin)-(keputusan wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit Muhaimin)-(Aksi protes)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(wasit Muhaimin)-(pemukulan tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit Muhaimin)-(pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit Muhaimin)-(10 menit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit Muhaimin)-(Pertandingan)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(wasit Muhaimin)-(kemenangan tipis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit Muhaimin)-(PBR,)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(merah)-(Peter)]";false;true;false;true;false;true;false;OTHER;PERSON
+"[(merah)-(aksi pemukulan terhadapnya)]";false;true;false;true;false;true;false;OTHER;OTHER
+"[(merah)-(merah)]";true;true;false;true;true;false;true;OTHER;OTHER
+"[(merah)-(wasit)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(merah)-(Persiwa)]";false;true;false;true;false;false;false;OTHER;ORGANIZATION
+"[(merah)-(laga ini,)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(merah)-(reaksi negatif)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(merah)-(sejumlah pendukung Persiwa)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(merah)-(Mereka)]";false;true;false;true;true;false;false;OTHER;OTHER
+"[(merah)-(kegaduhan)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(merah)-(bangku VIP Stadion Siliwangi,)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(merah)-(tribun)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(merah)-(wasit)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(merah)-(aksi tersebut)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(merah)-(polisi,)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(merah)-(adu)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(merah)-(mulut dan dorong)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(merah)-(pendukung Persiwa dan polisi)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(merah)-(Keributan baru)]";false;true;false;true;false;false;false;OTHER;PERSON
+"[(merah)-(pendukung Persiwa)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(merah)-(lainnya)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(merah)-(temannya)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(merah)-(keputusan wasit)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(merah)-(Aksi protes)]";false;true;false;true;false;false;false;OTHER;PERSON
+"[(merah)-(pemukulan tersebut)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(merah)-(pertandingan)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(merah)-(10 menit)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(merah)-(Pertandingan)]";false;true;false;true;false;false;false;OTHER;ORGANIZATION
+"[(merah)-(kemenangan tipis)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(merah)-(PBR,)]";false;false;false;true;false;false;false;OTHER;ORGANIZATION
+"[(Peter)-(aksi pemukulan terhadapnya)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Peter)-(merah)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Peter)-(wasit)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Peter)-(Persiwa)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Peter)-(laga ini,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Peter)-(reaksi negatif)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Peter)-(sejumlah pendukung Persiwa)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Peter)-(Mereka)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Peter)-(kegaduhan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Peter)-(bangku VIP Stadion Siliwangi,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Peter)-(tribun)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Peter)-(wasit)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Peter)-(aksi tersebut)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Peter)-(polisi,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Peter)-(adu)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Peter)-(mulut dan dorong)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Peter)-(pendukung Persiwa dan polisi)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Peter)-(Keributan baru)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Peter)-(pendukung Persiwa)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Peter)-(lainnya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Peter)-(temannya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Peter)-(keputusan wasit)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Peter)-(Aksi protes)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Peter)-(pemukulan tersebut)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Peter)-(pertandingan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Peter)-(10 menit)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Peter)-(Pertandingan)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Peter)-(kemenangan tipis)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Peter)-(PBR,)]";false;false;false;false;false;false;false;PERSON;ORGANIZATION
+"[(aksi pemukulan terhadapnya)-(merah)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(aksi pemukulan terhadapnya)-(wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(aksi pemukulan terhadapnya)-(Persiwa)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(aksi pemukulan terhadapnya)-(laga ini,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(aksi pemukulan terhadapnya)-(reaksi negatif)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(aksi pemukulan terhadapnya)-(sejumlah pendukung Persiwa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(aksi pemukulan terhadapnya)-(Mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(aksi pemukulan terhadapnya)-(kegaduhan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(aksi pemukulan terhadapnya)-(bangku VIP Stadion Siliwangi,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(aksi pemukulan terhadapnya)-(tribun)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(aksi pemukulan terhadapnya)-(wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(aksi pemukulan terhadapnya)-(aksi tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(aksi pemukulan terhadapnya)-(polisi,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(aksi pemukulan terhadapnya)-(adu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(aksi pemukulan terhadapnya)-(mulut dan dorong)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(aksi pemukulan terhadapnya)-(pendukung Persiwa dan polisi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(aksi pemukulan terhadapnya)-(Keributan baru)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(aksi pemukulan terhadapnya)-(pendukung Persiwa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(aksi pemukulan terhadapnya)-(lainnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(aksi pemukulan terhadapnya)-(temannya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(aksi pemukulan terhadapnya)-(keputusan wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(aksi pemukulan terhadapnya)-(Aksi protes)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(aksi pemukulan terhadapnya)-(pemukulan tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(aksi pemukulan terhadapnya)-(pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(aksi pemukulan terhadapnya)-(10 menit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(aksi pemukulan terhadapnya)-(Pertandingan)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(aksi pemukulan terhadapnya)-(kemenangan tipis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(aksi pemukulan terhadapnya)-(PBR,)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(merah)-(wasit)]";false;true;false;true;false;true;false;OTHER;OTHER
+"[(merah)-(Persiwa)]";false;true;false;true;false;true;false;OTHER;ORGANIZATION
+"[(merah)-(laga ini,)]";false;false;false;true;false;true;false;OTHER;OTHER
+"[(merah)-(reaksi negatif)]";false;true;false;true;false;true;false;OTHER;OTHER
+"[(merah)-(sejumlah pendukung Persiwa)]";false;true;false;true;false;true;false;OTHER;OTHER
+"[(merah)-(Mereka)]";false;true;false;true;true;false;false;OTHER;OTHER
+"[(merah)-(kegaduhan)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(merah)-(bangku VIP Stadion Siliwangi,)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(merah)-(tribun)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(merah)-(wasit)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(merah)-(aksi tersebut)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(merah)-(polisi,)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(merah)-(adu)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(merah)-(mulut dan dorong)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(merah)-(pendukung Persiwa dan polisi)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(merah)-(Keributan baru)]";false;true;false;true;false;false;false;OTHER;PERSON
+"[(merah)-(pendukung Persiwa)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(merah)-(lainnya)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(merah)-(temannya)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(merah)-(keputusan wasit)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(merah)-(Aksi protes)]";false;true;false;true;false;false;false;OTHER;PERSON
+"[(merah)-(pemukulan tersebut)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(merah)-(pertandingan)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(merah)-(10 menit)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(merah)-(Pertandingan)]";false;true;false;true;false;false;false;OTHER;ORGANIZATION
+"[(merah)-(kemenangan tipis)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(merah)-(PBR,)]";false;false;false;true;false;false;false;OTHER;ORGANIZATION
+"[(wasit)-(Persiwa)]";false;true;false;false;false;true;false;OTHER;ORGANIZATION
+"[(wasit)-(laga ini,)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(wasit)-(reaksi negatif)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(wasit)-(sejumlah pendukung Persiwa)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(wasit)-(Mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(wasit)-(kegaduhan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit)-(bangku VIP Stadion Siliwangi,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(wasit)-(tribun)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit)-(wasit)]";true;true;false;false;false;false;true;OTHER;OTHER
+"[(wasit)-(aksi tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit)-(polisi,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(wasit)-(adu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit)-(mulut dan dorong)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit)-(pendukung Persiwa dan polisi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit)-(Keributan baru)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(wasit)-(pendukung Persiwa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit)-(lainnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit)-(temannya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit)-(keputusan wasit)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(wasit)-(Aksi protes)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(wasit)-(pemukulan tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit)-(pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit)-(10 menit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit)-(Pertandingan)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(wasit)-(kemenangan tipis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit)-(PBR,)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(Persiwa)-(laga ini,)]";false;false;false;false;false;true;false;ORGANIZATION;OTHER
+"[(Persiwa)-(reaksi negatif)]";false;true;false;false;false;true;false;ORGANIZATION;OTHER
+"[(Persiwa)-(sejumlah pendukung Persiwa)]";false;true;false;false;false;true;true;ORGANIZATION;OTHER
+"[(Persiwa)-(Mereka)]";false;true;false;false;true;false;false;ORGANIZATION;OTHER
+"[(Persiwa)-(kegaduhan)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Persiwa)-(bangku VIP Stadion Siliwangi,)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Persiwa)-(tribun)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Persiwa)-(wasit)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Persiwa)-(aksi tersebut)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Persiwa)-(polisi,)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Persiwa)-(adu)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Persiwa)-(mulut dan dorong)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Persiwa)-(pendukung Persiwa dan polisi)]";false;true;false;false;false;false;true;ORGANIZATION;OTHER
+"[(Persiwa)-(Keributan baru)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(Persiwa)-(pendukung Persiwa)]";false;true;false;false;false;false;true;ORGANIZATION;OTHER
+"[(Persiwa)-(lainnya)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Persiwa)-(temannya)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Persiwa)-(keputusan wasit)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Persiwa)-(Aksi protes)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(Persiwa)-(pemukulan tersebut)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Persiwa)-(pertandingan)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Persiwa)-(10 menit)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Persiwa)-(Pertandingan)]";false;true;false;false;false;false;false;ORGANIZATION;ORGANIZATION
+"[(Persiwa)-(kemenangan tipis)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Persiwa)-(PBR,)]";false;false;false;false;false;false;false;ORGANIZATION;ORGANIZATION
+"[(laga ini,)-(reaksi negatif)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(laga ini,)-(sejumlah pendukung Persiwa)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(laga ini,)-(Mereka)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(laga ini,)-(kegaduhan)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(laga ini,)-(bangku VIP Stadion Siliwangi,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(laga ini,)-(tribun)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(laga ini,)-(wasit)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(laga ini,)-(aksi tersebut)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(laga ini,)-(polisi,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(laga ini,)-(adu)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(laga ini,)-(mulut dan dorong)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(laga ini,)-(pendukung Persiwa dan polisi)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(laga ini,)-(Keributan baru)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(laga ini,)-(pendukung Persiwa)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(laga ini,)-(lainnya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(laga ini,)-(temannya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(laga ini,)-(keputusan wasit)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(laga ini,)-(Aksi protes)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(laga ini,)-(pemukulan tersebut)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(laga ini,)-(pertandingan)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(laga ini,)-(10 menit)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(laga ini,)-(Pertandingan)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(laga ini,)-(kemenangan tipis)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(laga ini,)-(PBR,)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(reaksi negatif)-(sejumlah pendukung Persiwa)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(reaksi negatif)-(Mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(reaksi negatif)-(kegaduhan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(reaksi negatif)-(bangku VIP Stadion Siliwangi,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(reaksi negatif)-(tribun)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(reaksi negatif)-(wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(reaksi negatif)-(aksi tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(reaksi negatif)-(polisi,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(reaksi negatif)-(adu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(reaksi negatif)-(mulut dan dorong)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(reaksi negatif)-(pendukung Persiwa dan polisi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(reaksi negatif)-(Keributan baru)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(reaksi negatif)-(pendukung Persiwa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(reaksi negatif)-(lainnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(reaksi negatif)-(temannya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(reaksi negatif)-(keputusan wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(reaksi negatif)-(Aksi protes)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(reaksi negatif)-(pemukulan tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(reaksi negatif)-(pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(reaksi negatif)-(10 menit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(reaksi negatif)-(Pertandingan)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(reaksi negatif)-(kemenangan tipis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(reaksi negatif)-(PBR,)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(sejumlah pendukung Persiwa)-(Mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(sejumlah pendukung Persiwa)-(kegaduhan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah pendukung Persiwa)-(bangku VIP Stadion Siliwangi,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah pendukung Persiwa)-(tribun)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah pendukung Persiwa)-(wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah pendukung Persiwa)-(aksi tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah pendukung Persiwa)-(polisi,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah pendukung Persiwa)-(adu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah pendukung Persiwa)-(mulut dan dorong)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah pendukung Persiwa)-(pendukung Persiwa dan polisi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah pendukung Persiwa)-(Keributan baru)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(sejumlah pendukung Persiwa)-(pendukung Persiwa)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(sejumlah pendukung Persiwa)-(lainnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah pendukung Persiwa)-(temannya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah pendukung Persiwa)-(keputusan wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah pendukung Persiwa)-(Aksi protes)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(sejumlah pendukung Persiwa)-(pemukulan tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah pendukung Persiwa)-(pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah pendukung Persiwa)-(10 menit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah pendukung Persiwa)-(Pertandingan)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(sejumlah pendukung Persiwa)-(kemenangan tipis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah pendukung Persiwa)-(PBR,)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(Mereka)-(kegaduhan)]";false;true;false;true;false;true;false;OTHER;OTHER
+"[(Mereka)-(bangku VIP Stadion Siliwangi,)]";false;false;false;true;false;true;false;OTHER;OTHER
+"[(Mereka)-(tribun)]";false;true;false;true;false;true;false;OTHER;OTHER
+"[(Mereka)-(wasit)]";false;true;false;true;false;true;false;OTHER;OTHER
+"[(Mereka)-(aksi tersebut)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(polisi,)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(adu)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(mulut dan dorong)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(pendukung Persiwa dan polisi)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(Keributan baru)]";false;true;false;true;false;false;false;OTHER;PERSON
+"[(Mereka)-(pendukung Persiwa)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(lainnya)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(temannya)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(keputusan wasit)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(Aksi protes)]";false;true;false;true;false;false;false;OTHER;PERSON
+"[(Mereka)-(pemukulan tersebut)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(pertandingan)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(10 menit)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(Pertandingan)]";false;true;false;true;false;false;false;OTHER;ORGANIZATION
+"[(Mereka)-(kemenangan tipis)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(PBR,)]";false;false;false;true;false;false;false;OTHER;ORGANIZATION
+"[(kegaduhan)-(bangku VIP Stadion Siliwangi,)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(kegaduhan)-(tribun)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(kegaduhan)-(wasit)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(kegaduhan)-(aksi tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kegaduhan)-(polisi,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(kegaduhan)-(adu)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(kegaduhan)-(mulut dan dorong)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kegaduhan)-(pendukung Persiwa dan polisi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kegaduhan)-(Keributan baru)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kegaduhan)-(pendukung Persiwa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kegaduhan)-(lainnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kegaduhan)-(temannya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kegaduhan)-(keputusan wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kegaduhan)-(Aksi protes)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kegaduhan)-(pemukulan tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kegaduhan)-(pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kegaduhan)-(10 menit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kegaduhan)-(Pertandingan)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(kegaduhan)-(kemenangan tipis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kegaduhan)-(PBR,)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(bangku VIP Stadion Siliwangi,)-(tribun)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(bangku VIP Stadion Siliwangi,)-(wasit)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(bangku VIP Stadion Siliwangi,)-(aksi tersebut)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(bangku VIP Stadion Siliwangi,)-(polisi,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(bangku VIP Stadion Siliwangi,)-(adu)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(bangku VIP Stadion Siliwangi,)-(mulut dan dorong)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(bangku VIP Stadion Siliwangi,)-(pendukung Persiwa dan polisi)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(bangku VIP Stadion Siliwangi,)-(Keributan baru)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(bangku VIP Stadion Siliwangi,)-(pendukung Persiwa)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(bangku VIP Stadion Siliwangi,)-(lainnya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(bangku VIP Stadion Siliwangi,)-(temannya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(bangku VIP Stadion Siliwangi,)-(keputusan wasit)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(bangku VIP Stadion Siliwangi,)-(Aksi protes)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(bangku VIP Stadion Siliwangi,)-(pemukulan tersebut)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(bangku VIP Stadion Siliwangi,)-(pertandingan)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(bangku VIP Stadion Siliwangi,)-(10 menit)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(bangku VIP Stadion Siliwangi,)-(Pertandingan)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(bangku VIP Stadion Siliwangi,)-(kemenangan tipis)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(bangku VIP Stadion Siliwangi,)-(PBR,)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(tribun)-(wasit)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(tribun)-(aksi tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tribun)-(polisi,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(tribun)-(adu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tribun)-(mulut dan dorong)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tribun)-(pendukung Persiwa dan polisi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tribun)-(Keributan baru)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(tribun)-(pendukung Persiwa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tribun)-(lainnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tribun)-(temannya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tribun)-(keputusan wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tribun)-(Aksi protes)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(tribun)-(pemukulan tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tribun)-(pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tribun)-(10 menit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tribun)-(Pertandingan)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(tribun)-(kemenangan tipis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(tribun)-(PBR,)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(wasit)-(aksi tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit)-(polisi,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(wasit)-(adu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit)-(mulut dan dorong)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit)-(pendukung Persiwa dan polisi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit)-(Keributan baru)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(wasit)-(pendukung Persiwa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit)-(lainnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit)-(temannya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit)-(keputusan wasit)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(wasit)-(Aksi protes)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(wasit)-(pemukulan tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit)-(pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit)-(10 menit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit)-(Pertandingan)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(wasit)-(kemenangan tipis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(wasit)-(PBR,)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(aksi tersebut)-(polisi,)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(aksi tersebut)-(adu)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(aksi tersebut)-(mulut dan dorong)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(aksi tersebut)-(pendukung Persiwa dan polisi)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(aksi tersebut)-(Keributan baru)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(aksi tersebut)-(pendukung Persiwa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(aksi tersebut)-(lainnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(aksi tersebut)-(temannya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(aksi tersebut)-(keputusan wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(aksi tersebut)-(Aksi protes)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(aksi tersebut)-(pemukulan tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(aksi tersebut)-(pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(aksi tersebut)-(10 menit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(aksi tersebut)-(Pertandingan)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(aksi tersebut)-(kemenangan tipis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(aksi tersebut)-(PBR,)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(polisi,)-(adu)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(polisi,)-(mulut dan dorong)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(polisi,)-(pendukung Persiwa dan polisi)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(polisi,)-(Keributan baru)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(polisi,)-(pendukung Persiwa)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(polisi,)-(lainnya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(polisi,)-(temannya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(polisi,)-(keputusan wasit)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(polisi,)-(Aksi protes)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(polisi,)-(pemukulan tersebut)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(polisi,)-(pertandingan)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(polisi,)-(10 menit)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(polisi,)-(Pertandingan)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(polisi,)-(kemenangan tipis)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(polisi,)-(PBR,)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(adu)-(mulut dan dorong)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(adu)-(pendukung Persiwa dan polisi)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(adu)-(Keributan baru)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(adu)-(pendukung Persiwa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(adu)-(lainnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(adu)-(temannya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(adu)-(keputusan wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(adu)-(Aksi protes)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(adu)-(pemukulan tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(adu)-(pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(adu)-(10 menit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(adu)-(Pertandingan)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(adu)-(kemenangan tipis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(adu)-(PBR,)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(mulut dan dorong)-(pendukung Persiwa dan polisi)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(mulut dan dorong)-(Keributan baru)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(mulut dan dorong)-(pendukung Persiwa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(mulut dan dorong)-(lainnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(mulut dan dorong)-(temannya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(mulut dan dorong)-(keputusan wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(mulut dan dorong)-(Aksi protes)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(mulut dan dorong)-(pemukulan tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(mulut dan dorong)-(pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(mulut dan dorong)-(10 menit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(mulut dan dorong)-(Pertandingan)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(mulut dan dorong)-(kemenangan tipis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(mulut dan dorong)-(PBR,)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(pendukung Persiwa dan polisi)-(Keributan baru)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pendukung Persiwa dan polisi)-(pendukung Persiwa)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(pendukung Persiwa dan polisi)-(lainnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pendukung Persiwa dan polisi)-(temannya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pendukung Persiwa dan polisi)-(keputusan wasit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pendukung Persiwa dan polisi)-(Aksi protes)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pendukung Persiwa dan polisi)-(pemukulan tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pendukung Persiwa dan polisi)-(pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pendukung Persiwa dan polisi)-(10 menit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pendukung Persiwa dan polisi)-(Pertandingan)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(pendukung Persiwa dan polisi)-(kemenangan tipis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pendukung Persiwa dan polisi)-(PBR,)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(Keributan baru)-(pendukung Persiwa)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Keributan baru)-(lainnya)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Keributan baru)-(temannya)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Keributan baru)-(keputusan wasit)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Keributan baru)-(Aksi protes)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Keributan baru)-(pemukulan tersebut)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Keributan baru)-(pertandingan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Keributan baru)-(10 menit)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Keributan baru)-(Pertandingan)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Keributan baru)-(kemenangan tipis)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Keributan baru)-(PBR,)]";false;false;false;false;false;false;false;PERSON;ORGANIZATION
+"[(pendukung Persiwa)-(lainnya)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(pendukung Persiwa)-(temannya)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(pendukung Persiwa)-(keputusan wasit)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(pendukung Persiwa)-(Aksi protes)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pendukung Persiwa)-(pemukulan tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pendukung Persiwa)-(pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pendukung Persiwa)-(10 menit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pendukung Persiwa)-(Pertandingan)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(pendukung Persiwa)-(kemenangan tipis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pendukung Persiwa)-(PBR,)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(lainnya)-(temannya)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(lainnya)-(keputusan wasit)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(lainnya)-(Aksi protes)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(lainnya)-(pemukulan tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lainnya)-(pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lainnya)-(10 menit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lainnya)-(Pertandingan)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(lainnya)-(kemenangan tipis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(lainnya)-(PBR,)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(temannya)-(keputusan wasit)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(temannya)-(Aksi protes)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(temannya)-(pemukulan tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(temannya)-(pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(temannya)-(10 menit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(temannya)-(Pertandingan)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(temannya)-(kemenangan tipis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(temannya)-(PBR,)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(keputusan wasit)-(Aksi protes)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(keputusan wasit)-(pemukulan tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keputusan wasit)-(pertandingan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keputusan wasit)-(10 menit)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keputusan wasit)-(Pertandingan)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(keputusan wasit)-(kemenangan tipis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(keputusan wasit)-(PBR,)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(Aksi protes)-(pemukulan tersebut)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Aksi protes)-(pertandingan)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Aksi protes)-(10 menit)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Aksi protes)-(Pertandingan)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Aksi protes)-(kemenangan tipis)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Aksi protes)-(PBR,)]";false;false;false;false;false;false;false;PERSON;ORGANIZATION
+"[(pemukulan tersebut)-(pertandingan)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(pemukulan tersebut)-(10 menit)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(pemukulan tersebut)-(Pertandingan)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(pemukulan tersebut)-(kemenangan tipis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemukulan tersebut)-(PBR,)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(pertandingan)-(10 menit)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(pertandingan)-(Pertandingan)]";true;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(pertandingan)-(kemenangan tipis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pertandingan)-(PBR,)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(10 menit)-(Pertandingan)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(10 menit)-(kemenangan tipis)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(10 menit)-(PBR,)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(Pertandingan)-(kemenangan tipis)]";false;true;false;false;false;true;false;ORGANIZATION;OTHER
+"[(Pertandingan)-(PBR,)]";false;false;false;false;false;true;false;ORGANIZATION;ORGANIZATION
+"[(kemenangan tipis)-(PBR,)]";false;false;false;false;false;true;false;OTHER;ORGANIZATION

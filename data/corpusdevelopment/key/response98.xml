@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>Metrotvnews.com</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>Solo</Mention>
+        <Mention>Kota Solo</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>Jawa Tengah</Mention>
+        <Mention>Jateng</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>Ganjar Pranowo</Mention>
+        <Mention>Heru Sudjatmoko</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>Stadion Manahan</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>seiring</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>PDIP</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>Bawaslu</Mention>
+    </Entity>
+    <Entity ClusterId="9">
+        <Mention>Karesidenan</Mention>
+    </Entity>
+    <Entity ClusterId="10">
+        <Mention>Pekalongan</Mention>
+    </Entity>
+    <Entity ClusterId="11">
+        <Mention>Demak</Mention>
+    </Entity>
+    <Entity ClusterId="12">
+        <Mention>DIY</Mention>
+    </Entity>
+    <Entity ClusterId="13">
+        <Mention>Semarang</Mention>
+    </Entity>
+</CoreferenceChain>

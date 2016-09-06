@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>bunda</Mention>
+        <Mention>Ibunda Raffi Ahmad</Mention>
+        <Mention>Ibunda: Raffi Pasti</Mention>
+        <Mention>Keluarga Raffi,</Mention>
+        <Mention>Raffi</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>Rumah</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>Amy</Mention>
+        <Mention>Amy Qanita</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>rumah putra sulungnya</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>kawasan Lebak Bulus</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>Jakarta,</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>siang ini</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>seorang diri</Mention>
+    </Entity>
+    <Entity ClusterId="9">
+        <Mention>rumah neneknya</Mention>
+    </Entity>
+    <Entity ClusterId="10">
+        <Mention>kawasan Petamburan</Mention>
+    </Entity>
+    <Entity ClusterId="11">
+        <Mention>"Nanti</Mention>
+    </Entity>
+    <Entity ClusterId="12">
+        <Mention>kok</Mention>
+    </Entity>
+    <Entity ClusterId="13">
+        <Mention>pasti</Mention>
+    </Entity>
+    <Entity ClusterId="14">
+        <Mention>rumahnya</Mention>
+    </Entity>
+    <Entity ClusterId="15">
+        <Mention>sini,"</Mention>
+    </Entity>
+    <Entity ClusterId="16">
+        <Mention>rumah Raffi</Mention>
+    </Entity>
+    <Entity ClusterId="17">
+        <Mention>bunda,</Mention>
+    </Entity>
+    <Entity ClusterId="18">
+        <Mention>putra sulungnya tersebut</Mention>
+    </Entity>
+    <Entity ClusterId="19">
+        <Mention>aktivitasnya</Mention>
+    </Entity>
+    <Entity ClusterId="20">
+        <Mention>dunia hiburan serta bisnis rumah produksi</Mention>
+    </Entity>
+    <Entity ClusterId="21">
+        <Mention>kepastian</Mention>
+    </Entity>
+    <Entity ClusterId="22">
+        <Mention>pihak BNN</Mention>
+    </Entity>
+    <Entity ClusterId="23">
+        <Mention>penangguhan tahanan</Mention>
+    </Entity>
+</CoreferenceChain>

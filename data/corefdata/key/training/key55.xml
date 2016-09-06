@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>Utada Hikaru</Mention>
+        <Mention>Utada</Mention>
+        <Mention>Penyanyi</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>J-pop</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>Jepang</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>penulis lagu</Mention>
+    </Entity>
+</CoreferenceChain>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>Opick</Mention>
+        <Mention>Aunur Rofiq Lil Firdaus</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>Uje</Mention>
+        <Mention>Ustadz Jeffry Al Buchori</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>Republika</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>Ahmad Al Habsyi</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>Pipik Dian Irawati</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>Solmed</Mention>
+        <Mention>Ustadz Soleh Mahmud</Mention>
+    </Entity>
+</CoreferenceChain>

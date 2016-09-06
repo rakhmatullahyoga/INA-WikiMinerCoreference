@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>Ahok</Mention>
+        <Mention>Ahok instruksikan</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>semua siswa</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>lapas</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>UN</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>Wakil Gubernur DKI Jakarta,</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>Basuki Tjahaja Purnama</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>siswa</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>hukuman</Mention>
+    </Entity>
+    <Entity ClusterId="9">
+        <Mention>Lembaga Pemasyarakatan</Mention>
+    </Entity>
+    <Entity ClusterId="10">
+        <Mention>Ujian Nasional</Mention>
+    </Entity>
+    <Entity ClusterId="11">
+        <Mention>instruksikan semua</Mention>
+    </Entity>
+    <Entity ClusterId="12">
+        <Mention>Balaikota DKI Jakarta</Mention>
+    </Entity>
+    <Entity ClusterId="13">
+        <Mention>Senin</Mention>
+    </Entity>
+    <Entity ClusterId="14">
+        <Mention>perlakuan</Mention>
+    </Entity>
+    <Entity ClusterId="15">
+        <Mention>bayar tunggakan sekolah</Mention>
+    </Entity>
+    <Entity ClusterId="16">
+        <Mention>Kepala Dinas Pendidikan DKI Jakarta</Mention>
+    </Entity>
+    <Entity ClusterId="17">
+        <Mention>Taufik</Mention>
+        <Mention>Taufik Yudi Mulyanto</Mention>
+    </Entity>
+    <Entity ClusterId="18">
+        <Mention>masa tahanan</Mention>
+    </Entity>
+    <Entity ClusterId="19">
+        <Mention>ujian</Mention>
+    </Entity>
+    <Entity ClusterId="20">
+        <Mention>pilihan</Mention>
+    </Entity>
+    <Entity ClusterId="21">
+        <Mention>tangan masing-masing</Mention>
+    </Entity>
+    <Entity ClusterId="22">
+        <Mention>anak</Mention>
+    </Entity>
+    <Entity ClusterId="23">
+        <Mention>pilihan siswa sendiri,</Mention>
+    </Entity>
+    <Entity ClusterId="24">
+        <Mention>situ</Mention>
+    </Entity>
+    <Entity ClusterId="25">
+        <Mention>ujian susulan,"</Mention>
+    </Entity>
+    <Entity ClusterId="26">
+        <Mention>larangan atau batasan</Mention>
+    </Entity>
+    <Entity ClusterId="27">
+        <Mention>pelayanan pendidikan,</Mention>
+    </Entity>
+    <Entity ClusterId="28">
+        <Mention>rumah sakit</Mention>
+    </Entity>
+    <Entity ClusterId="29">
+        <Mention>layanan,</Mention>
+    </Entity>
+    <Entity ClusterId="30">
+        <Mention>siswa sekolah</Mention>
+    </Entity>
+    <Entity ClusterId="31">
+        <Mention>ujian nasionalnya hari ini</Mention>
+    </Entity>
+    <Entity ClusterId="32">
+        <Mention>tiga hari</Mention>
+    </Entity>
+</CoreferenceChain>

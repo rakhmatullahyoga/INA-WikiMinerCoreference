@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>Mendag</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>Kabupaten Musi Banyu Asin</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>Menteri Perdagangan</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>Gita Wirjawan</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>Kalimantan Selatan</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>Gubernur</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>Alex Noerdin</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>Gubernur Sumsel</Mention>
+    </Entity>
+    <Entity ClusterId="9">
+        <Mention>Sumsel</Mention>
+    </Entity>
+    <Entity ClusterId="10">
+        <Mention>Pameran Pangan Nusantara dan Produk Unggulan</Mention>
+    </Entity>
+    <Entity ClusterId="11">
+        <Mention>Daerah</Mention>
+    </Entity>
+    <Entity ClusterId="12">
+        <Mention>Palembang</Mention>
+    </Entity>
+    <Entity ClusterId="13">
+        <Mention>Pontianak</Mention>
+    </Entity>
+    <Entity ClusterId="14">
+        <Mention>Indonesia</Mention>
+    </Entity>
+    <Entity ClusterId="15">
+        <Mention>menteri</Mention>
+    </Entity>
+    <Entity ClusterId="16">
+        <Mention>Sri Agustina</Mention>
+    </Entity>
+    <Entity ClusterId="17">
+        <Mention>Kementerian Perdagangan</Mention>
+    </Entity>
+    <Entity ClusterId="18">
+        <Mention>Dirjen Perdagangan Dalam Negeri</Mention>
+    </Entity>
+    <Entity ClusterId="19">
+        <Mention>Aku Cinta Produk Indonesia</Mention>
+    </Entity>
+</CoreferenceChain>

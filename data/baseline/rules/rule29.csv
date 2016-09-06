@@ -1,0 +1,407 @@
+mentions;isStrMatch;isMatchNoCasePunc;isAbbrev;isFirstPronoun;isScndPronoun;isOnOneSentence;isMatchPartial;firstNameClass;scndNameClass
+"[(Twitter SBY)-(Naikan Citra Demokrat)]";false;true;false;false;false;true;false;PERSON;PERSON
+"[(Twitter SBY)-(Politikus Partai Golkar Poempida Hidayatulloh)]";false;true;false;false;false;true;false;PERSON;PERSON
+"[(Twitter SBY)-(peluncuran akun Twitter Presiden SBY)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Twitter SBY)-(motif tertentu)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Twitter SBY)-(antaranya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Twitter SBY)-(citra Partai Demokrat)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Twitter SBY)-("Saya)]";false;false;false;false;true;false;false;PERSON;OTHER
+"[(Twitter SBY)-(benefitnya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Twitter SBY)-(dirinya sendiri)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Twitter SBY)-(dia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Twitter SBY)-(presiden tapi keuntungan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Twitter SBY)-(SBY)]";false;true;false;false;false;false;true;PERSON;ORGANIZATION
+"[(Twitter SBY)-(Partai Demokrat,")]";false;false;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Twitter SBY)-(Poempida)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Twitter SBY)-(Kompleks Parlemen)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Twitter SBY)-(Jakarta,)]";false;false;false;false;false;false;false;PERSON;LOCATION
+"[(Twitter SBY)-(Senin)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Twitter SBY)-(Poempida,)]";false;false;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Twitter SBY)-(akun Twitter @SBYudhoyono)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Twitter SBY)-(SBY)]";false;true;false;false;false;false;true;PERSON;ORGANIZATION
+"[(Twitter SBY)-(Presiden Twiitter)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Twitter SBY)-(Presiden RI)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Twitter SBY)-(Ia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Twitter SBY)-(rakyat)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Twitter SBY)-(pesan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Twitter SBY)-(akun Twitter SBY)]";false;true;false;false;false;false;true;PERSON;OTHER
+"[(Twitter SBY)-(aspirasi)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Twitter SBY)-(Poempida)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Naikan Citra Demokrat)-(Politikus Partai Golkar Poempida Hidayatulloh)]";false;true;false;false;false;true;false;PERSON;PERSON
+"[(Naikan Citra Demokrat)-(peluncuran akun Twitter Presiden SBY)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Naikan Citra Demokrat)-(motif tertentu)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Naikan Citra Demokrat)-(antaranya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Naikan Citra Demokrat)-(citra Partai Demokrat)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Naikan Citra Demokrat)-("Saya)]";false;false;false;false;true;false;false;PERSON;OTHER
+"[(Naikan Citra Demokrat)-(benefitnya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Naikan Citra Demokrat)-(dirinya sendiri)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Naikan Citra Demokrat)-(dia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Naikan Citra Demokrat)-(presiden tapi keuntungan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Naikan Citra Demokrat)-(SBY)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Naikan Citra Demokrat)-(Partai Demokrat,")]";false;false;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Naikan Citra Demokrat)-(Poempida)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Naikan Citra Demokrat)-(Kompleks Parlemen)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Naikan Citra Demokrat)-(Jakarta,)]";false;false;false;false;false;false;false;PERSON;LOCATION
+"[(Naikan Citra Demokrat)-(Senin)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Naikan Citra Demokrat)-(Poempida,)]";false;false;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Naikan Citra Demokrat)-(akun Twitter @SBYudhoyono)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Naikan Citra Demokrat)-(SBY)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Naikan Citra Demokrat)-(Presiden Twiitter)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Naikan Citra Demokrat)-(Presiden RI)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Naikan Citra Demokrat)-(Ia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Naikan Citra Demokrat)-(rakyat)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Naikan Citra Demokrat)-(pesan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Naikan Citra Demokrat)-(akun Twitter SBY)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Naikan Citra Demokrat)-(aspirasi)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Naikan Citra Demokrat)-(Poempida)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Politikus Partai Golkar Poempida Hidayatulloh)-(peluncuran akun Twitter Presiden SBY)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Politikus Partai Golkar Poempida Hidayatulloh)-(motif tertentu)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Politikus Partai Golkar Poempida Hidayatulloh)-(antaranya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Politikus Partai Golkar Poempida Hidayatulloh)-(citra Partai Demokrat)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Politikus Partai Golkar Poempida Hidayatulloh)-("Saya)]";false;false;false;false;true;false;false;PERSON;OTHER
+"[(Politikus Partai Golkar Poempida Hidayatulloh)-(benefitnya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Politikus Partai Golkar Poempida Hidayatulloh)-(dirinya sendiri)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Politikus Partai Golkar Poempida Hidayatulloh)-(dia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Politikus Partai Golkar Poempida Hidayatulloh)-(presiden tapi keuntungan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Politikus Partai Golkar Poempida Hidayatulloh)-(SBY)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Politikus Partai Golkar Poempida Hidayatulloh)-(Partai Demokrat,")]";false;false;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Politikus Partai Golkar Poempida Hidayatulloh)-(Poempida)]";false;true;false;false;false;false;true;PERSON;ORGANIZATION
+"[(Politikus Partai Golkar Poempida Hidayatulloh)-(Kompleks Parlemen)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Politikus Partai Golkar Poempida Hidayatulloh)-(Jakarta,)]";false;false;false;false;false;false;false;PERSON;LOCATION
+"[(Politikus Partai Golkar Poempida Hidayatulloh)-(Senin)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Politikus Partai Golkar Poempida Hidayatulloh)-(Poempida,)]";false;false;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Politikus Partai Golkar Poempida Hidayatulloh)-(akun Twitter @SBYudhoyono)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Politikus Partai Golkar Poempida Hidayatulloh)-(SBY)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Politikus Partai Golkar Poempida Hidayatulloh)-(Presiden Twiitter)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Politikus Partai Golkar Poempida Hidayatulloh)-(Presiden RI)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Politikus Partai Golkar Poempida Hidayatulloh)-(Ia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Politikus Partai Golkar Poempida Hidayatulloh)-(rakyat)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Politikus Partai Golkar Poempida Hidayatulloh)-(pesan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Politikus Partai Golkar Poempida Hidayatulloh)-(akun Twitter SBY)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Politikus Partai Golkar Poempida Hidayatulloh)-(aspirasi)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Politikus Partai Golkar Poempida Hidayatulloh)-(Poempida)]";false;true;false;false;false;false;true;PERSON;ORGANIZATION
+"[(peluncuran akun Twitter Presiden SBY)-(motif tertentu)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(peluncuran akun Twitter Presiden SBY)-(antaranya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(peluncuran akun Twitter Presiden SBY)-(citra Partai Demokrat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(peluncuran akun Twitter Presiden SBY)-("Saya)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(peluncuran akun Twitter Presiden SBY)-(benefitnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(peluncuran akun Twitter Presiden SBY)-(dirinya sendiri)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(peluncuran akun Twitter Presiden SBY)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(peluncuran akun Twitter Presiden SBY)-(presiden tapi keuntungan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(peluncuran akun Twitter Presiden SBY)-(SBY)]";false;true;false;false;false;false;true;OTHER;ORGANIZATION
+"[(peluncuran akun Twitter Presiden SBY)-(Partai Demokrat,")]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(peluncuran akun Twitter Presiden SBY)-(Poempida)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(peluncuran akun Twitter Presiden SBY)-(Kompleks Parlemen)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(peluncuran akun Twitter Presiden SBY)-(Jakarta,)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(peluncuran akun Twitter Presiden SBY)-(Senin)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(peluncuran akun Twitter Presiden SBY)-(Poempida,)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(peluncuran akun Twitter Presiden SBY)-(akun Twitter @SBYudhoyono)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(peluncuran akun Twitter Presiden SBY)-(SBY)]";false;true;false;false;false;false;true;OTHER;ORGANIZATION
+"[(peluncuran akun Twitter Presiden SBY)-(Presiden Twiitter)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(peluncuran akun Twitter Presiden SBY)-(Presiden RI)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(peluncuran akun Twitter Presiden SBY)-(Ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(peluncuran akun Twitter Presiden SBY)-(rakyat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(peluncuran akun Twitter Presiden SBY)-(pesan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(peluncuran akun Twitter Presiden SBY)-(akun Twitter SBY)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(peluncuran akun Twitter Presiden SBY)-(aspirasi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(peluncuran akun Twitter Presiden SBY)-(Poempida)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(motif tertentu)-(antaranya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(motif tertentu)-(citra Partai Demokrat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(motif tertentu)-("Saya)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(motif tertentu)-(benefitnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(motif tertentu)-(dirinya sendiri)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(motif tertentu)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(motif tertentu)-(presiden tapi keuntungan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(motif tertentu)-(SBY)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(motif tertentu)-(Partai Demokrat,")]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(motif tertentu)-(Poempida)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(motif tertentu)-(Kompleks Parlemen)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(motif tertentu)-(Jakarta,)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(motif tertentu)-(Senin)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(motif tertentu)-(Poempida,)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(motif tertentu)-(akun Twitter @SBYudhoyono)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(motif tertentu)-(SBY)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(motif tertentu)-(Presiden Twiitter)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(motif tertentu)-(Presiden RI)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(motif tertentu)-(Ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(motif tertentu)-(rakyat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(motif tertentu)-(pesan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(motif tertentu)-(akun Twitter SBY)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(motif tertentu)-(aspirasi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(motif tertentu)-(Poempida)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(antaranya)-(citra Partai Demokrat)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(antaranya)-("Saya)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(antaranya)-(benefitnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(antaranya)-(dirinya sendiri)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(antaranya)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(antaranya)-(presiden tapi keuntungan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(antaranya)-(SBY)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(antaranya)-(Partai Demokrat,")]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(antaranya)-(Poempida)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(antaranya)-(Kompleks Parlemen)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(antaranya)-(Jakarta,)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(antaranya)-(Senin)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(antaranya)-(Poempida,)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(antaranya)-(akun Twitter @SBYudhoyono)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(antaranya)-(SBY)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(antaranya)-(Presiden Twiitter)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(antaranya)-(Presiden RI)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(antaranya)-(Ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(antaranya)-(rakyat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(antaranya)-(pesan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(antaranya)-(akun Twitter SBY)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(antaranya)-(aspirasi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(antaranya)-(Poempida)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(citra Partai Demokrat)-("Saya)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(citra Partai Demokrat)-(benefitnya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(citra Partai Demokrat)-(dirinya sendiri)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(citra Partai Demokrat)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(citra Partai Demokrat)-(presiden tapi keuntungan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(citra Partai Demokrat)-(SBY)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(citra Partai Demokrat)-(Partai Demokrat,")]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(citra Partai Demokrat)-(Poempida)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(citra Partai Demokrat)-(Kompleks Parlemen)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(citra Partai Demokrat)-(Jakarta,)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(citra Partai Demokrat)-(Senin)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(citra Partai Demokrat)-(Poempida,)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(citra Partai Demokrat)-(akun Twitter @SBYudhoyono)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(citra Partai Demokrat)-(SBY)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(citra Partai Demokrat)-(Presiden Twiitter)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(citra Partai Demokrat)-(Presiden RI)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(citra Partai Demokrat)-(Ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(citra Partai Demokrat)-(rakyat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(citra Partai Demokrat)-(pesan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(citra Partai Demokrat)-(akun Twitter SBY)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(citra Partai Demokrat)-(aspirasi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(citra Partai Demokrat)-(Poempida)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[("Saya)-(benefitnya)]";false;false;false;true;false;true;false;OTHER;OTHER
+"[("Saya)-(dirinya sendiri)]";false;false;false;true;false;true;false;OTHER;OTHER
+"[("Saya)-(dia)]";false;false;false;true;true;false;false;OTHER;OTHER
+"[("Saya)-(presiden tapi keuntungan)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[("Saya)-(SBY)]";false;false;false;true;false;false;false;OTHER;ORGANIZATION
+"[("Saya)-(Partai Demokrat,")]";false;false;false;true;false;false;false;OTHER;ORGANIZATION
+"[("Saya)-(Poempida)]";false;false;false;true;false;false;false;OTHER;ORGANIZATION
+"[("Saya)-(Kompleks Parlemen)]";false;false;false;true;false;false;false;OTHER;LOCATION
+"[("Saya)-(Jakarta,)]";false;false;false;true;false;false;false;OTHER;LOCATION
+"[("Saya)-(Senin)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[("Saya)-(Poempida,)]";false;false;false;true;false;false;false;OTHER;ORGANIZATION
+"[("Saya)-(akun Twitter @SBYudhoyono)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[("Saya)-(SBY)]";false;false;false;true;false;false;false;OTHER;ORGANIZATION
+"[("Saya)-(Presiden Twiitter)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[("Saya)-(Presiden RI)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[("Saya)-(Ia)]";false;false;false;true;true;false;false;OTHER;OTHER
+"[("Saya)-(rakyat)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[("Saya)-(pesan)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[("Saya)-(akun Twitter SBY)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[("Saya)-(aspirasi)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[("Saya)-(Poempida)]";false;false;false;true;false;false;false;OTHER;ORGANIZATION
+"[(benefitnya)-(dirinya sendiri)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(benefitnya)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(benefitnya)-(presiden tapi keuntungan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(benefitnya)-(SBY)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(benefitnya)-(Partai Demokrat,")]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(benefitnya)-(Poempida)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(benefitnya)-(Kompleks Parlemen)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(benefitnya)-(Jakarta,)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(benefitnya)-(Senin)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(benefitnya)-(Poempida,)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(benefitnya)-(akun Twitter @SBYudhoyono)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(benefitnya)-(SBY)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(benefitnya)-(Presiden Twiitter)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(benefitnya)-(Presiden RI)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(benefitnya)-(Ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(benefitnya)-(rakyat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(benefitnya)-(pesan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(benefitnya)-(akun Twitter SBY)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(benefitnya)-(aspirasi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(benefitnya)-(Poempida)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(dirinya sendiri)-(dia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(dirinya sendiri)-(presiden tapi keuntungan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dirinya sendiri)-(SBY)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(dirinya sendiri)-(Partai Demokrat,")]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(dirinya sendiri)-(Poempida)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(dirinya sendiri)-(Kompleks Parlemen)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(dirinya sendiri)-(Jakarta,)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(dirinya sendiri)-(Senin)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dirinya sendiri)-(Poempida,)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(dirinya sendiri)-(akun Twitter @SBYudhoyono)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dirinya sendiri)-(SBY)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(dirinya sendiri)-(Presiden Twiitter)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dirinya sendiri)-(Presiden RI)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dirinya sendiri)-(Ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(dirinya sendiri)-(rakyat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dirinya sendiri)-(pesan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dirinya sendiri)-(akun Twitter SBY)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dirinya sendiri)-(aspirasi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dirinya sendiri)-(Poempida)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(dia)-(presiden tapi keuntungan)]";false;true;false;true;false;true;false;OTHER;OTHER
+"[(dia)-(SBY)]";false;true;false;true;false;true;false;OTHER;ORGANIZATION
+"[(dia)-(Partai Demokrat,")]";false;false;false;true;false;true;false;OTHER;ORGANIZATION
+"[(dia)-(Poempida)]";false;true;false;true;false;true;false;OTHER;ORGANIZATION
+"[(dia)-(Kompleks Parlemen)]";false;true;false;true;false;true;false;OTHER;LOCATION
+"[(dia)-(Jakarta,)]";false;false;false;true;false;true;false;OTHER;LOCATION
+"[(dia)-(Senin)]";false;true;false;true;false;true;false;OTHER;OTHER
+"[(dia)-(Poempida,)]";false;false;false;true;false;false;false;OTHER;ORGANIZATION
+"[(dia)-(akun Twitter @SBYudhoyono)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(dia)-(SBY)]";false;true;false;true;false;false;false;OTHER;ORGANIZATION
+"[(dia)-(Presiden Twiitter)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(dia)-(Presiden RI)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(dia)-(Ia)]";false;true;false;true;true;false;false;OTHER;OTHER
+"[(dia)-(rakyat)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(dia)-(pesan)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(dia)-(akun Twitter SBY)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(dia)-(aspirasi)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(dia)-(Poempida)]";false;true;false;true;false;false;false;OTHER;ORGANIZATION
+"[(presiden tapi keuntungan)-(SBY)]";false;true;false;false;false;true;false;OTHER;ORGANIZATION
+"[(presiden tapi keuntungan)-(Partai Demokrat,")]";false;false;false;false;false;true;false;OTHER;ORGANIZATION
+"[(presiden tapi keuntungan)-(Poempida)]";false;true;false;false;false;true;false;OTHER;ORGANIZATION
+"[(presiden tapi keuntungan)-(Kompleks Parlemen)]";false;true;false;false;false;true;false;OTHER;LOCATION
+"[(presiden tapi keuntungan)-(Jakarta,)]";false;false;false;false;false;true;false;OTHER;LOCATION
+"[(presiden tapi keuntungan)-(Senin)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(presiden tapi keuntungan)-(Poempida,)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(presiden tapi keuntungan)-(akun Twitter @SBYudhoyono)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(presiden tapi keuntungan)-(SBY)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(presiden tapi keuntungan)-(Presiden Twiitter)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(presiden tapi keuntungan)-(Presiden RI)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(presiden tapi keuntungan)-(Ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(presiden tapi keuntungan)-(rakyat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(presiden tapi keuntungan)-(pesan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(presiden tapi keuntungan)-(akun Twitter SBY)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(presiden tapi keuntungan)-(aspirasi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(presiden tapi keuntungan)-(Poempida)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(SBY)-(Partai Demokrat,")]";false;false;false;false;false;true;false;ORGANIZATION;ORGANIZATION
+"[(SBY)-(Poempida)]";false;true;false;false;false;true;false;ORGANIZATION;ORGANIZATION
+"[(SBY)-(Kompleks Parlemen)]";false;true;false;false;false;true;false;ORGANIZATION;LOCATION
+"[(SBY)-(Jakarta,)]";false;false;false;false;false;true;false;ORGANIZATION;LOCATION
+"[(SBY)-(Senin)]";false;true;false;false;false;true;false;ORGANIZATION;OTHER
+"[(SBY)-(Poempida,)]";false;false;false;false;false;false;false;ORGANIZATION;ORGANIZATION
+"[(SBY)-(akun Twitter @SBYudhoyono)]";false;true;false;false;false;false;true;ORGANIZATION;OTHER
+"[(SBY)-(SBY)]";true;true;false;false;false;false;true;ORGANIZATION;ORGANIZATION
+"[(SBY)-(Presiden Twiitter)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(SBY)-(Presiden RI)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(SBY)-(Ia)]";false;true;false;false;true;false;false;ORGANIZATION;OTHER
+"[(SBY)-(rakyat)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(SBY)-(pesan)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(SBY)-(akun Twitter SBY)]";false;true;false;false;false;false;true;ORGANIZATION;OTHER
+"[(SBY)-(aspirasi)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(SBY)-(Poempida)]";false;true;false;false;false;false;false;ORGANIZATION;ORGANIZATION
+"[(Partai Demokrat,")-(Poempida)]";false;false;false;false;false;true;false;ORGANIZATION;ORGANIZATION
+"[(Partai Demokrat,")-(Kompleks Parlemen)]";false;false;false;false;false;true;false;ORGANIZATION;LOCATION
+"[(Partai Demokrat,")-(Jakarta,)]";false;false;false;false;false;true;false;ORGANIZATION;LOCATION
+"[(Partai Demokrat,")-(Senin)]";false;false;false;false;false;true;false;ORGANIZATION;OTHER
+"[(Partai Demokrat,")-(Poempida,)]";false;false;false;false;false;false;false;ORGANIZATION;ORGANIZATION
+"[(Partai Demokrat,")-(akun Twitter @SBYudhoyono)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Partai Demokrat,")-(SBY)]";false;false;false;false;false;false;false;ORGANIZATION;ORGANIZATION
+"[(Partai Demokrat,")-(Presiden Twiitter)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Partai Demokrat,")-(Presiden RI)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Partai Demokrat,")-(Ia)]";false;false;false;false;true;false;false;ORGANIZATION;OTHER
+"[(Partai Demokrat,")-(rakyat)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Partai Demokrat,")-(pesan)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Partai Demokrat,")-(akun Twitter SBY)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Partai Demokrat,")-(aspirasi)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Partai Demokrat,")-(Poempida)]";false;false;false;false;false;false;false;ORGANIZATION;ORGANIZATION
+"[(Poempida)-(Kompleks Parlemen)]";false;true;false;false;false;true;false;ORGANIZATION;LOCATION
+"[(Poempida)-(Jakarta,)]";false;false;false;false;false;true;false;ORGANIZATION;LOCATION
+"[(Poempida)-(Senin)]";false;true;false;false;false;true;false;ORGANIZATION;OTHER
+"[(Poempida)-(Poempida,)]";false;false;false;false;false;false;true;ORGANIZATION;ORGANIZATION
+"[(Poempida)-(akun Twitter @SBYudhoyono)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Poempida)-(SBY)]";false;true;false;false;false;false;false;ORGANIZATION;ORGANIZATION
+"[(Poempida)-(Presiden Twiitter)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Poempida)-(Presiden RI)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Poempida)-(Ia)]";false;true;false;false;true;false;false;ORGANIZATION;OTHER
+"[(Poempida)-(rakyat)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Poempida)-(pesan)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Poempida)-(akun Twitter SBY)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Poempida)-(aspirasi)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Poempida)-(Poempida)]";true;true;false;false;false;false;true;ORGANIZATION;ORGANIZATION
+"[(Kompleks Parlemen)-(Jakarta,)]";false;false;false;false;false;true;false;LOCATION;LOCATION
+"[(Kompleks Parlemen)-(Senin)]";false;true;false;false;false;true;false;LOCATION;OTHER
+"[(Kompleks Parlemen)-(Poempida,)]";false;false;false;false;false;false;false;LOCATION;ORGANIZATION
+"[(Kompleks Parlemen)-(akun Twitter @SBYudhoyono)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Kompleks Parlemen)-(SBY)]";false;true;false;false;false;false;false;LOCATION;ORGANIZATION
+"[(Kompleks Parlemen)-(Presiden Twiitter)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Kompleks Parlemen)-(Presiden RI)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Kompleks Parlemen)-(Ia)]";false;true;false;false;true;false;false;LOCATION;OTHER
+"[(Kompleks Parlemen)-(rakyat)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Kompleks Parlemen)-(pesan)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Kompleks Parlemen)-(akun Twitter SBY)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Kompleks Parlemen)-(aspirasi)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Kompleks Parlemen)-(Poempida)]";false;true;false;false;false;false;false;LOCATION;ORGANIZATION
+"[(Jakarta,)-(Senin)]";false;false;false;false;false;true;false;LOCATION;OTHER
+"[(Jakarta,)-(Poempida,)]";false;false;false;false;false;false;false;LOCATION;ORGANIZATION
+"[(Jakarta,)-(akun Twitter @SBYudhoyono)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Jakarta,)-(SBY)]";false;false;false;false;false;false;false;LOCATION;ORGANIZATION
+"[(Jakarta,)-(Presiden Twiitter)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Jakarta,)-(Presiden RI)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Jakarta,)-(Ia)]";false;false;false;false;true;false;false;LOCATION;OTHER
+"[(Jakarta,)-(rakyat)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Jakarta,)-(pesan)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Jakarta,)-(akun Twitter SBY)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Jakarta,)-(aspirasi)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Jakarta,)-(Poempida)]";false;false;false;false;false;false;false;LOCATION;ORGANIZATION
+"[(Senin)-(Poempida,)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(Senin)-(akun Twitter @SBYudhoyono)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Senin)-(SBY)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(Senin)-(Presiden Twiitter)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Senin)-(Presiden RI)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Senin)-(Ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(Senin)-(rakyat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Senin)-(pesan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Senin)-(akun Twitter SBY)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Senin)-(aspirasi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Senin)-(Poempida)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(Poempida,)-(akun Twitter @SBYudhoyono)]";false;false;false;false;false;true;false;ORGANIZATION;OTHER
+"[(Poempida,)-(SBY)]";false;false;false;false;false;true;false;ORGANIZATION;ORGANIZATION
+"[(Poempida,)-(Presiden Twiitter)]";false;false;false;false;false;true;false;ORGANIZATION;OTHER
+"[(Poempida,)-(Presiden RI)]";false;false;false;false;false;true;false;ORGANIZATION;OTHER
+"[(Poempida,)-(Ia)]";false;false;false;false;true;false;false;ORGANIZATION;OTHER
+"[(Poempida,)-(rakyat)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Poempida,)-(pesan)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Poempida,)-(akun Twitter SBY)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Poempida,)-(aspirasi)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Poempida,)-(Poempida)]";false;false;false;false;false;false;true;ORGANIZATION;ORGANIZATION
+"[(akun Twitter @SBYudhoyono)-(SBY)]";false;true;false;false;false;true;true;OTHER;ORGANIZATION
+"[(akun Twitter @SBYudhoyono)-(Presiden Twiitter)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(akun Twitter @SBYudhoyono)-(Presiden RI)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(akun Twitter @SBYudhoyono)-(Ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(akun Twitter @SBYudhoyono)-(rakyat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(akun Twitter @SBYudhoyono)-(pesan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(akun Twitter @SBYudhoyono)-(akun Twitter SBY)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(akun Twitter @SBYudhoyono)-(aspirasi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(akun Twitter @SBYudhoyono)-(Poempida)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(SBY)-(Presiden Twiitter)]";false;true;false;false;false;true;false;ORGANIZATION;OTHER
+"[(SBY)-(Presiden RI)]";false;true;false;false;false;true;false;ORGANIZATION;OTHER
+"[(SBY)-(Ia)]";false;true;false;false;true;false;false;ORGANIZATION;OTHER
+"[(SBY)-(rakyat)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(SBY)-(pesan)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(SBY)-(akun Twitter SBY)]";false;true;false;false;false;false;true;ORGANIZATION;OTHER
+"[(SBY)-(aspirasi)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(SBY)-(Poempida)]";false;true;false;false;false;false;false;ORGANIZATION;ORGANIZATION
+"[(Presiden Twiitter)-(Presiden RI)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(Presiden Twiitter)-(Ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(Presiden Twiitter)-(rakyat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Presiden Twiitter)-(pesan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Presiden Twiitter)-(akun Twitter SBY)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Presiden Twiitter)-(aspirasi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Presiden Twiitter)-(Poempida)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(Presiden RI)-(Ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(Presiden RI)-(rakyat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Presiden RI)-(pesan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Presiden RI)-(akun Twitter SBY)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Presiden RI)-(aspirasi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Presiden RI)-(Poempida)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(Ia)-(rakyat)]";false;true;false;true;false;true;false;OTHER;OTHER
+"[(Ia)-(pesan)]";false;true;false;true;false;true;false;OTHER;OTHER
+"[(Ia)-(akun Twitter SBY)]";false;true;false;true;false;true;false;OTHER;OTHER
+"[(Ia)-(aspirasi)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Ia)-(Poempida)]";false;true;false;true;false;false;false;OTHER;ORGANIZATION
+"[(rakyat)-(pesan)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(rakyat)-(akun Twitter SBY)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(rakyat)-(aspirasi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(rakyat)-(Poempida)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(pesan)-(akun Twitter SBY)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(pesan)-(aspirasi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pesan)-(Poempida)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(akun Twitter SBY)-(aspirasi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(akun Twitter SBY)-(Poempida)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(aspirasi)-(Poempida)]";false;true;false;false;false;true;false;OTHER;ORGANIZATION

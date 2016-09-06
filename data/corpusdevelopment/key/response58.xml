@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>Eropa</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>Inter</Mention>
+        <Mention>Inter Milan</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>TEMPO.CO</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>Milan</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>Serie-A</Mention>
+        <Mention>scudetto</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>Liga Champions</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>Liga Eropa</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>kiper</Mention>
+    </Entity>
+    <Entity ClusterId="9">
+        <Mention>Italia</Mention>
+    </Entity>
+    <Entity ClusterId="10">
+        <Mention>16 Juli</Mention>
+    </Entity>
+    <Entity ClusterId="11">
+        <Mention>kompetisi Eropa</Mention>
+    </Entity>
+    <Entity ClusterId="12">
+        <Mention>Slovenia</Mention>
+    </Entity>
+    <Entity ClusterId="13">
+        <Mention>Napoli</Mention>
+    </Entity>
+    <Entity ClusterId="14">
+        <Mention>Juventus</Mention>
+    </Entity>
+</CoreferenceChain>

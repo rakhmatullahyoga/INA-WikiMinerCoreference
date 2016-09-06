@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>Bayern</Mention>
+        <Mention>Bavaria</Mention>
+        <Mention>Bayern Munich</Mention>
+        <Mention>Munich</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>Pemain sayap</Mention>
+        <Mention>Franck Ribery</Mention>
+        <Mention>Ribery</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>Prancis</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>Matthias Sammer</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>Gerard Pique</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>Liga Champions</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>Barcelona</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>Marseille</Mention>
+    </Entity>
+    <Entity ClusterId="9">
+        <Mention>Allianz Arena</Mention>
+    </Entity>
+    <Entity ClusterId="10">
+        <Mention>Bundesliga</Mention>
+    </Entity>
+    <Entity ClusterId="11">
+        <Mention>Jerman</Mention>
+    </Entity>
+    <Entity ClusterId="12">
+        <Mention>Wembley</Mention>
+    </Entity>
+</CoreferenceChain>

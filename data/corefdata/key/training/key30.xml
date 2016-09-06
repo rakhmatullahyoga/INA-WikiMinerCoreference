@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>Mahathir</Mention>
+        <Mention>Tun Dr Mahathir Mohamad</Mention>
+        <Mention>Mantan Perdana Menteri</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>stroke</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>Malaysia</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>Inggris</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>mantan PM Inggris</Mention>
+        <Mention>Margaret Thatcher</Mention>
+        <Mention>Thatcher</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>Menara Petronas</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>Tun Dr Siti Hasmah Mohamad Ali</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>London</Mention>
+    </Entity>
+    <Entity ClusterId="9">
+        <Mention>Penang</Mention>
+    </Entity>
+    <Entity ClusterId="10">
+        <Mention>New Strait Times</Mention>
+    </Entity>
+    <Entity ClusterId="11">
+        <Mention>Najib Razak</Mention>
+    </Entity>
+</CoreferenceChain>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>Air Supply</Mention>
+        <Mention>Graham Russel</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>ANTARA News</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>apik</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>Making Love Out of Nothing at All</Mention>
+        <Mention>All Out of Love</Mention>
+        <Mention>The One That You Love</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>Pulau Dewata</Mention>
+        <Mention>Bali</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>Brownies</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>Balikpapan</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>Pekanbaru</Mention>
+    </Entity>
+    <Entity ClusterId="9">
+        <Mention>Bandung</Mention>
+    </Entity>
+    <Entity ClusterId="10">
+        <Mention>Indonesia</Mention>
+    </Entity>
+</CoreferenceChain>

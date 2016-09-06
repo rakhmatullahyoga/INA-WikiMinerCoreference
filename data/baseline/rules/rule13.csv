@@ -1,0 +1,1654 @@
+mentions;isStrMatch;isMatchNoCasePunc;isAbbrev;isFirstPronoun;isScndPronoun;isOnOneSentence;isMatchPartial;firstNameClass;scndNameClass
+"[(Megawati Ogah Beli Kaos Biru dan Kuning Ketua)-(DPP PDIP Megawati Soekarnoputri)]";false;true;false;false;false;true;false;PERSON;ORGANIZATION
+"[(Megawati Ogah Beli Kaos Biru dan Kuning Ketua)-(pemenangan pasangan Anak Agung)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Megawati Ogah Beli Kaos Biru dan Kuning Ketua)-(Ngurah Puspayoga-Dewa Nyoman Sukrawan)]";false;true;false;false;false;true;false;PERSON;PERSON
+"[(Megawati Ogah Beli Kaos Biru dan Kuning Ketua)-(PAS)]";false;true;false;false;false;true;false;PERSON;ORGANIZATION
+"[(Megawati Ogah Beli Kaos Biru dan Kuning Ketua)-(Pasar Seni Guwang Sukawati Gianyar Bali)]";false;true;false;false;false;true;false;PERSON;LOCATION
+"[(Megawati Ogah Beli Kaos Biru dan Kuning Ketua)-(kampanye)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Megawati Ogah Beli Kaos Biru dan Kuning Ketua)-(Selasa)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Megawati Ogah Beli Kaos Biru dan Kuning Ketua)-(Megawati)]";false;true;false;false;false;false;true;PERSON;PERSON
+"[(Megawati Ogah Beli Kaos Biru dan Kuning Ketua)-(sejumlah petinggi partai,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Megawati Ogah Beli Kaos Biru dan Kuning Ketua)-(Ketua DPP Maruarar Sirait)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Megawati Ogah Beli Kaos Biru dan Kuning Ketua)-(Rieke Diah Pitaloka)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Megawati Ogah Beli Kaos Biru dan Kuning Ketua)-(Wasekjen DPP PDIP Hasto Kristianto)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Megawati Ogah Beli Kaos Biru dan Kuning Ketua)-(dan calon gubernur)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Megawati Ogah Beli Kaos Biru dan Kuning Ketua)-(PDIP Anak Agung)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Megawati Ogah Beli Kaos Biru dan Kuning Ketua)-(Ngurah Puspayoga)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Megawati Ogah Beli Kaos Biru dan Kuning Ketua)-(Mereka)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Megawati Ogah Beli Kaos Biru dan Kuning Ketua)-(stiker dan dupa)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Megawati Ogah Beli Kaos Biru dan Kuning Ketua)-(sarana persembahyangan umat Hindu)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Megawati Ogah Beli Kaos Biru dan Kuning Ketua)-(ayal)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Megawati Ogah Beli Kaos Biru dan Kuning Ketua)-(kedatangan mantan presiden RI)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Megawati Ogah Beli Kaos Biru dan Kuning Ketua)-(pedagang)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Megawati Ogah Beli Kaos Biru dan Kuning Ketua)-(mayoritas perempuan itu)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Megawati Ogah Beli Kaos Biru dan Kuning Ketua)-("Ibu Mega)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Megawati Ogah Beli Kaos Biru dan Kuning Ketua)-(Ibu Mega belanja)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Megawati Ogah Beli Kaos Biru dan Kuning Ketua)-(sini," teriak para)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Megawati Ogah Beli Kaos Biru dan Kuning Ketua)-(pedagang)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Megawati Ogah Beli Kaos Biru dan Kuning Ketua)-(Mereka)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Megawati Ogah Beli Kaos Biru dan Kuning Ketua)-(putri mantan presiden pertama)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Megawati Ogah Beli Kaos Biru dan Kuning Ketua)-(RI Soekarno)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Megawati Ogah Beli Kaos Biru dan Kuning Ketua)-(Megawati)]";false;true;false;false;false;false;true;PERSON;PERSON
+"[(Megawati Ogah Beli Kaos Biru dan Kuning Ketua)-(pedagang itu)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Megawati Ogah Beli Kaos Biru dan Kuning Ketua)-(pinggir toko)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Megawati Ogah Beli Kaos Biru dan Kuning Ketua)-(Megawati)]";false;true;false;false;true;false;true;PERSON;PERSON
+"[(Megawati Ogah Beli Kaos Biru dan Kuning Ketua)-(mereka)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Megawati Ogah Beli Kaos Biru dan Kuning Ketua)-(satu persatu)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Megawati Ogah Beli Kaos Biru dan Kuning Ketua)-(dupa berlogo PDIP dan kandidat PAS)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Megawati Ogah Beli Kaos Biru dan Kuning Ketua)-(Wisatawan pengunjung Pasar Seni Guang)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Megawati Ogah Beli Kaos Biru dan Kuning Ketua)-(Megawati)]";false;true;false;false;false;false;true;PERSON;PERSON
+"[(Megawati Ogah Beli Kaos Biru dan Kuning Ketua)-(Mereka)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Megawati Ogah Beli Kaos Biru dan Kuning Ketua)-(dupa)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Megawati Ogah Beli Kaos Biru dan Kuning Ketua)-(Megawati)]";false;true;false;false;false;false;true;PERSON;PERSON
+"[(Megawati Ogah Beli Kaos Biru dan Kuning Ketua)-(Megawati)]";false;true;false;false;true;false;true;PERSON;PERSON
+"[(Megawati Ogah Beli Kaos Biru dan Kuning Ketua)-(diri)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Megawati Ogah Beli Kaos Biru dan Kuning Ketua)-(ia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Megawati Ogah Beli Kaos Biru dan Kuning Ketua)-(seorang pedagang)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Megawati Ogah Beli Kaos Biru dan Kuning Ketua)-(kaos)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Megawati Ogah Beli Kaos Biru dan Kuning Ketua)-(biru dan kuning)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Megawati Ogah Beli Kaos Biru dan Kuning Ketua)-(merah)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Megawati Ogah Beli Kaos Biru dan Kuning Ketua)-(Megawati)]";false;true;false;false;false;false;true;PERSON;PERSON
+"[(Megawati Ogah Beli Kaos Biru dan Kuning Ketua)-(Megawati)]";false;true;false;false;true;false;true;PERSON;PERSON
+"[(Megawati Ogah Beli Kaos Biru dan Kuning Ketua)-(kaki)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Megawati Ogah Beli Kaos Biru dan Kuning Ketua)-(pasar)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Megawati Ogah Beli Kaos Biru dan Kuning Ketua)-(persatu pedagang dan warga)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Megawati Ogah Beli Kaos Biru dan Kuning Ketua)-(Sesekali Megawati)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Megawati Ogah Beli Kaos Biru dan Kuning Ketua)-(harga baju)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Megawati Ogah Beli Kaos Biru dan Kuning Ketua)-(pasar seni terbesar)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Megawati Ogah Beli Kaos Biru dan Kuning Ketua)-(Bali)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(DPP PDIP Megawati Soekarnoputri)-(pemenangan pasangan Anak Agung)]";false;true;false;false;false;true;false;ORGANIZATION;OTHER
+"[(DPP PDIP Megawati Soekarnoputri)-(Ngurah Puspayoga-Dewa Nyoman Sukrawan)]";false;true;false;false;false;true;false;ORGANIZATION;PERSON
+"[(DPP PDIP Megawati Soekarnoputri)-(PAS)]";false;true;false;false;false;true;false;ORGANIZATION;ORGANIZATION
+"[(DPP PDIP Megawati Soekarnoputri)-(Pasar Seni Guwang Sukawati Gianyar Bali)]";false;true;false;false;false;true;false;ORGANIZATION;LOCATION
+"[(DPP PDIP Megawati Soekarnoputri)-(kampanye)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(DPP PDIP Megawati Soekarnoputri)-(Selasa)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(DPP PDIP Megawati Soekarnoputri)-(Megawati)]";false;true;false;false;false;false;true;ORGANIZATION;PERSON
+"[(DPP PDIP Megawati Soekarnoputri)-(sejumlah petinggi partai,)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(DPP PDIP Megawati Soekarnoputri)-(Ketua DPP Maruarar Sirait)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(DPP PDIP Megawati Soekarnoputri)-(Rieke Diah Pitaloka)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(DPP PDIP Megawati Soekarnoputri)-(Wasekjen DPP PDIP Hasto Kristianto)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(DPP PDIP Megawati Soekarnoputri)-(dan calon gubernur)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(DPP PDIP Megawati Soekarnoputri)-(PDIP Anak Agung)]";false;true;false;false;false;false;false;ORGANIZATION;ORGANIZATION
+"[(DPP PDIP Megawati Soekarnoputri)-(Ngurah Puspayoga)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(DPP PDIP Megawati Soekarnoputri)-(Mereka)]";false;true;false;false;true;false;false;ORGANIZATION;OTHER
+"[(DPP PDIP Megawati Soekarnoputri)-(stiker dan dupa)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(DPP PDIP Megawati Soekarnoputri)-(sarana persembahyangan umat Hindu)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(DPP PDIP Megawati Soekarnoputri)-(ayal)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(DPP PDIP Megawati Soekarnoputri)-(kedatangan mantan presiden RI)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(DPP PDIP Megawati Soekarnoputri)-(pedagang)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(DPP PDIP Megawati Soekarnoputri)-(mayoritas perempuan itu)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(DPP PDIP Megawati Soekarnoputri)-("Ibu Mega)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(DPP PDIP Megawati Soekarnoputri)-(Ibu Mega belanja)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(DPP PDIP Megawati Soekarnoputri)-(sini," teriak para)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(DPP PDIP Megawati Soekarnoputri)-(pedagang)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(DPP PDIP Megawati Soekarnoputri)-(Mereka)]";false;true;false;false;true;false;false;ORGANIZATION;OTHER
+"[(DPP PDIP Megawati Soekarnoputri)-(putri mantan presiden pertama)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(DPP PDIP Megawati Soekarnoputri)-(RI Soekarno)]";false;true;false;false;false;false;false;ORGANIZATION;LOCATION
+"[(DPP PDIP Megawati Soekarnoputri)-(Megawati)]";false;true;false;false;false;false;true;ORGANIZATION;PERSON
+"[(DPP PDIP Megawati Soekarnoputri)-(pedagang itu)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(DPP PDIP Megawati Soekarnoputri)-(pinggir toko)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(DPP PDIP Megawati Soekarnoputri)-(Megawati)]";false;true;false;false;true;false;true;ORGANIZATION;PERSON
+"[(DPP PDIP Megawati Soekarnoputri)-(mereka)]";false;true;false;false;true;false;false;ORGANIZATION;OTHER
+"[(DPP PDIP Megawati Soekarnoputri)-(satu persatu)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(DPP PDIP Megawati Soekarnoputri)-(dupa berlogo PDIP dan kandidat PAS)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(DPP PDIP Megawati Soekarnoputri)-(Wisatawan pengunjung Pasar Seni Guang)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(DPP PDIP Megawati Soekarnoputri)-(Megawati)]";false;true;false;false;false;false;true;ORGANIZATION;PERSON
+"[(DPP PDIP Megawati Soekarnoputri)-(Mereka)]";false;true;false;false;true;false;false;ORGANIZATION;OTHER
+"[(DPP PDIP Megawati Soekarnoputri)-(dupa)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(DPP PDIP Megawati Soekarnoputri)-(Megawati)]";false;true;false;false;false;false;true;ORGANIZATION;PERSON
+"[(DPP PDIP Megawati Soekarnoputri)-(Megawati)]";false;true;false;false;true;false;true;ORGANIZATION;PERSON
+"[(DPP PDIP Megawati Soekarnoputri)-(diri)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(DPP PDIP Megawati Soekarnoputri)-(ia)]";false;true;false;false;true;false;false;ORGANIZATION;OTHER
+"[(DPP PDIP Megawati Soekarnoputri)-(seorang pedagang)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(DPP PDIP Megawati Soekarnoputri)-(kaos)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(DPP PDIP Megawati Soekarnoputri)-(biru dan kuning)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(DPP PDIP Megawati Soekarnoputri)-(merah)]";false;true;false;false;true;false;false;ORGANIZATION;OTHER
+"[(DPP PDIP Megawati Soekarnoputri)-(Megawati)]";false;true;false;false;false;false;true;ORGANIZATION;PERSON
+"[(DPP PDIP Megawati Soekarnoputri)-(Megawati)]";false;true;false;false;true;false;true;ORGANIZATION;PERSON
+"[(DPP PDIP Megawati Soekarnoputri)-(kaki)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(DPP PDIP Megawati Soekarnoputri)-(pasar)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(DPP PDIP Megawati Soekarnoputri)-(persatu pedagang dan warga)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(DPP PDIP Megawati Soekarnoputri)-(Sesekali Megawati)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(DPP PDIP Megawati Soekarnoputri)-(harga baju)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(DPP PDIP Megawati Soekarnoputri)-(pasar seni terbesar)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(DPP PDIP Megawati Soekarnoputri)-(Bali)]";false;true;false;false;false;false;false;ORGANIZATION;LOCATION
+"[(pemenangan pasangan Anak Agung)-(Ngurah Puspayoga-Dewa Nyoman Sukrawan)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(pemenangan pasangan Anak Agung)-(PAS)]";false;true;false;false;false;true;false;OTHER;ORGANIZATION
+"[(pemenangan pasangan Anak Agung)-(Pasar Seni Guwang Sukawati Gianyar Bali)]";false;true;false;false;false;true;false;OTHER;LOCATION
+"[(pemenangan pasangan Anak Agung)-(kampanye)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemenangan pasangan Anak Agung)-(Selasa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemenangan pasangan Anak Agung)-(Megawati)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pemenangan pasangan Anak Agung)-(sejumlah petinggi partai,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pemenangan pasangan Anak Agung)-(Ketua DPP Maruarar Sirait)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pemenangan pasangan Anak Agung)-(Rieke Diah Pitaloka)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pemenangan pasangan Anak Agung)-(Wasekjen DPP PDIP Hasto Kristianto)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pemenangan pasangan Anak Agung)-(dan calon gubernur)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemenangan pasangan Anak Agung)-(PDIP Anak Agung)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(pemenangan pasangan Anak Agung)-(Ngurah Puspayoga)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pemenangan pasangan Anak Agung)-(Mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(pemenangan pasangan Anak Agung)-(stiker dan dupa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemenangan pasangan Anak Agung)-(sarana persembahyangan umat Hindu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemenangan pasangan Anak Agung)-(ayal)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemenangan pasangan Anak Agung)-(kedatangan mantan presiden RI)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemenangan pasangan Anak Agung)-(pedagang)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemenangan pasangan Anak Agung)-(mayoritas perempuan itu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemenangan pasangan Anak Agung)-("Ibu Mega)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pemenangan pasangan Anak Agung)-(Ibu Mega belanja)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pemenangan pasangan Anak Agung)-(sini," teriak para)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pemenangan pasangan Anak Agung)-(pedagang)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemenangan pasangan Anak Agung)-(Mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(pemenangan pasangan Anak Agung)-(putri mantan presiden pertama)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemenangan pasangan Anak Agung)-(RI Soekarno)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(pemenangan pasangan Anak Agung)-(Megawati)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pemenangan pasangan Anak Agung)-(pedagang itu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemenangan pasangan Anak Agung)-(pinggir toko)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemenangan pasangan Anak Agung)-(Megawati)]";false;true;false;false;true;false;false;OTHER;PERSON
+"[(pemenangan pasangan Anak Agung)-(mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(pemenangan pasangan Anak Agung)-(satu persatu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemenangan pasangan Anak Agung)-(dupa berlogo PDIP dan kandidat PAS)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemenangan pasangan Anak Agung)-(Wisatawan pengunjung Pasar Seni Guang)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pemenangan pasangan Anak Agung)-(Megawati)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pemenangan pasangan Anak Agung)-(Mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(pemenangan pasangan Anak Agung)-(dupa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemenangan pasangan Anak Agung)-(Megawati)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pemenangan pasangan Anak Agung)-(Megawati)]";false;true;false;false;true;false;false;OTHER;PERSON
+"[(pemenangan pasangan Anak Agung)-(diri)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemenangan pasangan Anak Agung)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(pemenangan pasangan Anak Agung)-(seorang pedagang)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemenangan pasangan Anak Agung)-(kaos)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemenangan pasangan Anak Agung)-(biru dan kuning)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemenangan pasangan Anak Agung)-(merah)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(pemenangan pasangan Anak Agung)-(Megawati)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pemenangan pasangan Anak Agung)-(Megawati)]";false;true;false;false;true;false;false;OTHER;PERSON
+"[(pemenangan pasangan Anak Agung)-(kaki)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemenangan pasangan Anak Agung)-(pasar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemenangan pasangan Anak Agung)-(persatu pedagang dan warga)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemenangan pasangan Anak Agung)-(Sesekali Megawati)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pemenangan pasangan Anak Agung)-(harga baju)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemenangan pasangan Anak Agung)-(pasar seni terbesar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pemenangan pasangan Anak Agung)-(Bali)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(Ngurah Puspayoga-Dewa Nyoman Sukrawan)-(PAS)]";false;true;false;false;false;true;false;PERSON;ORGANIZATION
+"[(Ngurah Puspayoga-Dewa Nyoman Sukrawan)-(Pasar Seni Guwang Sukawati Gianyar Bali)]";false;true;false;false;false;true;false;PERSON;LOCATION
+"[(Ngurah Puspayoga-Dewa Nyoman Sukrawan)-(kampanye)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ngurah Puspayoga-Dewa Nyoman Sukrawan)-(Selasa)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ngurah Puspayoga-Dewa Nyoman Sukrawan)-(Megawati)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Ngurah Puspayoga-Dewa Nyoman Sukrawan)-(sejumlah petinggi partai,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Ngurah Puspayoga-Dewa Nyoman Sukrawan)-(Ketua DPP Maruarar Sirait)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Ngurah Puspayoga-Dewa Nyoman Sukrawan)-(Rieke Diah Pitaloka)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Ngurah Puspayoga-Dewa Nyoman Sukrawan)-(Wasekjen DPP PDIP Hasto Kristianto)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Ngurah Puspayoga-Dewa Nyoman Sukrawan)-(dan calon gubernur)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ngurah Puspayoga-Dewa Nyoman Sukrawan)-(PDIP Anak Agung)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Ngurah Puspayoga-Dewa Nyoman Sukrawan)-(Ngurah Puspayoga)]";false;true;false;false;false;false;true;PERSON;PERSON
+"[(Ngurah Puspayoga-Dewa Nyoman Sukrawan)-(Mereka)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Ngurah Puspayoga-Dewa Nyoman Sukrawan)-(stiker dan dupa)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ngurah Puspayoga-Dewa Nyoman Sukrawan)-(sarana persembahyangan umat Hindu)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ngurah Puspayoga-Dewa Nyoman Sukrawan)-(ayal)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ngurah Puspayoga-Dewa Nyoman Sukrawan)-(kedatangan mantan presiden RI)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ngurah Puspayoga-Dewa Nyoman Sukrawan)-(pedagang)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ngurah Puspayoga-Dewa Nyoman Sukrawan)-(mayoritas perempuan itu)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ngurah Puspayoga-Dewa Nyoman Sukrawan)-("Ibu Mega)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Ngurah Puspayoga-Dewa Nyoman Sukrawan)-(Ibu Mega belanja)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Ngurah Puspayoga-Dewa Nyoman Sukrawan)-(sini," teriak para)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Ngurah Puspayoga-Dewa Nyoman Sukrawan)-(pedagang)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ngurah Puspayoga-Dewa Nyoman Sukrawan)-(Mereka)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Ngurah Puspayoga-Dewa Nyoman Sukrawan)-(putri mantan presiden pertama)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ngurah Puspayoga-Dewa Nyoman Sukrawan)-(RI Soekarno)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Ngurah Puspayoga-Dewa Nyoman Sukrawan)-(Megawati)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Ngurah Puspayoga-Dewa Nyoman Sukrawan)-(pedagang itu)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ngurah Puspayoga-Dewa Nyoman Sukrawan)-(pinggir toko)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ngurah Puspayoga-Dewa Nyoman Sukrawan)-(Megawati)]";false;true;false;false;true;false;false;PERSON;PERSON
+"[(Ngurah Puspayoga-Dewa Nyoman Sukrawan)-(mereka)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Ngurah Puspayoga-Dewa Nyoman Sukrawan)-(satu persatu)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ngurah Puspayoga-Dewa Nyoman Sukrawan)-(dupa berlogo PDIP dan kandidat PAS)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ngurah Puspayoga-Dewa Nyoman Sukrawan)-(Wisatawan pengunjung Pasar Seni Guang)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Ngurah Puspayoga-Dewa Nyoman Sukrawan)-(Megawati)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Ngurah Puspayoga-Dewa Nyoman Sukrawan)-(Mereka)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Ngurah Puspayoga-Dewa Nyoman Sukrawan)-(dupa)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ngurah Puspayoga-Dewa Nyoman Sukrawan)-(Megawati)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Ngurah Puspayoga-Dewa Nyoman Sukrawan)-(Megawati)]";false;true;false;false;true;false;false;PERSON;PERSON
+"[(Ngurah Puspayoga-Dewa Nyoman Sukrawan)-(diri)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ngurah Puspayoga-Dewa Nyoman Sukrawan)-(ia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Ngurah Puspayoga-Dewa Nyoman Sukrawan)-(seorang pedagang)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ngurah Puspayoga-Dewa Nyoman Sukrawan)-(kaos)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ngurah Puspayoga-Dewa Nyoman Sukrawan)-(biru dan kuning)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ngurah Puspayoga-Dewa Nyoman Sukrawan)-(merah)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Ngurah Puspayoga-Dewa Nyoman Sukrawan)-(Megawati)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Ngurah Puspayoga-Dewa Nyoman Sukrawan)-(Megawati)]";false;true;false;false;true;false;false;PERSON;PERSON
+"[(Ngurah Puspayoga-Dewa Nyoman Sukrawan)-(kaki)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ngurah Puspayoga-Dewa Nyoman Sukrawan)-(pasar)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ngurah Puspayoga-Dewa Nyoman Sukrawan)-(persatu pedagang dan warga)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ngurah Puspayoga-Dewa Nyoman Sukrawan)-(Sesekali Megawati)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Ngurah Puspayoga-Dewa Nyoman Sukrawan)-(harga baju)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ngurah Puspayoga-Dewa Nyoman Sukrawan)-(pasar seni terbesar)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ngurah Puspayoga-Dewa Nyoman Sukrawan)-(Bali)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(PAS)-(Pasar Seni Guwang Sukawati Gianyar Bali)]";false;true;false;false;false;true;false;ORGANIZATION;LOCATION
+"[(PAS)-(kampanye)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PAS)-(Selasa)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PAS)-(Megawati)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(PAS)-(sejumlah petinggi partai,)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PAS)-(Ketua DPP Maruarar Sirait)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(PAS)-(Rieke Diah Pitaloka)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(PAS)-(Wasekjen DPP PDIP Hasto Kristianto)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(PAS)-(dan calon gubernur)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PAS)-(PDIP Anak Agung)]";false;true;false;false;false;false;false;ORGANIZATION;ORGANIZATION
+"[(PAS)-(Ngurah Puspayoga)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(PAS)-(Mereka)]";false;true;false;false;true;false;false;ORGANIZATION;OTHER
+"[(PAS)-(stiker dan dupa)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PAS)-(sarana persembahyangan umat Hindu)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PAS)-(ayal)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PAS)-(kedatangan mantan presiden RI)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PAS)-(pedagang)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PAS)-(mayoritas perempuan itu)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PAS)-("Ibu Mega)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PAS)-(Ibu Mega belanja)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(PAS)-(sini," teriak para)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PAS)-(pedagang)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PAS)-(Mereka)]";false;true;false;false;true;false;false;ORGANIZATION;OTHER
+"[(PAS)-(putri mantan presiden pertama)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PAS)-(RI Soekarno)]";false;true;false;false;false;false;false;ORGANIZATION;LOCATION
+"[(PAS)-(Megawati)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(PAS)-(pedagang itu)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PAS)-(pinggir toko)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PAS)-(Megawati)]";false;true;false;false;true;false;false;ORGANIZATION;PERSON
+"[(PAS)-(mereka)]";false;true;false;false;true;false;false;ORGANIZATION;OTHER
+"[(PAS)-(satu persatu)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PAS)-(dupa berlogo PDIP dan kandidat PAS)]";false;true;false;false;false;false;true;ORGANIZATION;OTHER
+"[(PAS)-(Wisatawan pengunjung Pasar Seni Guang)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(PAS)-(Megawati)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(PAS)-(Mereka)]";false;true;false;false;true;false;false;ORGANIZATION;OTHER
+"[(PAS)-(dupa)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PAS)-(Megawati)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(PAS)-(Megawati)]";false;true;false;false;true;false;false;ORGANIZATION;PERSON
+"[(PAS)-(diri)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PAS)-(ia)]";false;true;false;false;true;false;false;ORGANIZATION;OTHER
+"[(PAS)-(seorang pedagang)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PAS)-(kaos)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PAS)-(biru dan kuning)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PAS)-(merah)]";false;true;false;false;true;false;false;ORGANIZATION;OTHER
+"[(PAS)-(Megawati)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(PAS)-(Megawati)]";false;true;false;false;true;false;false;ORGANIZATION;PERSON
+"[(PAS)-(kaki)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PAS)-(pasar)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PAS)-(persatu pedagang dan warga)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PAS)-(Sesekali Megawati)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(PAS)-(harga baju)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PAS)-(pasar seni terbesar)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PAS)-(Bali)]";false;true;false;false;false;false;false;ORGANIZATION;LOCATION
+"[(Pasar Seni Guwang Sukawati Gianyar Bali)-(kampanye)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Pasar Seni Guwang Sukawati Gianyar Bali)-(Selasa)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Pasar Seni Guwang Sukawati Gianyar Bali)-(Megawati)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Pasar Seni Guwang Sukawati Gianyar Bali)-(sejumlah petinggi partai,)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Pasar Seni Guwang Sukawati Gianyar Bali)-(Ketua DPP Maruarar Sirait)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Pasar Seni Guwang Sukawati Gianyar Bali)-(Rieke Diah Pitaloka)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Pasar Seni Guwang Sukawati Gianyar Bali)-(Wasekjen DPP PDIP Hasto Kristianto)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Pasar Seni Guwang Sukawati Gianyar Bali)-(dan calon gubernur)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Pasar Seni Guwang Sukawati Gianyar Bali)-(PDIP Anak Agung)]";false;true;false;false;false;false;false;LOCATION;ORGANIZATION
+"[(Pasar Seni Guwang Sukawati Gianyar Bali)-(Ngurah Puspayoga)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Pasar Seni Guwang Sukawati Gianyar Bali)-(Mereka)]";false;true;false;false;true;false;false;LOCATION;OTHER
+"[(Pasar Seni Guwang Sukawati Gianyar Bali)-(stiker dan dupa)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Pasar Seni Guwang Sukawati Gianyar Bali)-(sarana persembahyangan umat Hindu)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Pasar Seni Guwang Sukawati Gianyar Bali)-(ayal)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Pasar Seni Guwang Sukawati Gianyar Bali)-(kedatangan mantan presiden RI)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Pasar Seni Guwang Sukawati Gianyar Bali)-(pedagang)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Pasar Seni Guwang Sukawati Gianyar Bali)-(mayoritas perempuan itu)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Pasar Seni Guwang Sukawati Gianyar Bali)-("Ibu Mega)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Pasar Seni Guwang Sukawati Gianyar Bali)-(Ibu Mega belanja)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Pasar Seni Guwang Sukawati Gianyar Bali)-(sini," teriak para)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Pasar Seni Guwang Sukawati Gianyar Bali)-(pedagang)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Pasar Seni Guwang Sukawati Gianyar Bali)-(Mereka)]";false;true;false;false;true;false;false;LOCATION;OTHER
+"[(Pasar Seni Guwang Sukawati Gianyar Bali)-(putri mantan presiden pertama)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Pasar Seni Guwang Sukawati Gianyar Bali)-(RI Soekarno)]";false;true;false;false;false;false;false;LOCATION;LOCATION
+"[(Pasar Seni Guwang Sukawati Gianyar Bali)-(Megawati)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Pasar Seni Guwang Sukawati Gianyar Bali)-(pedagang itu)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Pasar Seni Guwang Sukawati Gianyar Bali)-(pinggir toko)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Pasar Seni Guwang Sukawati Gianyar Bali)-(Megawati)]";false;true;false;false;true;false;false;LOCATION;PERSON
+"[(Pasar Seni Guwang Sukawati Gianyar Bali)-(mereka)]";false;true;false;false;true;false;false;LOCATION;OTHER
+"[(Pasar Seni Guwang Sukawati Gianyar Bali)-(satu persatu)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Pasar Seni Guwang Sukawati Gianyar Bali)-(dupa berlogo PDIP dan kandidat PAS)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Pasar Seni Guwang Sukawati Gianyar Bali)-(Wisatawan pengunjung Pasar Seni Guang)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Pasar Seni Guwang Sukawati Gianyar Bali)-(Megawati)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Pasar Seni Guwang Sukawati Gianyar Bali)-(Mereka)]";false;true;false;false;true;false;false;LOCATION;OTHER
+"[(Pasar Seni Guwang Sukawati Gianyar Bali)-(dupa)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Pasar Seni Guwang Sukawati Gianyar Bali)-(Megawati)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Pasar Seni Guwang Sukawati Gianyar Bali)-(Megawati)]";false;true;false;false;true;false;false;LOCATION;PERSON
+"[(Pasar Seni Guwang Sukawati Gianyar Bali)-(diri)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Pasar Seni Guwang Sukawati Gianyar Bali)-(ia)]";false;true;false;false;true;false;true;LOCATION;OTHER
+"[(Pasar Seni Guwang Sukawati Gianyar Bali)-(seorang pedagang)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Pasar Seni Guwang Sukawati Gianyar Bali)-(kaos)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Pasar Seni Guwang Sukawati Gianyar Bali)-(biru dan kuning)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Pasar Seni Guwang Sukawati Gianyar Bali)-(merah)]";false;true;false;false;true;false;false;LOCATION;OTHER
+"[(Pasar Seni Guwang Sukawati Gianyar Bali)-(Megawati)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Pasar Seni Guwang Sukawati Gianyar Bali)-(Megawati)]";false;true;false;false;true;false;false;LOCATION;PERSON
+"[(Pasar Seni Guwang Sukawati Gianyar Bali)-(kaki)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Pasar Seni Guwang Sukawati Gianyar Bali)-(pasar)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Pasar Seni Guwang Sukawati Gianyar Bali)-(persatu pedagang dan warga)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Pasar Seni Guwang Sukawati Gianyar Bali)-(Sesekali Megawati)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Pasar Seni Guwang Sukawati Gianyar Bali)-(harga baju)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Pasar Seni Guwang Sukawati Gianyar Bali)-(pasar seni terbesar)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Pasar Seni Guwang Sukawati Gianyar Bali)-(Bali)]";false;true;false;false;false;false;true;LOCATION;LOCATION
+"[(kampanye)-(Selasa)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(kampanye)-(Megawati)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(kampanye)-(sejumlah petinggi partai,)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(kampanye)-(Ketua DPP Maruarar Sirait)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(kampanye)-(Rieke Diah Pitaloka)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(kampanye)-(Wasekjen DPP PDIP Hasto Kristianto)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(kampanye)-(dan calon gubernur)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(kampanye)-(PDIP Anak Agung)]";false;true;false;false;false;true;false;OTHER;ORGANIZATION
+"[(kampanye)-(Ngurah Puspayoga)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(kampanye)-(Mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(kampanye)-(stiker dan dupa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kampanye)-(sarana persembahyangan umat Hindu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kampanye)-(ayal)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kampanye)-(kedatangan mantan presiden RI)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kampanye)-(pedagang)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kampanye)-(mayoritas perempuan itu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kampanye)-("Ibu Mega)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(kampanye)-(Ibu Mega belanja)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kampanye)-(sini," teriak para)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(kampanye)-(pedagang)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kampanye)-(Mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(kampanye)-(putri mantan presiden pertama)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kampanye)-(RI Soekarno)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(kampanye)-(Megawati)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kampanye)-(pedagang itu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kampanye)-(pinggir toko)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kampanye)-(Megawati)]";false;true;false;false;true;false;false;OTHER;PERSON
+"[(kampanye)-(mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(kampanye)-(satu persatu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kampanye)-(dupa berlogo PDIP dan kandidat PAS)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kampanye)-(Wisatawan pengunjung Pasar Seni Guang)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kampanye)-(Megawati)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kampanye)-(Mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(kampanye)-(dupa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kampanye)-(Megawati)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kampanye)-(Megawati)]";false;true;false;false;true;false;false;OTHER;PERSON
+"[(kampanye)-(diri)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kampanye)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(kampanye)-(seorang pedagang)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kampanye)-(kaos)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kampanye)-(biru dan kuning)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kampanye)-(merah)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(kampanye)-(Megawati)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kampanye)-(Megawati)]";false;true;false;false;true;false;false;OTHER;PERSON
+"[(kampanye)-(kaki)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kampanye)-(pasar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kampanye)-(persatu pedagang dan warga)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kampanye)-(Sesekali Megawati)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kampanye)-(harga baju)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kampanye)-(pasar seni terbesar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kampanye)-(Bali)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(Selasa)-(Megawati)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(Selasa)-(sejumlah petinggi partai,)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(Selasa)-(Ketua DPP Maruarar Sirait)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(Selasa)-(Rieke Diah Pitaloka)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(Selasa)-(Wasekjen DPP PDIP Hasto Kristianto)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(Selasa)-(dan calon gubernur)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(Selasa)-(PDIP Anak Agung)]";false;true;false;false;false;true;false;OTHER;ORGANIZATION
+"[(Selasa)-(Ngurah Puspayoga)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(Selasa)-(Mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(Selasa)-(stiker dan dupa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Selasa)-(sarana persembahyangan umat Hindu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Selasa)-(ayal)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Selasa)-(kedatangan mantan presiden RI)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Selasa)-(pedagang)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Selasa)-(mayoritas perempuan itu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Selasa)-("Ibu Mega)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Selasa)-(Ibu Mega belanja)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(Selasa)-(sini," teriak para)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Selasa)-(pedagang)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Selasa)-(Mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(Selasa)-(putri mantan presiden pertama)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Selasa)-(RI Soekarno)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(Selasa)-(Megawati)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(Selasa)-(pedagang itu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Selasa)-(pinggir toko)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Selasa)-(Megawati)]";false;true;false;false;true;false;false;OTHER;PERSON
+"[(Selasa)-(mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(Selasa)-(satu persatu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Selasa)-(dupa berlogo PDIP dan kandidat PAS)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Selasa)-(Wisatawan pengunjung Pasar Seni Guang)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(Selasa)-(Megawati)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(Selasa)-(Mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(Selasa)-(dupa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Selasa)-(Megawati)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(Selasa)-(Megawati)]";false;true;false;false;true;false;false;OTHER;PERSON
+"[(Selasa)-(diri)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Selasa)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(Selasa)-(seorang pedagang)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Selasa)-(kaos)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Selasa)-(biru dan kuning)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Selasa)-(merah)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(Selasa)-(Megawati)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(Selasa)-(Megawati)]";false;true;false;false;true;false;false;OTHER;PERSON
+"[(Selasa)-(kaki)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Selasa)-(pasar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Selasa)-(persatu pedagang dan warga)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Selasa)-(Sesekali Megawati)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(Selasa)-(harga baju)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Selasa)-(pasar seni terbesar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Selasa)-(Bali)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(Megawati)-(sejumlah petinggi partai,)]";false;false;false;false;false;true;false;PERSON;OTHER
+"[(Megawati)-(Ketua DPP Maruarar Sirait)]";false;true;false;false;false;true;false;PERSON;PERSON
+"[(Megawati)-(Rieke Diah Pitaloka)]";false;true;false;false;false;true;false;PERSON;PERSON
+"[(Megawati)-(Wasekjen DPP PDIP Hasto Kristianto)]";false;true;false;false;false;true;false;PERSON;PERSON
+"[(Megawati)-(dan calon gubernur)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Megawati)-(PDIP Anak Agung)]";false;true;false;false;false;true;false;PERSON;ORGANIZATION
+"[(Megawati)-(Ngurah Puspayoga)]";false;true;false;false;false;true;false;PERSON;PERSON
+"[(Megawati)-(Mereka)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Megawati)-(stiker dan dupa)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Megawati)-(sarana persembahyangan umat Hindu)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Megawati)-(ayal)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Megawati)-(kedatangan mantan presiden RI)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Megawati)-(pedagang)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Megawati)-(mayoritas perempuan itu)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Megawati)-("Ibu Mega)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Megawati)-(Ibu Mega belanja)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Megawati)-(sini," teriak para)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Megawati)-(pedagang)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Megawati)-(Mereka)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Megawati)-(putri mantan presiden pertama)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Megawati)-(RI Soekarno)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Megawati)-(Megawati)]";true;true;false;false;false;false;true;PERSON;PERSON
+"[(Megawati)-(pedagang itu)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Megawati)-(pinggir toko)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Megawati)-(Megawati)]";true;true;false;false;true;false;true;PERSON;PERSON
+"[(Megawati)-(mereka)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Megawati)-(satu persatu)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Megawati)-(dupa berlogo PDIP dan kandidat PAS)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Megawati)-(Wisatawan pengunjung Pasar Seni Guang)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Megawati)-(Megawati)]";true;true;false;false;false;false;true;PERSON;PERSON
+"[(Megawati)-(Mereka)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Megawati)-(dupa)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Megawati)-(Megawati)]";true;true;false;false;false;false;true;PERSON;PERSON
+"[(Megawati)-(Megawati)]";true;true;false;false;true;false;true;PERSON;PERSON
+"[(Megawati)-(diri)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Megawati)-(ia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Megawati)-(seorang pedagang)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Megawati)-(kaos)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Megawati)-(biru dan kuning)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Megawati)-(merah)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Megawati)-(Megawati)]";true;true;false;false;false;false;true;PERSON;PERSON
+"[(Megawati)-(Megawati)]";true;true;false;false;true;false;true;PERSON;PERSON
+"[(Megawati)-(kaki)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Megawati)-(pasar)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Megawati)-(persatu pedagang dan warga)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Megawati)-(Sesekali Megawati)]";false;true;false;false;false;false;true;PERSON;PERSON
+"[(Megawati)-(harga baju)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Megawati)-(pasar seni terbesar)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Megawati)-(Bali)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(sejumlah petinggi partai,)-(Ketua DPP Maruarar Sirait)]";false;false;false;false;false;true;false;OTHER;PERSON
+"[(sejumlah petinggi partai,)-(Rieke Diah Pitaloka)]";false;false;false;false;false;true;false;OTHER;PERSON
+"[(sejumlah petinggi partai,)-(Wasekjen DPP PDIP Hasto Kristianto)]";false;false;false;false;false;true;false;OTHER;PERSON
+"[(sejumlah petinggi partai,)-(dan calon gubernur)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(sejumlah petinggi partai,)-(PDIP Anak Agung)]";false;false;false;false;false;true;false;OTHER;ORGANIZATION
+"[(sejumlah petinggi partai,)-(Ngurah Puspayoga)]";false;false;false;false;false;true;false;OTHER;PERSON
+"[(sejumlah petinggi partai,)-(Mereka)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(sejumlah petinggi partai,)-(stiker dan dupa)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah petinggi partai,)-(sarana persembahyangan umat Hindu)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah petinggi partai,)-(ayal)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah petinggi partai,)-(kedatangan mantan presiden RI)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah petinggi partai,)-(pedagang)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah petinggi partai,)-(mayoritas perempuan itu)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah petinggi partai,)-("Ibu Mega)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah petinggi partai,)-(Ibu Mega belanja)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(sejumlah petinggi partai,)-(sini," teriak para)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah petinggi partai,)-(pedagang)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah petinggi partai,)-(Mereka)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(sejumlah petinggi partai,)-(putri mantan presiden pertama)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah petinggi partai,)-(RI Soekarno)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(sejumlah petinggi partai,)-(Megawati)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(sejumlah petinggi partai,)-(pedagang itu)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah petinggi partai,)-(pinggir toko)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah petinggi partai,)-(Megawati)]";false;false;false;false;true;false;false;OTHER;PERSON
+"[(sejumlah petinggi partai,)-(mereka)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(sejumlah petinggi partai,)-(satu persatu)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah petinggi partai,)-(dupa berlogo PDIP dan kandidat PAS)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah petinggi partai,)-(Wisatawan pengunjung Pasar Seni Guang)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(sejumlah petinggi partai,)-(Megawati)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(sejumlah petinggi partai,)-(Mereka)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(sejumlah petinggi partai,)-(dupa)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah petinggi partai,)-(Megawati)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(sejumlah petinggi partai,)-(Megawati)]";false;false;false;false;true;false;false;OTHER;PERSON
+"[(sejumlah petinggi partai,)-(diri)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah petinggi partai,)-(ia)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(sejumlah petinggi partai,)-(seorang pedagang)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah petinggi partai,)-(kaos)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah petinggi partai,)-(biru dan kuning)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah petinggi partai,)-(merah)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(sejumlah petinggi partai,)-(Megawati)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(sejumlah petinggi partai,)-(Megawati)]";false;false;false;false;true;false;false;OTHER;PERSON
+"[(sejumlah petinggi partai,)-(kaki)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah petinggi partai,)-(pasar)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah petinggi partai,)-(persatu pedagang dan warga)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah petinggi partai,)-(Sesekali Megawati)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(sejumlah petinggi partai,)-(harga baju)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah petinggi partai,)-(pasar seni terbesar)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(sejumlah petinggi partai,)-(Bali)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(Ketua DPP Maruarar Sirait)-(Rieke Diah Pitaloka)]";false;true;false;false;false;true;false;PERSON;PERSON
+"[(Ketua DPP Maruarar Sirait)-(Wasekjen DPP PDIP Hasto Kristianto)]";false;true;false;false;false;true;false;PERSON;PERSON
+"[(Ketua DPP Maruarar Sirait)-(dan calon gubernur)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Ketua DPP Maruarar Sirait)-(PDIP Anak Agung)]";false;true;false;false;false;true;false;PERSON;ORGANIZATION
+"[(Ketua DPP Maruarar Sirait)-(Ngurah Puspayoga)]";false;true;false;false;false;true;false;PERSON;PERSON
+"[(Ketua DPP Maruarar Sirait)-(Mereka)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Ketua DPP Maruarar Sirait)-(stiker dan dupa)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ketua DPP Maruarar Sirait)-(sarana persembahyangan umat Hindu)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ketua DPP Maruarar Sirait)-(ayal)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ketua DPP Maruarar Sirait)-(kedatangan mantan presiden RI)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ketua DPP Maruarar Sirait)-(pedagang)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ketua DPP Maruarar Sirait)-(mayoritas perempuan itu)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ketua DPP Maruarar Sirait)-("Ibu Mega)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Ketua DPP Maruarar Sirait)-(Ibu Mega belanja)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Ketua DPP Maruarar Sirait)-(sini," teriak para)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Ketua DPP Maruarar Sirait)-(pedagang)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ketua DPP Maruarar Sirait)-(Mereka)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Ketua DPP Maruarar Sirait)-(putri mantan presiden pertama)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ketua DPP Maruarar Sirait)-(RI Soekarno)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Ketua DPP Maruarar Sirait)-(Megawati)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Ketua DPP Maruarar Sirait)-(pedagang itu)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ketua DPP Maruarar Sirait)-(pinggir toko)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ketua DPP Maruarar Sirait)-(Megawati)]";false;true;false;false;true;false;false;PERSON;PERSON
+"[(Ketua DPP Maruarar Sirait)-(mereka)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Ketua DPP Maruarar Sirait)-(satu persatu)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ketua DPP Maruarar Sirait)-(dupa berlogo PDIP dan kandidat PAS)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ketua DPP Maruarar Sirait)-(Wisatawan pengunjung Pasar Seni Guang)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Ketua DPP Maruarar Sirait)-(Megawati)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Ketua DPP Maruarar Sirait)-(Mereka)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Ketua DPP Maruarar Sirait)-(dupa)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ketua DPP Maruarar Sirait)-(Megawati)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Ketua DPP Maruarar Sirait)-(Megawati)]";false;true;false;false;true;false;false;PERSON;PERSON
+"[(Ketua DPP Maruarar Sirait)-(diri)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ketua DPP Maruarar Sirait)-(ia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Ketua DPP Maruarar Sirait)-(seorang pedagang)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ketua DPP Maruarar Sirait)-(kaos)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ketua DPP Maruarar Sirait)-(biru dan kuning)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ketua DPP Maruarar Sirait)-(merah)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Ketua DPP Maruarar Sirait)-(Megawati)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Ketua DPP Maruarar Sirait)-(Megawati)]";false;true;false;false;true;false;false;PERSON;PERSON
+"[(Ketua DPP Maruarar Sirait)-(kaki)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ketua DPP Maruarar Sirait)-(pasar)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ketua DPP Maruarar Sirait)-(persatu pedagang dan warga)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ketua DPP Maruarar Sirait)-(Sesekali Megawati)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Ketua DPP Maruarar Sirait)-(harga baju)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ketua DPP Maruarar Sirait)-(pasar seni terbesar)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ketua DPP Maruarar Sirait)-(Bali)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Rieke Diah Pitaloka)-(Wasekjen DPP PDIP Hasto Kristianto)]";false;true;false;false;false;true;false;PERSON;PERSON
+"[(Rieke Diah Pitaloka)-(dan calon gubernur)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Rieke Diah Pitaloka)-(PDIP Anak Agung)]";false;true;false;false;false;true;false;PERSON;ORGANIZATION
+"[(Rieke Diah Pitaloka)-(Ngurah Puspayoga)]";false;true;false;false;false;true;false;PERSON;PERSON
+"[(Rieke Diah Pitaloka)-(Mereka)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Rieke Diah Pitaloka)-(stiker dan dupa)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Rieke Diah Pitaloka)-(sarana persembahyangan umat Hindu)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Rieke Diah Pitaloka)-(ayal)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Rieke Diah Pitaloka)-(kedatangan mantan presiden RI)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Rieke Diah Pitaloka)-(pedagang)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Rieke Diah Pitaloka)-(mayoritas perempuan itu)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Rieke Diah Pitaloka)-("Ibu Mega)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Rieke Diah Pitaloka)-(Ibu Mega belanja)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Rieke Diah Pitaloka)-(sini," teriak para)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Rieke Diah Pitaloka)-(pedagang)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Rieke Diah Pitaloka)-(Mereka)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Rieke Diah Pitaloka)-(putri mantan presiden pertama)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Rieke Diah Pitaloka)-(RI Soekarno)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Rieke Diah Pitaloka)-(Megawati)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Rieke Diah Pitaloka)-(pedagang itu)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Rieke Diah Pitaloka)-(pinggir toko)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Rieke Diah Pitaloka)-(Megawati)]";false;true;false;false;true;false;false;PERSON;PERSON
+"[(Rieke Diah Pitaloka)-(mereka)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Rieke Diah Pitaloka)-(satu persatu)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Rieke Diah Pitaloka)-(dupa berlogo PDIP dan kandidat PAS)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Rieke Diah Pitaloka)-(Wisatawan pengunjung Pasar Seni Guang)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Rieke Diah Pitaloka)-(Megawati)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Rieke Diah Pitaloka)-(Mereka)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Rieke Diah Pitaloka)-(dupa)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Rieke Diah Pitaloka)-(Megawati)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Rieke Diah Pitaloka)-(Megawati)]";false;true;false;false;true;false;false;PERSON;PERSON
+"[(Rieke Diah Pitaloka)-(diri)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Rieke Diah Pitaloka)-(ia)]";false;true;false;false;true;false;true;PERSON;OTHER
+"[(Rieke Diah Pitaloka)-(seorang pedagang)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Rieke Diah Pitaloka)-(kaos)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Rieke Diah Pitaloka)-(biru dan kuning)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Rieke Diah Pitaloka)-(merah)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Rieke Diah Pitaloka)-(Megawati)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Rieke Diah Pitaloka)-(Megawati)]";false;true;false;false;true;false;false;PERSON;PERSON
+"[(Rieke Diah Pitaloka)-(kaki)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Rieke Diah Pitaloka)-(pasar)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Rieke Diah Pitaloka)-(persatu pedagang dan warga)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Rieke Diah Pitaloka)-(Sesekali Megawati)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Rieke Diah Pitaloka)-(harga baju)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Rieke Diah Pitaloka)-(pasar seni terbesar)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Rieke Diah Pitaloka)-(Bali)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Wasekjen DPP PDIP Hasto Kristianto)-(dan calon gubernur)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Wasekjen DPP PDIP Hasto Kristianto)-(PDIP Anak Agung)]";false;true;false;false;false;true;false;PERSON;ORGANIZATION
+"[(Wasekjen DPP PDIP Hasto Kristianto)-(Ngurah Puspayoga)]";false;true;false;false;false;true;false;PERSON;PERSON
+"[(Wasekjen DPP PDIP Hasto Kristianto)-(Mereka)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Wasekjen DPP PDIP Hasto Kristianto)-(stiker dan dupa)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Wasekjen DPP PDIP Hasto Kristianto)-(sarana persembahyangan umat Hindu)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Wasekjen DPP PDIP Hasto Kristianto)-(ayal)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Wasekjen DPP PDIP Hasto Kristianto)-(kedatangan mantan presiden RI)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Wasekjen DPP PDIP Hasto Kristianto)-(pedagang)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Wasekjen DPP PDIP Hasto Kristianto)-(mayoritas perempuan itu)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Wasekjen DPP PDIP Hasto Kristianto)-("Ibu Mega)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Wasekjen DPP PDIP Hasto Kristianto)-(Ibu Mega belanja)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Wasekjen DPP PDIP Hasto Kristianto)-(sini," teriak para)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Wasekjen DPP PDIP Hasto Kristianto)-(pedagang)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Wasekjen DPP PDIP Hasto Kristianto)-(Mereka)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Wasekjen DPP PDIP Hasto Kristianto)-(putri mantan presiden pertama)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Wasekjen DPP PDIP Hasto Kristianto)-(RI Soekarno)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Wasekjen DPP PDIP Hasto Kristianto)-(Megawati)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Wasekjen DPP PDIP Hasto Kristianto)-(pedagang itu)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Wasekjen DPP PDIP Hasto Kristianto)-(pinggir toko)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Wasekjen DPP PDIP Hasto Kristianto)-(Megawati)]";false;true;false;false;true;false;false;PERSON;PERSON
+"[(Wasekjen DPP PDIP Hasto Kristianto)-(mereka)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Wasekjen DPP PDIP Hasto Kristianto)-(satu persatu)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Wasekjen DPP PDIP Hasto Kristianto)-(dupa berlogo PDIP dan kandidat PAS)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Wasekjen DPP PDIP Hasto Kristianto)-(Wisatawan pengunjung Pasar Seni Guang)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Wasekjen DPP PDIP Hasto Kristianto)-(Megawati)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Wasekjen DPP PDIP Hasto Kristianto)-(Mereka)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Wasekjen DPP PDIP Hasto Kristianto)-(dupa)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Wasekjen DPP PDIP Hasto Kristianto)-(Megawati)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Wasekjen DPP PDIP Hasto Kristianto)-(Megawati)]";false;true;false;false;true;false;false;PERSON;PERSON
+"[(Wasekjen DPP PDIP Hasto Kristianto)-(diri)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Wasekjen DPP PDIP Hasto Kristianto)-(ia)]";false;true;false;false;true;false;true;PERSON;OTHER
+"[(Wasekjen DPP PDIP Hasto Kristianto)-(seorang pedagang)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Wasekjen DPP PDIP Hasto Kristianto)-(kaos)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Wasekjen DPP PDIP Hasto Kristianto)-(biru dan kuning)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Wasekjen DPP PDIP Hasto Kristianto)-(merah)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Wasekjen DPP PDIP Hasto Kristianto)-(Megawati)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Wasekjen DPP PDIP Hasto Kristianto)-(Megawati)]";false;true;false;false;true;false;false;PERSON;PERSON
+"[(Wasekjen DPP PDIP Hasto Kristianto)-(kaki)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Wasekjen DPP PDIP Hasto Kristianto)-(pasar)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Wasekjen DPP PDIP Hasto Kristianto)-(persatu pedagang dan warga)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Wasekjen DPP PDIP Hasto Kristianto)-(Sesekali Megawati)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Wasekjen DPP PDIP Hasto Kristianto)-(harga baju)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Wasekjen DPP PDIP Hasto Kristianto)-(pasar seni terbesar)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Wasekjen DPP PDIP Hasto Kristianto)-(Bali)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(dan calon gubernur)-(PDIP Anak Agung)]";false;true;false;false;false;true;false;OTHER;ORGANIZATION
+"[(dan calon gubernur)-(Ngurah Puspayoga)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(dan calon gubernur)-(Mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(dan calon gubernur)-(stiker dan dupa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dan calon gubernur)-(sarana persembahyangan umat Hindu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dan calon gubernur)-(ayal)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dan calon gubernur)-(kedatangan mantan presiden RI)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dan calon gubernur)-(pedagang)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dan calon gubernur)-(mayoritas perempuan itu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dan calon gubernur)-("Ibu Mega)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(dan calon gubernur)-(Ibu Mega belanja)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(dan calon gubernur)-(sini," teriak para)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(dan calon gubernur)-(pedagang)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dan calon gubernur)-(Mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(dan calon gubernur)-(putri mantan presiden pertama)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dan calon gubernur)-(RI Soekarno)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(dan calon gubernur)-(Megawati)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(dan calon gubernur)-(pedagang itu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dan calon gubernur)-(pinggir toko)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dan calon gubernur)-(Megawati)]";false;true;false;false;true;false;false;OTHER;PERSON
+"[(dan calon gubernur)-(mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(dan calon gubernur)-(satu persatu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dan calon gubernur)-(dupa berlogo PDIP dan kandidat PAS)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dan calon gubernur)-(Wisatawan pengunjung Pasar Seni Guang)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(dan calon gubernur)-(Megawati)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(dan calon gubernur)-(Mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(dan calon gubernur)-(dupa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dan calon gubernur)-(Megawati)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(dan calon gubernur)-(Megawati)]";false;true;false;false;true;false;false;OTHER;PERSON
+"[(dan calon gubernur)-(diri)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dan calon gubernur)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(dan calon gubernur)-(seorang pedagang)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dan calon gubernur)-(kaos)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dan calon gubernur)-(biru dan kuning)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dan calon gubernur)-(merah)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(dan calon gubernur)-(Megawati)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(dan calon gubernur)-(Megawati)]";false;true;false;false;true;false;false;OTHER;PERSON
+"[(dan calon gubernur)-(kaki)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dan calon gubernur)-(pasar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dan calon gubernur)-(persatu pedagang dan warga)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dan calon gubernur)-(Sesekali Megawati)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(dan calon gubernur)-(harga baju)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dan calon gubernur)-(pasar seni terbesar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dan calon gubernur)-(Bali)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(PDIP Anak Agung)-(Ngurah Puspayoga)]";false;true;false;false;false;true;false;ORGANIZATION;PERSON
+"[(PDIP Anak Agung)-(Mereka)]";false;true;false;false;true;false;false;ORGANIZATION;OTHER
+"[(PDIP Anak Agung)-(stiker dan dupa)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP Anak Agung)-(sarana persembahyangan umat Hindu)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP Anak Agung)-(ayal)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP Anak Agung)-(kedatangan mantan presiden RI)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP Anak Agung)-(pedagang)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP Anak Agung)-(mayoritas perempuan itu)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP Anak Agung)-("Ibu Mega)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP Anak Agung)-(Ibu Mega belanja)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(PDIP Anak Agung)-(sini," teriak para)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP Anak Agung)-(pedagang)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP Anak Agung)-(Mereka)]";false;true;false;false;true;false;false;ORGANIZATION;OTHER
+"[(PDIP Anak Agung)-(putri mantan presiden pertama)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP Anak Agung)-(RI Soekarno)]";false;true;false;false;false;false;false;ORGANIZATION;LOCATION
+"[(PDIP Anak Agung)-(Megawati)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(PDIP Anak Agung)-(pedagang itu)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP Anak Agung)-(pinggir toko)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP Anak Agung)-(Megawati)]";false;true;false;false;true;false;false;ORGANIZATION;PERSON
+"[(PDIP Anak Agung)-(mereka)]";false;true;false;false;true;false;false;ORGANIZATION;OTHER
+"[(PDIP Anak Agung)-(satu persatu)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP Anak Agung)-(dupa berlogo PDIP dan kandidat PAS)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP Anak Agung)-(Wisatawan pengunjung Pasar Seni Guang)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(PDIP Anak Agung)-(Megawati)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(PDIP Anak Agung)-(Mereka)]";false;true;false;false;true;false;false;ORGANIZATION;OTHER
+"[(PDIP Anak Agung)-(dupa)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP Anak Agung)-(Megawati)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(PDIP Anak Agung)-(Megawati)]";false;true;false;false;true;false;false;ORGANIZATION;PERSON
+"[(PDIP Anak Agung)-(diri)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP Anak Agung)-(ia)]";false;true;false;false;true;false;false;ORGANIZATION;OTHER
+"[(PDIP Anak Agung)-(seorang pedagang)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP Anak Agung)-(kaos)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP Anak Agung)-(biru dan kuning)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP Anak Agung)-(merah)]";false;true;false;false;true;false;false;ORGANIZATION;OTHER
+"[(PDIP Anak Agung)-(Megawati)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(PDIP Anak Agung)-(Megawati)]";false;true;false;false;true;false;false;ORGANIZATION;PERSON
+"[(PDIP Anak Agung)-(kaki)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP Anak Agung)-(pasar)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP Anak Agung)-(persatu pedagang dan warga)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP Anak Agung)-(Sesekali Megawati)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(PDIP Anak Agung)-(harga baju)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP Anak Agung)-(pasar seni terbesar)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(PDIP Anak Agung)-(Bali)]";false;true;false;false;false;false;false;ORGANIZATION;LOCATION
+"[(Ngurah Puspayoga)-(Mereka)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Ngurah Puspayoga)-(stiker dan dupa)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ngurah Puspayoga)-(sarana persembahyangan umat Hindu)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ngurah Puspayoga)-(ayal)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ngurah Puspayoga)-(kedatangan mantan presiden RI)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ngurah Puspayoga)-(pedagang)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ngurah Puspayoga)-(mayoritas perempuan itu)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ngurah Puspayoga)-("Ibu Mega)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Ngurah Puspayoga)-(Ibu Mega belanja)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Ngurah Puspayoga)-(sini," teriak para)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Ngurah Puspayoga)-(pedagang)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ngurah Puspayoga)-(Mereka)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Ngurah Puspayoga)-(putri mantan presiden pertama)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ngurah Puspayoga)-(RI Soekarno)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Ngurah Puspayoga)-(Megawati)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Ngurah Puspayoga)-(pedagang itu)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ngurah Puspayoga)-(pinggir toko)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ngurah Puspayoga)-(Megawati)]";false;true;false;false;true;false;false;PERSON;PERSON
+"[(Ngurah Puspayoga)-(mereka)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Ngurah Puspayoga)-(satu persatu)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ngurah Puspayoga)-(dupa berlogo PDIP dan kandidat PAS)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ngurah Puspayoga)-(Wisatawan pengunjung Pasar Seni Guang)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Ngurah Puspayoga)-(Megawati)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Ngurah Puspayoga)-(Mereka)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Ngurah Puspayoga)-(dupa)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ngurah Puspayoga)-(Megawati)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Ngurah Puspayoga)-(Megawati)]";false;true;false;false;true;false;false;PERSON;PERSON
+"[(Ngurah Puspayoga)-(diri)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ngurah Puspayoga)-(ia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Ngurah Puspayoga)-(seorang pedagang)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ngurah Puspayoga)-(kaos)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ngurah Puspayoga)-(biru dan kuning)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ngurah Puspayoga)-(merah)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Ngurah Puspayoga)-(Megawati)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Ngurah Puspayoga)-(Megawati)]";false;true;false;false;true;false;false;PERSON;PERSON
+"[(Ngurah Puspayoga)-(kaki)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ngurah Puspayoga)-(pasar)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ngurah Puspayoga)-(persatu pedagang dan warga)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ngurah Puspayoga)-(Sesekali Megawati)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Ngurah Puspayoga)-(harga baju)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ngurah Puspayoga)-(pasar seni terbesar)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ngurah Puspayoga)-(Bali)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Mereka)-(stiker dan dupa)]";false;true;false;true;false;true;false;OTHER;OTHER
+"[(Mereka)-(sarana persembahyangan umat Hindu)]";false;true;false;true;false;true;false;OTHER;OTHER
+"[(Mereka)-(ayal)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(kedatangan mantan presiden RI)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(pedagang)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(mayoritas perempuan itu)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-("Ibu Mega)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(Ibu Mega belanja)]";false;true;false;true;false;false;false;OTHER;PERSON
+"[(Mereka)-(sini," teriak para)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(pedagang)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(Mereka)]";true;true;false;true;true;false;true;OTHER;OTHER
+"[(Mereka)-(putri mantan presiden pertama)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(RI Soekarno)]";false;true;false;true;false;false;false;OTHER;LOCATION
+"[(Mereka)-(Megawati)]";false;true;false;true;false;false;false;OTHER;PERSON
+"[(Mereka)-(pedagang itu)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(pinggir toko)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(Megawati)]";false;true;false;true;true;false;false;OTHER;PERSON
+"[(Mereka)-(mereka)]";true;true;false;true;true;false;false;OTHER;OTHER
+"[(Mereka)-(satu persatu)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(dupa berlogo PDIP dan kandidat PAS)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(Wisatawan pengunjung Pasar Seni Guang)]";false;true;false;true;false;false;false;OTHER;PERSON
+"[(Mereka)-(Megawati)]";false;true;false;true;false;false;false;OTHER;PERSON
+"[(Mereka)-(Mereka)]";true;true;false;true;true;false;true;OTHER;OTHER
+"[(Mereka)-(dupa)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(Megawati)]";false;true;false;true;false;false;false;OTHER;PERSON
+"[(Mereka)-(Megawati)]";false;true;false;true;true;false;false;OTHER;PERSON
+"[(Mereka)-(diri)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(ia)]";false;true;false;true;true;false;false;OTHER;OTHER
+"[(Mereka)-(seorang pedagang)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(kaos)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(biru dan kuning)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(merah)]";false;true;false;true;true;false;false;OTHER;OTHER
+"[(Mereka)-(Megawati)]";false;true;false;true;false;false;false;OTHER;PERSON
+"[(Mereka)-(Megawati)]";false;true;false;true;true;false;false;OTHER;PERSON
+"[(Mereka)-(kaki)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(pasar)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(persatu pedagang dan warga)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(Sesekali Megawati)]";false;true;false;true;false;false;false;OTHER;PERSON
+"[(Mereka)-(harga baju)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(pasar seni terbesar)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(Bali)]";false;true;false;true;false;false;false;OTHER;LOCATION
+"[(stiker dan dupa)-(sarana persembahyangan umat Hindu)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(stiker dan dupa)-(ayal)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(stiker dan dupa)-(kedatangan mantan presiden RI)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(stiker dan dupa)-(pedagang)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(stiker dan dupa)-(mayoritas perempuan itu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(stiker dan dupa)-("Ibu Mega)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(stiker dan dupa)-(Ibu Mega belanja)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(stiker dan dupa)-(sini," teriak para)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(stiker dan dupa)-(pedagang)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(stiker dan dupa)-(Mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(stiker dan dupa)-(putri mantan presiden pertama)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(stiker dan dupa)-(RI Soekarno)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(stiker dan dupa)-(Megawati)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(stiker dan dupa)-(pedagang itu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(stiker dan dupa)-(pinggir toko)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(stiker dan dupa)-(Megawati)]";false;true;false;false;true;false;false;OTHER;PERSON
+"[(stiker dan dupa)-(mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(stiker dan dupa)-(satu persatu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(stiker dan dupa)-(dupa berlogo PDIP dan kandidat PAS)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(stiker dan dupa)-(Wisatawan pengunjung Pasar Seni Guang)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(stiker dan dupa)-(Megawati)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(stiker dan dupa)-(Mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(stiker dan dupa)-(dupa)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(stiker dan dupa)-(Megawati)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(stiker dan dupa)-(Megawati)]";false;true;false;false;true;false;false;OTHER;PERSON
+"[(stiker dan dupa)-(diri)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(stiker dan dupa)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(stiker dan dupa)-(seorang pedagang)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(stiker dan dupa)-(kaos)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(stiker dan dupa)-(biru dan kuning)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(stiker dan dupa)-(merah)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(stiker dan dupa)-(Megawati)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(stiker dan dupa)-(Megawati)]";false;true;false;false;true;false;false;OTHER;PERSON
+"[(stiker dan dupa)-(kaki)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(stiker dan dupa)-(pasar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(stiker dan dupa)-(persatu pedagang dan warga)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(stiker dan dupa)-(Sesekali Megawati)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(stiker dan dupa)-(harga baju)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(stiker dan dupa)-(pasar seni terbesar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(stiker dan dupa)-(Bali)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(sarana persembahyangan umat Hindu)-(ayal)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sarana persembahyangan umat Hindu)-(kedatangan mantan presiden RI)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sarana persembahyangan umat Hindu)-(pedagang)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sarana persembahyangan umat Hindu)-(mayoritas perempuan itu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sarana persembahyangan umat Hindu)-("Ibu Mega)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(sarana persembahyangan umat Hindu)-(Ibu Mega belanja)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(sarana persembahyangan umat Hindu)-(sini," teriak para)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(sarana persembahyangan umat Hindu)-(pedagang)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sarana persembahyangan umat Hindu)-(Mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(sarana persembahyangan umat Hindu)-(putri mantan presiden pertama)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sarana persembahyangan umat Hindu)-(RI Soekarno)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(sarana persembahyangan umat Hindu)-(Megawati)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(sarana persembahyangan umat Hindu)-(pedagang itu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sarana persembahyangan umat Hindu)-(pinggir toko)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sarana persembahyangan umat Hindu)-(Megawati)]";false;true;false;false;true;false;false;OTHER;PERSON
+"[(sarana persembahyangan umat Hindu)-(mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(sarana persembahyangan umat Hindu)-(satu persatu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sarana persembahyangan umat Hindu)-(dupa berlogo PDIP dan kandidat PAS)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sarana persembahyangan umat Hindu)-(Wisatawan pengunjung Pasar Seni Guang)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(sarana persembahyangan umat Hindu)-(Megawati)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(sarana persembahyangan umat Hindu)-(Mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(sarana persembahyangan umat Hindu)-(dupa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sarana persembahyangan umat Hindu)-(Megawati)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(sarana persembahyangan umat Hindu)-(Megawati)]";false;true;false;false;true;false;false;OTHER;PERSON
+"[(sarana persembahyangan umat Hindu)-(diri)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sarana persembahyangan umat Hindu)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(sarana persembahyangan umat Hindu)-(seorang pedagang)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sarana persembahyangan umat Hindu)-(kaos)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sarana persembahyangan umat Hindu)-(biru dan kuning)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sarana persembahyangan umat Hindu)-(merah)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(sarana persembahyangan umat Hindu)-(Megawati)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(sarana persembahyangan umat Hindu)-(Megawati)]";false;true;false;false;true;false;false;OTHER;PERSON
+"[(sarana persembahyangan umat Hindu)-(kaki)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sarana persembahyangan umat Hindu)-(pasar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sarana persembahyangan umat Hindu)-(persatu pedagang dan warga)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sarana persembahyangan umat Hindu)-(Sesekali Megawati)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(sarana persembahyangan umat Hindu)-(harga baju)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sarana persembahyangan umat Hindu)-(pasar seni terbesar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sarana persembahyangan umat Hindu)-(Bali)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(ayal)-(kedatangan mantan presiden RI)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(ayal)-(pedagang)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(ayal)-(mayoritas perempuan itu)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(ayal)-("Ibu Mega)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(ayal)-(Ibu Mega belanja)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(ayal)-(sini," teriak para)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(ayal)-(pedagang)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(ayal)-(Mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(ayal)-(putri mantan presiden pertama)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(ayal)-(RI Soekarno)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(ayal)-(Megawati)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(ayal)-(pedagang itu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(ayal)-(pinggir toko)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(ayal)-(Megawati)]";false;true;false;false;true;false;false;OTHER;PERSON
+"[(ayal)-(mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(ayal)-(satu persatu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(ayal)-(dupa berlogo PDIP dan kandidat PAS)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(ayal)-(Wisatawan pengunjung Pasar Seni Guang)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(ayal)-(Megawati)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(ayal)-(Mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(ayal)-(dupa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(ayal)-(Megawati)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(ayal)-(Megawati)]";false;true;false;false;true;false;false;OTHER;PERSON
+"[(ayal)-(diri)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(ayal)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(ayal)-(seorang pedagang)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(ayal)-(kaos)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(ayal)-(biru dan kuning)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(ayal)-(merah)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(ayal)-(Megawati)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(ayal)-(Megawati)]";false;true;false;false;true;false;false;OTHER;PERSON
+"[(ayal)-(kaki)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(ayal)-(pasar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(ayal)-(persatu pedagang dan warga)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(ayal)-(Sesekali Megawati)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(ayal)-(harga baju)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(ayal)-(pasar seni terbesar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(ayal)-(Bali)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(kedatangan mantan presiden RI)-(pedagang)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(kedatangan mantan presiden RI)-(mayoritas perempuan itu)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(kedatangan mantan presiden RI)-("Ibu Mega)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(kedatangan mantan presiden RI)-(Ibu Mega belanja)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kedatangan mantan presiden RI)-(sini," teriak para)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(kedatangan mantan presiden RI)-(pedagang)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kedatangan mantan presiden RI)-(Mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(kedatangan mantan presiden RI)-(putri mantan presiden pertama)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kedatangan mantan presiden RI)-(RI Soekarno)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(kedatangan mantan presiden RI)-(Megawati)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kedatangan mantan presiden RI)-(pedagang itu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kedatangan mantan presiden RI)-(pinggir toko)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kedatangan mantan presiden RI)-(Megawati)]";false;true;false;false;true;false;false;OTHER;PERSON
+"[(kedatangan mantan presiden RI)-(mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(kedatangan mantan presiden RI)-(satu persatu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kedatangan mantan presiden RI)-(dupa berlogo PDIP dan kandidat PAS)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kedatangan mantan presiden RI)-(Wisatawan pengunjung Pasar Seni Guang)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kedatangan mantan presiden RI)-(Megawati)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kedatangan mantan presiden RI)-(Mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(kedatangan mantan presiden RI)-(dupa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kedatangan mantan presiden RI)-(Megawati)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kedatangan mantan presiden RI)-(Megawati)]";false;true;false;false;true;false;false;OTHER;PERSON
+"[(kedatangan mantan presiden RI)-(diri)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kedatangan mantan presiden RI)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(kedatangan mantan presiden RI)-(seorang pedagang)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kedatangan mantan presiden RI)-(kaos)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kedatangan mantan presiden RI)-(biru dan kuning)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kedatangan mantan presiden RI)-(merah)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(kedatangan mantan presiden RI)-(Megawati)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kedatangan mantan presiden RI)-(Megawati)]";false;true;false;false;true;false;false;OTHER;PERSON
+"[(kedatangan mantan presiden RI)-(kaki)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kedatangan mantan presiden RI)-(pasar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kedatangan mantan presiden RI)-(persatu pedagang dan warga)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kedatangan mantan presiden RI)-(Sesekali Megawati)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kedatangan mantan presiden RI)-(harga baju)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kedatangan mantan presiden RI)-(pasar seni terbesar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kedatangan mantan presiden RI)-(Bali)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(pedagang)-(mayoritas perempuan itu)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(pedagang)-("Ibu Mega)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pedagang)-(Ibu Mega belanja)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pedagang)-(sini," teriak para)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pedagang)-(pedagang)]";true;true;false;false;false;false;true;OTHER;OTHER
+"[(pedagang)-(Mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(pedagang)-(putri mantan presiden pertama)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pedagang)-(RI Soekarno)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(pedagang)-(Megawati)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pedagang)-(pedagang itu)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(pedagang)-(pinggir toko)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pedagang)-(Megawati)]";false;true;false;false;true;false;false;OTHER;PERSON
+"[(pedagang)-(mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(pedagang)-(satu persatu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pedagang)-(dupa berlogo PDIP dan kandidat PAS)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pedagang)-(Wisatawan pengunjung Pasar Seni Guang)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pedagang)-(Megawati)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pedagang)-(Mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(pedagang)-(dupa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pedagang)-(Megawati)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pedagang)-(Megawati)]";false;true;false;false;true;false;false;OTHER;PERSON
+"[(pedagang)-(diri)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pedagang)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(pedagang)-(seorang pedagang)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(pedagang)-(kaos)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pedagang)-(biru dan kuning)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pedagang)-(merah)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(pedagang)-(Megawati)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pedagang)-(Megawati)]";false;true;false;false;true;false;false;OTHER;PERSON
+"[(pedagang)-(kaki)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pedagang)-(pasar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pedagang)-(persatu pedagang dan warga)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(pedagang)-(Sesekali Megawati)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pedagang)-(harga baju)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pedagang)-(pasar seni terbesar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pedagang)-(Bali)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(mayoritas perempuan itu)-("Ibu Mega)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(mayoritas perempuan itu)-(Ibu Mega belanja)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(mayoritas perempuan itu)-(sini," teriak para)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(mayoritas perempuan itu)-(pedagang)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(mayoritas perempuan itu)-(Mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(mayoritas perempuan itu)-(putri mantan presiden pertama)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(mayoritas perempuan itu)-(RI Soekarno)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(mayoritas perempuan itu)-(Megawati)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(mayoritas perempuan itu)-(pedagang itu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(mayoritas perempuan itu)-(pinggir toko)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(mayoritas perempuan itu)-(Megawati)]";false;true;false;false;true;false;false;OTHER;PERSON
+"[(mayoritas perempuan itu)-(mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(mayoritas perempuan itu)-(satu persatu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(mayoritas perempuan itu)-(dupa berlogo PDIP dan kandidat PAS)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(mayoritas perempuan itu)-(Wisatawan pengunjung Pasar Seni Guang)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(mayoritas perempuan itu)-(Megawati)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(mayoritas perempuan itu)-(Mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(mayoritas perempuan itu)-(dupa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(mayoritas perempuan itu)-(Megawati)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(mayoritas perempuan itu)-(Megawati)]";false;true;false;false;true;false;false;OTHER;PERSON
+"[(mayoritas perempuan itu)-(diri)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(mayoritas perempuan itu)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(mayoritas perempuan itu)-(seorang pedagang)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(mayoritas perempuan itu)-(kaos)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(mayoritas perempuan itu)-(biru dan kuning)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(mayoritas perempuan itu)-(merah)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(mayoritas perempuan itu)-(Megawati)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(mayoritas perempuan itu)-(Megawati)]";false;true;false;false;true;false;false;OTHER;PERSON
+"[(mayoritas perempuan itu)-(kaki)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(mayoritas perempuan itu)-(pasar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(mayoritas perempuan itu)-(persatu pedagang dan warga)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(mayoritas perempuan itu)-(Sesekali Megawati)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(mayoritas perempuan itu)-(harga baju)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(mayoritas perempuan itu)-(pasar seni terbesar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(mayoritas perempuan itu)-(Bali)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[("Ibu Mega)-(Ibu Mega belanja)]";false;false;false;false;false;true;false;OTHER;PERSON
+"[("Ibu Mega)-(sini," teriak para)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[("Ibu Mega)-(pedagang)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[("Ibu Mega)-(Mereka)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[("Ibu Mega)-(putri mantan presiden pertama)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Ibu Mega)-(RI Soekarno)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[("Ibu Mega)-(Megawati)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[("Ibu Mega)-(pedagang itu)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Ibu Mega)-(pinggir toko)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Ibu Mega)-(Megawati)]";false;false;false;false;true;false;false;OTHER;PERSON
+"[("Ibu Mega)-(mereka)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[("Ibu Mega)-(satu persatu)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Ibu Mega)-(dupa berlogo PDIP dan kandidat PAS)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Ibu Mega)-(Wisatawan pengunjung Pasar Seni Guang)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[("Ibu Mega)-(Megawati)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[("Ibu Mega)-(Mereka)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[("Ibu Mega)-(dupa)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Ibu Mega)-(Megawati)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[("Ibu Mega)-(Megawati)]";false;false;false;false;true;false;false;OTHER;PERSON
+"[("Ibu Mega)-(diri)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Ibu Mega)-(ia)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[("Ibu Mega)-(seorang pedagang)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Ibu Mega)-(kaos)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Ibu Mega)-(biru dan kuning)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Ibu Mega)-(merah)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[("Ibu Mega)-(Megawati)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[("Ibu Mega)-(Megawati)]";false;false;false;false;true;false;false;OTHER;PERSON
+"[("Ibu Mega)-(kaki)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Ibu Mega)-(pasar)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Ibu Mega)-(persatu pedagang dan warga)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Ibu Mega)-(Sesekali Megawati)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[("Ibu Mega)-(harga baju)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Ibu Mega)-(pasar seni terbesar)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Ibu Mega)-(Bali)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(Ibu Mega belanja)-(sini," teriak para)]";false;false;false;false;false;true;false;PERSON;OTHER
+"[(Ibu Mega belanja)-(pedagang)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Ibu Mega belanja)-(Mereka)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Ibu Mega belanja)-(putri mantan presiden pertama)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ibu Mega belanja)-(RI Soekarno)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Ibu Mega belanja)-(Megawati)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Ibu Mega belanja)-(pedagang itu)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ibu Mega belanja)-(pinggir toko)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ibu Mega belanja)-(Megawati)]";false;true;false;false;true;false;false;PERSON;PERSON
+"[(Ibu Mega belanja)-(mereka)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Ibu Mega belanja)-(satu persatu)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ibu Mega belanja)-(dupa berlogo PDIP dan kandidat PAS)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ibu Mega belanja)-(Wisatawan pengunjung Pasar Seni Guang)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Ibu Mega belanja)-(Megawati)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Ibu Mega belanja)-(Mereka)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Ibu Mega belanja)-(dupa)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ibu Mega belanja)-(Megawati)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Ibu Mega belanja)-(Megawati)]";false;true;false;false;true;false;false;PERSON;PERSON
+"[(Ibu Mega belanja)-(diri)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ibu Mega belanja)-(ia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Ibu Mega belanja)-(seorang pedagang)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ibu Mega belanja)-(kaos)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ibu Mega belanja)-(biru dan kuning)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ibu Mega belanja)-(merah)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Ibu Mega belanja)-(Megawati)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Ibu Mega belanja)-(Megawati)]";false;true;false;false;true;false;false;PERSON;PERSON
+"[(Ibu Mega belanja)-(kaki)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ibu Mega belanja)-(pasar)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ibu Mega belanja)-(persatu pedagang dan warga)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ibu Mega belanja)-(Sesekali Megawati)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Ibu Mega belanja)-(harga baju)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ibu Mega belanja)-(pasar seni terbesar)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Ibu Mega belanja)-(Bali)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(sini," teriak para)-(pedagang)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(sini," teriak para)-(Mereka)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(sini," teriak para)-(putri mantan presiden pertama)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(sini," teriak para)-(RI Soekarno)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(sini," teriak para)-(Megawati)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(sini," teriak para)-(pedagang itu)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(sini," teriak para)-(pinggir toko)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(sini," teriak para)-(Megawati)]";false;false;false;false;true;false;false;OTHER;PERSON
+"[(sini," teriak para)-(mereka)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(sini," teriak para)-(satu persatu)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(sini," teriak para)-(dupa berlogo PDIP dan kandidat PAS)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(sini," teriak para)-(Wisatawan pengunjung Pasar Seni Guang)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(sini," teriak para)-(Megawati)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(sini," teriak para)-(Mereka)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(sini," teriak para)-(dupa)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(sini," teriak para)-(Megawati)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(sini," teriak para)-(Megawati)]";false;false;false;false;true;false;false;OTHER;PERSON
+"[(sini," teriak para)-(diri)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(sini," teriak para)-(ia)]";false;false;false;false;true;false;true;OTHER;OTHER
+"[(sini," teriak para)-(seorang pedagang)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(sini," teriak para)-(kaos)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(sini," teriak para)-(biru dan kuning)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(sini," teriak para)-(merah)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(sini," teriak para)-(Megawati)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(sini," teriak para)-(Megawati)]";false;false;false;false;true;false;false;OTHER;PERSON
+"[(sini," teriak para)-(kaki)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(sini," teriak para)-(pasar)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(sini," teriak para)-(persatu pedagang dan warga)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(sini," teriak para)-(Sesekali Megawati)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(sini," teriak para)-(harga baju)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(sini," teriak para)-(pasar seni terbesar)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(sini," teriak para)-(Bali)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(pedagang)-(Mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(pedagang)-(putri mantan presiden pertama)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pedagang)-(RI Soekarno)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(pedagang)-(Megawati)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pedagang)-(pedagang itu)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(pedagang)-(pinggir toko)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pedagang)-(Megawati)]";false;true;false;false;true;false;false;OTHER;PERSON
+"[(pedagang)-(mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(pedagang)-(satu persatu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pedagang)-(dupa berlogo PDIP dan kandidat PAS)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pedagang)-(Wisatawan pengunjung Pasar Seni Guang)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pedagang)-(Megawati)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pedagang)-(Mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(pedagang)-(dupa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pedagang)-(Megawati)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pedagang)-(Megawati)]";false;true;false;false;true;false;false;OTHER;PERSON
+"[(pedagang)-(diri)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pedagang)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(pedagang)-(seorang pedagang)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(pedagang)-(kaos)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pedagang)-(biru dan kuning)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pedagang)-(merah)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(pedagang)-(Megawati)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pedagang)-(Megawati)]";false;true;false;false;true;false;false;OTHER;PERSON
+"[(pedagang)-(kaki)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pedagang)-(pasar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pedagang)-(persatu pedagang dan warga)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(pedagang)-(Sesekali Megawati)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pedagang)-(harga baju)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pedagang)-(pasar seni terbesar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pedagang)-(Bali)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(Mereka)-(putri mantan presiden pertama)]";false;true;false;true;false;true;false;OTHER;OTHER
+"[(Mereka)-(RI Soekarno)]";false;true;false;true;false;true;false;OTHER;LOCATION
+"[(Mereka)-(Megawati)]";false;true;false;true;false;false;false;OTHER;PERSON
+"[(Mereka)-(pedagang itu)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(pinggir toko)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(Megawati)]";false;true;false;true;true;false;false;OTHER;PERSON
+"[(Mereka)-(mereka)]";true;true;false;true;true;false;false;OTHER;OTHER
+"[(Mereka)-(satu persatu)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(dupa berlogo PDIP dan kandidat PAS)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(Wisatawan pengunjung Pasar Seni Guang)]";false;true;false;true;false;false;false;OTHER;PERSON
+"[(Mereka)-(Megawati)]";false;true;false;true;false;false;false;OTHER;PERSON
+"[(Mereka)-(Mereka)]";true;true;false;true;true;false;true;OTHER;OTHER
+"[(Mereka)-(dupa)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(Megawati)]";false;true;false;true;false;false;false;OTHER;PERSON
+"[(Mereka)-(Megawati)]";false;true;false;true;true;false;false;OTHER;PERSON
+"[(Mereka)-(diri)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(ia)]";false;true;false;true;true;false;false;OTHER;OTHER
+"[(Mereka)-(seorang pedagang)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(kaos)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(biru dan kuning)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(merah)]";false;true;false;true;true;false;false;OTHER;OTHER
+"[(Mereka)-(Megawati)]";false;true;false;true;false;false;false;OTHER;PERSON
+"[(Mereka)-(Megawati)]";false;true;false;true;true;false;false;OTHER;PERSON
+"[(Mereka)-(kaki)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(pasar)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(persatu pedagang dan warga)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(Sesekali Megawati)]";false;true;false;true;false;false;false;OTHER;PERSON
+"[(Mereka)-(harga baju)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(pasar seni terbesar)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(Bali)]";false;true;false;true;false;false;false;OTHER;LOCATION
+"[(putri mantan presiden pertama)-(RI Soekarno)]";false;true;false;false;false;true;false;OTHER;LOCATION
+"[(putri mantan presiden pertama)-(Megawati)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(putri mantan presiden pertama)-(pedagang itu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(putri mantan presiden pertama)-(pinggir toko)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(putri mantan presiden pertama)-(Megawati)]";false;true;false;false;true;false;false;OTHER;PERSON
+"[(putri mantan presiden pertama)-(mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(putri mantan presiden pertama)-(satu persatu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(putri mantan presiden pertama)-(dupa berlogo PDIP dan kandidat PAS)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(putri mantan presiden pertama)-(Wisatawan pengunjung Pasar Seni Guang)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(putri mantan presiden pertama)-(Megawati)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(putri mantan presiden pertama)-(Mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(putri mantan presiden pertama)-(dupa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(putri mantan presiden pertama)-(Megawati)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(putri mantan presiden pertama)-(Megawati)]";false;true;false;false;true;false;false;OTHER;PERSON
+"[(putri mantan presiden pertama)-(diri)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(putri mantan presiden pertama)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(putri mantan presiden pertama)-(seorang pedagang)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(putri mantan presiden pertama)-(kaos)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(putri mantan presiden pertama)-(biru dan kuning)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(putri mantan presiden pertama)-(merah)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(putri mantan presiden pertama)-(Megawati)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(putri mantan presiden pertama)-(Megawati)]";false;true;false;false;true;false;false;OTHER;PERSON
+"[(putri mantan presiden pertama)-(kaki)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(putri mantan presiden pertama)-(pasar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(putri mantan presiden pertama)-(persatu pedagang dan warga)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(putri mantan presiden pertama)-(Sesekali Megawati)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(putri mantan presiden pertama)-(harga baju)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(putri mantan presiden pertama)-(pasar seni terbesar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(putri mantan presiden pertama)-(Bali)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(RI Soekarno)-(Megawati)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(RI Soekarno)-(pedagang itu)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(RI Soekarno)-(pinggir toko)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(RI Soekarno)-(Megawati)]";false;true;false;false;true;false;false;LOCATION;PERSON
+"[(RI Soekarno)-(mereka)]";false;true;false;false;true;false;false;LOCATION;OTHER
+"[(RI Soekarno)-(satu persatu)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(RI Soekarno)-(dupa berlogo PDIP dan kandidat PAS)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(RI Soekarno)-(Wisatawan pengunjung Pasar Seni Guang)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(RI Soekarno)-(Megawati)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(RI Soekarno)-(Mereka)]";false;true;false;false;true;false;false;LOCATION;OTHER
+"[(RI Soekarno)-(dupa)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(RI Soekarno)-(Megawati)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(RI Soekarno)-(Megawati)]";false;true;false;false;true;false;false;LOCATION;PERSON
+"[(RI Soekarno)-(diri)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(RI Soekarno)-(ia)]";false;true;false;false;true;false;false;LOCATION;OTHER
+"[(RI Soekarno)-(seorang pedagang)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(RI Soekarno)-(kaos)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(RI Soekarno)-(biru dan kuning)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(RI Soekarno)-(merah)]";false;true;false;false;true;false;false;LOCATION;OTHER
+"[(RI Soekarno)-(Megawati)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(RI Soekarno)-(Megawati)]";false;true;false;false;true;false;false;LOCATION;PERSON
+"[(RI Soekarno)-(kaki)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(RI Soekarno)-(pasar)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(RI Soekarno)-(persatu pedagang dan warga)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(RI Soekarno)-(Sesekali Megawati)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(RI Soekarno)-(harga baju)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(RI Soekarno)-(pasar seni terbesar)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(RI Soekarno)-(Bali)]";false;true;false;false;false;false;false;LOCATION;LOCATION
+"[(Megawati)-(pedagang itu)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Megawati)-(pinggir toko)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Megawati)-(Megawati)]";true;true;false;false;true;false;true;PERSON;PERSON
+"[(Megawati)-(mereka)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Megawati)-(satu persatu)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Megawati)-(dupa berlogo PDIP dan kandidat PAS)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Megawati)-(Wisatawan pengunjung Pasar Seni Guang)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Megawati)-(Megawati)]";true;true;false;false;false;false;true;PERSON;PERSON
+"[(Megawati)-(Mereka)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Megawati)-(dupa)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Megawati)-(Megawati)]";true;true;false;false;false;false;true;PERSON;PERSON
+"[(Megawati)-(Megawati)]";true;true;false;false;true;false;true;PERSON;PERSON
+"[(Megawati)-(diri)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Megawati)-(ia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Megawati)-(seorang pedagang)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Megawati)-(kaos)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Megawati)-(biru dan kuning)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Megawati)-(merah)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Megawati)-(Megawati)]";true;true;false;false;false;false;true;PERSON;PERSON
+"[(Megawati)-(Megawati)]";true;true;false;false;true;false;true;PERSON;PERSON
+"[(Megawati)-(kaki)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Megawati)-(pasar)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Megawati)-(persatu pedagang dan warga)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Megawati)-(Sesekali Megawati)]";false;true;false;false;false;false;true;PERSON;PERSON
+"[(Megawati)-(harga baju)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Megawati)-(pasar seni terbesar)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Megawati)-(Bali)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(pedagang itu)-(pinggir toko)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(pedagang itu)-(Megawati)]";false;true;false;false;true;false;false;OTHER;PERSON
+"[(pedagang itu)-(mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(pedagang itu)-(satu persatu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pedagang itu)-(dupa berlogo PDIP dan kandidat PAS)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pedagang itu)-(Wisatawan pengunjung Pasar Seni Guang)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pedagang itu)-(Megawati)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pedagang itu)-(Mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(pedagang itu)-(dupa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pedagang itu)-(Megawati)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pedagang itu)-(Megawati)]";false;true;false;false;true;false;false;OTHER;PERSON
+"[(pedagang itu)-(diri)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pedagang itu)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(pedagang itu)-(seorang pedagang)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pedagang itu)-(kaos)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pedagang itu)-(biru dan kuning)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pedagang itu)-(merah)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(pedagang itu)-(Megawati)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pedagang itu)-(Megawati)]";false;true;false;false;true;false;false;OTHER;PERSON
+"[(pedagang itu)-(kaki)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pedagang itu)-(pasar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pedagang itu)-(persatu pedagang dan warga)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pedagang itu)-(Sesekali Megawati)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pedagang itu)-(harga baju)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pedagang itu)-(pasar seni terbesar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pedagang itu)-(Bali)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(pinggir toko)-(Megawati)]";false;true;false;false;true;false;false;OTHER;PERSON
+"[(pinggir toko)-(mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(pinggir toko)-(satu persatu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pinggir toko)-(dupa berlogo PDIP dan kandidat PAS)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pinggir toko)-(Wisatawan pengunjung Pasar Seni Guang)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pinggir toko)-(Megawati)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pinggir toko)-(Mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(pinggir toko)-(dupa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pinggir toko)-(Megawati)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pinggir toko)-(Megawati)]";false;true;false;false;true;false;false;OTHER;PERSON
+"[(pinggir toko)-(diri)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pinggir toko)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(pinggir toko)-(seorang pedagang)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pinggir toko)-(kaos)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pinggir toko)-(biru dan kuning)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pinggir toko)-(merah)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(pinggir toko)-(Megawati)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pinggir toko)-(Megawati)]";false;true;false;false;true;false;false;OTHER;PERSON
+"[(pinggir toko)-(kaki)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pinggir toko)-(pasar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pinggir toko)-(persatu pedagang dan warga)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pinggir toko)-(Sesekali Megawati)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pinggir toko)-(harga baju)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pinggir toko)-(pasar seni terbesar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pinggir toko)-(Bali)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(Megawati)-(mereka)]";false;true;false;true;true;true;false;PERSON;OTHER
+"[(Megawati)-(satu persatu)]";false;true;false;true;false;true;false;PERSON;OTHER
+"[(Megawati)-(dupa berlogo PDIP dan kandidat PAS)]";false;true;false;true;false;true;false;PERSON;OTHER
+"[(Megawati)-(Wisatawan pengunjung Pasar Seni Guang)]";false;true;false;true;false;false;false;PERSON;PERSON
+"[(Megawati)-(Megawati)]";true;true;false;true;false;false;true;PERSON;PERSON
+"[(Megawati)-(Mereka)]";false;true;false;true;true;false;false;PERSON;OTHER
+"[(Megawati)-(dupa)]";false;true;false;true;false;false;false;PERSON;OTHER
+"[(Megawati)-(Megawati)]";true;true;false;true;false;false;true;PERSON;PERSON
+"[(Megawati)-(Megawati)]";true;true;false;true;true;false;true;PERSON;PERSON
+"[(Megawati)-(diri)]";false;true;false;true;false;false;false;PERSON;OTHER
+"[(Megawati)-(ia)]";false;true;false;true;true;false;false;PERSON;OTHER
+"[(Megawati)-(seorang pedagang)]";false;true;false;true;false;false;false;PERSON;OTHER
+"[(Megawati)-(kaos)]";false;true;false;true;false;false;false;PERSON;OTHER
+"[(Megawati)-(biru dan kuning)]";false;true;false;true;false;false;false;PERSON;OTHER
+"[(Megawati)-(merah)]";false;true;false;true;true;false;false;PERSON;OTHER
+"[(Megawati)-(Megawati)]";true;true;false;true;false;false;true;PERSON;PERSON
+"[(Megawati)-(Megawati)]";true;true;false;true;true;false;true;PERSON;PERSON
+"[(Megawati)-(kaki)]";false;true;false;true;false;false;false;PERSON;OTHER
+"[(Megawati)-(pasar)]";false;true;false;true;false;false;false;PERSON;OTHER
+"[(Megawati)-(persatu pedagang dan warga)]";false;true;false;true;false;false;false;PERSON;OTHER
+"[(Megawati)-(Sesekali Megawati)]";false;true;false;true;false;false;true;PERSON;PERSON
+"[(Megawati)-(harga baju)]";false;true;false;true;false;false;false;PERSON;OTHER
+"[(Megawati)-(pasar seni terbesar)]";false;true;false;true;false;false;false;PERSON;OTHER
+"[(Megawati)-(Bali)]";false;true;false;true;false;false;false;PERSON;LOCATION
+"[(mereka)-(satu persatu)]";false;true;false;true;false;true;false;OTHER;OTHER
+"[(mereka)-(dupa berlogo PDIP dan kandidat PAS)]";false;true;false;true;false;true;false;OTHER;OTHER
+"[(mereka)-(Wisatawan pengunjung Pasar Seni Guang)]";false;true;false;true;false;false;false;OTHER;PERSON
+"[(mereka)-(Megawati)]";false;true;false;true;false;false;false;OTHER;PERSON
+"[(mereka)-(Mereka)]";true;true;false;true;true;false;false;OTHER;OTHER
+"[(mereka)-(dupa)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(mereka)-(Megawati)]";false;true;false;true;false;false;false;OTHER;PERSON
+"[(mereka)-(Megawati)]";false;true;false;true;true;false;false;OTHER;PERSON
+"[(mereka)-(diri)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(mereka)-(ia)]";false;true;false;true;true;false;false;OTHER;OTHER
+"[(mereka)-(seorang pedagang)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(mereka)-(kaos)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(mereka)-(biru dan kuning)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(mereka)-(merah)]";false;true;false;true;true;false;false;OTHER;OTHER
+"[(mereka)-(Megawati)]";false;true;false;true;false;false;false;OTHER;PERSON
+"[(mereka)-(Megawati)]";false;true;false;true;true;false;false;OTHER;PERSON
+"[(mereka)-(kaki)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(mereka)-(pasar)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(mereka)-(persatu pedagang dan warga)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(mereka)-(Sesekali Megawati)]";false;true;false;true;false;false;false;OTHER;PERSON
+"[(mereka)-(harga baju)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(mereka)-(pasar seni terbesar)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(mereka)-(Bali)]";false;true;false;true;false;false;false;OTHER;LOCATION
+"[(satu persatu)-(dupa berlogo PDIP dan kandidat PAS)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(satu persatu)-(Wisatawan pengunjung Pasar Seni Guang)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(satu persatu)-(Megawati)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(satu persatu)-(Mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(satu persatu)-(dupa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(satu persatu)-(Megawati)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(satu persatu)-(Megawati)]";false;true;false;false;true;false;false;OTHER;PERSON
+"[(satu persatu)-(diri)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(satu persatu)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(satu persatu)-(seorang pedagang)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(satu persatu)-(kaos)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(satu persatu)-(biru dan kuning)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(satu persatu)-(merah)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(satu persatu)-(Megawati)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(satu persatu)-(Megawati)]";false;true;false;false;true;false;false;OTHER;PERSON
+"[(satu persatu)-(kaki)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(satu persatu)-(pasar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(satu persatu)-(persatu pedagang dan warga)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(satu persatu)-(Sesekali Megawati)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(satu persatu)-(harga baju)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(satu persatu)-(pasar seni terbesar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(satu persatu)-(Bali)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(dupa berlogo PDIP dan kandidat PAS)-(Wisatawan pengunjung Pasar Seni Guang)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(dupa berlogo PDIP dan kandidat PAS)-(Megawati)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(dupa berlogo PDIP dan kandidat PAS)-(Mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(dupa berlogo PDIP dan kandidat PAS)-(dupa)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(dupa berlogo PDIP dan kandidat PAS)-(Megawati)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(dupa berlogo PDIP dan kandidat PAS)-(Megawati)]";false;true;false;false;true;false;false;OTHER;PERSON
+"[(dupa berlogo PDIP dan kandidat PAS)-(diri)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dupa berlogo PDIP dan kandidat PAS)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(dupa berlogo PDIP dan kandidat PAS)-(seorang pedagang)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dupa berlogo PDIP dan kandidat PAS)-(kaos)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dupa berlogo PDIP dan kandidat PAS)-(biru dan kuning)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dupa berlogo PDIP dan kandidat PAS)-(merah)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(dupa berlogo PDIP dan kandidat PAS)-(Megawati)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(dupa berlogo PDIP dan kandidat PAS)-(Megawati)]";false;true;false;false;true;false;false;OTHER;PERSON
+"[(dupa berlogo PDIP dan kandidat PAS)-(kaki)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dupa berlogo PDIP dan kandidat PAS)-(pasar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dupa berlogo PDIP dan kandidat PAS)-(persatu pedagang dan warga)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dupa berlogo PDIP dan kandidat PAS)-(Sesekali Megawati)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(dupa berlogo PDIP dan kandidat PAS)-(harga baju)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dupa berlogo PDIP dan kandidat PAS)-(pasar seni terbesar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dupa berlogo PDIP dan kandidat PAS)-(Bali)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(Wisatawan pengunjung Pasar Seni Guang)-(Megawati)]";false;true;false;false;false;true;false;PERSON;PERSON
+"[(Wisatawan pengunjung Pasar Seni Guang)-(Mereka)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Wisatawan pengunjung Pasar Seni Guang)-(dupa)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Wisatawan pengunjung Pasar Seni Guang)-(Megawati)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Wisatawan pengunjung Pasar Seni Guang)-(Megawati)]";false;true;false;false;true;false;false;PERSON;PERSON
+"[(Wisatawan pengunjung Pasar Seni Guang)-(diri)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Wisatawan pengunjung Pasar Seni Guang)-(ia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Wisatawan pengunjung Pasar Seni Guang)-(seorang pedagang)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Wisatawan pengunjung Pasar Seni Guang)-(kaos)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Wisatawan pengunjung Pasar Seni Guang)-(biru dan kuning)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Wisatawan pengunjung Pasar Seni Guang)-(merah)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Wisatawan pengunjung Pasar Seni Guang)-(Megawati)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Wisatawan pengunjung Pasar Seni Guang)-(Megawati)]";false;true;false;false;true;false;false;PERSON;PERSON
+"[(Wisatawan pengunjung Pasar Seni Guang)-(kaki)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Wisatawan pengunjung Pasar Seni Guang)-(pasar)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Wisatawan pengunjung Pasar Seni Guang)-(persatu pedagang dan warga)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Wisatawan pengunjung Pasar Seni Guang)-(Sesekali Megawati)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Wisatawan pengunjung Pasar Seni Guang)-(harga baju)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Wisatawan pengunjung Pasar Seni Guang)-(pasar seni terbesar)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Wisatawan pengunjung Pasar Seni Guang)-(Bali)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Megawati)-(Mereka)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Megawati)-(dupa)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Megawati)-(Megawati)]";true;true;false;false;false;false;true;PERSON;PERSON
+"[(Megawati)-(Megawati)]";true;true;false;false;true;false;true;PERSON;PERSON
+"[(Megawati)-(diri)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Megawati)-(ia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Megawati)-(seorang pedagang)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Megawati)-(kaos)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Megawati)-(biru dan kuning)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Megawati)-(merah)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Megawati)-(Megawati)]";true;true;false;false;false;false;true;PERSON;PERSON
+"[(Megawati)-(Megawati)]";true;true;false;false;true;false;true;PERSON;PERSON
+"[(Megawati)-(kaki)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Megawati)-(pasar)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Megawati)-(persatu pedagang dan warga)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Megawati)-(Sesekali Megawati)]";false;true;false;false;false;false;true;PERSON;PERSON
+"[(Megawati)-(harga baju)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Megawati)-(pasar seni terbesar)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Megawati)-(Bali)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Mereka)-(dupa)]";false;true;false;true;false;true;false;OTHER;OTHER
+"[(Mereka)-(Megawati)]";false;true;false;true;false;true;false;OTHER;PERSON
+"[(Mereka)-(Megawati)]";false;true;false;true;true;false;false;OTHER;PERSON
+"[(Mereka)-(diri)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(ia)]";false;true;false;true;true;false;false;OTHER;OTHER
+"[(Mereka)-(seorang pedagang)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(kaos)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(biru dan kuning)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(merah)]";false;true;false;true;true;false;false;OTHER;OTHER
+"[(Mereka)-(Megawati)]";false;true;false;true;false;false;false;OTHER;PERSON
+"[(Mereka)-(Megawati)]";false;true;false;true;true;false;false;OTHER;PERSON
+"[(Mereka)-(kaki)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(pasar)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(persatu pedagang dan warga)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(Sesekali Megawati)]";false;true;false;true;false;false;false;OTHER;PERSON
+"[(Mereka)-(harga baju)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(pasar seni terbesar)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Mereka)-(Bali)]";false;true;false;true;false;false;false;OTHER;LOCATION
+"[(dupa)-(Megawati)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(dupa)-(Megawati)]";false;true;false;false;true;false;false;OTHER;PERSON
+"[(dupa)-(diri)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dupa)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(dupa)-(seorang pedagang)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dupa)-(kaos)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dupa)-(biru dan kuning)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dupa)-(merah)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(dupa)-(Megawati)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(dupa)-(Megawati)]";false;true;false;false;true;false;false;OTHER;PERSON
+"[(dupa)-(kaki)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dupa)-(pasar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dupa)-(persatu pedagang dan warga)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dupa)-(Sesekali Megawati)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(dupa)-(harga baju)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dupa)-(pasar seni terbesar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dupa)-(Bali)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(Megawati)-(Megawati)]";true;true;false;false;true;false;true;PERSON;PERSON
+"[(Megawati)-(diri)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Megawati)-(ia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Megawati)-(seorang pedagang)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Megawati)-(kaos)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Megawati)-(biru dan kuning)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Megawati)-(merah)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Megawati)-(Megawati)]";true;true;false;false;false;false;true;PERSON;PERSON
+"[(Megawati)-(Megawati)]";true;true;false;false;true;false;true;PERSON;PERSON
+"[(Megawati)-(kaki)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Megawati)-(pasar)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Megawati)-(persatu pedagang dan warga)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Megawati)-(Sesekali Megawati)]";false;true;false;false;false;false;true;PERSON;PERSON
+"[(Megawati)-(harga baju)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Megawati)-(pasar seni terbesar)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Megawati)-(Bali)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Megawati)-(diri)]";false;true;false;true;false;true;false;PERSON;OTHER
+"[(Megawati)-(ia)]";false;true;false;true;true;true;false;PERSON;OTHER
+"[(Megawati)-(seorang pedagang)]";false;true;false;true;false;true;false;PERSON;OTHER
+"[(Megawati)-(kaos)]";false;true;false;true;false;true;false;PERSON;OTHER
+"[(Megawati)-(biru dan kuning)]";false;true;false;true;false;true;false;PERSON;OTHER
+"[(Megawati)-(merah)]";false;true;false;true;true;false;false;PERSON;OTHER
+"[(Megawati)-(Megawati)]";true;true;false;true;false;false;true;PERSON;PERSON
+"[(Megawati)-(Megawati)]";true;true;false;true;true;false;true;PERSON;PERSON
+"[(Megawati)-(kaki)]";false;true;false;true;false;false;false;PERSON;OTHER
+"[(Megawati)-(pasar)]";false;true;false;true;false;false;false;PERSON;OTHER
+"[(Megawati)-(persatu pedagang dan warga)]";false;true;false;true;false;false;false;PERSON;OTHER
+"[(Megawati)-(Sesekali Megawati)]";false;true;false;true;false;false;true;PERSON;PERSON
+"[(Megawati)-(harga baju)]";false;true;false;true;false;false;false;PERSON;OTHER
+"[(Megawati)-(pasar seni terbesar)]";false;true;false;true;false;false;false;PERSON;OTHER
+"[(Megawati)-(Bali)]";false;true;false;true;false;false;false;PERSON;LOCATION
+"[(diri)-(ia)]";false;true;false;false;true;true;false;OTHER;OTHER
+"[(diri)-(seorang pedagang)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(diri)-(kaos)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(diri)-(biru dan kuning)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(diri)-(merah)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(diri)-(Megawati)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(diri)-(Megawati)]";false;true;false;false;true;false;false;OTHER;PERSON
+"[(diri)-(kaki)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(diri)-(pasar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(diri)-(persatu pedagang dan warga)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(diri)-(Sesekali Megawati)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(diri)-(harga baju)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(diri)-(pasar seni terbesar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(diri)-(Bali)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(ia)-(seorang pedagang)]";false;true;false;true;false;true;false;OTHER;OTHER
+"[(ia)-(kaos)]";false;true;false;true;false;true;false;OTHER;OTHER
+"[(ia)-(biru dan kuning)]";false;true;false;true;false;true;false;OTHER;OTHER
+"[(ia)-(merah)]";false;true;false;true;true;false;false;OTHER;OTHER
+"[(ia)-(Megawati)]";false;true;false;true;false;false;false;OTHER;PERSON
+"[(ia)-(Megawati)]";false;true;false;true;true;false;false;OTHER;PERSON
+"[(ia)-(kaki)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(ia)-(pasar)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(ia)-(persatu pedagang dan warga)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(ia)-(Sesekali Megawati)]";false;true;false;true;false;false;false;OTHER;PERSON
+"[(ia)-(harga baju)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(ia)-(pasar seni terbesar)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(ia)-(Bali)]";false;true;false;true;false;false;false;OTHER;LOCATION
+"[(seorang pedagang)-(kaos)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(seorang pedagang)-(biru dan kuning)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(seorang pedagang)-(merah)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(seorang pedagang)-(Megawati)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(seorang pedagang)-(Megawati)]";false;true;false;false;true;false;false;OTHER;PERSON
+"[(seorang pedagang)-(kaki)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(seorang pedagang)-(pasar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(seorang pedagang)-(persatu pedagang dan warga)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(seorang pedagang)-(Sesekali Megawati)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(seorang pedagang)-(harga baju)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(seorang pedagang)-(pasar seni terbesar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(seorang pedagang)-(Bali)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(kaos)-(biru dan kuning)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(kaos)-(merah)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(kaos)-(Megawati)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kaos)-(Megawati)]";false;true;false;false;true;false;false;OTHER;PERSON
+"[(kaos)-(kaki)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kaos)-(pasar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kaos)-(persatu pedagang dan warga)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kaos)-(Sesekali Megawati)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kaos)-(harga baju)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kaos)-(pasar seni terbesar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kaos)-(Bali)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(biru dan kuning)-(merah)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(biru dan kuning)-(Megawati)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(biru dan kuning)-(Megawati)]";false;true;false;false;true;false;false;OTHER;PERSON
+"[(biru dan kuning)-(kaki)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(biru dan kuning)-(pasar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(biru dan kuning)-(persatu pedagang dan warga)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(biru dan kuning)-(Sesekali Megawati)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(biru dan kuning)-(harga baju)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(biru dan kuning)-(pasar seni terbesar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(biru dan kuning)-(Bali)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(merah)-(Megawati)]";false;true;false;true;false;true;false;OTHER;PERSON
+"[(merah)-(Megawati)]";false;true;false;true;true;false;false;OTHER;PERSON
+"[(merah)-(kaki)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(merah)-(pasar)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(merah)-(persatu pedagang dan warga)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(merah)-(Sesekali Megawati)]";false;true;false;true;false;false;false;OTHER;PERSON
+"[(merah)-(harga baju)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(merah)-(pasar seni terbesar)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(merah)-(Bali)]";false;true;false;true;false;false;false;OTHER;LOCATION
+"[(Megawati)-(Megawati)]";true;true;false;false;true;false;true;PERSON;PERSON
+"[(Megawati)-(kaki)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Megawati)-(pasar)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Megawati)-(persatu pedagang dan warga)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Megawati)-(Sesekali Megawati)]";false;true;false;false;false;false;true;PERSON;PERSON
+"[(Megawati)-(harga baju)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Megawati)-(pasar seni terbesar)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Megawati)-(Bali)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Megawati)-(kaki)]";false;true;false;true;false;true;false;PERSON;OTHER
+"[(Megawati)-(pasar)]";false;true;false;true;false;true;false;PERSON;OTHER
+"[(Megawati)-(persatu pedagang dan warga)]";false;true;false;true;false;true;false;PERSON;OTHER
+"[(Megawati)-(Sesekali Megawati)]";false;true;false;true;false;false;true;PERSON;PERSON
+"[(Megawati)-(harga baju)]";false;true;false;true;false;false;false;PERSON;OTHER
+"[(Megawati)-(pasar seni terbesar)]";false;true;false;true;false;false;false;PERSON;OTHER
+"[(Megawati)-(Bali)]";false;true;false;true;false;false;false;PERSON;LOCATION
+"[(kaki)-(pasar)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(kaki)-(persatu pedagang dan warga)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(kaki)-(Sesekali Megawati)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kaki)-(harga baju)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kaki)-(pasar seni terbesar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kaki)-(Bali)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(pasar)-(persatu pedagang dan warga)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(pasar)-(Sesekali Megawati)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pasar)-(harga baju)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pasar)-(pasar seni terbesar)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(pasar)-(Bali)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(persatu pedagang dan warga)-(Sesekali Megawati)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(persatu pedagang dan warga)-(harga baju)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persatu pedagang dan warga)-(pasar seni terbesar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(persatu pedagang dan warga)-(Bali)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(Sesekali Megawati)-(harga baju)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Sesekali Megawati)-(pasar seni terbesar)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Sesekali Megawati)-(Bali)]";false;true;false;false;false;true;false;PERSON;LOCATION
+"[(harga baju)-(pasar seni terbesar)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(harga baju)-(Bali)]";false;true;false;false;false;true;false;OTHER;LOCATION
+"[(pasar seni terbesar)-(Bali)]";false;true;false;false;false;true;false;OTHER;LOCATION

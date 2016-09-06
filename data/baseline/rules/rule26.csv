@@ -1,0 +1,407 @@
+mentions;isStrMatch;isMatchNoCasePunc;isAbbrev;isFirstPronoun;isScndPronoun;isOnOneSentence;isMatchPartial;firstNameClass;scndNameClass
+"[(Marzuki)-(konvensi capres PD Wakil Ketua Dewan Pembina Partai Demokrat)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Marzuki)-(Marzuki Alie)]";false;true;false;false;false;true;true;PERSON;PERSON
+"[(Marzuki)-(dirinya)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Marzuki)-(konvensi Partai Demokrat)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Marzuki)-(calon presiden PD)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Marzuki)-(Agustus 2013)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Marzuki)-("Saya)]";false;false;false;false;true;false;false;PERSON;OTHER
+"[(Marzuki)-(peserta konvensi,")]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Marzuki)-(Marzuki)]";true;true;false;false;false;false;true;PERSON;PERSON
+"[(Marzuki)-(News)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Marzuki)-(Jakarta)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Marzuki)-(Minggu)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Marzuki)-(Ia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Marzuki)-(bulan Juni)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Marzuki)-(Partai Demokrat)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Marzuki)-(komite seleksi calon presiden)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Marzuki)-("Nanti)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Marzuki)-(mereka)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Marzuki)-(komite atau badan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Marzuki)-(pre election capres PD,")]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Marzuki)-(Ia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Marzuki)-(Januari 2014)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Marzuki)-(panggung)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Marzuki)-(kandidat)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Marzuki)-(visi dan misi)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Marzuki)-(debat antar kandidat hingga Pemilihan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Marzuki)-(capres PD," demikian)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Marzuki)-(Marzuki)]";true;true;false;false;false;false;true;PERSON;PERSON
+"[(konvensi capres PD Wakil Ketua Dewan Pembina Partai Demokrat)-(Marzuki Alie)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(konvensi capres PD Wakil Ketua Dewan Pembina Partai Demokrat)-(dirinya)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(konvensi capres PD Wakil Ketua Dewan Pembina Partai Demokrat)-(konvensi Partai Demokrat)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(konvensi capres PD Wakil Ketua Dewan Pembina Partai Demokrat)-(calon presiden PD)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(konvensi capres PD Wakil Ketua Dewan Pembina Partai Demokrat)-(Agustus 2013)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(konvensi capres PD Wakil Ketua Dewan Pembina Partai Demokrat)-("Saya)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(konvensi capres PD Wakil Ketua Dewan Pembina Partai Demokrat)-(peserta konvensi,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(konvensi capres PD Wakil Ketua Dewan Pembina Partai Demokrat)-(Marzuki)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(konvensi capres PD Wakil Ketua Dewan Pembina Partai Demokrat)-(News)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(konvensi capres PD Wakil Ketua Dewan Pembina Partai Demokrat)-(Jakarta)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(konvensi capres PD Wakil Ketua Dewan Pembina Partai Demokrat)-(Minggu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(konvensi capres PD Wakil Ketua Dewan Pembina Partai Demokrat)-(Ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(konvensi capres PD Wakil Ketua Dewan Pembina Partai Demokrat)-(bulan Juni)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(konvensi capres PD Wakil Ketua Dewan Pembina Partai Demokrat)-(Partai Demokrat)]";false;true;false;false;false;false;true;OTHER;ORGANIZATION
+"[(konvensi capres PD Wakil Ketua Dewan Pembina Partai Demokrat)-(komite seleksi calon presiden)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(konvensi capres PD Wakil Ketua Dewan Pembina Partai Demokrat)-("Nanti)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(konvensi capres PD Wakil Ketua Dewan Pembina Partai Demokrat)-(mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(konvensi capres PD Wakil Ketua Dewan Pembina Partai Demokrat)-(komite atau badan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(konvensi capres PD Wakil Ketua Dewan Pembina Partai Demokrat)-(pre election capres PD,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(konvensi capres PD Wakil Ketua Dewan Pembina Partai Demokrat)-(Ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(konvensi capres PD Wakil Ketua Dewan Pembina Partai Demokrat)-(Januari 2014)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(konvensi capres PD Wakil Ketua Dewan Pembina Partai Demokrat)-(panggung)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(konvensi capres PD Wakil Ketua Dewan Pembina Partai Demokrat)-(kandidat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(konvensi capres PD Wakil Ketua Dewan Pembina Partai Demokrat)-(visi dan misi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(konvensi capres PD Wakil Ketua Dewan Pembina Partai Demokrat)-(debat antar kandidat hingga Pemilihan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(konvensi capres PD Wakil Ketua Dewan Pembina Partai Demokrat)-(capres PD," demikian)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(konvensi capres PD Wakil Ketua Dewan Pembina Partai Demokrat)-(Marzuki)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(Marzuki Alie)-(dirinya)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Marzuki Alie)-(konvensi Partai Demokrat)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Marzuki Alie)-(calon presiden PD)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Marzuki Alie)-(Agustus 2013)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Marzuki Alie)-("Saya)]";false;false;false;false;true;false;false;PERSON;OTHER
+"[(Marzuki Alie)-(peserta konvensi,")]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Marzuki Alie)-(Marzuki)]";false;true;false;false;false;false;true;PERSON;PERSON
+"[(Marzuki Alie)-(News)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Marzuki Alie)-(Jakarta)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Marzuki Alie)-(Minggu)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Marzuki Alie)-(Ia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Marzuki Alie)-(bulan Juni)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Marzuki Alie)-(Partai Demokrat)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Marzuki Alie)-(komite seleksi calon presiden)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Marzuki Alie)-("Nanti)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Marzuki Alie)-(mereka)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Marzuki Alie)-(komite atau badan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Marzuki Alie)-(pre election capres PD,")]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Marzuki Alie)-(Ia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Marzuki Alie)-(Januari 2014)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Marzuki Alie)-(panggung)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Marzuki Alie)-(kandidat)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Marzuki Alie)-(visi dan misi)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Marzuki Alie)-(debat antar kandidat hingga Pemilihan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Marzuki Alie)-(capres PD," demikian)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Marzuki Alie)-(Marzuki)]";false;true;false;false;false;false;true;PERSON;PERSON
+"[(dirinya)-(konvensi Partai Demokrat)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(dirinya)-(calon presiden PD)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(dirinya)-(Agustus 2013)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(dirinya)-("Saya)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(dirinya)-(peserta konvensi,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(dirinya)-(Marzuki)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(dirinya)-(News)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(dirinya)-(Jakarta)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(dirinya)-(Minggu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dirinya)-(Ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(dirinya)-(bulan Juni)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dirinya)-(Partai Demokrat)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(dirinya)-(komite seleksi calon presiden)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dirinya)-("Nanti)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(dirinya)-(mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(dirinya)-(komite atau badan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dirinya)-(pre election capres PD,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(dirinya)-(Ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(dirinya)-(Januari 2014)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dirinya)-(panggung)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dirinya)-(kandidat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dirinya)-(visi dan misi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dirinya)-(debat antar kandidat hingga Pemilihan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dirinya)-(capres PD," demikian)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(dirinya)-(Marzuki)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(konvensi Partai Demokrat)-(calon presiden PD)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(konvensi Partai Demokrat)-(Agustus 2013)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(konvensi Partai Demokrat)-("Saya)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(konvensi Partai Demokrat)-(peserta konvensi,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(konvensi Partai Demokrat)-(Marzuki)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(konvensi Partai Demokrat)-(News)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(konvensi Partai Demokrat)-(Jakarta)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(konvensi Partai Demokrat)-(Minggu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(konvensi Partai Demokrat)-(Ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(konvensi Partai Demokrat)-(bulan Juni)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(konvensi Partai Demokrat)-(Partai Demokrat)]";false;true;false;false;false;false;true;OTHER;ORGANIZATION
+"[(konvensi Partai Demokrat)-(komite seleksi calon presiden)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(konvensi Partai Demokrat)-("Nanti)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(konvensi Partai Demokrat)-(mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(konvensi Partai Demokrat)-(komite atau badan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(konvensi Partai Demokrat)-(pre election capres PD,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(konvensi Partai Demokrat)-(Ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(konvensi Partai Demokrat)-(Januari 2014)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(konvensi Partai Demokrat)-(panggung)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(konvensi Partai Demokrat)-(kandidat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(konvensi Partai Demokrat)-(visi dan misi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(konvensi Partai Demokrat)-(debat antar kandidat hingga Pemilihan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(konvensi Partai Demokrat)-(capres PD," demikian)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(konvensi Partai Demokrat)-(Marzuki)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(calon presiden PD)-(Agustus 2013)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(calon presiden PD)-("Saya)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(calon presiden PD)-(peserta konvensi,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(calon presiden PD)-(Marzuki)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(calon presiden PD)-(News)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(calon presiden PD)-(Jakarta)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(calon presiden PD)-(Minggu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(calon presiden PD)-(Ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(calon presiden PD)-(bulan Juni)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(calon presiden PD)-(Partai Demokrat)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(calon presiden PD)-(komite seleksi calon presiden)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(calon presiden PD)-("Nanti)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(calon presiden PD)-(mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(calon presiden PD)-(komite atau badan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(calon presiden PD)-(pre election capres PD,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(calon presiden PD)-(Ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(calon presiden PD)-(Januari 2014)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(calon presiden PD)-(panggung)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(calon presiden PD)-(kandidat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(calon presiden PD)-(visi dan misi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(calon presiden PD)-(debat antar kandidat hingga Pemilihan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(calon presiden PD)-(capres PD," demikian)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(calon presiden PD)-(Marzuki)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(Agustus 2013)-("Saya)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(Agustus 2013)-(peserta konvensi,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Agustus 2013)-(Marzuki)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(Agustus 2013)-(News)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(Agustus 2013)-(Jakarta)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(Agustus 2013)-(Minggu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Agustus 2013)-(Ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(Agustus 2013)-(bulan Juni)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Agustus 2013)-(Partai Demokrat)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(Agustus 2013)-(komite seleksi calon presiden)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Agustus 2013)-("Nanti)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Agustus 2013)-(mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(Agustus 2013)-(komite atau badan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Agustus 2013)-(pre election capres PD,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Agustus 2013)-(Ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(Agustus 2013)-(Januari 2014)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Agustus 2013)-(panggung)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Agustus 2013)-(kandidat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Agustus 2013)-(visi dan misi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Agustus 2013)-(debat antar kandidat hingga Pemilihan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Agustus 2013)-(capres PD," demikian)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Agustus 2013)-(Marzuki)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[("Saya)-(peserta konvensi,")]";false;false;false;true;false;true;false;OTHER;OTHER
+"[("Saya)-(Marzuki)]";false;false;false;true;false;true;false;OTHER;PERSON
+"[("Saya)-(News)]";false;false;false;true;false;true;false;OTHER;PERSON
+"[("Saya)-(Jakarta)]";false;false;false;true;false;true;false;OTHER;LOCATION
+"[("Saya)-(Minggu)]";false;false;false;true;false;true;false;OTHER;OTHER
+"[("Saya)-(Ia)]";false;false;false;true;true;false;false;OTHER;OTHER
+"[("Saya)-(bulan Juni)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[("Saya)-(Partai Demokrat)]";false;false;false;true;false;false;false;OTHER;ORGANIZATION
+"[("Saya)-(komite seleksi calon presiden)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[("Saya)-("Nanti)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[("Saya)-(mereka)]";false;false;false;true;true;false;false;OTHER;OTHER
+"[("Saya)-(komite atau badan)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[("Saya)-(pre election capres PD,")]";false;false;false;true;false;false;false;OTHER;OTHER
+"[("Saya)-(Ia)]";false;false;false;true;true;false;false;OTHER;OTHER
+"[("Saya)-(Januari 2014)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[("Saya)-(panggung)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[("Saya)-(kandidat)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[("Saya)-(visi dan misi)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[("Saya)-(debat antar kandidat hingga Pemilihan)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[("Saya)-(capres PD," demikian)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[("Saya)-(Marzuki)]";false;false;false;true;false;false;false;OTHER;PERSON
+"[(peserta konvensi,")-(Marzuki)]";false;false;false;false;false;true;false;OTHER;PERSON
+"[(peserta konvensi,")-(News)]";false;false;false;false;false;true;false;OTHER;PERSON
+"[(peserta konvensi,")-(Jakarta)]";false;false;false;false;false;true;false;OTHER;LOCATION
+"[(peserta konvensi,")-(Minggu)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(peserta konvensi,")-(Ia)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(peserta konvensi,")-(bulan Juni)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(peserta konvensi,")-(Partai Demokrat)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(peserta konvensi,")-(komite seleksi calon presiden)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(peserta konvensi,")-("Nanti)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(peserta konvensi,")-(mereka)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(peserta konvensi,")-(komite atau badan)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(peserta konvensi,")-(pre election capres PD,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(peserta konvensi,")-(Ia)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(peserta konvensi,")-(Januari 2014)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(peserta konvensi,")-(panggung)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(peserta konvensi,")-(kandidat)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(peserta konvensi,")-(visi dan misi)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(peserta konvensi,")-(debat antar kandidat hingga Pemilihan)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(peserta konvensi,")-(capres PD," demikian)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(peserta konvensi,")-(Marzuki)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(Marzuki)-(News)]";false;true;false;false;false;true;false;PERSON;PERSON
+"[(Marzuki)-(Jakarta)]";false;true;false;false;false;true;false;PERSON;LOCATION
+"[(Marzuki)-(Minggu)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Marzuki)-(Ia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Marzuki)-(bulan Juni)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Marzuki)-(Partai Demokrat)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Marzuki)-(komite seleksi calon presiden)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Marzuki)-("Nanti)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Marzuki)-(mereka)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Marzuki)-(komite atau badan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Marzuki)-(pre election capres PD,")]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Marzuki)-(Ia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Marzuki)-(Januari 2014)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Marzuki)-(panggung)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Marzuki)-(kandidat)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Marzuki)-(visi dan misi)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Marzuki)-(debat antar kandidat hingga Pemilihan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Marzuki)-(capres PD," demikian)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Marzuki)-(Marzuki)]";true;true;false;false;false;false;true;PERSON;PERSON
+"[(News)-(Jakarta)]";false;true;false;false;false;true;false;PERSON;LOCATION
+"[(News)-(Minggu)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(News)-(Ia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(News)-(bulan Juni)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(News)-(Partai Demokrat)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(News)-(komite seleksi calon presiden)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(News)-("Nanti)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(News)-(mereka)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(News)-(komite atau badan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(News)-(pre election capres PD,")]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(News)-(Ia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(News)-(Januari 2014)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(News)-(panggung)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(News)-(kandidat)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(News)-(visi dan misi)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(News)-(debat antar kandidat hingga Pemilihan)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(News)-(capres PD," demikian)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(News)-(Marzuki)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Jakarta)-(Minggu)]";false;true;false;false;false;true;false;LOCATION;OTHER
+"[(Jakarta)-(Ia)]";false;true;false;false;true;false;false;LOCATION;OTHER
+"[(Jakarta)-(bulan Juni)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jakarta)-(Partai Demokrat)]";false;true;false;false;false;false;false;LOCATION;ORGANIZATION
+"[(Jakarta)-(komite seleksi calon presiden)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jakarta)-("Nanti)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Jakarta)-(mereka)]";false;true;false;false;true;false;false;LOCATION;OTHER
+"[(Jakarta)-(komite atau badan)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jakarta)-(pre election capres PD,")]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Jakarta)-(Ia)]";false;true;false;false;true;false;false;LOCATION;OTHER
+"[(Jakarta)-(Januari 2014)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jakarta)-(panggung)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jakarta)-(kandidat)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jakarta)-(visi dan misi)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jakarta)-(debat antar kandidat hingga Pemilihan)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jakarta)-(capres PD," demikian)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Jakarta)-(Marzuki)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Minggu)-(Ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(Minggu)-(bulan Juni)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Minggu)-(Partai Demokrat)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(Minggu)-(komite seleksi calon presiden)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Minggu)-("Nanti)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Minggu)-(mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(Minggu)-(komite atau badan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Minggu)-(pre election capres PD,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Minggu)-(Ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(Minggu)-(Januari 2014)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Minggu)-(panggung)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Minggu)-(kandidat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Minggu)-(visi dan misi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Minggu)-(debat antar kandidat hingga Pemilihan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Minggu)-(capres PD," demikian)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Minggu)-(Marzuki)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(Ia)-(bulan Juni)]";false;true;false;true;false;true;false;OTHER;OTHER
+"[(Ia)-(Partai Demokrat)]";false;true;false;true;false;true;false;OTHER;ORGANIZATION
+"[(Ia)-(komite seleksi calon presiden)]";false;true;false;true;false;true;false;OTHER;OTHER
+"[(Ia)-("Nanti)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(Ia)-(mereka)]";false;true;false;true;true;false;false;OTHER;OTHER
+"[(Ia)-(komite atau badan)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Ia)-(pre election capres PD,")]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(Ia)-(Ia)]";true;true;false;true;true;false;true;OTHER;OTHER
+"[(Ia)-(Januari 2014)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Ia)-(panggung)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Ia)-(kandidat)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Ia)-(visi dan misi)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Ia)-(debat antar kandidat hingga Pemilihan)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Ia)-(capres PD," demikian)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(Ia)-(Marzuki)]";false;true;false;true;false;false;false;OTHER;PERSON
+"[(bulan Juni)-(Partai Demokrat)]";false;true;false;false;false;true;false;OTHER;ORGANIZATION
+"[(bulan Juni)-(komite seleksi calon presiden)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(bulan Juni)-("Nanti)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(bulan Juni)-(mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(bulan Juni)-(komite atau badan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bulan Juni)-(pre election capres PD,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(bulan Juni)-(Ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(bulan Juni)-(Januari 2014)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bulan Juni)-(panggung)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bulan Juni)-(kandidat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bulan Juni)-(visi dan misi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bulan Juni)-(debat antar kandidat hingga Pemilihan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bulan Juni)-(capres PD," demikian)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(bulan Juni)-(Marzuki)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(Partai Demokrat)-(komite seleksi calon presiden)]";false;true;false;false;false;true;false;ORGANIZATION;OTHER
+"[(Partai Demokrat)-("Nanti)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Partai Demokrat)-(mereka)]";false;true;false;false;true;false;false;ORGANIZATION;OTHER
+"[(Partai Demokrat)-(komite atau badan)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Partai Demokrat)-(pre election capres PD,")]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Partai Demokrat)-(Ia)]";false;true;false;false;true;false;false;ORGANIZATION;OTHER
+"[(Partai Demokrat)-(Januari 2014)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Partai Demokrat)-(panggung)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Partai Demokrat)-(kandidat)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Partai Demokrat)-(visi dan misi)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Partai Demokrat)-(debat antar kandidat hingga Pemilihan)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Partai Demokrat)-(capres PD," demikian)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Partai Demokrat)-(Marzuki)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(komite seleksi calon presiden)-("Nanti)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(komite seleksi calon presiden)-(mereka)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(komite seleksi calon presiden)-(komite atau badan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(komite seleksi calon presiden)-(pre election capres PD,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(komite seleksi calon presiden)-(Ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(komite seleksi calon presiden)-(Januari 2014)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(komite seleksi calon presiden)-(panggung)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(komite seleksi calon presiden)-(kandidat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(komite seleksi calon presiden)-(visi dan misi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(komite seleksi calon presiden)-(debat antar kandidat hingga Pemilihan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(komite seleksi calon presiden)-(capres PD," demikian)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(komite seleksi calon presiden)-(Marzuki)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[("Nanti)-(mereka)]";false;false;false;false;true;true;false;OTHER;OTHER
+"[("Nanti)-(komite atau badan)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[("Nanti)-(pre election capres PD,")]";false;false;false;false;false;true;false;OTHER;OTHER
+"[("Nanti)-(Ia)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[("Nanti)-(Januari 2014)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Nanti)-(panggung)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Nanti)-(kandidat)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Nanti)-(visi dan misi)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Nanti)-(debat antar kandidat hingga Pemilihan)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Nanti)-(capres PD," demikian)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[("Nanti)-(Marzuki)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(mereka)-(komite atau badan)]";false;true;false;true;false;true;false;OTHER;OTHER
+"[(mereka)-(pre election capres PD,")]";false;false;false;true;false;true;false;OTHER;OTHER
+"[(mereka)-(Ia)]";false;true;false;true;true;false;false;OTHER;OTHER
+"[(mereka)-(Januari 2014)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(mereka)-(panggung)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(mereka)-(kandidat)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(mereka)-(visi dan misi)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(mereka)-(debat antar kandidat hingga Pemilihan)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(mereka)-(capres PD," demikian)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(mereka)-(Marzuki)]";false;true;false;true;false;false;false;OTHER;PERSON
+"[(komite atau badan)-(pre election capres PD,")]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(komite atau badan)-(Ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(komite atau badan)-(Januari 2014)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(komite atau badan)-(panggung)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(komite atau badan)-(kandidat)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(komite atau badan)-(visi dan misi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(komite atau badan)-(debat antar kandidat hingga Pemilihan)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(komite atau badan)-(capres PD," demikian)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(komite atau badan)-(Marzuki)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pre election capres PD,")-(Ia)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(pre election capres PD,")-(Januari 2014)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pre election capres PD,")-(panggung)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pre election capres PD,")-(kandidat)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pre election capres PD,")-(visi dan misi)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pre election capres PD,")-(debat antar kandidat hingga Pemilihan)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pre election capres PD,")-(capres PD," demikian)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pre election capres PD,")-(Marzuki)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(Ia)-(Januari 2014)]";false;true;false;true;false;true;false;OTHER;OTHER
+"[(Ia)-(panggung)]";false;true;false;true;false;true;false;OTHER;OTHER
+"[(Ia)-(kandidat)]";false;true;false;true;false;true;false;OTHER;OTHER
+"[(Ia)-(visi dan misi)]";false;true;false;true;false;true;false;OTHER;OTHER
+"[(Ia)-(debat antar kandidat hingga Pemilihan)]";false;true;false;true;false;true;false;OTHER;OTHER
+"[(Ia)-(capres PD," demikian)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(Ia)-(Marzuki)]";false;true;false;true;false;false;false;OTHER;PERSON
+"[(Januari 2014)-(panggung)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(Januari 2014)-(kandidat)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(Januari 2014)-(visi dan misi)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(Januari 2014)-(debat antar kandidat hingga Pemilihan)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(Januari 2014)-(capres PD," demikian)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Januari 2014)-(Marzuki)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(panggung)-(kandidat)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(panggung)-(visi dan misi)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(panggung)-(debat antar kandidat hingga Pemilihan)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(panggung)-(capres PD," demikian)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(panggung)-(Marzuki)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kandidat)-(visi dan misi)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(kandidat)-(debat antar kandidat hingga Pemilihan)]";false;true;false;false;false;true;true;OTHER;OTHER
+"[(kandidat)-(capres PD," demikian)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(kandidat)-(Marzuki)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(visi dan misi)-(debat antar kandidat hingga Pemilihan)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(visi dan misi)-(capres PD," demikian)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(visi dan misi)-(Marzuki)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(debat antar kandidat hingga Pemilihan)-(capres PD," demikian)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(debat antar kandidat hingga Pemilihan)-(Marzuki)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(capres PD," demikian)-(Marzuki)]";false;false;false;false;false;true;false;OTHER;PERSON

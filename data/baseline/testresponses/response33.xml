@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>Kabupaten Pamekasan,</Mention>
+        <Mention>Pamekasan</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>kunci jawaban palsu</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>Jawa Timur,</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>kunci jawaban ujian nasional</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>SMP</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>Dinas Pendidikan setempat</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>kunci jawaban</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>luas itu</Mention>
+    </Entity>
+    <Entity ClusterId="9">
+        <Mention>palsu</Mention>
+    </Entity>
+    <Entity ClusterId="10">
+        <Mention>kunci jawaban soal UN itu</Mention>
+    </Entity>
+    <Entity ClusterId="11">
+        <Mention>oknum</Mention>
+    </Entity>
+    <Entity ClusterId="12">
+        <Mention>situasi</Mention>
+    </Entity>
+    <Entity ClusterId="13">
+        <Mention>pelaksanaan ujian</Mention>
+    </Entity>
+    <Entity ClusterId="14">
+        <Mention>kondusif,"</Mention>
+    </Entity>
+    <Entity ClusterId="15">
+        <Mention>Kabid Kurikulum Dinas Pendidikan Pamekasan</Mention>
+    </Entity>
+    <Entity ClusterId="16">
+        <Mention>Moh Tarsun</Mention>
+        <Mention>Moh Tarsun,</Mention>
+        <Mention>Tarsun</Mention>
+    </Entity>
+    <Entity ClusterId="17">
+        <Mention>Kamis</Mention>
+    </Entity>
+    <Entity ClusterId="18">
+        <Mention>pihaknya</Mention>
+    </Entity>
+    <Entity ClusterId="19">
+        <Mention>UN</Mention>
+    </Entity>
+    <Entity ClusterId="20">
+        <Mention>kebocoran soal UN</Mention>
+    </Entity>
+    <Entity ClusterId="21">
+        <Mention>"Hasil pantauan</Mention>
+    </Entity>
+    <Entity ClusterId="22">
+        <Mention>Senin</Mention>
+    </Entity>
+    <Entity ClusterId="23">
+        <Mention>aman,"</Mention>
+    </Entity>
+    <Entity ClusterId="24">
+        <Mention>pihak panitia dan pengawas ujian</Mention>
+    </Entity>
+    <Entity ClusterId="25">
+        <Mention>adanya</Mention>
+    </Entity>
+    <Entity ClusterId="26">
+        <Mention>selebaran</Mention>
+    </Entity>
+    <Entity ClusterId="27">
+        <Mention>kunci jawaban naskah soal ujian saat pelaksanaan UN hari pertama</Mention>
+    </Entity>
+    <Entity ClusterId="28">
+        <Mention>masalah ini</Mention>
+    </Entity>
+    <Entity ClusterId="29">
+        <Mention>hari pertama</Mention>
+    </Entity>
+    <Entity ClusterId="30">
+        <Mention>hari kedua</Mention>
+    </Entity>
+    <Entity ClusterId="31">
+        <Mention>hari terakhir,</Mention>
+    </Entity>
+    <Entity ClusterId="32">
+        <Mention>isu penyebaran kunci jawaban dan siswa</Mention>
+    </Entity>
+    <Entity ClusterId="33">
+        <Mention>siswa SMP</Mention>
+    </Entity>
+    <Entity ClusterId="34">
+        <Mention>ujian nasional</Mention>
+    </Entity>
+    <Entity ClusterId="35">
+        <Mention>kali ini</Mention>
+    </Entity>
+    <Entity ClusterId="36">
+        <Mention>14.730 orang siswa</Mention>
+    </Entity>
+    <Entity ClusterId="37">
+        <Mention>Rinciannya</Mention>
+    </Entity>
+    <Entity ClusterId="38">
+        <Mention>6.639 orang</Mention>
+    </Entity>
+    <Entity ClusterId="39">
+        <Mention>77 lembaga penyelenggaran</Mention>
+    </Entity>
+    <Entity ClusterId="40">
+        <Mention>lembaga penggabung dan siswa Madrasah Tsanawiyah</Mention>
+    </Entity>
+    <Entity ClusterId="41">
+        <Mention>MTs</Mention>
+    </Entity>
+    <Entity ClusterId="42">
+        <Mention>8.091 orang siswa</Mention>
+    </Entity>
+    <Entity ClusterId="43">
+        <Mention>jumlah lembaga penyelenggara 107</Mention>
+    </Entity>
+    <Entity ClusterId="44">
+        <Mention>lembaga penggabung sebanyak</Mention>
+    </Entity>
+    <Entity ClusterId="45">
+        <Mention>77 lembaga</Mention>
+    </Entity>
+    <Entity ClusterId="46">
+        <Mention>pelaksanaan ujian nasional,</Mention>
+    </Entity>
+    <Entity ClusterId="47">
+        <Mention>tiga orang siswa</Mention>
+    </Entity>
+    <Entity ClusterId="48">
+        <Mention>ujian karena alasan</Mention>
+    </Entity>
+    <Entity ClusterId="49">
+        <Mention>orang siswa itu</Mention>
+    </Entity>
+    <Entity ClusterId="50">
+        <Mention>semuanya siswa Madrasah Tsanawiyah</Mention>
+    </Entity>
+    <Entity ClusterId="51">
+        <Mention>orang siswa ini</Mention>
+    </Entity>
+    <Entity ClusterId="52">
+        <Mention>nantinya</Mention>
+    </Entity>
+    <Entity ClusterId="53">
+        <Mention>ujian susulan</Mention>
+    </Entity>
+</CoreferenceChain>

@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>Tim Maung Bandung</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>striker asal Kamerun</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>Dzumafo</Mention>
+        <Mention>Herman Dzumafo</Mention>
+        <Mention>Herman Dzumafo Epandi</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>pemain pengganti</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>tandem striker Sergio van Dijk</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>latihan pertama</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>Persib</Mention>
+        <Mention>Persib Bandung</Mention>
+        <Mention>Persib Bandung,</Mention>
+        <Mention>Persib,</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>lapangan Pusdikpom Cimahi,</Mention>
+    </Entity>
+    <Entity ClusterId="9">
+        <Mention>Selasa</Mention>
+    </Entity>
+    <Entity ClusterId="10">
+        <Mention>pemain</Mention>
+    </Entity>
+    <Entity ClusterId="11">
+        <Mention>lainnya</Mention>
+    </Entity>
+    <Entity ClusterId="12">
+        <Mention>bawah arahan pelatih fisik Dino Sefrianto</Mention>
+    </Entity>
+    <Entity ClusterId="13">
+        <Mention>empat hari</Mention>
+    </Entity>
+    <Entity ClusterId="14">
+        <Mention>laga terakhir</Mention>
+    </Entity>
+    <Entity ClusterId="15">
+        <Mention>Persela Lamongan</Mention>
+    </Entity>
+    <Entity ClusterId="16">
+        <Mention>imbang</Mention>
+    </Entity>
+    <Entity ClusterId="17">
+        <Mention>klasemen sementara</Mention>
+    </Entity>
+    <Entity ClusterId="18">
+        <Mention>Liga Super Indonesia</Mention>
+    </Entity>
+    <Entity ClusterId="19">
+        <Mention>pemain asing</Mention>
+    </Entity>
+    <Entity ClusterId="20">
+        <Mention>pemain pertama</Mention>
+    </Entity>
+    <Entity ClusterId="21">
+        <Mention>Mbida Messi</Mention>
+        <Mention>Mbida Messi,</Mention>
+    </Entity>
+    <Entity ClusterId="22">
+        <Mention>sebelumnya</Mention>
+    </Entity>
+    <Entity ClusterId="23">
+        <Mention>saat ini</Mention>
+    </Entity>
+    <Entity ClusterId="24">
+        <Mention>dua playmaker tim</Mention>
+    </Entity>
+    <Entity ClusterId="25">
+        <Mention>karakter berbeda</Mention>
+    </Entity>
+    <Entity ClusterId="26">
+        <Mention>tim asuhan pelatih Djajang Nurjaman</Mention>
+    </Entity>
+    <Entity ClusterId="27">
+        <Mention>gol,</Mention>
+    </Entity>
+    <Entity ClusterId="28">
+        <Mention>hadirnya Sergio van Dijk</Mention>
+    </Entity>
+    <Entity ClusterId="29">
+        <Mention>punggung 99 itu</Mention>
+    </Entity>
+    <Entity ClusterId="30">
+        <Mention>jarang</Mention>
+    </Entity>
+    <Entity ClusterId="31">
+        <Mention>gol</Mention>
+    </Entity>
+    <Entity ClusterId="32">
+        <Mention>terakhirnya</Mention>
+    </Entity>
+    <Entity ClusterId="33">
+        <Mention>gawang Persepam Pamekasan</Mention>
+    </Entity>
+    <Entity ClusterId="34">
+        <Mention>saat unggul 3-1,</Mention>
+    </Entity>
+    <Entity ClusterId="35">
+        <Mention>striker asal Kamerun itu</Mention>
+    </Entity>
+    <Entity ClusterId="36">
+        <Mention>tim Bandung</Mention>
+    </Entity>
+    <Entity ClusterId="37">
+        <Mention>tim baru</Mention>
+    </Entity>
+    <Entity ClusterId="38">
+        <Mention>asal Kamerun</Mention>
+    </Entity>
+    <Entity ClusterId="39">
+        <Mention>sejumlah klub</Mention>
+    </Entity>
+    <Entity ClusterId="40">
+        <Mention>minatnya</Mention>
+    </Entity>
+    <Entity ClusterId="41">
+        <Mention>pemain jangkung itu,</Mention>
+    </Entity>
+    <Entity ClusterId="42">
+        <Mention>Sriwijaya FC</Mention>
+    </Entity>
+    <Entity ClusterId="43">
+        <Mention>Pelita Bandung Raya dan Persisam Samarinda</Mention>
+    </Entity>
+    <Entity ClusterId="44">
+        <Mention>kepastian</Mention>
+    </Entity>
+    <Entity ClusterId="45">
+        <Mention>pemain baru</Mention>
+    </Entity>
+    <Entity ClusterId="46">
+        <Mention>posisi striker pengganti Dzumafo</Mention>
+    </Entity>
+    <Entity ClusterId="47">
+        <Mention>Saat ini,</Mention>
+    </Entity>
+    <Entity ClusterId="48">
+        <Mention>tiga striker,</Mention>
+    </Entity>
+    <Entity ClusterId="49">
+        <Mention>Sergio</Mention>
+    </Entity>
+    <Entity ClusterId="50">
+        <Mention>Kenji Adachihara</Mention>
+    </Entity>
+    <Entity ClusterId="51">
+        <Mention>Airlangga</Mention>
+    </Entity>
+    <Entity ClusterId="52">
+        <Mention>semua pemain</Mention>
+    </Entity>
+    <Entity ClusterId="53">
+        <Mention>kondisi fit</Mention>
+    </Entity>
+    <Entity ClusterId="54">
+        <Mention>Dokter tim Raffy Gani</Mention>
+    </Entity>
+    <Entity ClusterId="55">
+        <Mention>kondisi pemain cukup</Mention>
+    </Entity>
+    <Entity ClusterId="56">
+        <Mention>bagus</Mention>
+    </Entity>
+    <Entity ClusterId="57">
+        <Mention>kendala</Mention>
+    </Entity>
+    <Entity ClusterId="58">
+        <Mention>pelatih fisik Dino Sefrianto</Mention>
+    </Entity>
+    <Entity ClusterId="59">
+        <Mention>fisik pemainnya</Mention>
+    </Entity>
+    <Entity ClusterId="60">
+        <Mention>istirahat</Mention>
+    </Entity>
+    <Entity ClusterId="61">
+        <Mention>"Kondisi pemain cukup</Mention>
+    </Entity>
+    <Entity ClusterId="62">
+        <Mention>porsi latihan berat</Mention>
+    </Entity>
+    <Entity ClusterId="63">
+        <Mention>Penyesuaian dahulu</Mention>
+    </Entity>
+    <Entity ClusterId="64">
+        <Mention>kondisi pemain,"</Mention>
+    </Entity>
+    <Entity ClusterId="65">
+        <Mention>Dino</Mention>
+    </Entity>
+    <Entity ClusterId="66">
+        <Mention>pelatih Djajang Nurjaman</Mention>
+    </Entity>
+    <Entity ClusterId="67">
+        <Mention>manajemen dan komisaris PT Persib Bandung Bermartabat</Mention>
+    </Entity>
+    <Entity ClusterId="68">
+        <Mention>rapat evaluasi</Mention>
+    </Entity>
+    <Entity ClusterId="69">
+        <Mention>hasil putaran pertama</Mention>
+    </Entity>
+    <Entity ClusterId="70">
+        <Mention>rencana serta program tim</Mention>
+    </Entity>
+</CoreferenceChain>

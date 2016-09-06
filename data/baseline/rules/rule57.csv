@@ -1,0 +1,1327 @@
+mentions;isStrMatch;isMatchNoCasePunc;isAbbrev;isFirstPronoun;isScndPronoun;isOnOneSentence;isMatchPartial;firstNameClass;scndNameClass
+"[(Wamenkeu: pasar modal Indonesia)-(Asia)]";false;false;false;false;false;true;false;PERSON;LOCATION
+"[(Wamenkeu: pasar modal Indonesia)-(Wakil Menteri Keuangan Anny Ratnawati)]";false;false;false;false;false;true;false;PERSON;LOCATION
+"[(Wamenkeu: pasar modal Indonesia)-(kinerja pasar modal Indonesia)]";false;false;false;false;false;true;false;PERSON;OTHER
+"[(Wamenkeu: pasar modal Indonesia)-(kawasan Asia)]";false;false;false;false;false;true;false;PERSON;LOCATION
+"[(Wamenkeu: pasar modal Indonesia)-(Jepang dan Filipina)]";false;false;false;false;false;true;false;PERSON;LOCATION
+"[(Wamenkeu: pasar modal Indonesia)-(sisi return Indeks Harga Saham Gabungan)]";false;false;false;false;false;true;false;PERSON;OTHER
+"[(Wamenkeu: pasar modal Indonesia)-(IHSG)]";false;false;false;false;false;true;false;PERSON;ORGANIZATION
+"[(Wamenkeu: pasar modal Indonesia)-(kita)]";false;false;false;false;true;false;false;PERSON;OTHER
+"[(Wamenkeu: pasar modal Indonesia)-(Asean)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Wamenkeu: pasar modal Indonesia)-(Asia)]";false;false;false;false;false;false;false;PERSON;LOCATION
+"[(Wamenkeu: pasar modal Indonesia)-(Asia Pasifik)]";false;false;false;false;false;false;false;PERSON;LOCATION
+"[(Wamenkeu: pasar modal Indonesia)-(dan Eropa)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Wamenkeu: pasar modal Indonesia)-(kita)]";false;false;false;false;true;false;false;PERSON;OTHER
+"[(Wamenkeu: pasar modal Indonesia)-(return IHSG nomor tiga)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Wamenkeu: pasar modal Indonesia)-(Jepang)]";false;false;false;false;false;false;false;PERSON;LOCATION
+"[(Wamenkeu: pasar modal Indonesia)-(Filipina,")]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Wamenkeu: pasar modal Indonesia)-(Wamenkeu Anny Ratnawati)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Wamenkeu: pasar modal Indonesia)-(Jakarta)]";false;false;false;false;false;false;false;PERSON;LOCATION
+"[(Wamenkeu: pasar modal Indonesia)-(Rabu,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Wamenkeu: pasar modal Indonesia)-(acara Indonesia)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Wamenkeu: pasar modal Indonesia)-(Multifinance Award)]";false;false;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Wamenkeu: pasar modal Indonesia)-(Pihaknya)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Wamenkeu: pasar modal Indonesia)-(per-10 Mei 2013)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Wamenkeu: pasar modal Indonesia)-(pergerakan IHSG)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Wamenkeu: pasar modal Indonesia)-(ia)]";false;false;false;false;true;false;true;PERSON;OTHER
+"[(Wamenkeu: pasar modal Indonesia)-(pergerakan tersebut)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Wamenkeu: pasar modal Indonesia)-(Anny)]";false;false;false;false;false;false;false;PERSON;LOCATION
+"[(Wamenkeu: pasar modal Indonesia)-(bagian)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Wamenkeu: pasar modal Indonesia)-(Otoritas Jasa Keuangan)]";false;false;false;false;false;false;false;PERSON;LOCATION
+"[(Wamenkeu: pasar modal Indonesia)-(OJK)]";false;false;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Wamenkeu: pasar modal Indonesia)-(pergerakan tersebut)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Wamenkeu: pasar modal Indonesia)-(terjadinya)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Wamenkeu: pasar modal Indonesia)-(bubble ekonomi)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Wamenkeu: pasar modal Indonesia)-(sejauh hasil monitoring kondisi)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Wamenkeu: pasar modal Indonesia)-(kinerja perusahaannya)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Wamenkeu: pasar modal Indonesia)-(Kita)]";false;false;false;false;true;false;false;PERSON;OTHER
+"[(Wamenkeu: pasar modal Indonesia)-(tiba-tiba turun,")]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Wamenkeu: pasar modal Indonesia)-(IHSG)]";false;false;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Wamenkeu: pasar modal Indonesia)-(rekor)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Wamenkeu: pasar modal Indonesia)-(angka 5.100)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Wamenkeu: pasar modal Indonesia)-(waktu lalu)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Wamenkeu: pasar modal Indonesia)-(pihaknya)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Wamenkeu: pasar modal Indonesia)-(prospek pertumbuhan ekonomi 2013)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Wamenkeu: pasar modal Indonesia)-(sebaik tahun lalu)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Wamenkeu: pasar modal Indonesia)-(kita)]";false;false;false;false;true;false;false;PERSON;OTHER
+"[(Wamenkeu: pasar modal Indonesia)-(hal itu,")]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Wamenkeu: pasar modal Indonesia)-(dia,)]";false;false;false;false;true;false;false;PERSON;OTHER
+"[(Wamenkeu: pasar modal Indonesia)-(Pemilu)]";false;false;false;false;false;false;false;PERSON;PERSON
+"[(Wamenkeu: pasar modal Indonesia)-(biaya besar)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Wamenkeu: pasar modal Indonesia)-(justru)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Wamenkeu: pasar modal Indonesia)-(ekonomi)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Asia)-(Wakil Menteri Keuangan Anny Ratnawati)]";false;true;false;false;false;true;false;LOCATION;LOCATION
+"[(Asia)-(kinerja pasar modal Indonesia)]";false;true;false;false;false;true;false;LOCATION;OTHER
+"[(Asia)-(kawasan Asia)]";false;true;false;false;false;true;true;LOCATION;LOCATION
+"[(Asia)-(Jepang dan Filipina)]";false;true;false;false;false;true;false;LOCATION;LOCATION
+"[(Asia)-(sisi return Indeks Harga Saham Gabungan)]";false;true;false;false;false;true;false;LOCATION;OTHER
+"[(Asia)-(IHSG)]";false;true;false;false;false;true;false;LOCATION;ORGANIZATION
+"[(Asia)-(kita)]";false;true;false;false;true;false;false;LOCATION;OTHER
+"[(Asia)-(Asean)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Asia)-(Asia)]";true;true;false;false;false;false;true;LOCATION;LOCATION
+"[(Asia)-(Asia Pasifik)]";false;true;false;false;false;false;true;LOCATION;LOCATION
+"[(Asia)-(dan Eropa)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Asia)-(kita)]";false;true;false;false;true;false;false;LOCATION;OTHER
+"[(Asia)-(return IHSG nomor tiga)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Asia)-(Jepang)]";false;true;false;false;false;false;false;LOCATION;LOCATION
+"[(Asia)-(Filipina,")]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Asia)-(Wamenkeu Anny Ratnawati)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Asia)-(Jakarta)]";false;true;false;false;false;false;false;LOCATION;LOCATION
+"[(Asia)-(Rabu,)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Asia)-(acara Indonesia)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Asia)-(Multifinance Award)]";false;true;false;false;false;false;false;LOCATION;ORGANIZATION
+"[(Asia)-(Pihaknya)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Asia)-(per-10 Mei 2013)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Asia)-(pergerakan IHSG)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Asia)-(ia)]";false;true;false;false;true;false;true;LOCATION;OTHER
+"[(Asia)-(pergerakan tersebut)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Asia)-(Anny)]";false;true;false;false;false;false;false;LOCATION;LOCATION
+"[(Asia)-(bagian)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Asia)-(Otoritas Jasa Keuangan)]";false;true;false;false;false;false;false;LOCATION;LOCATION
+"[(Asia)-(OJK)]";false;true;false;false;false;false;false;LOCATION;ORGANIZATION
+"[(Asia)-(pergerakan tersebut)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Asia)-(terjadinya)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Asia)-(bubble ekonomi)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Asia)-(sejauh hasil monitoring kondisi)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Asia)-(kinerja perusahaannya)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Asia)-(Kita)]";false;true;false;false;true;false;false;LOCATION;OTHER
+"[(Asia)-(tiba-tiba turun,")]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Asia)-(IHSG)]";false;true;false;false;false;false;false;LOCATION;ORGANIZATION
+"[(Asia)-(rekor)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Asia)-(angka 5.100)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Asia)-(waktu lalu)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Asia)-(pihaknya)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Asia)-(prospek pertumbuhan ekonomi 2013)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Asia)-(sebaik tahun lalu)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Asia)-(kita)]";false;true;false;false;true;false;false;LOCATION;OTHER
+"[(Asia)-(hal itu,")]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Asia)-(dia,)]";false;false;false;false;true;false;false;LOCATION;OTHER
+"[(Asia)-(Pemilu)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Asia)-(biaya besar)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Asia)-(justru)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Asia)-(ekonomi)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Wakil Menteri Keuangan Anny Ratnawati)-(kinerja pasar modal Indonesia)]";false;true;false;false;false;true;false;LOCATION;OTHER
+"[(Wakil Menteri Keuangan Anny Ratnawati)-(kawasan Asia)]";false;true;false;false;false;true;false;LOCATION;LOCATION
+"[(Wakil Menteri Keuangan Anny Ratnawati)-(Jepang dan Filipina)]";false;true;false;false;false;true;false;LOCATION;LOCATION
+"[(Wakil Menteri Keuangan Anny Ratnawati)-(sisi return Indeks Harga Saham Gabungan)]";false;true;false;false;false;true;false;LOCATION;OTHER
+"[(Wakil Menteri Keuangan Anny Ratnawati)-(IHSG)]";false;true;false;false;false;true;false;LOCATION;ORGANIZATION
+"[(Wakil Menteri Keuangan Anny Ratnawati)-(kita)]";false;true;false;false;true;false;false;LOCATION;OTHER
+"[(Wakil Menteri Keuangan Anny Ratnawati)-(Asean)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Wakil Menteri Keuangan Anny Ratnawati)-(Asia)]";false;true;false;false;false;false;false;LOCATION;LOCATION
+"[(Wakil Menteri Keuangan Anny Ratnawati)-(Asia Pasifik)]";false;true;false;false;false;false;false;LOCATION;LOCATION
+"[(Wakil Menteri Keuangan Anny Ratnawati)-(dan Eropa)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Wakil Menteri Keuangan Anny Ratnawati)-(kita)]";false;true;false;false;true;false;false;LOCATION;OTHER
+"[(Wakil Menteri Keuangan Anny Ratnawati)-(return IHSG nomor tiga)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Wakil Menteri Keuangan Anny Ratnawati)-(Jepang)]";false;true;false;false;false;false;false;LOCATION;LOCATION
+"[(Wakil Menteri Keuangan Anny Ratnawati)-(Filipina,")]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Wakil Menteri Keuangan Anny Ratnawati)-(Wamenkeu Anny Ratnawati)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Wakil Menteri Keuangan Anny Ratnawati)-(Jakarta)]";false;true;false;false;false;false;false;LOCATION;LOCATION
+"[(Wakil Menteri Keuangan Anny Ratnawati)-(Rabu,)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Wakil Menteri Keuangan Anny Ratnawati)-(acara Indonesia)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Wakil Menteri Keuangan Anny Ratnawati)-(Multifinance Award)]";false;true;false;false;false;false;false;LOCATION;ORGANIZATION
+"[(Wakil Menteri Keuangan Anny Ratnawati)-(Pihaknya)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Wakil Menteri Keuangan Anny Ratnawati)-(per-10 Mei 2013)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Wakil Menteri Keuangan Anny Ratnawati)-(pergerakan IHSG)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Wakil Menteri Keuangan Anny Ratnawati)-(ia)]";false;true;false;false;true;false;false;LOCATION;OTHER
+"[(Wakil Menteri Keuangan Anny Ratnawati)-(pergerakan tersebut)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Wakil Menteri Keuangan Anny Ratnawati)-(Anny)]";false;true;false;false;false;false;true;LOCATION;LOCATION
+"[(Wakil Menteri Keuangan Anny Ratnawati)-(bagian)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Wakil Menteri Keuangan Anny Ratnawati)-(Otoritas Jasa Keuangan)]";false;true;false;false;false;false;false;LOCATION;LOCATION
+"[(Wakil Menteri Keuangan Anny Ratnawati)-(OJK)]";false;true;false;false;false;false;false;LOCATION;ORGANIZATION
+"[(Wakil Menteri Keuangan Anny Ratnawati)-(pergerakan tersebut)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Wakil Menteri Keuangan Anny Ratnawati)-(terjadinya)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Wakil Menteri Keuangan Anny Ratnawati)-(bubble ekonomi)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Wakil Menteri Keuangan Anny Ratnawati)-(sejauh hasil monitoring kondisi)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Wakil Menteri Keuangan Anny Ratnawati)-(kinerja perusahaannya)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Wakil Menteri Keuangan Anny Ratnawati)-(Kita)]";false;true;false;false;true;false;false;LOCATION;OTHER
+"[(Wakil Menteri Keuangan Anny Ratnawati)-(tiba-tiba turun,")]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Wakil Menteri Keuangan Anny Ratnawati)-(IHSG)]";false;true;false;false;false;false;false;LOCATION;ORGANIZATION
+"[(Wakil Menteri Keuangan Anny Ratnawati)-(rekor)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Wakil Menteri Keuangan Anny Ratnawati)-(angka 5.100)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Wakil Menteri Keuangan Anny Ratnawati)-(waktu lalu)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Wakil Menteri Keuangan Anny Ratnawati)-(pihaknya)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Wakil Menteri Keuangan Anny Ratnawati)-(prospek pertumbuhan ekonomi 2013)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Wakil Menteri Keuangan Anny Ratnawati)-(sebaik tahun lalu)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Wakil Menteri Keuangan Anny Ratnawati)-(kita)]";false;true;false;false;true;false;false;LOCATION;OTHER
+"[(Wakil Menteri Keuangan Anny Ratnawati)-(hal itu,")]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Wakil Menteri Keuangan Anny Ratnawati)-(dia,)]";false;false;false;false;true;false;false;LOCATION;OTHER
+"[(Wakil Menteri Keuangan Anny Ratnawati)-(Pemilu)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Wakil Menteri Keuangan Anny Ratnawati)-(biaya besar)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Wakil Menteri Keuangan Anny Ratnawati)-(justru)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Wakil Menteri Keuangan Anny Ratnawati)-(ekonomi)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(kinerja pasar modal Indonesia)-(kawasan Asia)]";false;true;false;false;false;true;false;OTHER;LOCATION
+"[(kinerja pasar modal Indonesia)-(Jepang dan Filipina)]";false;true;false;false;false;true;false;OTHER;LOCATION
+"[(kinerja pasar modal Indonesia)-(sisi return Indeks Harga Saham Gabungan)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(kinerja pasar modal Indonesia)-(IHSG)]";false;true;false;false;false;true;false;OTHER;ORGANIZATION
+"[(kinerja pasar modal Indonesia)-(kita)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(kinerja pasar modal Indonesia)-(Asean)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kinerja pasar modal Indonesia)-(Asia)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(kinerja pasar modal Indonesia)-(Asia Pasifik)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(kinerja pasar modal Indonesia)-(dan Eropa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kinerja pasar modal Indonesia)-(kita)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(kinerja pasar modal Indonesia)-(return IHSG nomor tiga)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kinerja pasar modal Indonesia)-(Jepang)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(kinerja pasar modal Indonesia)-(Filipina,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(kinerja pasar modal Indonesia)-(Wamenkeu Anny Ratnawati)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kinerja pasar modal Indonesia)-(Jakarta)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(kinerja pasar modal Indonesia)-(Rabu,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(kinerja pasar modal Indonesia)-(acara Indonesia)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kinerja pasar modal Indonesia)-(Multifinance Award)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(kinerja pasar modal Indonesia)-(Pihaknya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kinerja pasar modal Indonesia)-(per-10 Mei 2013)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kinerja pasar modal Indonesia)-(pergerakan IHSG)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kinerja pasar modal Indonesia)-(ia)]";false;true;false;false;true;false;true;OTHER;OTHER
+"[(kinerja pasar modal Indonesia)-(pergerakan tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kinerja pasar modal Indonesia)-(Anny)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(kinerja pasar modal Indonesia)-(bagian)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kinerja pasar modal Indonesia)-(Otoritas Jasa Keuangan)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(kinerja pasar modal Indonesia)-(OJK)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(kinerja pasar modal Indonesia)-(pergerakan tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kinerja pasar modal Indonesia)-(terjadinya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kinerja pasar modal Indonesia)-(bubble ekonomi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kinerja pasar modal Indonesia)-(sejauh hasil monitoring kondisi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kinerja pasar modal Indonesia)-(kinerja perusahaannya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kinerja pasar modal Indonesia)-(Kita)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(kinerja pasar modal Indonesia)-(tiba-tiba turun,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(kinerja pasar modal Indonesia)-(IHSG)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(kinerja pasar modal Indonesia)-(rekor)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kinerja pasar modal Indonesia)-(angka 5.100)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kinerja pasar modal Indonesia)-(waktu lalu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kinerja pasar modal Indonesia)-(pihaknya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kinerja pasar modal Indonesia)-(prospek pertumbuhan ekonomi 2013)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kinerja pasar modal Indonesia)-(sebaik tahun lalu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kinerja pasar modal Indonesia)-(kita)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(kinerja pasar modal Indonesia)-(hal itu,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(kinerja pasar modal Indonesia)-(dia,)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(kinerja pasar modal Indonesia)-(Pemilu)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kinerja pasar modal Indonesia)-(biaya besar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kinerja pasar modal Indonesia)-(justru)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kinerja pasar modal Indonesia)-(ekonomi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kawasan Asia)-(Jepang dan Filipina)]";false;true;false;false;false;true;false;LOCATION;LOCATION
+"[(kawasan Asia)-(sisi return Indeks Harga Saham Gabungan)]";false;true;false;false;false;true;false;LOCATION;OTHER
+"[(kawasan Asia)-(IHSG)]";false;true;false;false;false;true;false;LOCATION;ORGANIZATION
+"[(kawasan Asia)-(kita)]";false;true;false;false;true;false;false;LOCATION;OTHER
+"[(kawasan Asia)-(Asean)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(kawasan Asia)-(Asia)]";false;true;false;false;false;false;true;LOCATION;LOCATION
+"[(kawasan Asia)-(Asia Pasifik)]";false;true;false;false;false;false;false;LOCATION;LOCATION
+"[(kawasan Asia)-(dan Eropa)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(kawasan Asia)-(kita)]";false;true;false;false;true;false;false;LOCATION;OTHER
+"[(kawasan Asia)-(return IHSG nomor tiga)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(kawasan Asia)-(Jepang)]";false;true;false;false;false;false;false;LOCATION;LOCATION
+"[(kawasan Asia)-(Filipina,")]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(kawasan Asia)-(Wamenkeu Anny Ratnawati)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(kawasan Asia)-(Jakarta)]";false;true;false;false;false;false;false;LOCATION;LOCATION
+"[(kawasan Asia)-(Rabu,)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(kawasan Asia)-(acara Indonesia)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(kawasan Asia)-(Multifinance Award)]";false;true;false;false;false;false;false;LOCATION;ORGANIZATION
+"[(kawasan Asia)-(Pihaknya)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(kawasan Asia)-(per-10 Mei 2013)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(kawasan Asia)-(pergerakan IHSG)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(kawasan Asia)-(ia)]";false;true;false;false;true;false;true;LOCATION;OTHER
+"[(kawasan Asia)-(pergerakan tersebut)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(kawasan Asia)-(Anny)]";false;true;false;false;false;false;false;LOCATION;LOCATION
+"[(kawasan Asia)-(bagian)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(kawasan Asia)-(Otoritas Jasa Keuangan)]";false;true;false;false;false;false;false;LOCATION;LOCATION
+"[(kawasan Asia)-(OJK)]";false;true;false;false;false;false;false;LOCATION;ORGANIZATION
+"[(kawasan Asia)-(pergerakan tersebut)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(kawasan Asia)-(terjadinya)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(kawasan Asia)-(bubble ekonomi)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(kawasan Asia)-(sejauh hasil monitoring kondisi)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(kawasan Asia)-(kinerja perusahaannya)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(kawasan Asia)-(Kita)]";false;true;false;false;true;false;false;LOCATION;OTHER
+"[(kawasan Asia)-(tiba-tiba turun,")]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(kawasan Asia)-(IHSG)]";false;true;false;false;false;false;false;LOCATION;ORGANIZATION
+"[(kawasan Asia)-(rekor)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(kawasan Asia)-(angka 5.100)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(kawasan Asia)-(waktu lalu)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(kawasan Asia)-(pihaknya)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(kawasan Asia)-(prospek pertumbuhan ekonomi 2013)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(kawasan Asia)-(sebaik tahun lalu)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(kawasan Asia)-(kita)]";false;true;false;false;true;false;false;LOCATION;OTHER
+"[(kawasan Asia)-(hal itu,")]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(kawasan Asia)-(dia,)]";false;false;false;false;true;false;false;LOCATION;OTHER
+"[(kawasan Asia)-(Pemilu)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(kawasan Asia)-(biaya besar)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(kawasan Asia)-(justru)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(kawasan Asia)-(ekonomi)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jepang dan Filipina)-(sisi return Indeks Harga Saham Gabungan)]";false;true;false;false;false;true;false;LOCATION;OTHER
+"[(Jepang dan Filipina)-(IHSG)]";false;true;false;false;false;true;false;LOCATION;ORGANIZATION
+"[(Jepang dan Filipina)-(kita)]";false;true;false;false;true;false;false;LOCATION;OTHER
+"[(Jepang dan Filipina)-(Asean)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Jepang dan Filipina)-(Asia)]";false;true;false;false;false;false;false;LOCATION;LOCATION
+"[(Jepang dan Filipina)-(Asia Pasifik)]";false;true;false;false;false;false;false;LOCATION;LOCATION
+"[(Jepang dan Filipina)-(dan Eropa)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jepang dan Filipina)-(kita)]";false;true;false;false;true;false;false;LOCATION;OTHER
+"[(Jepang dan Filipina)-(return IHSG nomor tiga)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jepang dan Filipina)-(Jepang)]";false;true;false;false;false;false;true;LOCATION;LOCATION
+"[(Jepang dan Filipina)-(Filipina,")]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Jepang dan Filipina)-(Wamenkeu Anny Ratnawati)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Jepang dan Filipina)-(Jakarta)]";false;true;false;false;false;false;false;LOCATION;LOCATION
+"[(Jepang dan Filipina)-(Rabu,)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Jepang dan Filipina)-(acara Indonesia)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jepang dan Filipina)-(Multifinance Award)]";false;true;false;false;false;false;false;LOCATION;ORGANIZATION
+"[(Jepang dan Filipina)-(Pihaknya)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jepang dan Filipina)-(per-10 Mei 2013)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jepang dan Filipina)-(pergerakan IHSG)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jepang dan Filipina)-(ia)]";false;true;false;false;true;false;false;LOCATION;OTHER
+"[(Jepang dan Filipina)-(pergerakan tersebut)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jepang dan Filipina)-(Anny)]";false;true;false;false;false;false;false;LOCATION;LOCATION
+"[(Jepang dan Filipina)-(bagian)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jepang dan Filipina)-(Otoritas Jasa Keuangan)]";false;true;false;false;false;false;false;LOCATION;LOCATION
+"[(Jepang dan Filipina)-(OJK)]";false;true;false;false;false;false;false;LOCATION;ORGANIZATION
+"[(Jepang dan Filipina)-(pergerakan tersebut)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jepang dan Filipina)-(terjadinya)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jepang dan Filipina)-(bubble ekonomi)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jepang dan Filipina)-(sejauh hasil monitoring kondisi)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jepang dan Filipina)-(kinerja perusahaannya)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jepang dan Filipina)-(Kita)]";false;true;false;false;true;false;false;LOCATION;OTHER
+"[(Jepang dan Filipina)-(tiba-tiba turun,")]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Jepang dan Filipina)-(IHSG)]";false;true;false;false;false;false;false;LOCATION;ORGANIZATION
+"[(Jepang dan Filipina)-(rekor)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jepang dan Filipina)-(angka 5.100)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jepang dan Filipina)-(waktu lalu)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jepang dan Filipina)-(pihaknya)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jepang dan Filipina)-(prospek pertumbuhan ekonomi 2013)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jepang dan Filipina)-(sebaik tahun lalu)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jepang dan Filipina)-(kita)]";false;true;false;false;true;false;false;LOCATION;OTHER
+"[(Jepang dan Filipina)-(hal itu,")]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Jepang dan Filipina)-(dia,)]";false;false;false;false;true;false;false;LOCATION;OTHER
+"[(Jepang dan Filipina)-(Pemilu)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Jepang dan Filipina)-(biaya besar)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jepang dan Filipina)-(justru)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jepang dan Filipina)-(ekonomi)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(sisi return Indeks Harga Saham Gabungan)-(IHSG)]";false;true;false;false;false;true;false;OTHER;ORGANIZATION
+"[(sisi return Indeks Harga Saham Gabungan)-(kita)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(sisi return Indeks Harga Saham Gabungan)-(Asean)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(sisi return Indeks Harga Saham Gabungan)-(Asia)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(sisi return Indeks Harga Saham Gabungan)-(Asia Pasifik)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(sisi return Indeks Harga Saham Gabungan)-(dan Eropa)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sisi return Indeks Harga Saham Gabungan)-(kita)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(sisi return Indeks Harga Saham Gabungan)-(return IHSG nomor tiga)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sisi return Indeks Harga Saham Gabungan)-(Jepang)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(sisi return Indeks Harga Saham Gabungan)-(Filipina,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(sisi return Indeks Harga Saham Gabungan)-(Wamenkeu Anny Ratnawati)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(sisi return Indeks Harga Saham Gabungan)-(Jakarta)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(sisi return Indeks Harga Saham Gabungan)-(Rabu,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(sisi return Indeks Harga Saham Gabungan)-(acara Indonesia)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sisi return Indeks Harga Saham Gabungan)-(Multifinance Award)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(sisi return Indeks Harga Saham Gabungan)-(Pihaknya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sisi return Indeks Harga Saham Gabungan)-(per-10 Mei 2013)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sisi return Indeks Harga Saham Gabungan)-(pergerakan IHSG)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sisi return Indeks Harga Saham Gabungan)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(sisi return Indeks Harga Saham Gabungan)-(pergerakan tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sisi return Indeks Harga Saham Gabungan)-(Anny)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(sisi return Indeks Harga Saham Gabungan)-(bagian)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sisi return Indeks Harga Saham Gabungan)-(Otoritas Jasa Keuangan)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(sisi return Indeks Harga Saham Gabungan)-(OJK)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(sisi return Indeks Harga Saham Gabungan)-(pergerakan tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sisi return Indeks Harga Saham Gabungan)-(terjadinya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sisi return Indeks Harga Saham Gabungan)-(bubble ekonomi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sisi return Indeks Harga Saham Gabungan)-(sejauh hasil monitoring kondisi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sisi return Indeks Harga Saham Gabungan)-(kinerja perusahaannya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sisi return Indeks Harga Saham Gabungan)-(Kita)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(sisi return Indeks Harga Saham Gabungan)-(tiba-tiba turun,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(sisi return Indeks Harga Saham Gabungan)-(IHSG)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(sisi return Indeks Harga Saham Gabungan)-(rekor)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sisi return Indeks Harga Saham Gabungan)-(angka 5.100)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sisi return Indeks Harga Saham Gabungan)-(waktu lalu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sisi return Indeks Harga Saham Gabungan)-(pihaknya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sisi return Indeks Harga Saham Gabungan)-(prospek pertumbuhan ekonomi 2013)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sisi return Indeks Harga Saham Gabungan)-(sebaik tahun lalu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sisi return Indeks Harga Saham Gabungan)-(kita)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(sisi return Indeks Harga Saham Gabungan)-(hal itu,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(sisi return Indeks Harga Saham Gabungan)-(dia,)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(sisi return Indeks Harga Saham Gabungan)-(Pemilu)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(sisi return Indeks Harga Saham Gabungan)-(biaya besar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sisi return Indeks Harga Saham Gabungan)-(justru)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sisi return Indeks Harga Saham Gabungan)-(ekonomi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(IHSG)-(kita)]";false;true;false;false;true;false;false;ORGANIZATION;OTHER
+"[(IHSG)-(Asean)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(IHSG)-(Asia)]";false;true;false;false;false;false;false;ORGANIZATION;LOCATION
+"[(IHSG)-(Asia Pasifik)]";false;true;false;false;false;false;false;ORGANIZATION;LOCATION
+"[(IHSG)-(dan Eropa)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(IHSG)-(kita)]";false;true;false;false;true;false;false;ORGANIZATION;OTHER
+"[(IHSG)-(return IHSG nomor tiga)]";false;true;false;false;false;false;true;ORGANIZATION;OTHER
+"[(IHSG)-(Jepang)]";false;true;false;false;false;false;false;ORGANIZATION;LOCATION
+"[(IHSG)-(Filipina,")]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(IHSG)-(Wamenkeu Anny Ratnawati)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(IHSG)-(Jakarta)]";false;true;false;false;false;false;false;ORGANIZATION;LOCATION
+"[(IHSG)-(Rabu,)]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(IHSG)-(acara Indonesia)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(IHSG)-(Multifinance Award)]";false;true;false;false;false;false;false;ORGANIZATION;ORGANIZATION
+"[(IHSG)-(Pihaknya)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(IHSG)-(per-10 Mei 2013)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(IHSG)-(pergerakan IHSG)]";false;true;false;false;false;false;true;ORGANIZATION;OTHER
+"[(IHSG)-(ia)]";false;true;false;false;true;false;false;ORGANIZATION;OTHER
+"[(IHSG)-(pergerakan tersebut)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(IHSG)-(Anny)]";false;true;false;false;false;false;false;ORGANIZATION;LOCATION
+"[(IHSG)-(bagian)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(IHSG)-(Otoritas Jasa Keuangan)]";false;true;false;false;false;false;false;ORGANIZATION;LOCATION
+"[(IHSG)-(OJK)]";false;true;false;false;false;false;false;ORGANIZATION;ORGANIZATION
+"[(IHSG)-(pergerakan tersebut)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(IHSG)-(terjadinya)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(IHSG)-(bubble ekonomi)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(IHSG)-(sejauh hasil monitoring kondisi)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(IHSG)-(kinerja perusahaannya)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(IHSG)-(Kita)]";false;true;false;false;true;false;false;ORGANIZATION;OTHER
+"[(IHSG)-(tiba-tiba turun,")]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(IHSG)-(IHSG)]";true;true;false;false;false;false;true;ORGANIZATION;ORGANIZATION
+"[(IHSG)-(rekor)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(IHSG)-(angka 5.100)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(IHSG)-(waktu lalu)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(IHSG)-(pihaknya)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(IHSG)-(prospek pertumbuhan ekonomi 2013)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(IHSG)-(sebaik tahun lalu)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(IHSG)-(kita)]";false;true;false;false;true;false;false;ORGANIZATION;OTHER
+"[(IHSG)-(hal itu,")]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(IHSG)-(dia,)]";false;false;false;false;true;false;false;ORGANIZATION;OTHER
+"[(IHSG)-(Pemilu)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(IHSG)-(biaya besar)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(IHSG)-(justru)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(IHSG)-(ekonomi)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(kita)-(Asean)]";false;true;false;true;false;true;false;OTHER;PERSON
+"[(kita)-(Asia)]";false;true;false;true;false;true;false;OTHER;LOCATION
+"[(kita)-(Asia Pasifik)]";false;true;false;true;false;true;false;OTHER;LOCATION
+"[(kita)-(dan Eropa)]";false;true;false;true;false;true;false;OTHER;OTHER
+"[(kita)-(kita)]";true;true;false;true;true;false;true;OTHER;OTHER
+"[(kita)-(return IHSG nomor tiga)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(kita)-(Jepang)]";false;true;false;true;false;false;false;OTHER;LOCATION
+"[(kita)-(Filipina,")]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(kita)-(Wamenkeu Anny Ratnawati)]";false;true;false;true;false;false;false;OTHER;PERSON
+"[(kita)-(Jakarta)]";false;true;false;true;false;false;false;OTHER;LOCATION
+"[(kita)-(Rabu,)]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(kita)-(acara Indonesia)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(kita)-(Multifinance Award)]";false;true;false;true;false;false;false;OTHER;ORGANIZATION
+"[(kita)-(Pihaknya)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(kita)-(per-10 Mei 2013)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(kita)-(pergerakan IHSG)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(kita)-(ia)]";false;true;false;true;true;false;false;OTHER;OTHER
+"[(kita)-(pergerakan tersebut)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(kita)-(Anny)]";false;true;false;true;false;false;false;OTHER;LOCATION
+"[(kita)-(bagian)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(kita)-(Otoritas Jasa Keuangan)]";false;true;false;true;false;false;false;OTHER;LOCATION
+"[(kita)-(OJK)]";false;true;false;true;false;false;false;OTHER;ORGANIZATION
+"[(kita)-(pergerakan tersebut)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(kita)-(terjadinya)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(kita)-(bubble ekonomi)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(kita)-(sejauh hasil monitoring kondisi)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(kita)-(kinerja perusahaannya)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(kita)-(Kita)]";true;true;false;true;true;false;false;OTHER;OTHER
+"[(kita)-(tiba-tiba turun,")]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(kita)-(IHSG)]";false;true;false;true;false;false;false;OTHER;ORGANIZATION
+"[(kita)-(rekor)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(kita)-(angka 5.100)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(kita)-(waktu lalu)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(kita)-(pihaknya)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(kita)-(prospek pertumbuhan ekonomi 2013)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(kita)-(sebaik tahun lalu)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(kita)-(kita)]";true;true;false;true;true;false;true;OTHER;OTHER
+"[(kita)-(hal itu,")]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(kita)-(dia,)]";false;false;false;true;true;false;false;OTHER;OTHER
+"[(kita)-(Pemilu)]";false;true;false;true;false;false;false;OTHER;PERSON
+"[(kita)-(biaya besar)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(kita)-(justru)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(kita)-(ekonomi)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Asean)-(Asia)]";false;true;false;false;false;true;false;PERSON;LOCATION
+"[(Asean)-(Asia Pasifik)]";false;true;false;false;false;true;false;PERSON;LOCATION
+"[(Asean)-(dan Eropa)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Asean)-(kita)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Asean)-(return IHSG nomor tiga)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Asean)-(Jepang)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Asean)-(Filipina,")]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Asean)-(Wamenkeu Anny Ratnawati)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Asean)-(Jakarta)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Asean)-(Rabu,)]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Asean)-(acara Indonesia)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Asean)-(Multifinance Award)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Asean)-(Pihaknya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Asean)-(per-10 Mei 2013)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Asean)-(pergerakan IHSG)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Asean)-(ia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Asean)-(pergerakan tersebut)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Asean)-(Anny)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Asean)-(bagian)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Asean)-(Otoritas Jasa Keuangan)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Asean)-(OJK)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Asean)-(pergerakan tersebut)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Asean)-(terjadinya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Asean)-(bubble ekonomi)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Asean)-(sejauh hasil monitoring kondisi)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Asean)-(kinerja perusahaannya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Asean)-(Kita)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Asean)-(tiba-tiba turun,")]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Asean)-(IHSG)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Asean)-(rekor)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Asean)-(angka 5.100)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Asean)-(waktu lalu)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Asean)-(pihaknya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Asean)-(prospek pertumbuhan ekonomi 2013)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Asean)-(sebaik tahun lalu)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Asean)-(kita)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Asean)-(hal itu,")]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Asean)-(dia,)]";false;false;false;false;true;false;false;PERSON;OTHER
+"[(Asean)-(Pemilu)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Asean)-(biaya besar)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Asean)-(justru)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Asean)-(ekonomi)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Asia)-(Asia Pasifik)]";false;true;false;false;false;true;true;LOCATION;LOCATION
+"[(Asia)-(dan Eropa)]";false;true;false;false;false;true;false;LOCATION;OTHER
+"[(Asia)-(kita)]";false;true;false;false;true;false;false;LOCATION;OTHER
+"[(Asia)-(return IHSG nomor tiga)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Asia)-(Jepang)]";false;true;false;false;false;false;false;LOCATION;LOCATION
+"[(Asia)-(Filipina,")]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Asia)-(Wamenkeu Anny Ratnawati)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Asia)-(Jakarta)]";false;true;false;false;false;false;false;LOCATION;LOCATION
+"[(Asia)-(Rabu,)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Asia)-(acara Indonesia)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Asia)-(Multifinance Award)]";false;true;false;false;false;false;false;LOCATION;ORGANIZATION
+"[(Asia)-(Pihaknya)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Asia)-(per-10 Mei 2013)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Asia)-(pergerakan IHSG)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Asia)-(ia)]";false;true;false;false;true;false;true;LOCATION;OTHER
+"[(Asia)-(pergerakan tersebut)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Asia)-(Anny)]";false;true;false;false;false;false;false;LOCATION;LOCATION
+"[(Asia)-(bagian)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Asia)-(Otoritas Jasa Keuangan)]";false;true;false;false;false;false;false;LOCATION;LOCATION
+"[(Asia)-(OJK)]";false;true;false;false;false;false;false;LOCATION;ORGANIZATION
+"[(Asia)-(pergerakan tersebut)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Asia)-(terjadinya)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Asia)-(bubble ekonomi)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Asia)-(sejauh hasil monitoring kondisi)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Asia)-(kinerja perusahaannya)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Asia)-(Kita)]";false;true;false;false;true;false;false;LOCATION;OTHER
+"[(Asia)-(tiba-tiba turun,")]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Asia)-(IHSG)]";false;true;false;false;false;false;false;LOCATION;ORGANIZATION
+"[(Asia)-(rekor)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Asia)-(angka 5.100)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Asia)-(waktu lalu)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Asia)-(pihaknya)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Asia)-(prospek pertumbuhan ekonomi 2013)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Asia)-(sebaik tahun lalu)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Asia)-(kita)]";false;true;false;false;true;false;false;LOCATION;OTHER
+"[(Asia)-(hal itu,")]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Asia)-(dia,)]";false;false;false;false;true;false;false;LOCATION;OTHER
+"[(Asia)-(Pemilu)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Asia)-(biaya besar)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Asia)-(justru)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Asia)-(ekonomi)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Asia Pasifik)-(dan Eropa)]";false;true;false;false;false;true;false;LOCATION;OTHER
+"[(Asia Pasifik)-(kita)]";false;true;false;false;true;false;false;LOCATION;OTHER
+"[(Asia Pasifik)-(return IHSG nomor tiga)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Asia Pasifik)-(Jepang)]";false;true;false;false;false;false;false;LOCATION;LOCATION
+"[(Asia Pasifik)-(Filipina,")]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Asia Pasifik)-(Wamenkeu Anny Ratnawati)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Asia Pasifik)-(Jakarta)]";false;true;false;false;false;false;false;LOCATION;LOCATION
+"[(Asia Pasifik)-(Rabu,)]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Asia Pasifik)-(acara Indonesia)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Asia Pasifik)-(Multifinance Award)]";false;true;false;false;false;false;false;LOCATION;ORGANIZATION
+"[(Asia Pasifik)-(Pihaknya)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Asia Pasifik)-(per-10 Mei 2013)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Asia Pasifik)-(pergerakan IHSG)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Asia Pasifik)-(ia)]";false;true;false;false;true;false;true;LOCATION;OTHER
+"[(Asia Pasifik)-(pergerakan tersebut)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Asia Pasifik)-(Anny)]";false;true;false;false;false;false;false;LOCATION;LOCATION
+"[(Asia Pasifik)-(bagian)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Asia Pasifik)-(Otoritas Jasa Keuangan)]";false;true;false;false;false;false;false;LOCATION;LOCATION
+"[(Asia Pasifik)-(OJK)]";false;true;false;false;false;false;false;LOCATION;ORGANIZATION
+"[(Asia Pasifik)-(pergerakan tersebut)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Asia Pasifik)-(terjadinya)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Asia Pasifik)-(bubble ekonomi)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Asia Pasifik)-(sejauh hasil monitoring kondisi)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Asia Pasifik)-(kinerja perusahaannya)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Asia Pasifik)-(Kita)]";false;true;false;false;true;false;false;LOCATION;OTHER
+"[(Asia Pasifik)-(tiba-tiba turun,")]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Asia Pasifik)-(IHSG)]";false;true;false;false;false;false;false;LOCATION;ORGANIZATION
+"[(Asia Pasifik)-(rekor)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Asia Pasifik)-(angka 5.100)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Asia Pasifik)-(waktu lalu)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Asia Pasifik)-(pihaknya)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Asia Pasifik)-(prospek pertumbuhan ekonomi 2013)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Asia Pasifik)-(sebaik tahun lalu)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Asia Pasifik)-(kita)]";false;true;false;false;true;false;false;LOCATION;OTHER
+"[(Asia Pasifik)-(hal itu,")]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Asia Pasifik)-(dia,)]";false;false;false;false;true;false;false;LOCATION;OTHER
+"[(Asia Pasifik)-(Pemilu)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Asia Pasifik)-(biaya besar)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Asia Pasifik)-(justru)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Asia Pasifik)-(ekonomi)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(dan Eropa)-(kita)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(dan Eropa)-(return IHSG nomor tiga)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dan Eropa)-(Jepang)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(dan Eropa)-(Filipina,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(dan Eropa)-(Wamenkeu Anny Ratnawati)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(dan Eropa)-(Jakarta)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(dan Eropa)-(Rabu,)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(dan Eropa)-(acara Indonesia)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dan Eropa)-(Multifinance Award)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(dan Eropa)-(Pihaknya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dan Eropa)-(per-10 Mei 2013)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dan Eropa)-(pergerakan IHSG)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dan Eropa)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(dan Eropa)-(pergerakan tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dan Eropa)-(Anny)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(dan Eropa)-(bagian)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dan Eropa)-(Otoritas Jasa Keuangan)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(dan Eropa)-(OJK)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(dan Eropa)-(pergerakan tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dan Eropa)-(terjadinya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dan Eropa)-(bubble ekonomi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dan Eropa)-(sejauh hasil monitoring kondisi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dan Eropa)-(kinerja perusahaannya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dan Eropa)-(Kita)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(dan Eropa)-(tiba-tiba turun,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(dan Eropa)-(IHSG)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(dan Eropa)-(rekor)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dan Eropa)-(angka 5.100)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dan Eropa)-(waktu lalu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dan Eropa)-(pihaknya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dan Eropa)-(prospek pertumbuhan ekonomi 2013)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dan Eropa)-(sebaik tahun lalu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dan Eropa)-(kita)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(dan Eropa)-(hal itu,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(dan Eropa)-(dia,)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(dan Eropa)-(Pemilu)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(dan Eropa)-(biaya besar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dan Eropa)-(justru)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(dan Eropa)-(ekonomi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kita)-(return IHSG nomor tiga)]";false;true;false;true;false;true;false;OTHER;OTHER
+"[(kita)-(Jepang)]";false;true;false;true;false;true;false;OTHER;LOCATION
+"[(kita)-(Filipina,")]";false;false;false;true;false;true;false;OTHER;OTHER
+"[(kita)-(Wamenkeu Anny Ratnawati)]";false;true;false;true;false;true;false;OTHER;PERSON
+"[(kita)-(Jakarta)]";false;true;false;true;false;true;false;OTHER;LOCATION
+"[(kita)-(Rabu,)]";false;false;false;true;false;true;false;OTHER;OTHER
+"[(kita)-(acara Indonesia)]";false;true;false;true;false;true;false;OTHER;OTHER
+"[(kita)-(Multifinance Award)]";false;true;false;true;false;true;false;OTHER;ORGANIZATION
+"[(kita)-(Pihaknya)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(kita)-(per-10 Mei 2013)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(kita)-(pergerakan IHSG)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(kita)-(ia)]";false;true;false;true;true;false;false;OTHER;OTHER
+"[(kita)-(pergerakan tersebut)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(kita)-(Anny)]";false;true;false;true;false;false;false;OTHER;LOCATION
+"[(kita)-(bagian)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(kita)-(Otoritas Jasa Keuangan)]";false;true;false;true;false;false;false;OTHER;LOCATION
+"[(kita)-(OJK)]";false;true;false;true;false;false;false;OTHER;ORGANIZATION
+"[(kita)-(pergerakan tersebut)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(kita)-(terjadinya)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(kita)-(bubble ekonomi)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(kita)-(sejauh hasil monitoring kondisi)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(kita)-(kinerja perusahaannya)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(kita)-(Kita)]";true;true;false;true;true;false;false;OTHER;OTHER
+"[(kita)-(tiba-tiba turun,")]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(kita)-(IHSG)]";false;true;false;true;false;false;false;OTHER;ORGANIZATION
+"[(kita)-(rekor)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(kita)-(angka 5.100)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(kita)-(waktu lalu)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(kita)-(pihaknya)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(kita)-(prospek pertumbuhan ekonomi 2013)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(kita)-(sebaik tahun lalu)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(kita)-(kita)]";true;true;false;true;true;false;true;OTHER;OTHER
+"[(kita)-(hal itu,")]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(kita)-(dia,)]";false;false;false;true;true;false;false;OTHER;OTHER
+"[(kita)-(Pemilu)]";false;true;false;true;false;false;false;OTHER;PERSON
+"[(kita)-(biaya besar)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(kita)-(justru)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(kita)-(ekonomi)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(return IHSG nomor tiga)-(Jepang)]";false;true;false;false;false;true;false;OTHER;LOCATION
+"[(return IHSG nomor tiga)-(Filipina,")]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(return IHSG nomor tiga)-(Wamenkeu Anny Ratnawati)]";false;true;false;false;false;true;false;OTHER;PERSON
+"[(return IHSG nomor tiga)-(Jakarta)]";false;true;false;false;false;true;false;OTHER;LOCATION
+"[(return IHSG nomor tiga)-(Rabu,)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(return IHSG nomor tiga)-(acara Indonesia)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(return IHSG nomor tiga)-(Multifinance Award)]";false;true;false;false;false;true;false;OTHER;ORGANIZATION
+"[(return IHSG nomor tiga)-(Pihaknya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(return IHSG nomor tiga)-(per-10 Mei 2013)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(return IHSG nomor tiga)-(pergerakan IHSG)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(return IHSG nomor tiga)-(ia)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(return IHSG nomor tiga)-(pergerakan tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(return IHSG nomor tiga)-(Anny)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(return IHSG nomor tiga)-(bagian)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(return IHSG nomor tiga)-(Otoritas Jasa Keuangan)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(return IHSG nomor tiga)-(OJK)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(return IHSG nomor tiga)-(pergerakan tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(return IHSG nomor tiga)-(terjadinya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(return IHSG nomor tiga)-(bubble ekonomi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(return IHSG nomor tiga)-(sejauh hasil monitoring kondisi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(return IHSG nomor tiga)-(kinerja perusahaannya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(return IHSG nomor tiga)-(Kita)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(return IHSG nomor tiga)-(tiba-tiba turun,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(return IHSG nomor tiga)-(IHSG)]";false;true;false;false;false;false;true;OTHER;ORGANIZATION
+"[(return IHSG nomor tiga)-(rekor)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(return IHSG nomor tiga)-(angka 5.100)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(return IHSG nomor tiga)-(waktu lalu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(return IHSG nomor tiga)-(pihaknya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(return IHSG nomor tiga)-(prospek pertumbuhan ekonomi 2013)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(return IHSG nomor tiga)-(sebaik tahun lalu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(return IHSG nomor tiga)-(kita)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(return IHSG nomor tiga)-(hal itu,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(return IHSG nomor tiga)-(dia,)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(return IHSG nomor tiga)-(Pemilu)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(return IHSG nomor tiga)-(biaya besar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(return IHSG nomor tiga)-(justru)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(return IHSG nomor tiga)-(ekonomi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Jepang)-(Filipina,")]";false;false;false;false;false;true;false;LOCATION;OTHER
+"[(Jepang)-(Wamenkeu Anny Ratnawati)]";false;true;false;false;false;true;false;LOCATION;PERSON
+"[(Jepang)-(Jakarta)]";false;true;false;false;false;true;false;LOCATION;LOCATION
+"[(Jepang)-(Rabu,)]";false;false;false;false;false;true;false;LOCATION;OTHER
+"[(Jepang)-(acara Indonesia)]";false;true;false;false;false;true;false;LOCATION;OTHER
+"[(Jepang)-(Multifinance Award)]";false;true;false;false;false;true;false;LOCATION;ORGANIZATION
+"[(Jepang)-(Pihaknya)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jepang)-(per-10 Mei 2013)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jepang)-(pergerakan IHSG)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jepang)-(ia)]";false;true;false;false;true;false;false;LOCATION;OTHER
+"[(Jepang)-(pergerakan tersebut)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jepang)-(Anny)]";false;true;false;false;false;false;false;LOCATION;LOCATION
+"[(Jepang)-(bagian)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jepang)-(Otoritas Jasa Keuangan)]";false;true;false;false;false;false;false;LOCATION;LOCATION
+"[(Jepang)-(OJK)]";false;true;false;false;false;false;false;LOCATION;ORGANIZATION
+"[(Jepang)-(pergerakan tersebut)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jepang)-(terjadinya)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jepang)-(bubble ekonomi)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jepang)-(sejauh hasil monitoring kondisi)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jepang)-(kinerja perusahaannya)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jepang)-(Kita)]";false;true;false;false;true;false;false;LOCATION;OTHER
+"[(Jepang)-(tiba-tiba turun,")]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Jepang)-(IHSG)]";false;true;false;false;false;false;false;LOCATION;ORGANIZATION
+"[(Jepang)-(rekor)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jepang)-(angka 5.100)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jepang)-(waktu lalu)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jepang)-(pihaknya)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jepang)-(prospek pertumbuhan ekonomi 2013)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jepang)-(sebaik tahun lalu)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jepang)-(kita)]";false;true;false;false;true;false;false;LOCATION;OTHER
+"[(Jepang)-(hal itu,")]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Jepang)-(dia,)]";false;false;false;false;true;false;false;LOCATION;OTHER
+"[(Jepang)-(Pemilu)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Jepang)-(biaya besar)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jepang)-(justru)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jepang)-(ekonomi)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Filipina,")-(Wamenkeu Anny Ratnawati)]";false;false;false;false;false;true;false;OTHER;PERSON
+"[(Filipina,")-(Jakarta)]";false;false;false;false;false;true;false;OTHER;LOCATION
+"[(Filipina,")-(Rabu,)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(Filipina,")-(acara Indonesia)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(Filipina,")-(Multifinance Award)]";false;false;false;false;false;true;false;OTHER;ORGANIZATION
+"[(Filipina,")-(Pihaknya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Filipina,")-(per-10 Mei 2013)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Filipina,")-(pergerakan IHSG)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Filipina,")-(ia)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(Filipina,")-(pergerakan tersebut)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Filipina,")-(Anny)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(Filipina,")-(bagian)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Filipina,")-(Otoritas Jasa Keuangan)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(Filipina,")-(OJK)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(Filipina,")-(pergerakan tersebut)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Filipina,")-(terjadinya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Filipina,")-(bubble ekonomi)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Filipina,")-(sejauh hasil monitoring kondisi)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Filipina,")-(kinerja perusahaannya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Filipina,")-(Kita)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(Filipina,")-(tiba-tiba turun,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Filipina,")-(IHSG)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(Filipina,")-(rekor)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Filipina,")-(angka 5.100)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Filipina,")-(waktu lalu)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Filipina,")-(pihaknya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Filipina,")-(prospek pertumbuhan ekonomi 2013)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Filipina,")-(sebaik tahun lalu)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Filipina,")-(kita)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(Filipina,")-(hal itu,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Filipina,")-(dia,)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(Filipina,")-(Pemilu)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(Filipina,")-(biaya besar)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Filipina,")-(justru)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Filipina,")-(ekonomi)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Wamenkeu Anny Ratnawati)-(Jakarta)]";false;true;false;false;false;true;false;PERSON;LOCATION
+"[(Wamenkeu Anny Ratnawati)-(Rabu,)]";false;false;false;false;false;true;false;PERSON;OTHER
+"[(Wamenkeu Anny Ratnawati)-(acara Indonesia)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Wamenkeu Anny Ratnawati)-(Multifinance Award)]";false;true;false;false;false;true;false;PERSON;ORGANIZATION
+"[(Wamenkeu Anny Ratnawati)-(Pihaknya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Wamenkeu Anny Ratnawati)-(per-10 Mei 2013)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Wamenkeu Anny Ratnawati)-(pergerakan IHSG)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Wamenkeu Anny Ratnawati)-(ia)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Wamenkeu Anny Ratnawati)-(pergerakan tersebut)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Wamenkeu Anny Ratnawati)-(Anny)]";false;true;false;false;false;false;true;PERSON;LOCATION
+"[(Wamenkeu Anny Ratnawati)-(bagian)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Wamenkeu Anny Ratnawati)-(Otoritas Jasa Keuangan)]";false;true;false;false;false;false;false;PERSON;LOCATION
+"[(Wamenkeu Anny Ratnawati)-(OJK)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Wamenkeu Anny Ratnawati)-(pergerakan tersebut)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Wamenkeu Anny Ratnawati)-(terjadinya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Wamenkeu Anny Ratnawati)-(bubble ekonomi)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Wamenkeu Anny Ratnawati)-(sejauh hasil monitoring kondisi)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Wamenkeu Anny Ratnawati)-(kinerja perusahaannya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Wamenkeu Anny Ratnawati)-(Kita)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Wamenkeu Anny Ratnawati)-(tiba-tiba turun,")]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Wamenkeu Anny Ratnawati)-(IHSG)]";false;true;false;false;false;false;false;PERSON;ORGANIZATION
+"[(Wamenkeu Anny Ratnawati)-(rekor)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Wamenkeu Anny Ratnawati)-(angka 5.100)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Wamenkeu Anny Ratnawati)-(waktu lalu)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Wamenkeu Anny Ratnawati)-(pihaknya)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Wamenkeu Anny Ratnawati)-(prospek pertumbuhan ekonomi 2013)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Wamenkeu Anny Ratnawati)-(sebaik tahun lalu)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Wamenkeu Anny Ratnawati)-(kita)]";false;true;false;false;true;false;false;PERSON;OTHER
+"[(Wamenkeu Anny Ratnawati)-(hal itu,")]";false;false;false;false;false;false;false;PERSON;OTHER
+"[(Wamenkeu Anny Ratnawati)-(dia,)]";false;false;false;false;true;false;false;PERSON;OTHER
+"[(Wamenkeu Anny Ratnawati)-(Pemilu)]";false;true;false;false;false;false;false;PERSON;PERSON
+"[(Wamenkeu Anny Ratnawati)-(biaya besar)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Wamenkeu Anny Ratnawati)-(justru)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Wamenkeu Anny Ratnawati)-(ekonomi)]";false;true;false;false;false;false;false;PERSON;OTHER
+"[(Jakarta)-(Rabu,)]";false;false;false;false;false;true;false;LOCATION;OTHER
+"[(Jakarta)-(acara Indonesia)]";false;true;false;false;false;true;false;LOCATION;OTHER
+"[(Jakarta)-(Multifinance Award)]";false;true;false;false;false;true;false;LOCATION;ORGANIZATION
+"[(Jakarta)-(Pihaknya)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jakarta)-(per-10 Mei 2013)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jakarta)-(pergerakan IHSG)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jakarta)-(ia)]";false;true;false;false;true;false;false;LOCATION;OTHER
+"[(Jakarta)-(pergerakan tersebut)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jakarta)-(Anny)]";false;true;false;false;false;false;false;LOCATION;LOCATION
+"[(Jakarta)-(bagian)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jakarta)-(Otoritas Jasa Keuangan)]";false;true;false;false;false;false;false;LOCATION;LOCATION
+"[(Jakarta)-(OJK)]";false;true;false;false;false;false;false;LOCATION;ORGANIZATION
+"[(Jakarta)-(pergerakan tersebut)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jakarta)-(terjadinya)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jakarta)-(bubble ekonomi)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jakarta)-(sejauh hasil monitoring kondisi)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jakarta)-(kinerja perusahaannya)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jakarta)-(Kita)]";false;true;false;false;true;false;false;LOCATION;OTHER
+"[(Jakarta)-(tiba-tiba turun,")]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Jakarta)-(IHSG)]";false;true;false;false;false;false;false;LOCATION;ORGANIZATION
+"[(Jakarta)-(rekor)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jakarta)-(angka 5.100)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jakarta)-(waktu lalu)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jakarta)-(pihaknya)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jakarta)-(prospek pertumbuhan ekonomi 2013)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jakarta)-(sebaik tahun lalu)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jakarta)-(kita)]";false;true;false;false;true;false;false;LOCATION;OTHER
+"[(Jakarta)-(hal itu,")]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Jakarta)-(dia,)]";false;false;false;false;true;false;false;LOCATION;OTHER
+"[(Jakarta)-(Pemilu)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Jakarta)-(biaya besar)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jakarta)-(justru)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Jakarta)-(ekonomi)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Rabu,)-(acara Indonesia)]";false;false;false;false;false;true;false;OTHER;OTHER
+"[(Rabu,)-(Multifinance Award)]";false;false;false;false;false;true;false;OTHER;ORGANIZATION
+"[(Rabu,)-(Pihaknya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Rabu,)-(per-10 Mei 2013)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Rabu,)-(pergerakan IHSG)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Rabu,)-(ia)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(Rabu,)-(pergerakan tersebut)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Rabu,)-(Anny)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(Rabu,)-(bagian)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Rabu,)-(Otoritas Jasa Keuangan)]";false;false;false;false;false;false;false;OTHER;LOCATION
+"[(Rabu,)-(OJK)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(Rabu,)-(pergerakan tersebut)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Rabu,)-(terjadinya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Rabu,)-(bubble ekonomi)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Rabu,)-(sejauh hasil monitoring kondisi)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Rabu,)-(kinerja perusahaannya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Rabu,)-(Kita)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(Rabu,)-(tiba-tiba turun,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Rabu,)-(IHSG)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(Rabu,)-(rekor)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Rabu,)-(angka 5.100)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Rabu,)-(waktu lalu)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Rabu,)-(pihaknya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Rabu,)-(prospek pertumbuhan ekonomi 2013)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Rabu,)-(sebaik tahun lalu)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Rabu,)-(kita)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(Rabu,)-(hal itu,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Rabu,)-(dia,)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(Rabu,)-(Pemilu)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(Rabu,)-(biaya besar)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Rabu,)-(justru)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Rabu,)-(ekonomi)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(acara Indonesia)-(Multifinance Award)]";false;true;false;false;false;true;false;OTHER;ORGANIZATION
+"[(acara Indonesia)-(Pihaknya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(acara Indonesia)-(per-10 Mei 2013)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(acara Indonesia)-(pergerakan IHSG)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(acara Indonesia)-(ia)]";false;true;false;false;true;false;true;OTHER;OTHER
+"[(acara Indonesia)-(pergerakan tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(acara Indonesia)-(Anny)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(acara Indonesia)-(bagian)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(acara Indonesia)-(Otoritas Jasa Keuangan)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(acara Indonesia)-(OJK)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(acara Indonesia)-(pergerakan tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(acara Indonesia)-(terjadinya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(acara Indonesia)-(bubble ekonomi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(acara Indonesia)-(sejauh hasil monitoring kondisi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(acara Indonesia)-(kinerja perusahaannya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(acara Indonesia)-(Kita)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(acara Indonesia)-(tiba-tiba turun,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(acara Indonesia)-(IHSG)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(acara Indonesia)-(rekor)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(acara Indonesia)-(angka 5.100)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(acara Indonesia)-(waktu lalu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(acara Indonesia)-(pihaknya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(acara Indonesia)-(prospek pertumbuhan ekonomi 2013)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(acara Indonesia)-(sebaik tahun lalu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(acara Indonesia)-(kita)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(acara Indonesia)-(hal itu,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(acara Indonesia)-(dia,)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(acara Indonesia)-(Pemilu)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(acara Indonesia)-(biaya besar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(acara Indonesia)-(justru)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(acara Indonesia)-(ekonomi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Multifinance Award)-(Pihaknya)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Multifinance Award)-(per-10 Mei 2013)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Multifinance Award)-(pergerakan IHSG)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Multifinance Award)-(ia)]";false;true;false;false;true;false;false;ORGANIZATION;OTHER
+"[(Multifinance Award)-(pergerakan tersebut)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Multifinance Award)-(Anny)]";false;true;false;false;false;false;false;ORGANIZATION;LOCATION
+"[(Multifinance Award)-(bagian)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Multifinance Award)-(Otoritas Jasa Keuangan)]";false;true;false;false;false;false;false;ORGANIZATION;LOCATION
+"[(Multifinance Award)-(OJK)]";false;true;false;false;false;false;false;ORGANIZATION;ORGANIZATION
+"[(Multifinance Award)-(pergerakan tersebut)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Multifinance Award)-(terjadinya)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Multifinance Award)-(bubble ekonomi)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Multifinance Award)-(sejauh hasil monitoring kondisi)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Multifinance Award)-(kinerja perusahaannya)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Multifinance Award)-(Kita)]";false;true;false;false;true;false;false;ORGANIZATION;OTHER
+"[(Multifinance Award)-(tiba-tiba turun,")]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Multifinance Award)-(IHSG)]";false;true;false;false;false;false;false;ORGANIZATION;ORGANIZATION
+"[(Multifinance Award)-(rekor)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Multifinance Award)-(angka 5.100)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Multifinance Award)-(waktu lalu)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Multifinance Award)-(pihaknya)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Multifinance Award)-(prospek pertumbuhan ekonomi 2013)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Multifinance Award)-(sebaik tahun lalu)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Multifinance Award)-(kita)]";false;true;false;false;true;false;false;ORGANIZATION;OTHER
+"[(Multifinance Award)-(hal itu,")]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Multifinance Award)-(dia,)]";false;false;false;false;true;false;false;ORGANIZATION;OTHER
+"[(Multifinance Award)-(Pemilu)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(Multifinance Award)-(biaya besar)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Multifinance Award)-(justru)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Multifinance Award)-(ekonomi)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(Pihaknya)-(per-10 Mei 2013)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(Pihaknya)-(pergerakan IHSG)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(Pihaknya)-(ia)]";false;true;false;false;true;true;false;OTHER;OTHER
+"[(Pihaknya)-(pergerakan tersebut)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(Pihaknya)-(Anny)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(Pihaknya)-(bagian)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Pihaknya)-(Otoritas Jasa Keuangan)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(Pihaknya)-(OJK)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(Pihaknya)-(pergerakan tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Pihaknya)-(terjadinya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Pihaknya)-(bubble ekonomi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Pihaknya)-(sejauh hasil monitoring kondisi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Pihaknya)-(kinerja perusahaannya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Pihaknya)-(Kita)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(Pihaknya)-(tiba-tiba turun,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Pihaknya)-(IHSG)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(Pihaknya)-(rekor)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Pihaknya)-(angka 5.100)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Pihaknya)-(waktu lalu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Pihaknya)-(pihaknya)]";true;true;false;false;false;false;false;OTHER;OTHER
+"[(Pihaknya)-(prospek pertumbuhan ekonomi 2013)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Pihaknya)-(sebaik tahun lalu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Pihaknya)-(kita)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(Pihaknya)-(hal itu,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(Pihaknya)-(dia,)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(Pihaknya)-(Pemilu)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(Pihaknya)-(biaya besar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Pihaknya)-(justru)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Pihaknya)-(ekonomi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(per-10 Mei 2013)-(pergerakan IHSG)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(per-10 Mei 2013)-(ia)]";false;true;false;false;true;true;false;OTHER;OTHER
+"[(per-10 Mei 2013)-(pergerakan tersebut)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(per-10 Mei 2013)-(Anny)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(per-10 Mei 2013)-(bagian)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(per-10 Mei 2013)-(Otoritas Jasa Keuangan)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(per-10 Mei 2013)-(OJK)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(per-10 Mei 2013)-(pergerakan tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(per-10 Mei 2013)-(terjadinya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(per-10 Mei 2013)-(bubble ekonomi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(per-10 Mei 2013)-(sejauh hasil monitoring kondisi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(per-10 Mei 2013)-(kinerja perusahaannya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(per-10 Mei 2013)-(Kita)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(per-10 Mei 2013)-(tiba-tiba turun,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(per-10 Mei 2013)-(IHSG)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(per-10 Mei 2013)-(rekor)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(per-10 Mei 2013)-(angka 5.100)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(per-10 Mei 2013)-(waktu lalu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(per-10 Mei 2013)-(pihaknya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(per-10 Mei 2013)-(prospek pertumbuhan ekonomi 2013)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(per-10 Mei 2013)-(sebaik tahun lalu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(per-10 Mei 2013)-(kita)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(per-10 Mei 2013)-(hal itu,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(per-10 Mei 2013)-(dia,)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(per-10 Mei 2013)-(Pemilu)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(per-10 Mei 2013)-(biaya besar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(per-10 Mei 2013)-(justru)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(per-10 Mei 2013)-(ekonomi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pergerakan IHSG)-(ia)]";false;true;false;false;true;true;false;OTHER;OTHER
+"[(pergerakan IHSG)-(pergerakan tersebut)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(pergerakan IHSG)-(Anny)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(pergerakan IHSG)-(bagian)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pergerakan IHSG)-(Otoritas Jasa Keuangan)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(pergerakan IHSG)-(OJK)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(pergerakan IHSG)-(pergerakan tersebut)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pergerakan IHSG)-(terjadinya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pergerakan IHSG)-(bubble ekonomi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pergerakan IHSG)-(sejauh hasil monitoring kondisi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pergerakan IHSG)-(kinerja perusahaannya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pergerakan IHSG)-(Kita)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(pergerakan IHSG)-(tiba-tiba turun,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pergerakan IHSG)-(IHSG)]";false;true;false;false;false;false;true;OTHER;ORGANIZATION
+"[(pergerakan IHSG)-(rekor)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pergerakan IHSG)-(angka 5.100)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pergerakan IHSG)-(waktu lalu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pergerakan IHSG)-(pihaknya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pergerakan IHSG)-(prospek pertumbuhan ekonomi 2013)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pergerakan IHSG)-(sebaik tahun lalu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pergerakan IHSG)-(kita)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(pergerakan IHSG)-(hal itu,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pergerakan IHSG)-(dia,)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(pergerakan IHSG)-(Pemilu)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pergerakan IHSG)-(biaya besar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pergerakan IHSG)-(justru)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pergerakan IHSG)-(ekonomi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(ia)-(pergerakan tersebut)]";false;true;false;true;false;true;false;OTHER;OTHER
+"[(ia)-(Anny)]";false;true;false;true;false;false;false;OTHER;LOCATION
+"[(ia)-(bagian)]";false;true;false;true;false;false;true;OTHER;OTHER
+"[(ia)-(Otoritas Jasa Keuangan)]";false;true;false;true;false;false;false;OTHER;LOCATION
+"[(ia)-(OJK)]";false;true;false;true;false;false;false;OTHER;ORGANIZATION
+"[(ia)-(pergerakan tersebut)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(ia)-(terjadinya)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(ia)-(bubble ekonomi)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(ia)-(sejauh hasil monitoring kondisi)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(ia)-(kinerja perusahaannya)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(ia)-(Kita)]";false;true;false;true;true;false;false;OTHER;OTHER
+"[(ia)-(tiba-tiba turun,")]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(ia)-(IHSG)]";false;true;false;true;false;false;false;OTHER;ORGANIZATION
+"[(ia)-(rekor)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(ia)-(angka 5.100)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(ia)-(waktu lalu)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(ia)-(pihaknya)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(ia)-(prospek pertumbuhan ekonomi 2013)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(ia)-(sebaik tahun lalu)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(ia)-(kita)]";false;true;false;true;true;false;false;OTHER;OTHER
+"[(ia)-(hal itu,")]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(ia)-(dia,)]";false;false;false;true;true;false;true;OTHER;OTHER
+"[(ia)-(Pemilu)]";false;true;false;true;false;false;false;OTHER;PERSON
+"[(ia)-(biaya besar)]";false;true;false;true;false;false;true;OTHER;OTHER
+"[(ia)-(justru)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(ia)-(ekonomi)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(pergerakan tersebut)-(Anny)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(pergerakan tersebut)-(bagian)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pergerakan tersebut)-(Otoritas Jasa Keuangan)]";false;true;false;false;false;false;false;OTHER;LOCATION
+"[(pergerakan tersebut)-(OJK)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(pergerakan tersebut)-(pergerakan tersebut)]";true;true;false;false;false;false;true;OTHER;OTHER
+"[(pergerakan tersebut)-(terjadinya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pergerakan tersebut)-(bubble ekonomi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pergerakan tersebut)-(sejauh hasil monitoring kondisi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pergerakan tersebut)-(kinerja perusahaannya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pergerakan tersebut)-(Kita)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(pergerakan tersebut)-(tiba-tiba turun,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pergerakan tersebut)-(IHSG)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(pergerakan tersebut)-(rekor)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pergerakan tersebut)-(angka 5.100)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pergerakan tersebut)-(waktu lalu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pergerakan tersebut)-(pihaknya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pergerakan tersebut)-(prospek pertumbuhan ekonomi 2013)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pergerakan tersebut)-(sebaik tahun lalu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pergerakan tersebut)-(kita)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(pergerakan tersebut)-(hal itu,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pergerakan tersebut)-(dia,)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(pergerakan tersebut)-(Pemilu)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pergerakan tersebut)-(biaya besar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pergerakan tersebut)-(justru)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pergerakan tersebut)-(ekonomi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Anny)-(bagian)]";false;true;false;false;false;true;false;LOCATION;OTHER
+"[(Anny)-(Otoritas Jasa Keuangan)]";false;true;false;false;false;true;false;LOCATION;LOCATION
+"[(Anny)-(OJK)]";false;true;false;false;false;true;false;LOCATION;ORGANIZATION
+"[(Anny)-(pergerakan tersebut)]";false;true;false;false;false;true;false;LOCATION;OTHER
+"[(Anny)-(terjadinya)]";false;true;false;false;false;true;false;LOCATION;OTHER
+"[(Anny)-(bubble ekonomi)]";false;true;false;false;false;true;false;LOCATION;OTHER
+"[(Anny)-(sejauh hasil monitoring kondisi)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Anny)-(kinerja perusahaannya)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Anny)-(Kita)]";false;true;false;false;true;false;false;LOCATION;OTHER
+"[(Anny)-(tiba-tiba turun,")]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Anny)-(IHSG)]";false;true;false;false;false;false;false;LOCATION;ORGANIZATION
+"[(Anny)-(rekor)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Anny)-(angka 5.100)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Anny)-(waktu lalu)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Anny)-(pihaknya)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Anny)-(prospek pertumbuhan ekonomi 2013)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Anny)-(sebaik tahun lalu)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Anny)-(kita)]";false;true;false;false;true;false;false;LOCATION;OTHER
+"[(Anny)-(hal itu,")]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Anny)-(dia,)]";false;false;false;false;true;false;false;LOCATION;OTHER
+"[(Anny)-(Pemilu)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Anny)-(biaya besar)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Anny)-(justru)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Anny)-(ekonomi)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(bagian)-(Otoritas Jasa Keuangan)]";false;true;false;false;false;true;false;OTHER;LOCATION
+"[(bagian)-(OJK)]";false;true;false;false;false;true;false;OTHER;ORGANIZATION
+"[(bagian)-(pergerakan tersebut)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(bagian)-(terjadinya)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(bagian)-(bubble ekonomi)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(bagian)-(sejauh hasil monitoring kondisi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bagian)-(kinerja perusahaannya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bagian)-(Kita)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(bagian)-(tiba-tiba turun,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(bagian)-(IHSG)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(bagian)-(rekor)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bagian)-(angka 5.100)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bagian)-(waktu lalu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bagian)-(pihaknya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bagian)-(prospek pertumbuhan ekonomi 2013)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bagian)-(sebaik tahun lalu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bagian)-(kita)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(bagian)-(hal itu,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(bagian)-(dia,)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(bagian)-(Pemilu)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(bagian)-(biaya besar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bagian)-(justru)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bagian)-(ekonomi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Otoritas Jasa Keuangan)-(OJK)]";false;true;true;false;false;true;false;LOCATION;ORGANIZATION
+"[(Otoritas Jasa Keuangan)-(pergerakan tersebut)]";false;true;false;false;false;true;false;LOCATION;OTHER
+"[(Otoritas Jasa Keuangan)-(terjadinya)]";false;true;false;false;false;true;false;LOCATION;OTHER
+"[(Otoritas Jasa Keuangan)-(bubble ekonomi)]";false;true;false;false;false;true;false;LOCATION;OTHER
+"[(Otoritas Jasa Keuangan)-(sejauh hasil monitoring kondisi)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Otoritas Jasa Keuangan)-(kinerja perusahaannya)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Otoritas Jasa Keuangan)-(Kita)]";false;true;false;false;true;false;false;LOCATION;OTHER
+"[(Otoritas Jasa Keuangan)-(tiba-tiba turun,")]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Otoritas Jasa Keuangan)-(IHSG)]";false;true;false;false;false;false;false;LOCATION;ORGANIZATION
+"[(Otoritas Jasa Keuangan)-(rekor)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Otoritas Jasa Keuangan)-(angka 5.100)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Otoritas Jasa Keuangan)-(waktu lalu)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Otoritas Jasa Keuangan)-(pihaknya)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Otoritas Jasa Keuangan)-(prospek pertumbuhan ekonomi 2013)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Otoritas Jasa Keuangan)-(sebaik tahun lalu)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Otoritas Jasa Keuangan)-(kita)]";false;true;false;false;true;false;false;LOCATION;OTHER
+"[(Otoritas Jasa Keuangan)-(hal itu,")]";false;false;false;false;false;false;false;LOCATION;OTHER
+"[(Otoritas Jasa Keuangan)-(dia,)]";false;false;false;false;true;false;false;LOCATION;OTHER
+"[(Otoritas Jasa Keuangan)-(Pemilu)]";false;true;false;false;false;false;false;LOCATION;PERSON
+"[(Otoritas Jasa Keuangan)-(biaya besar)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Otoritas Jasa Keuangan)-(justru)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(Otoritas Jasa Keuangan)-(ekonomi)]";false;true;false;false;false;false;false;LOCATION;OTHER
+"[(OJK)-(pergerakan tersebut)]";false;true;false;false;false;true;false;ORGANIZATION;OTHER
+"[(OJK)-(terjadinya)]";false;true;false;false;false;true;false;ORGANIZATION;OTHER
+"[(OJK)-(bubble ekonomi)]";false;true;false;false;false;true;false;ORGANIZATION;OTHER
+"[(OJK)-(sejauh hasil monitoring kondisi)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(OJK)-(kinerja perusahaannya)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(OJK)-(Kita)]";false;true;false;false;true;false;false;ORGANIZATION;OTHER
+"[(OJK)-(tiba-tiba turun,")]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(OJK)-(IHSG)]";false;true;false;false;false;false;false;ORGANIZATION;ORGANIZATION
+"[(OJK)-(rekor)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(OJK)-(angka 5.100)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(OJK)-(waktu lalu)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(OJK)-(pihaknya)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(OJK)-(prospek pertumbuhan ekonomi 2013)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(OJK)-(sebaik tahun lalu)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(OJK)-(kita)]";false;true;false;false;true;false;false;ORGANIZATION;OTHER
+"[(OJK)-(hal itu,")]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(OJK)-(dia,)]";false;false;false;false;true;false;false;ORGANIZATION;OTHER
+"[(OJK)-(Pemilu)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(OJK)-(biaya besar)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(OJK)-(justru)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(OJK)-(ekonomi)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(pergerakan tersebut)-(terjadinya)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(pergerakan tersebut)-(bubble ekonomi)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(pergerakan tersebut)-(sejauh hasil monitoring kondisi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pergerakan tersebut)-(kinerja perusahaannya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pergerakan tersebut)-(Kita)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(pergerakan tersebut)-(tiba-tiba turun,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pergerakan tersebut)-(IHSG)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(pergerakan tersebut)-(rekor)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pergerakan tersebut)-(angka 5.100)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pergerakan tersebut)-(waktu lalu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pergerakan tersebut)-(pihaknya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pergerakan tersebut)-(prospek pertumbuhan ekonomi 2013)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pergerakan tersebut)-(sebaik tahun lalu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pergerakan tersebut)-(kita)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(pergerakan tersebut)-(hal itu,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pergerakan tersebut)-(dia,)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(pergerakan tersebut)-(Pemilu)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pergerakan tersebut)-(biaya besar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pergerakan tersebut)-(justru)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pergerakan tersebut)-(ekonomi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(terjadinya)-(bubble ekonomi)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(terjadinya)-(sejauh hasil monitoring kondisi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(terjadinya)-(kinerja perusahaannya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(terjadinya)-(Kita)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(terjadinya)-(tiba-tiba turun,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(terjadinya)-(IHSG)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(terjadinya)-(rekor)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(terjadinya)-(angka 5.100)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(terjadinya)-(waktu lalu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(terjadinya)-(pihaknya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(terjadinya)-(prospek pertumbuhan ekonomi 2013)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(terjadinya)-(sebaik tahun lalu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(terjadinya)-(kita)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(terjadinya)-(hal itu,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(terjadinya)-(dia,)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(terjadinya)-(Pemilu)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(terjadinya)-(biaya besar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(terjadinya)-(justru)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(terjadinya)-(ekonomi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bubble ekonomi)-(sejauh hasil monitoring kondisi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bubble ekonomi)-(kinerja perusahaannya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bubble ekonomi)-(Kita)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(bubble ekonomi)-(tiba-tiba turun,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(bubble ekonomi)-(IHSG)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(bubble ekonomi)-(rekor)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bubble ekonomi)-(angka 5.100)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bubble ekonomi)-(waktu lalu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bubble ekonomi)-(pihaknya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bubble ekonomi)-(prospek pertumbuhan ekonomi 2013)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bubble ekonomi)-(sebaik tahun lalu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bubble ekonomi)-(kita)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(bubble ekonomi)-(hal itu,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(bubble ekonomi)-(dia,)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(bubble ekonomi)-(Pemilu)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(bubble ekonomi)-(biaya besar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bubble ekonomi)-(justru)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(bubble ekonomi)-(ekonomi)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(sejauh hasil monitoring kondisi)-(kinerja perusahaannya)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(sejauh hasil monitoring kondisi)-(Kita)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(sejauh hasil monitoring kondisi)-(tiba-tiba turun,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(sejauh hasil monitoring kondisi)-(IHSG)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(sejauh hasil monitoring kondisi)-(rekor)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sejauh hasil monitoring kondisi)-(angka 5.100)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sejauh hasil monitoring kondisi)-(waktu lalu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sejauh hasil monitoring kondisi)-(pihaknya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sejauh hasil monitoring kondisi)-(prospek pertumbuhan ekonomi 2013)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sejauh hasil monitoring kondisi)-(sebaik tahun lalu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sejauh hasil monitoring kondisi)-(kita)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(sejauh hasil monitoring kondisi)-(hal itu,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(sejauh hasil monitoring kondisi)-(dia,)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(sejauh hasil monitoring kondisi)-(Pemilu)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(sejauh hasil monitoring kondisi)-(biaya besar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sejauh hasil monitoring kondisi)-(justru)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sejauh hasil monitoring kondisi)-(ekonomi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kinerja perusahaannya)-(Kita)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(kinerja perusahaannya)-(tiba-tiba turun,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(kinerja perusahaannya)-(IHSG)]";false;true;false;false;false;false;false;OTHER;ORGANIZATION
+"[(kinerja perusahaannya)-(rekor)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kinerja perusahaannya)-(angka 5.100)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kinerja perusahaannya)-(waktu lalu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kinerja perusahaannya)-(pihaknya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kinerja perusahaannya)-(prospek pertumbuhan ekonomi 2013)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kinerja perusahaannya)-(sebaik tahun lalu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kinerja perusahaannya)-(kita)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(kinerja perusahaannya)-(hal itu,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(kinerja perusahaannya)-(dia,)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(kinerja perusahaannya)-(Pemilu)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(kinerja perusahaannya)-(biaya besar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kinerja perusahaannya)-(justru)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kinerja perusahaannya)-(ekonomi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(Kita)-(tiba-tiba turun,")]";false;false;false;true;false;true;false;OTHER;OTHER
+"[(Kita)-(IHSG)]";false;true;false;true;false;false;false;OTHER;ORGANIZATION
+"[(Kita)-(rekor)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Kita)-(angka 5.100)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Kita)-(waktu lalu)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Kita)-(pihaknya)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Kita)-(prospek pertumbuhan ekonomi 2013)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Kita)-(sebaik tahun lalu)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Kita)-(kita)]";true;true;false;true;true;false;false;OTHER;OTHER
+"[(Kita)-(hal itu,")]";false;false;false;true;false;false;false;OTHER;OTHER
+"[(Kita)-(dia,)]";false;false;false;true;true;false;false;OTHER;OTHER
+"[(Kita)-(Pemilu)]";false;true;false;true;false;false;false;OTHER;PERSON
+"[(Kita)-(biaya besar)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Kita)-(justru)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(Kita)-(ekonomi)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(tiba-tiba turun,")-(IHSG)]";false;false;false;false;false;false;false;OTHER;ORGANIZATION
+"[(tiba-tiba turun,")-(rekor)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(tiba-tiba turun,")-(angka 5.100)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(tiba-tiba turun,")-(waktu lalu)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(tiba-tiba turun,")-(pihaknya)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(tiba-tiba turun,")-(prospek pertumbuhan ekonomi 2013)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(tiba-tiba turun,")-(sebaik tahun lalu)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(tiba-tiba turun,")-(kita)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(tiba-tiba turun,")-(hal itu,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(tiba-tiba turun,")-(dia,)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(tiba-tiba turun,")-(Pemilu)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(tiba-tiba turun,")-(biaya besar)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(tiba-tiba turun,")-(justru)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(tiba-tiba turun,")-(ekonomi)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(IHSG)-(rekor)]";false;true;false;false;false;true;false;ORGANIZATION;OTHER
+"[(IHSG)-(angka 5.100)]";false;true;false;false;false;true;false;ORGANIZATION;OTHER
+"[(IHSG)-(waktu lalu)]";false;true;false;false;false;true;false;ORGANIZATION;OTHER
+"[(IHSG)-(pihaknya)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(IHSG)-(prospek pertumbuhan ekonomi 2013)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(IHSG)-(sebaik tahun lalu)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(IHSG)-(kita)]";false;true;false;false;true;false;false;ORGANIZATION;OTHER
+"[(IHSG)-(hal itu,")]";false;false;false;false;false;false;false;ORGANIZATION;OTHER
+"[(IHSG)-(dia,)]";false;false;false;false;true;false;false;ORGANIZATION;OTHER
+"[(IHSG)-(Pemilu)]";false;true;false;false;false;false;false;ORGANIZATION;PERSON
+"[(IHSG)-(biaya besar)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(IHSG)-(justru)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(IHSG)-(ekonomi)]";false;true;false;false;false;false;false;ORGANIZATION;OTHER
+"[(rekor)-(angka 5.100)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(rekor)-(waktu lalu)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(rekor)-(pihaknya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(rekor)-(prospek pertumbuhan ekonomi 2013)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(rekor)-(sebaik tahun lalu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(rekor)-(kita)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(rekor)-(hal itu,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(rekor)-(dia,)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(rekor)-(Pemilu)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(rekor)-(biaya besar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(rekor)-(justru)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(rekor)-(ekonomi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(angka 5.100)-(waktu lalu)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(angka 5.100)-(pihaknya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(angka 5.100)-(prospek pertumbuhan ekonomi 2013)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(angka 5.100)-(sebaik tahun lalu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(angka 5.100)-(kita)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(angka 5.100)-(hal itu,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(angka 5.100)-(dia,)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(angka 5.100)-(Pemilu)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(angka 5.100)-(biaya besar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(angka 5.100)-(justru)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(angka 5.100)-(ekonomi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(waktu lalu)-(pihaknya)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(waktu lalu)-(prospek pertumbuhan ekonomi 2013)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(waktu lalu)-(sebaik tahun lalu)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(waktu lalu)-(kita)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(waktu lalu)-(hal itu,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(waktu lalu)-(dia,)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(waktu lalu)-(Pemilu)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(waktu lalu)-(biaya besar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(waktu lalu)-(justru)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(waktu lalu)-(ekonomi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pihaknya)-(prospek pertumbuhan ekonomi 2013)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(pihaknya)-(sebaik tahun lalu)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(pihaknya)-(kita)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(pihaknya)-(hal itu,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(pihaknya)-(dia,)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(pihaknya)-(Pemilu)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(pihaknya)-(biaya besar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pihaknya)-(justru)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(pihaknya)-(ekonomi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(prospek pertumbuhan ekonomi 2013)-(sebaik tahun lalu)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(prospek pertumbuhan ekonomi 2013)-(kita)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(prospek pertumbuhan ekonomi 2013)-(hal itu,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(prospek pertumbuhan ekonomi 2013)-(dia,)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(prospek pertumbuhan ekonomi 2013)-(Pemilu)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(prospek pertumbuhan ekonomi 2013)-(biaya besar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(prospek pertumbuhan ekonomi 2013)-(justru)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(prospek pertumbuhan ekonomi 2013)-(ekonomi)]";false;true;false;false;false;false;true;OTHER;OTHER
+"[(sebaik tahun lalu)-(kita)]";false;true;false;false;true;false;false;OTHER;OTHER
+"[(sebaik tahun lalu)-(hal itu,")]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(sebaik tahun lalu)-(dia,)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(sebaik tahun lalu)-(Pemilu)]";false;true;false;false;false;false;false;OTHER;PERSON
+"[(sebaik tahun lalu)-(biaya besar)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sebaik tahun lalu)-(justru)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(sebaik tahun lalu)-(ekonomi)]";false;true;false;false;false;false;false;OTHER;OTHER
+"[(kita)-(hal itu,")]";false;false;false;true;false;true;false;OTHER;OTHER
+"[(kita)-(dia,)]";false;false;false;true;true;false;false;OTHER;OTHER
+"[(kita)-(Pemilu)]";false;true;false;true;false;false;false;OTHER;PERSON
+"[(kita)-(biaya besar)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(kita)-(justru)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(kita)-(ekonomi)]";false;true;false;true;false;false;false;OTHER;OTHER
+"[(hal itu,")-(dia,)]";false;false;false;false;true;false;false;OTHER;OTHER
+"[(hal itu,")-(Pemilu)]";false;false;false;false;false;false;false;OTHER;PERSON
+"[(hal itu,")-(biaya besar)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(hal itu,")-(justru)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(hal itu,")-(ekonomi)]";false;false;false;false;false;false;false;OTHER;OTHER
+"[(dia,)-(Pemilu)]";false;false;false;true;false;true;false;OTHER;PERSON
+"[(dia,)-(biaya besar)]";false;false;false;true;false;true;false;OTHER;OTHER
+"[(dia,)-(justru)]";false;false;false;true;false;true;false;OTHER;OTHER
+"[(dia,)-(ekonomi)]";false;false;false;true;false;true;false;OTHER;OTHER
+"[(Pemilu)-(biaya besar)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Pemilu)-(justru)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(Pemilu)-(ekonomi)]";false;true;false;false;false;true;false;PERSON;OTHER
+"[(biaya besar)-(justru)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(biaya besar)-(ekonomi)]";false;true;false;false;false;true;false;OTHER;OTHER
+"[(justru)-(ekonomi)]";false;true;false;false;false;true;false;OTHER;OTHER

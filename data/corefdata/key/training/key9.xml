@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>Tumpeng</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>Sultan HB X</Mention>
+        <Mention>Sri Sultan Hamengku Buwono X</Mention>
+        <Mention>Sri Sultan HB X</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>Indonesia</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>Yogyakarta</Mention>
+        <Mention>Kota Yogyakarta</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>Keraton Ngayogyakarta Hadiningrat</Mention>
+        <Mention>Alun-Alun Utara</Mention>
+        <Mention>keraton</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>DIY</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>Menteri Pemuda dan Olah Raga</Mention>
+        <Mention>Roy Suryo</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>GKR Hemas</Mention>
+    </Entity>
+    <Entity ClusterId="9">
+        <Mention>kecamatan</Mention>
+    </Entity>
+</CoreferenceChain>

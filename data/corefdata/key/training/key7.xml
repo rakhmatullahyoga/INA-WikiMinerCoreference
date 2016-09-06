@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>Anang</Mention>
+        <Mention>Anang Hermansyah</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>PAN</Mention>
+        <Mention>Partai Amanat Nasional</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>Daerah Pemilihan</Mention>
+        <Mention>daerah pemilihan Jawa Timur IV</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>Jember</Mention>
+        <Mention>Kabupaten Jember</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>Lumajang</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>DPR RI</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>Pemilihan Umum Legislatif</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>ibu kota</Mention>
+        <Mention>Ibu Kota Jakarta</Mention>
+    </Entity>
+    <Entity ClusterId="9">
+        <Mention>Mojokerto</Mention>
+    </Entity>
+    <Entity ClusterId="10">
+        <Mention>Madiun</Mention>
+    </Entity>
+    <Entity ClusterId="11">
+        <Mention>Nganjuk</Mention>
+    </Entity>
+    <Entity ClusterId="12">
+        <Mention>Eko Patrio</Mention>
+    </Entity>
+    <Entity ClusterId="13">
+        <Mention>Kabupaten Malang</Mention>
+    </Entity>
+    <Entity ClusterId="14">
+        <Mention>Ashanty</Mention>
+    </Entity>
+    <Entity ClusterId="15">
+        <Mention>Hatta Rajasa</Mention>
+    </Entity>
+    <Entity ClusterId="16">
+        <Mention>Jatim</Mention>
+    </Entity>
+    <Entity ClusterId="17">
+        <Mention>Hengky Kurniawan</Mention>
+    </Entity>
+    <Entity ClusterId="18">
+        <Mention>Kota Malang</Mention>
+    </Entity>
+    <Entity ClusterId="19">
+        <Mention>Kota Batu</Mention>
+    </Entity>
+</CoreferenceChain>

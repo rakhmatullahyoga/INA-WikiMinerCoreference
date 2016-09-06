@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CoreferenceChain>
+    <Entity ClusterId="1">
+        <Mention>Bandara Kuala Namu</Mention>
+        <Mention>Bandara) Kuala Namu</Mention>
+        <Mention>Bandara Internasional Kuala Namu</Mention>
+    </Entity>
+    <Entity ClusterId="2">
+        <Mention>Polonia</Mention>
+        <Mention>Bandara Polonia Medan</Mention>
+        <Mention>Bandara Polonia</Mention>
+    </Entity>
+    <Entity ClusterId="3">
+        <Mention>Medan</Mention>
+    </Entity>
+    <Entity ClusterId="4">
+        <Mention>ANTARA News</Mention>
+    </Entity>
+    <Entity ClusterId="5">
+        <Mention>Kabupaten Deli Serdang</Mention>
+    </Entity>
+    <Entity ClusterId="6">
+        <Mention>Sumatera Utara</Mention>
+    </Entity>
+    <Entity ClusterId="7">
+        <Mention>PT Angkasa Pura 2</Mention>
+    </Entity>
+    <Entity ClusterId="8">
+        <Mention>25 Juli</Mention>
+    </Entity>
+    <Entity ClusterId="9">
+        <Mention>selanjutnya</Mention>
+    </Entity>
+    <Entity ClusterId="10">
+        <Mention>WIB</Mention>
+    </Entity>
+    <Entity ClusterId="11">
+        <Mention>UTC</Mention>
+    </Entity>
+    <Entity ClusterId="12">
+        <Mention>AIP</Mention>
+        <Mention>Aeronautical Information Publication</Mention>
+    </Entity>
+    <Entity ClusterId="13">
+        <Mention>And</Mention>
+    </Entity>
+    <Entity ClusterId="14">
+        <Mention>30 Mei</Mention>
+    </Entity>
+    <Entity ClusterId="15">
+        <Mention>Direktorat Jenderal Perhubungan Udara</Mention>
+    </Entity>
+    <Entity ClusterId="16">
+        <Mention>Kementerian Perhubungan</Mention>
+    </Entity>
+</CoreferenceChain>
