@@ -17,6 +17,7 @@ import java.util.ArrayList;
 import java.util.Set;
 import java.util.logging.Level;
 import java.util.logging.Logger;
+import wikicoref.CoreferenceTagger;
 
 /**
  *
@@ -25,6 +26,7 @@ import java.util.logging.Logger;
 public class ARCorefMain {
     private static ArrayList<Set<String>> keyChain;
     private static ArrayList<Set<String>> responseChain;
+    private String annotated;
     
     public static void generateTrainingRules(int nbTrain) {
         for(int i=0; i<nbTrain; i++) {
@@ -101,7 +103,7 @@ public class ARCorefMain {
             double sumRecall = 0.0;
             double sumFmeasure = 0.0;
             AssociationRuleModel rules = new AssociationRuleModel();
-            rules.loadModel(CoreferenceConstants.BASELINE_PATH+"model(0,230769).csv");
+            rules.loadModel(CoreferenceConstants.BASELINE_PATH+"model.csv");
             writer = new PrintWriter(CoreferenceConstants.BASELINE_PATH+"testresults.csv", "UTF-8");
             writer.println("Document;Precision;Recall;F-measure");
             for(int i=0; i<nbTest; i++) {
@@ -161,7 +163,8 @@ public class ARCorefMain {
                 sumRecall += recall;
                 sumFmeasure += fMeasure;
                 writer.println("Document"+i+";"+precision+";"+recall+";"+fMeasure);
-            }   double avgPrecision = sumPrecision/(double)nbTest;
+            }
+            double avgPrecision = sumPrecision/(double)nbTest;
             double avgRecall = sumRecall/(double)nbTest;
             double avgFmeasure = sumFmeasure/(double)nbTest;
             System.out.println("\n*********************");
@@ -176,26 +179,39 @@ public class ARCorefMain {
             writer.close();
         }
     }
+
+    private static String annotate(String raw, ArrayList<Set<String>> response) {
+        String annotated = raw;
+        for(int i=0; i<response.size(); i++) {
+            for(String str:response.get(i)) {
+                annotated = annotated.replaceAll(str, CoreferenceTagger.getTag(str, null, i));
+            }
+        }
+        return annotated;
+    }
     
     public static void demo() {
         AssociationRuleModel rules = new AssociationRuleModel();
-        rules.loadModel(CoreferenceConstants.BASELINE_PATH+"model.csv");
+        rules.loadModel(CoreferenceConstants.BASELINE_PATH+"baseline/model.csv");
         Document doc = new Document(CoreferenceConstants.PATH_DEMO+"raw.txt");
         doc.extractMentions();
         doc.extractRuleList();
-        doc.writeRules(CoreferenceConstants.BASELINE_PATH+"rules.csv");
+        doc.writeRules(CoreferenceConstants.PATH_DEMO+"baseline/rules.csv");
         ArrayList<RuleInstance> ruleList = doc.getRuleList();
         responseChain = rules.classifyCoreference(ruleList);
-        ChainHelper.writeCorefChain(responseChain, CoreferenceConstants.BASELINE_PATH+"response.xml");
-        keyChain = ChainHelper.readKeyChain(CoreferenceConstants.PATH_DEMO+"key.xml");
-        CoreferenceScoring.init();
-        CoreferenceScoring.computeCEAFmScore(keyChain, responseChain);
-        System.out.println("\n*********************");
-        System.out.println("Result score");
-        System.out.println("*********************");
-        System.out.println("Recall: "+CoreferenceScoring.getRecall());
-        System.out.println("Precision: "+CoreferenceScoring.getPrecision());
-        System.out.println("F-measure: "+CoreferenceScoring.getfMeasure());
+        ChainHelper.writeCorefChain(responseChain, CoreferenceConstants.PATH_DEMO+"baseline/response.xml");
+        System.out.println("\nInput raw text:\n"+doc.getRawText());
+        String annotated = annotate(doc.getRawText(),responseChain);
+        System.out.println("\nAnnotated text:\n"+annotated);
+//        keyChain = ChainHelper.readKeyChain(CoreferenceConstants.PATH_DEMO+"key.xml");
+//        CoreferenceScoring.init();
+//        CoreferenceScoring.computeCEAFmScore(keyChain, responseChain);
+//        System.out.println("\n*********************");
+//        System.out.println("Result score");
+//        System.out.println("*********************");
+//        System.out.println("Recall: "+CoreferenceScoring.getRecall());
+//        System.out.println("Precision: "+CoreferenceScoring.getPrecision());
+//        System.out.println("F-measure: "+CoreferenceScoring.getfMeasure());
     }
     
     public static void main(String[] args) {
@@ -204,12 +220,12 @@ public class ARCorefMain {
 //        int nbTrain = listFiles.length;
 //        buildModel(nbTrain,0.230769);
         
-//        demo();
+        demo();
         
 //        training();
         
 //        testing();
         
-        computePerformanceMeasure();
+//        computePerformanceMeasure();
     }
 }

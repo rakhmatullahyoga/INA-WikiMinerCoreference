@@ -1,7 +1,10 @@
 
 import arcoref.Document;
+import helper.ChainHelper;
+import helper.CoreferenceConstants;
 import java.io.File;
 import java.util.ArrayList;
+import java.util.Set;
 
 /*
  * To change this license header, choose License Headers in Project Properties.
@@ -39,14 +42,59 @@ public class TestCode {
     public static void main(String[] args) {
         File fileDir = new File("./data/corefdata/raw/training/");
         int nbData = fileDir.listFiles().length;
+        int totalMentionsTraining = 0;
+        int totalMentionsTesting = 0;
+        int nbTrainEntity = 0;
+        int nbTestEntity = 0;
+        int nbTrainProperNoun = 0;
+        int nbTestProperNoun = 0;
+        int nbTrainSingletonEntity = 0;
+        int nbTestSingletonEntity = 0;
         System.out.println("Processing...");
         for(int i=0; i<nbData; i++) {
-            System.out.println("data "+i);
+            System.out.println("data (train) - "+i);
             Document doc = new Document("./data/corefdata/raw/training/artikel"+i+".txt");
             doc.extractMentions();
-            doc.extractRuleList();
-            doc.writeMentions("./data/baseline/mentions/training/mention"+i+".txt");
+            ArrayList<Set<String>> KeyChain = ChainHelper.readKeyChain(CoreferenceConstants.KEY_TRAINING+"key"+i+".xml");
+            nbTrainEntity += KeyChain.size();
+            for(Set<String> entityMention:KeyChain) {
+                nbTrainProperNoun += entityMention.size();
+                if(entityMention.size()==1)
+                    nbTrainSingletonEntity ++;
+            }
+            totalMentionsTraining += doc.getNbUniqueMentions();
         }
+        fileDir = new File("./data/corefdata/raw/testing/");
+        nbData = fileDir.listFiles().length;
+        for(int i=0; i<nbData; i++) {
+            System.out.println("data (test) - "+i);
+            Document doc = new Document("./data/corefdata/raw/testing/artikel"+i+".txt");
+            doc.extractMentions();
+            ArrayList<Set<String>> KeyChain = ChainHelper.readKeyChain(CoreferenceConstants.KEY_TESTING+"key"+i+".xml");
+            nbTestEntity += KeyChain.size();
+            for(Set<String> entityMention:KeyChain) {
+                nbTestProperNoun += entityMention.size();
+                if(entityMention.size()==1)
+                    nbTestSingletonEntity ++;
+            }
+            totalMentionsTesting += doc.getNbUniqueMentions();
+        }
+        
+        System.out.println("\n*********************");
+        System.out.println("Mention & entity analytics");
+        System.out.println("*********************");
+        System.out.println("Mentions:");
+        System.out.println("\tTrain: "+totalMentionsTraining);
+        System.out.println("\tTest: "+totalMentionsTesting);
+        System.out.println("Entity:");
+        System.out.println("\tTrain: "+nbTrainEntity);
+        System.out.println("\tTest: "+nbTestEntity);
+        System.out.println("Proper noun:");
+        System.out.println("\tTrain: "+nbTrainProperNoun);
+        System.out.println("\tTest: "+nbTestProperNoun);
+        System.out.println("Singleton entity:");
+        System.out.println("\tTrain: "+nbTrainSingletonEntity);
+        System.out.println("\tTest: "+nbTestSingletonEntity);
         
 //        TestCode test = new TestCode();
 //        String testString = "Partai Demokrasi Indonesia Perjuangan";

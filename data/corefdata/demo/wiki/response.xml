@@ -8,19 +8,13 @@
         <Mention>David Cameron</Mention>
     </Entity>
     <Entity ClusterId="3">
-        <Mention>kemarin</Mention>
-    </Entity>
-    <Entity ClusterId="4">
         <Mention>Jakarta</Mention>
     </Entity>
-    <Entity ClusterId="5">
+    <Entity ClusterId="4">
         <Mention>Joko Widodo</Mention>
         <Mention>Presiden Jokowi</Mention>
     </Entity>
-    <Entity ClusterId="6">
+    <Entity ClusterId="5">
         <Mention>Istana Negara</Mention>
-    </Entity>
-    <Entity ClusterId="7">
-        <Mention>hari</Mention>
     </Entity>
 </CoreferenceChain>

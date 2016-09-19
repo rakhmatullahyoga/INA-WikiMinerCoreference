@@ -18,6 +18,8 @@ import java.io.PrintWriter;
 import java.io.UnsupportedEncodingException;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Set;
+import java.util.TreeSet;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
@@ -74,6 +76,21 @@ public class Document {
                 Logger.getLogger(Document.class.getName()).log(Level.SEVERE, null, ex);
             }
         }
+    }
+
+    public String getRawText() {
+        return rawText;
+    }
+    
+    public int getNbUniqueMentions() {
+        Set<String> uniqueMentions = new TreeSet<>(String.CASE_INSENSITIVE_ORDER);
+        for(ArrayList<Mention> mentionSentence:mentionDocumentList) {
+            for(Mention m:mentionSentence) {
+                if(!uniqueMentions.contains(m.mentionStr))
+                    uniqueMentions.add(m.mentionStr);
+            }
+        }
+        return uniqueMentions.size();
     }
 
     public ArrayList<RuleInstance> getRuleList() {

@@ -32,6 +32,11 @@ public class CoreferenceTagger {
     private String annotatedCoref;
     private ArrayList<Set<String>> mentionCluster;
     private ArrayList<String> corefLog;
+    private HashMap<String,String> mentionTopicMap;
+
+    public HashMap<String, String> getMentionTopicMap() {
+        return mentionTopicMap;
+    }
 
     public ArrayList<Set<String>> getMentionCluster() {
         return mentionCluster;
@@ -45,8 +50,11 @@ public class CoreferenceTagger {
         return corefLog;
     }
     
-    private String getTag(String anchor, Topic topic, int corefCluster) {
-        return "[" + anchor + "|" + (corefCluster+1)/* + "|" + topic.getTitle() */+ "]" ;
+    public static String getTag(String anchor, Topic topic, int corefCluster) {
+        if(topic==null)
+            return "[" + anchor + "|" + (corefCluster+1) + "]" ;
+        else
+            return "[" + anchor + "|" + (corefCluster+1) + "|" + topic.getTitle()+ "]" ;
     }
     
     public void tag(PreprocessedDocument doc, Collection<Topic> topics, DocumentTagger.RepeatMode repeatMode, Wikipedia wikipedia, boolean exactTopicLink, double corefThreshold) throws Exception {
@@ -100,6 +108,7 @@ public class CoreferenceTagger {
         HashSet<Integer> doneIds = new HashSet<>() ;
         ArrayList<Integer> clusterID = new ArrayList<>();
         mentionCluster = new ArrayList<>();
+        mentionTopicMap = new HashMap<>();
 
         for (TopicReference reference:references) {
             int start = reference.getPosition().getStart() ; 
@@ -120,9 +129,11 @@ public class CoreferenceTagger {
                 }
                 int cluster = clusterID.indexOf(topicCorefCluster.get(topic.getId()));
                 wikifiedText.append(originalText.substring(lastIndex, start));
-                wikifiedText.append(getTag(originalText.substring(start, end), topic, cluster));
-                if(!mentionCluster.get(cluster).contains(originalText.substring(start, end)))
+                wikifiedText.append(getTag(originalText.substring(start, end), null, cluster));
+                if(!mentionCluster.get(cluster).contains(originalText.substring(start, end))) {
                     mentionCluster.get(cluster).add(originalText.substring(start, end));
+                    mentionTopicMap.put(originalText.substring(start, end), topic.getTitle());
+                }
                 lastIndex = end ;
             }
         }

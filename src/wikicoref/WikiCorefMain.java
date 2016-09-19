@@ -16,6 +16,7 @@ import java.io.PrintWriter;
 import java.io.UnsupportedEncodingException;
 import java.util.ArrayList;
 import java.util.Collection;
+import java.util.HashMap;
 import java.util.Set;
 import java.util.logging.Level;
 import java.util.logging.Logger;
@@ -97,6 +98,18 @@ public class WikiCorefMain {
         responseChain = _tagger.getMentionCluster();
     }
     
+    public static void writePreprocessedDoc(String path) {
+        try (PrintWriter writer = new PrintWriter(path, "UTF-8")) {
+            writer.println("ContextText:");
+            writer.println(doc.getContextText());
+            writer.println("\nPreprocessedText:");
+            writer.println(doc.getPreprocessedText());
+            writer.close();
+        } catch (FileNotFoundException | UnsupportedEncodingException ex) {
+            Logger.getLogger(WikiCorefMain.class.getName()).log(Level.SEVERE, null, ex);
+        }
+    }
+    
     public static void writeAnnotated(String path) {
         try (PrintWriter writer = new PrintWriter(path, "UTF-8")) {
             writer.println(newMarkup);
@@ -110,13 +123,14 @@ public class WikiCorefMain {
         try (PrintWriter writer = new PrintWriter(path, "UTF-8")) {
             writer.println("All detected topics:");
             for(Topic t:allTopics)
-                writer.println(t.getTitle() + " (" + t.getWeight()+"/"+t.getAverageLinkProbability()+ " - " + t.getRelatednessToContext()+"/"+t.getRelatednessToOtherTopics() + ")");
+                writer.println(t.getTitle() + " (" + t.getWeight() + "/" + t.getMaxLinkProbability() + ")");
             writer.println("\nTopics that are probably good links:");
             for(Topic t:bestTopics)
-                writer.println(t.getTitle() + " (" + t.getWeight()+"/"+t.getAverageLinkProbability()+ " - " + t.getRelatednessToContext()+"/"+t.getRelatednessToOtherTopics() + ")");
-            writer.println("\nCoreference log:");
-            for(String str:_tagger.getCorefLog())
-                writer.println(str);
+                writer.println(t.getTitle() + " (" + t.getWeight() + "/" + t.getMaxLinkProbability() + ")");
+            writer.println("\nMention to topic map:");
+            HashMap<String, String> mentionTopicMap = _tagger.getMentionTopicMap();
+            for(String str : mentionTopicMap.keySet())
+                writer.println(str+" -> "+mentionTopicMap.get(str));
             writer.close();
         } catch (Exception ex) {
             Logger.getLogger(WikiCorefMain.class.getName()).log(Level.SEVERE, null, ex);
@@ -186,12 +200,12 @@ public class WikiCorefMain {
         File[] listFiles = dir.listFiles();
         int NbTrain = listFiles.length;
         try (PrintWriter writer = new PrintWriter(CoreferenceConstants.WIKI_TRAINING
-                +"results(corefThreshold).csv", "UTF-8")) {
+                +"results(maxLink).csv", "UTF-8")) {
             writer.println("TopicWeight;CorefThreshold;Precision;Recall;Fmeasure");
             for(int i=0; i<=100; i++) {
-                double topicWeight = CoreferenceConstants.TOPIC_THRESHOLD;
+                double topicWeight = (double)i/(double)100;//CoreferenceConstants.TOPIC_THRESHOLD;
 //                for(int j=0; j<=100; j++) {
-                    double corefTres = (double)i/(double)100;
+                    double corefTres = 0.0;
                     double sumPrecision = 0.0;
                     double sumRecall = 0.0;
                     double sumFmeasure = 0.0;
@@ -211,7 +225,7 @@ public class WikiCorefMain {
                         sumPrecision += CoreferenceScoring.getPrecision();
                         sumRecall += CoreferenceScoring.getRecall();
                         sumFmeasure += CoreferenceScoring.getfMeasure();
-                        System.out.println("threshold="+corefTres+", doc-"+k);
+                        System.out.println("topic="+topicWeight+", threshold="+corefTres+", doc-"+k);
                     }
                     double avgPrecision = sumPrecision/(double)NbTrain;
                     double avgRecall = sumRecall/(double)NbTrain;
@@ -241,20 +255,22 @@ public class WikiCorefMain {
             String input = new String(data, "UTF-8");
             System.out.println("Input raw text:\n"+input);
             clearData();
-            keyChain = ChainHelper.readKeyChain(CoreferenceConstants.PATH_DEMO+"key.xml");
             gatherTopics(input, CoreferenceConstants.TOPIC_THRESHOLD);
+            writePreprocessedDoc(CoreferenceConstants.PATH_DEMO+"wiki/preprocessed.txt");
             annotate(input,false,CoreferenceConstants.COREFERENCE_THRESHOLD);
-            CoreferenceScoring.init();
-            CoreferenceScoring.computeCEAFmScore(keyChain, responseChain);
-            writeTopics(CoreferenceConstants.PATH_DEMO+"topics.txt");
-            writeAnnotated(CoreferenceConstants.PATH_DEMO+"annotated.txt");
-            ChainHelper.writeCorefChain(responseChain,CoreferenceConstants.PATH_DEMO+"response.xml");
-            System.out.println("\n*********************");
-            System.out.println("Result score");
-            System.out.println("*********************");
-            System.out.println("Recall: "+CoreferenceScoring.getRecall());
-            System.out.println("Precision: "+CoreferenceScoring.getPrecision());
-            System.out.println("F-measure: "+CoreferenceScoring.getfMeasure());
+            System.out.println("\nAnnotated text:\n"+newMarkup);
+            writeTopics(CoreferenceConstants.PATH_DEMO+"wiki/topics.txt");
+            writeAnnotated(CoreferenceConstants.PATH_DEMO+"wiki/annotated.txt");
+            ChainHelper.writeCorefChain(responseChain,CoreferenceConstants.PATH_DEMO+"wiki/response.xml");
+//            keyChain = ChainHelper.readKeyChain(CoreferenceConstants.PATH_DEMO+"key.xml");
+//            CoreferenceScoring.init();
+//            CoreferenceScoring.computeCEAFmScore(keyChain, responseChain);
+//            System.out.println("\n*********************");
+//            System.out.println("Result score");
+//            System.out.println("*********************");
+//            System.out.println("Recall: "+CoreferenceScoring.getRecall());
+//            System.out.println("Precision: "+CoreferenceScoring.getPrecision());
+//            System.out.println("F-measure: "+CoreferenceScoring.getfMeasure());
         } catch (FileNotFoundException ex) {
             Logger.getLogger(WikiCorefMain.class.getName()).log(Level.SEVERE, null, ex);
         } catch (IOException ex) {
@@ -275,9 +291,9 @@ public class WikiCorefMain {
         
 //        trainingParameters();
         
-        testing();
+//        testing();
         
         // demo mode only for 1 document
-//        demo();
+        demo();
     }
 }
