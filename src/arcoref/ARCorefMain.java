@@ -18,6 +18,7 @@ import java.util.Set;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import wikicoref.CoreferenceTagger;
+import wikicoref.WikiCorefMain;
 
 /**
  *
@@ -190,9 +191,17 @@ public class ARCorefMain {
         return annotated;
     }
     
+    public static void writeAnnotated(String newMarkup, String path) {
+        try (PrintWriter writer = new PrintWriter(path, "UTF-8")) {
+            writer.println(newMarkup);
+            writer.close();
+        } catch (FileNotFoundException | UnsupportedEncodingException ex) {
+            Logger.getLogger(WikiCorefMain.class.getName()).log(Level.SEVERE, null, ex);
+        }
+    }
     public static void demo() {
         AssociationRuleModel rules = new AssociationRuleModel();
-        rules.loadModel(CoreferenceConstants.BASELINE_PATH+"baseline/model.csv");
+        rules.loadModel(CoreferenceConstants.BASELINE_PATH+"model.csv");
         Document doc = new Document(CoreferenceConstants.PATH_DEMO+"raw.txt");
         doc.extractMentions();
         doc.extractRuleList();
@@ -203,6 +212,7 @@ public class ARCorefMain {
         System.out.println("\nInput raw text:\n"+doc.getRawText());
         String annotated = annotate(doc.getRawText(),responseChain);
         System.out.println("\nAnnotated text:\n"+annotated);
+        writeAnnotated(annotated, CoreferenceConstants.PATH_DEMO+"baseline/annotated.txt");
 //        keyChain = ChainHelper.readKeyChain(CoreferenceConstants.PATH_DEMO+"key.xml");
 //        CoreferenceScoring.init();
 //        CoreferenceScoring.computeCEAFmScore(keyChain, responseChain);
