@@ -262,15 +262,15 @@ public class WikiCorefMain {
             writeTopics(CoreferenceConstants.PATH_DEMO+"wiki/topics.txt");
             writeAnnotated(CoreferenceConstants.PATH_DEMO+"wiki/annotated.txt");
             ChainHelper.writeCorefChain(responseChain,CoreferenceConstants.PATH_DEMO+"wiki/response.xml");
-//            keyChain = ChainHelper.readKeyChain(CoreferenceConstants.PATH_DEMO+"key.xml");
-//            CoreferenceScoring.init();
-//            CoreferenceScoring.computeCEAFmScore(keyChain, responseChain);
-//            System.out.println("\n*********************");
-//            System.out.println("Result score");
-//            System.out.println("*********************");
-//            System.out.println("Recall: "+CoreferenceScoring.getRecall());
-//            System.out.println("Precision: "+CoreferenceScoring.getPrecision());
-//            System.out.println("F-measure: "+CoreferenceScoring.getfMeasure());
+            keyChain = ChainHelper.readKeyChain(CoreferenceConstants.PATH_DEMO+"key.xml");
+            CoreferenceScoring.init();
+            CoreferenceScoring.computeCEAFmScore(keyChain, responseChain);
+            System.out.println("\n*********************");
+            System.out.println("Result score");
+            System.out.println("*********************");
+            System.out.println("Recall: "+CoreferenceScoring.getRecall());
+            System.out.println("Precision: "+CoreferenceScoring.getPrecision());
+            System.out.println("F-measure: "+CoreferenceScoring.getfMeasure());
         } catch (FileNotFoundException ex) {
             Logger.getLogger(WikiCorefMain.class.getName()).log(Level.SEVERE, null, ex);
         } catch (IOException ex) {
@@ -288,10 +288,6 @@ public class WikiCorefMain {
 
     public static void main(String args[]) throws Exception {
         init();
-        
-//        trainingParameters();
-        
-//        testing();
         
         // demo mode only for 1 document
         demo();

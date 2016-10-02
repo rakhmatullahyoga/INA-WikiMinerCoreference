@@ -213,29 +213,18 @@ public class ARCorefMain {
         String annotated = annotate(doc.getRawText(),responseChain);
         System.out.println("\nAnnotated text:\n"+annotated);
         writeAnnotated(annotated, CoreferenceConstants.PATH_DEMO+"baseline/annotated.txt");
-//        keyChain = ChainHelper.readKeyChain(CoreferenceConstants.PATH_DEMO+"key.xml");
-//        CoreferenceScoring.init();
-//        CoreferenceScoring.computeCEAFmScore(keyChain, responseChain);
-//        System.out.println("\n*********************");
-//        System.out.println("Result score");
-//        System.out.println("*********************");
-//        System.out.println("Recall: "+CoreferenceScoring.getRecall());
-//        System.out.println("Precision: "+CoreferenceScoring.getPrecision());
-//        System.out.println("F-measure: "+CoreferenceScoring.getfMeasure());
+        keyChain = ChainHelper.readKeyChain(CoreferenceConstants.PATH_DEMO+"key.xml");
+        CoreferenceScoring.init();
+        CoreferenceScoring.computeCEAFmScore(keyChain, responseChain);
+        System.out.println("\n*********************");
+        System.out.println("Result score");
+        System.out.println("*********************");
+        System.out.println("Recall: "+CoreferenceScoring.getRecall());
+        System.out.println("Precision: "+CoreferenceScoring.getPrecision());
+        System.out.println("F-measure: "+CoreferenceScoring.getfMeasure());
     }
     
     public static void main(String[] args) {
-//        File file = new File(CoreferenceConstants.AR_LABELED);
-//        File[] listFiles = file.listFiles();
-//        int nbTrain = listFiles.length;
-//        buildModel(nbTrain,0.230769);
-        
         demo();
-        
-//        training();
-        
-//        testing();
-        
-//        computePerformanceMeasure();
     }
 }
