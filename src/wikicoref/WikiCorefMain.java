@@ -253,7 +253,7 @@ public class WikiCorefMain {
             fis.read(data);
             fis.close();
             String input = new String(data, "UTF-8");
-            System.out.println("Input raw text:\n"+input);
+            System.out.println("\nInput raw text:\n"+input);
             clearData();
             gatherTopics(input, CoreferenceConstants.TOPIC_THRESHOLD);
             writePreprocessedDoc(CoreferenceConstants.PATH_DEMO+"wiki/preprocessed.txt");
