@@ -7,7 +7,7 @@ Pendekatan basis pengetahuan yang dikembangkan pada kakas coreference resolution
 * `/annotationWorkbench` : model dan data latih untuk disambiguation
 * `/configs` : konfigurasi bahasa untuk WikipediaMiner
 * `/data` : data percobaan INA-WikiMinerCoreference
-* `/db` : basis data entity linking Wikipedia
+* `/db` : basis data entity linking Wikipedia Indonesia, dapat diunduh di [sini](https://drive.google.com/drive/folders/0B4i1HUP9D46bcjRtTkZhb3Y0eG8?usp=sharing) (size : 3.61 GB).
 * `/lib` : kakas-kakas tambahan sebagai library
 * `/src` : source code
 * `/WikiMinerCoreference.jar` : executable file untuk demo
