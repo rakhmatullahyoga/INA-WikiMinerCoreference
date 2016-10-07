@@ -3,6 +3,10 @@ INA-WikiMinerCoreference adalah sebuah kakas *Coreference Resolution* untuk teks
 
 Pendekatan basis pengetahuan yang dikembangkan pada kakas *coreference resolution* kali ini berhasil meningkatkan kinerja sebesar 6.00% CEAFm F-measure. Pengingkatan ini adalah hasil dari pemanfaatan pengetahuan semantik yang didapat dari basis pengetahuan Wikipedia yang dapat menangani persoalan *coreference resolution* terutama pada jenis variasi *proper noun*.
 
+## Lingkungan pengembangan
+* Netbeans 8.0.2
+* jdk 1.8.0
+
 ## Direktori penting
 * `/annotationWorkbench` : model dan data latih untuk *disambiguation*
 * `/configs` : konfigurasi bahasa untuk WikipediaMiner
