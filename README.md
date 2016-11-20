@@ -26,8 +26,8 @@ Terdapat beberapa modul dalam project tugas akhir kali ini, antara lain:
 
 ## Cara menjalankan program demo
 1. Pastikan pada direktori `/data/corefdata/demo/` minimal terdapat *file* `raw.txt` dan `key.xml` (isi *file* ini dapat diubah sesuai contoh kasus uji yang ingin dicoba)
-2. Buka command prompt pada root directory project
+2. Buka command prompt pada *root directory* project
 3. Masukkan perintah `java -jar "WikiMinerCoreference.jar"`
-4. Program akan melakukan *load database* dan selanjutnya akan membaca text yang terdapat pada `raw.txt` dan membaca *key chain* pada `key.xml` untuk kemudian dilakukan proses *coreference resolution* dan penghitungan nilai kinerja F-measure dengan standar CEAFm.
+4. Program akan melakukan *load database* dan selanjutnya akan membaca text yang terdapat pada `raw.txt` dan membaca *key chain* pada `key.xml` untuk kemudian dilakukan proses *coreference resolution* dan penghitungan nilai kinerja F-measure dengan standar CEAFm
 
 &copy; 2016: [Rakhmatullah Yoga Sutrisna](http://github.com/rakhmatullahyoga)
